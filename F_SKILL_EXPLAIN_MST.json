@@ -1,2917 +1,2917 @@
 [
 	{
 		"P_SKILL_ID": "5000001",
-		"P_EXPLAIN_SHORT": "モンスタースキル１",
-		"P_EXTRA_TEXT": "モンスタースキル１",
+		"P_EXPLAIN_SHORT": "モンスタースキル１
+		"P_EXTRA_TEXT": "モンスタースキル１
 	},
 	{
 		"P_SKILL_ID": "5000002",
-		"P_EXPLAIN_SHORT": "モンスタースキル２",
-		"P_EXTRA_TEXT": "モンスタースキル２",
+		"P_EXPLAIN_SHORT": "モンスタースキル２
+		"P_EXTRA_TEXT": "モンスタースキル２
 	},
 	{
 		"P_SKILL_ID": "5000003",
-		"P_EXPLAIN_SHORT": "モンスタースキル３",
-		"P_EXTRA_TEXT": "モンスタースキル３",
+		"P_EXPLAIN_SHORT": "モンスタースキル３
+		"P_EXTRA_TEXT": "モンスタースキル３
 	},
 	{
 		"P_SKILL_ID": "10010201",
-		"P_EXPLAIN_SHORT": "フレイムリッジ",
-		"P_EXTRA_TEXT": "フレイムリッジ",
+		"P_EXPLAIN_SHORT": "フレイムリッジ
+		"P_EXTRA_TEXT": "フレイムリッジ
 	},
 	{
 		"P_SKILL_ID": "10011301",
-		"P_EXPLAIN_SHORT": "フレイムクリーヴ",
-		"P_EXTRA_TEXT": "フレイムクリーヴ",
+		"P_EXPLAIN_SHORT": "フレイムクリーヴ
+		"P_EXTRA_TEXT": "フレイムクリーヴ
 	},
 	{
 		"P_SKILL_ID": "10012401",
-		"P_EXPLAIN_SHORT": "フレアクリーヴ",
-		"P_EXTRA_TEXT": "フレアクリーヴ",
+		"P_EXPLAIN_SHORT": "フレアクリーヴ
+		"P_EXTRA_TEXT": "フレアクリーヴ
 	},
 	{
 		"P_SKILL_ID": "10012402",
-		"P_EXPLAIN_SHORT": "ヴォルケーノドライヴ",
-		"P_EXTRA_TEXT": "ヴォルケーノドライヴ",
+		"P_EXPLAIN_SHORT": "ヴォルケーノドライヴ
+		"P_EXTRA_TEXT": "ヴォルケーノドライヴ
 	},
 	{
 		"P_SKILL_ID": "10021401",
-		"P_EXPLAIN_SHORT": "煉血の閃渦",
-		"P_EXTRA_TEXT": "煉血の閃渦",
+		"P_EXPLAIN_SHORT": "煉血の閃渦
+		"P_EXTRA_TEXT": "煉血の閃渦
 	},
 	{
 		"P_SKILL_ID": "10021402",
-		"P_EXPLAIN_SHORT": "マレディクション",
-		"P_EXTRA_TEXT": "マレディクション",
+		"P_EXPLAIN_SHORT": "マレディクション
+		"P_EXTRA_TEXT": "マレディクション
 	},
 	{
 		"P_SKILL_ID": "10031301",
-		"P_EXPLAIN_SHORT": "緋空打ち",
-		"P_EXTRA_TEXT": "緋空打ち",
+		"P_EXPLAIN_SHORT": "緋空打ち
+		"P_EXTRA_TEXT": "緋空打ち
 	},
 	{
 		"P_SKILL_ID": "10031401",
-		"P_EXPLAIN_SHORT": "燎空裂き",
-		"P_EXTRA_TEXT": "燎空裂き",
+		"P_EXPLAIN_SHORT": "燎空裂き
+		"P_EXTRA_TEXT": "燎空裂き
 	},
 	{
 		"P_SKILL_ID": "10031402",
-		"P_EXPLAIN_SHORT": "穿牙棍・嵐舞",
-		"P_EXTRA_TEXT": "穿牙棍・嵐舞",
+		"P_EXPLAIN_SHORT": "穿牙棍・嵐舞
+		"P_EXTRA_TEXT": "穿牙棍・嵐舞
 	},
 	{
 		"P_SKILL_ID": "20016401",
-		"P_EXPLAIN_SHORT": "水聖衛陣",
-		"P_EXTRA_TEXT": "水聖衛陣",
+		"P_EXPLAIN_SHORT": "水聖衛陣
+		"P_EXTRA_TEXT": "水聖衛陣
 	},
 	{
 		"P_SKILL_ID": "20016402",
-		"P_EXPLAIN_SHORT": "ユートゥルナ",
-		"P_EXTRA_TEXT": "ユートゥルナ",
+		"P_EXPLAIN_SHORT": "ユートゥルナ
+		"P_EXTRA_TEXT": "ユートゥルナ
 	},
 	{
 		"P_SKILL_ID": "20017201",
-		"P_EXPLAIN_SHORT": "セイラーズ・グレイス",
-		"P_EXTRA_TEXT": "セイラーズ・グレイス",
+		"P_EXPLAIN_SHORT": "セイラーズ・グレイス
+		"P_EXTRA_TEXT": "セイラーズ・グレイス
 	},
 	{
 		"P_SKILL_ID": "20017301",
-		"P_EXPLAIN_SHORT": "エスティーム・グレイス",
-		"P_EXTRA_TEXT": "エスティーム・グレイス",
+		"P_EXPLAIN_SHORT": "エスティーム・グレイス
+		"P_EXTRA_TEXT": "エスティーム・グレイス
 	},
 	{
 		"P_SKILL_ID": "20017401",
-		"P_EXPLAIN_SHORT": "サーマ・グレイス",
-		"P_EXTRA_TEXT": "サーマ・グレイス",
+		"P_EXPLAIN_SHORT": "サーマ・グレイス
+		"P_EXTRA_TEXT": "サーマ・グレイス
 	},
 	{
 		"P_SKILL_ID": "20017402",
-		"P_EXPLAIN_SHORT": "聖澪神の加護",
-		"P_EXTRA_TEXT": "聖澪神の加護",
+		"P_EXPLAIN_SHORT": "聖澪神の加護
+		"P_EXTRA_TEXT": "聖澪神の加護
 	},
 	{
 		"P_SKILL_ID": "20032201",
-		"P_EXPLAIN_SHORT": "ブラッドガッシュ",
-		"P_EXTRA_TEXT": "ブラッドガッシュ",
+		"P_EXPLAIN_SHORT": "ブラッドガッシュ
+		"P_EXTRA_TEXT": "ブラッドガッシュ
 	},
 	{
 		"P_SKILL_ID": "20032301",
-		"P_EXPLAIN_SHORT": "ブラッドディジーズ",
-		"P_EXTRA_TEXT": "ブラッドディジーズ",
+		"P_EXPLAIN_SHORT": "ブラッドディジーズ
+		"P_EXTRA_TEXT": "ブラッドディジーズ
 	},
 	{
 		"P_SKILL_ID": "20033401",
-		"P_EXPLAIN_SHORT": "アサルティックシャドウ",
-		"P_EXTRA_TEXT": "アサルティックシャドウ",
+		"P_EXPLAIN_SHORT": "アサルティックシャドウ
+		"P_EXTRA_TEXT": "アサルティックシャドウ
 	},
 	{
 		"P_SKILL_ID": "20033402",
-		"P_EXPLAIN_SHORT": "滄刃絶『テネブライ』",
-		"P_EXTRA_TEXT": "滄刃絶『テネブライ』",
+		"P_EXPLAIN_SHORT": "滄刃絶『テネブライ』
+		"P_EXTRA_TEXT": "滄刃絶『テネブライ』
 	},
 	{
 		"P_SKILL_ID": "20040401",
-		"P_EXPLAIN_SHORT": "ブル＝コレイガ",
-		"P_EXTRA_TEXT": "ブル＝コレイガ",
+		"P_EXPLAIN_SHORT": "ブル＝コレイガ
+		"P_EXTRA_TEXT": "ブル＝コレイガ
 	},
 	{
 		"P_SKILL_ID": "20040402",
-		"P_EXPLAIN_SHORT": "永繋のドルージヴァ",
-		"P_EXTRA_TEXT": "永繋のドルージヴァ",
+		"P_EXPLAIN_SHORT": "永繋のドルージヴァ
+		"P_EXTRA_TEXT": "永繋のドルージヴァ
 	},
 	{
 		"P_SKILL_ID": "30014201",
-		"P_EXPLAIN_SHORT": "ディフェンドスタブ",
-		"P_EXTRA_TEXT": "ディフェンドスタブ",
+		"P_EXPLAIN_SHORT": "ディフェンドスタブ
+		"P_EXTRA_TEXT": "ディフェンドスタブ
 	},
 	{
 		"P_SKILL_ID": "30014301",
-		"P_EXPLAIN_SHORT": "ディフェンドスラスト",
-		"P_EXTRA_TEXT": "ディフェンドスラスト",
+		"P_EXPLAIN_SHORT": "ディフェンドスラスト
+		"P_EXTRA_TEXT": "ディフェンドスラスト
 	},
 	{
 		"P_SKILL_ID": "30015401",
-		"P_EXPLAIN_SHORT": "アクセレイトスラスト",
-		"P_EXTRA_TEXT": "アクセレイトスラスト",
+		"P_EXPLAIN_SHORT": "アクセレイトスラスト
+		"P_EXTRA_TEXT": "アクセレイトスラスト
 	},
 	{
 		"P_SKILL_ID": "30015402",
-		"P_EXPLAIN_SHORT": "ヘリクス・タービュランス",
-		"P_EXTRA_TEXT": "ヘリクス・タービュランス",
+		"P_EXPLAIN_SHORT": "ヘリクス・タービュランス
+		"P_EXTRA_TEXT": "ヘリクス・タービュランス
 	},
 	{
 		"P_SKILL_ID": "30023401",
-		"P_EXPLAIN_SHORT": "ヴェーダ流承剣『アクトゥス』",
-		"P_EXTRA_TEXT": "ヴェーダ流承剣『アクトゥス』",
+		"P_EXPLAIN_SHORT": "ヴェーダ流承剣『アクトゥス』
+		"P_EXTRA_TEXT": "ヴェーダ流承剣『アクトゥス』
 	},
 	{
 		"P_SKILL_ID": "30023402",
-		"P_EXPLAIN_SHORT": "昇嵐のアサンシオン",
-		"P_EXTRA_TEXT": "昇嵐のアサンシオン",
+		"P_EXPLAIN_SHORT": "昇嵐のアサンシオン
+		"P_EXTRA_TEXT": "昇嵐のアサンシオン
 	},
 	{
 		"P_SKILL_ID": "30034401",
-		"P_EXPLAIN_SHORT": "羅旋鳳舞",
-		"P_EXTRA_TEXT": "羅旋鳳舞",
+		"P_EXPLAIN_SHORT": "羅旋鳳舞
+		"P_EXTRA_TEXT": "羅旋鳳舞
 	},
 	{
 		"P_SKILL_ID": "30034402",
-		"P_EXPLAIN_SHORT": "翠嵐ノ閃翼",
-		"P_EXTRA_TEXT": "翠嵐ノ閃翼",
+		"P_EXPLAIN_SHORT": "翠嵐ノ閃翼
+		"P_EXTRA_TEXT": "翠嵐ノ閃翼
 	},
 	{
 		"P_SKILL_ID": "30038301",
-		"P_EXPLAIN_SHORT": "リストレントメイス",
-		"P_EXTRA_TEXT": "リストレントメイス",
+		"P_EXPLAIN_SHORT": "リストレントメイス
+		"P_EXTRA_TEXT": "リストレントメイス
 	},
 	{
 		"P_SKILL_ID": "30039401",
-		"P_EXPLAIN_SHORT": "リダクションメイス",
-		"P_EXTRA_TEXT": "リダクションメイス",
+		"P_EXPLAIN_SHORT": "リダクションメイス
+		"P_EXTRA_TEXT": "リダクションメイス
 	},
 	{
 		"P_SKILL_ID": "30039402",
-		"P_EXPLAIN_SHORT": "ディオラシィ",
-		"P_EXTRA_TEXT": "ディオラシィ",
+		"P_EXPLAIN_SHORT": "ディオラシィ
+		"P_EXTRA_TEXT": "ディオラシィ
 	},
 	{
 		"P_SKILL_ID": "40013301",
-		"P_EXPLAIN_SHORT": "旋雷舞",
-		"P_EXTRA_TEXT": "旋雷舞",
+		"P_EXPLAIN_SHORT": "旋雷舞
+		"P_EXTRA_TEXT": "旋雷舞
 	},
 	{
 		"P_SKILL_ID": "40013401",
-		"P_EXPLAIN_SHORT": "旋雷破尽",
-		"P_EXTRA_TEXT": "旋雷破尽",
+		"P_EXPLAIN_SHORT": "旋雷破尽
+		"P_EXTRA_TEXT": "旋雷破尽
 	},
 	{
 		"P_SKILL_ID": "40013402",
-		"P_EXPLAIN_SHORT": "シーケンス・レビン",
-		"P_EXTRA_TEXT": "シーケンス・レビン",
+		"P_EXPLAIN_SHORT": "シーケンス・レビン
+		"P_EXTRA_TEXT": "シーケンス・レビン
 	},
 	{
 		"P_SKILL_ID": "40024301",
-		"P_EXPLAIN_SHORT": "魔穿還弾",
-		"P_EXTRA_TEXT": "魔穿還弾",
+		"P_EXPLAIN_SHORT": "魔穿還弾
+		"P_EXTRA_TEXT": "魔穿還弾
 	},
 	{
 		"P_SKILL_ID": "40025401",
-		"P_EXPLAIN_SHORT": "羅穿雷還砲",
-		"P_EXTRA_TEXT": "羅穿雷還砲",
+		"P_EXPLAIN_SHORT": "羅穿雷還砲
+		"P_EXTRA_TEXT": "羅穿雷還砲
 	},
 	{
 		"P_SKILL_ID": "40025402",
-		"P_EXPLAIN_SHORT": "(エラー)",
-		"P_EXTRA_TEXT": "(エラー)",
+		"P_EXPLAIN_SHORT": "(エラー)
+		"P_EXTRA_TEXT": "(エラー)
 	},
 	{
 		"P_SKILL_ID": "40027201",
-		"P_EXPLAIN_SHORT": "彗武拳",
-		"P_EXTRA_TEXT": "彗武拳",
+		"P_EXPLAIN_SHORT": "彗武拳
+		"P_EXTRA_TEXT": "彗武拳
 	},
 	{
 		"P_SKILL_ID": "40028301",
-		"P_EXPLAIN_SHORT": "彗武烈拳",
-		"P_EXTRA_TEXT": "彗武烈拳",
+		"P_EXPLAIN_SHORT": "彗武烈拳
+		"P_EXTRA_TEXT": "彗武烈拳
 	},
 	{
 		"P_SKILL_ID": "40029401",
-		"P_EXPLAIN_SHORT": "天彗の覇道拳",
-		"P_EXTRA_TEXT": "天彗の覇道拳",
+		"P_EXPLAIN_SHORT": "天彗の覇道拳
+		"P_EXTRA_TEXT": "天彗の覇道拳
 	},
 	{
 		"P_SKILL_ID": "40029402",
-		"P_EXPLAIN_SHORT": "タルジスト・クラーク",
-		"P_EXTRA_TEXT": "タルジスト・クラーク",
+		"P_EXPLAIN_SHORT": "タルジスト・クラーク
+		"P_EXTRA_TEXT": "タルジスト・クラーク
 	},
 	{
 		"P_SKILL_ID": "50022301",
-		"P_EXPLAIN_SHORT": "コンヴィクション",
-		"P_EXTRA_TEXT": "コンヴィクション",
+		"P_EXPLAIN_SHORT": "コンヴィクション
+		"P_EXTRA_TEXT": "コンヴィクション
 	},
 	{
 		"P_SKILL_ID": "50022401",
-		"P_EXPLAIN_SHORT": "裁刃のコンヴィクション",
-		"P_EXTRA_TEXT": "裁刃のコンヴィクション",
+		"P_EXPLAIN_SHORT": "裁刃のコンヴィクション
+		"P_EXTRA_TEXT": "裁刃のコンヴィクション
 	},
 	{
 		"P_SKILL_ID": "50022402",
-		"P_EXPLAIN_SHORT": "聖誅刃『エスパーダ』",
-		"P_EXTRA_TEXT": "聖誅刃『エスパーダ』",
+		"P_EXPLAIN_SHORT": "聖誅刃『エスパーダ』
+		"P_EXTRA_TEXT": "聖誅刃『エスパーダ』
 	},
 	{
 		"P_SKILL_ID": "50026401",
-		"P_EXPLAIN_SHORT": "エデル・シュタール",
-		"P_EXTRA_TEXT": "エデル・シュタール",
+		"P_EXPLAIN_SHORT": "エデル・シュタール
+		"P_EXTRA_TEXT": "エデル・シュタール
 	},
 	{
 		"P_SKILL_ID": "50026402",
-		"P_EXPLAIN_SHORT": "煌徳のシュネシス",
-		"P_EXTRA_TEXT": "煌徳のシュネシス",
+		"P_EXPLAIN_SHORT": "煌徳のシュネシス
+		"P_EXTRA_TEXT": "煌徳のシュネシス
 	},
 	{
 		"P_SKILL_ID": "50030401",
-		"P_EXPLAIN_SHORT": "テールオニクス",
-		"P_EXTRA_TEXT": "テールオニクス",
+		"P_EXPLAIN_SHORT": "テールオニクス
+		"P_EXTRA_TEXT": "テールオニクス
 	},
 	{
 		"P_SKILL_ID": "50030402",
-		"P_EXPLAIN_SHORT": "コンダクト＝ヴィガラス",
-		"P_EXTRA_TEXT": "コンダクト＝ヴィガラス",
+		"P_EXPLAIN_SHORT": "コンダクト＝ヴィガラス
+		"P_EXTRA_TEXT": "コンダクト＝ヴィガラス
 	},
 	{
 		"P_SKILL_ID": "50036301",
-		"P_EXPLAIN_SHORT": "明導のサルス",
-		"P_EXTRA_TEXT": "明導のサルス",
+		"P_EXPLAIN_SHORT": "明導のサルス
+		"P_EXTRA_TEXT": "明導のサルス
 	},
 	{
 		"P_SKILL_ID": "50037401",
-		"P_EXPLAIN_SHORT": "大賢のソティリア",
-		"P_EXTRA_TEXT": "大賢のソティリア",
+		"P_EXPLAIN_SHORT": "大賢のソティリア
+		"P_EXTRA_TEXT": "大賢のソティリア
 	},
 	{
 		"P_SKILL_ID": "50037402",
-		"P_EXPLAIN_SHORT": "ビブル・エヴァンジル",
-		"P_EXTRA_TEXT": "ビブル・エヴァンジル",
+		"P_EXPLAIN_SHORT": "ビブル・エヴァンジル
+		"P_EXTRA_TEXT": "ビブル・エヴァンジル
 	},
 	{
 		"P_SKILL_ID": "60018401",
-		"P_EXPLAIN_SHORT": "魔蝕の閃弾",
-		"P_EXTRA_TEXT": "魔蝕の閃弾",
+		"P_EXPLAIN_SHORT": "魔蝕の閃弾
+		"P_EXTRA_TEXT": "魔蝕の閃弾
 	},
 	{
 		"P_SKILL_ID": "60018402",
-		"P_EXPLAIN_SHORT": "ワーミィ・クレセント",
-		"P_EXTRA_TEXT": "ワーミィ・クレセント",
+		"P_EXPLAIN_SHORT": "ワーミィ・クレセント
+		"P_EXTRA_TEXT": "ワーミィ・クレセント
 	},
 	{
 		"P_SKILL_ID": "60019301",
-		"P_EXPLAIN_SHORT": "竜旋断",
-		"P_EXTRA_TEXT": "竜旋断",
+		"P_EXPLAIN_SHORT": "竜旋断
+		"P_EXTRA_TEXT": "竜旋断
 	},
 	{
 		"P_SKILL_ID": "60020401",
-		"P_EXPLAIN_SHORT": "覇魂冥断",
-		"P_EXTRA_TEXT": "覇魂冥断",
+		"P_EXPLAIN_SHORT": "覇魂冥断
+		"P_EXTRA_TEXT": "覇魂冥断
 	},
 	{
 		"P_SKILL_ID": "60020402",
-		"P_EXPLAIN_SHORT": "ヘル・アリューアメント",
-		"P_EXTRA_TEXT": "ヘル・アリューアメント",
+		"P_EXPLAIN_SHORT": "ヘル・アリューアメント
+		"P_EXTRA_TEXT": "ヘル・アリューアメント
 	},
 	{
 		"P_SKILL_ID": "60035401",
-		"P_EXPLAIN_SHORT": "ミュトレイトウィップ",
-		"P_EXTRA_TEXT": "ミュトレイトウィップ",
+		"P_EXPLAIN_SHORT": "ミュトレイトウィップ
+		"P_EXTRA_TEXT": "ミュトレイトウィップ
 	},
 	{
 		"P_SKILL_ID": "60035402",
-		"P_EXPLAIN_SHORT": "ラーナ＝クヌート",
-		"P_EXTRA_TEXT": "ラーナ＝クヌート",
+		"P_EXPLAIN_SHORT": "ラーナ＝クヌート
+		"P_EXTRA_TEXT": "ラーナ＝クヌート
 	},
 	{
 		"P_SKILL_ID": "100012201",
-		"P_EXPLAIN_SHORT": "ヒートグリッド",
-		"P_EXTRA_TEXT": "ヒートグリッド",
+		"P_EXPLAIN_SHORT": "ヒートグリッド
+		"P_EXTRA_TEXT": "ヒートグリッド
 	},
 	{
 		"P_SKILL_ID": "100012301",
-		"P_EXPLAIN_SHORT": "バーングリッド",
-		"P_EXTRA_TEXT": "バーングリッド",
+		"P_EXPLAIN_SHORT": "バーングリッド
+		"P_EXTRA_TEXT": "バーングリッド
 	},
 	{
 		"P_SKILL_ID": "100012401",
-		"P_EXPLAIN_SHORT": "ブレイズグリッド",
-		"P_EXTRA_TEXT": "ブレイズグリッド",
+		"P_EXPLAIN_SHORT": "ブレイズグリッド
+		"P_EXTRA_TEXT": "ブレイズグリッド
 	},
 	{
 		"P_SKILL_ID": "100012402",
-		"P_EXPLAIN_SHORT": "インシネレイション",
-		"P_EXTRA_TEXT": "インシネレイション",
+		"P_EXPLAIN_SHORT": "インシネレイション
+		"P_EXTRA_TEXT": "インシネレイション
 	},
 	{
 		"P_SKILL_ID": "100022201",
-		"P_EXPLAIN_SHORT": "炎芒 ―明堂―",
-		"P_EXTRA_TEXT": "炎芒 ―明堂―",
+		"P_EXPLAIN_SHORT": "炎芒 ―明堂―
+		"P_EXTRA_TEXT": "炎芒 ―明堂―
 	},
 	{
 		"P_SKILL_ID": "100022301",
-		"P_EXPLAIN_SHORT": "宿曜 ―灯華―",
-		"P_EXTRA_TEXT": "宿曜 ―灯華―",
+		"P_EXPLAIN_SHORT": "宿曜 ―灯華―
+		"P_EXTRA_TEXT": "宿曜 ―灯華―
 	},
 	{
 		"P_SKILL_ID": "100022401",
-		"P_EXPLAIN_SHORT": "星辰 ―幻殺―",
-		"P_EXTRA_TEXT": "星辰 ―幻殺―",
+		"P_EXPLAIN_SHORT": "星辰 ―幻殺―
+		"P_EXTRA_TEXT": "星辰 ―幻殺―
 	},
 	{
 		"P_SKILL_ID": "100022402",
-		"P_EXPLAIN_SHORT": "秘祀 炎狐奉神印",
-		"P_EXTRA_TEXT": "秘祀 炎狐奉神印",
+		"P_EXPLAIN_SHORT": "秘祀 炎狐奉神印
+		"P_EXTRA_TEXT": "秘祀 炎狐奉神印
 	},
 	{
 		"P_SKILL_ID": "100032201",
-		"P_EXPLAIN_SHORT": "インテンスブレード",
-		"P_EXTRA_TEXT": "インテンスブレード",
+		"P_EXPLAIN_SHORT": "インテンスブレード
+		"P_EXTRA_TEXT": "インテンスブレード
 	},
 	{
 		"P_SKILL_ID": "100032301",
-		"P_EXPLAIN_SHORT": "ローバストブレード",
-		"P_EXTRA_TEXT": "ローバストブレード",
+		"P_EXPLAIN_SHORT": "ローバストブレード
+		"P_EXTRA_TEXT": "ローバストブレード
 	},
 	{
 		"P_SKILL_ID": "100032401",
-		"P_EXPLAIN_SHORT": "ヴィガラスブレード",
-		"P_EXTRA_TEXT": "ヴィガラスブレード",
+		"P_EXPLAIN_SHORT": "ヴィガラスブレード
+		"P_EXTRA_TEXT": "ヴィガラスブレード
 	},
 	{
 		"P_SKILL_ID": "100032402",
-		"P_EXPLAIN_SHORT": "ヴェーダ流勇剣『イルザート』",
-		"P_EXTRA_TEXT": "ヴェーダ流勇剣『イルザート』",
+		"P_EXPLAIN_SHORT": "ヴェーダ流勇剣『イルザート』
+		"P_EXTRA_TEXT": "ヴェーダ流勇剣『イルザート』
 	},
 	{
 		"P_SKILL_ID": "100042201",
-		"P_EXPLAIN_SHORT": "ラピッドティア",
-		"P_EXTRA_TEXT": "ラピッドティア",
+		"P_EXPLAIN_SHORT": "ラピッドティア
+		"P_EXTRA_TEXT": "ラピッドティア
 	},
 	{
 		"P_SKILL_ID": "100042301",
-		"P_EXPLAIN_SHORT": "スウィフトティア",
-		"P_EXTRA_TEXT": "スウィフトティア",
+		"P_EXPLAIN_SHORT": "スウィフトティア
+		"P_EXTRA_TEXT": "スウィフトティア
 	},
 	{
 		"P_SKILL_ID": "100042401",
-		"P_EXPLAIN_SHORT": "アクセルティア",
-		"P_EXTRA_TEXT": "アクセルティア",
+		"P_EXPLAIN_SHORT": "アクセルティア
+		"P_EXTRA_TEXT": "アクセルティア
 	},
 	{
 		"P_SKILL_ID": "100042402",
-		"P_EXPLAIN_SHORT": "ルードフューリー",
-		"P_EXTRA_TEXT": "ルードフューリー",
+		"P_EXPLAIN_SHORT": "ルードフューリー
+		"P_EXTRA_TEXT": "ルードフューリー
 	},
 	{
 		"P_SKILL_ID": "100052201",
-		"P_EXPLAIN_SHORT": "煉鳴の術",
-		"P_EXTRA_TEXT": "煉鳴の術",
+		"P_EXPLAIN_SHORT": "煉鳴の術
+		"P_EXTRA_TEXT": "煉鳴の術
 	},
 	{
 		"P_SKILL_ID": "100052301",
-		"P_EXPLAIN_SHORT": "煉盛の術",
-		"P_EXTRA_TEXT": "煉盛の術",
+		"P_EXPLAIN_SHORT": "煉盛の術
+		"P_EXTRA_TEXT": "煉盛の術
 	},
 	{
 		"P_SKILL_ID": "100052401",
-		"P_EXPLAIN_SHORT": "煉天の術",
-		"P_EXTRA_TEXT": "煉天の術",
+		"P_EXPLAIN_SHORT": "煉天の術
+		"P_EXTRA_TEXT": "煉天の術
 	},
 	{
 		"P_SKILL_ID": "100052402",
-		"P_EXPLAIN_SHORT": "焔環のプレヴィジョン",
-		"P_EXTRA_TEXT": "焔環のプレヴィジョン",
+		"P_EXPLAIN_SHORT": "焔環のプレヴィジョン
+		"P_EXTRA_TEXT": "焔環のプレヴィジョン
 	},
 	{
 		"P_SKILL_ID": "100062001",
-		"P_EXPLAIN_SHORT": "ビーストスラップ",
-		"P_EXTRA_TEXT": "ビーストスラップ",
+		"P_EXPLAIN_SHORT": "ビーストスラップ
+		"P_EXTRA_TEXT": "ビーストスラップ
 	},
 	{
 		"P_SKILL_ID": "100062101",
-		"P_EXPLAIN_SHORT": "ビーストアーム",
-		"P_EXTRA_TEXT": "ビーストアーム",
+		"P_EXPLAIN_SHORT": "ビーストアーム
+		"P_EXTRA_TEXT": "ビーストアーム
 	},
 	{
 		"P_SKILL_ID": "100072101",
-		"P_EXPLAIN_SHORT": "炎熱ブロー",
-		"P_EXTRA_TEXT": "炎熱ブロー",
+		"P_EXPLAIN_SHORT": "炎熱ブロー
+		"P_EXTRA_TEXT": "炎熱ブロー
 	},
 	{
 		"P_SKILL_ID": "100072201",
-		"P_EXPLAIN_SHORT": "炎熱ナックル",
-		"P_EXTRA_TEXT": "炎熱ナックル",
+		"P_EXPLAIN_SHORT": "炎熱ナックル
+		"P_EXTRA_TEXT": "炎熱ナックル
 	},
 	{
 		"P_SKILL_ID": "100082001",
-		"P_EXPLAIN_SHORT": "タイニークロー",
-		"P_EXTRA_TEXT": "タイニークロー",
+		"P_EXPLAIN_SHORT": "タイニークロー
+		"P_EXTRA_TEXT": "タイニークロー
 	},
 	{
 		"P_SKILL_ID": "100082101",
-		"P_EXPLAIN_SHORT": "パンサークロー",
-		"P_EXTRA_TEXT": "パンサークロー",
+		"P_EXPLAIN_SHORT": "パンサークロー
+		"P_EXTRA_TEXT": "パンサークロー
 	},
 	{
 		"P_SKILL_ID": "100092101",
-		"P_EXPLAIN_SHORT": "リザードフレイム",
-		"P_EXTRA_TEXT": "リザードフレイム",
+		"P_EXPLAIN_SHORT": "リザードフレイム
+		"P_EXTRA_TEXT": "リザードフレイム
 	},
 	{
 		"P_SKILL_ID": "100092201",
-		"P_EXPLAIN_SHORT": "リザードヴァンガード",
-		"P_EXTRA_TEXT": "リザードヴァンガード",
+		"P_EXPLAIN_SHORT": "リザードヴァンガード
+		"P_EXTRA_TEXT": "リザードヴァンガード
 	},
 	{
 		"P_SKILL_ID": "100102001",
-		"P_EXPLAIN_SHORT": "ヘッドバッシュ",
-		"P_EXTRA_TEXT": "ヘッドバッシュ",
+		"P_EXPLAIN_SHORT": "ヘッドバッシュ
+		"P_EXTRA_TEXT": "ヘッドバッシュ
 	},
 	{
 		"P_SKILL_ID": "100102101",
-		"P_EXPLAIN_SHORT": "ボディバッシュ",
-		"P_EXTRA_TEXT": "ボディバッシュ",
+		"P_EXPLAIN_SHORT": "ボディバッシュ
+		"P_EXTRA_TEXT": "ボディバッシュ
 	},
 	{
 		"P_SKILL_ID": "100112401",
-		"P_EXPLAIN_SHORT": "アウグスト・フラム",
-		"P_EXTRA_TEXT": "アウグスト・フラム",
+		"P_EXPLAIN_SHORT": "アウグスト・フラム
+		"P_EXTRA_TEXT": "アウグスト・フラム
 	},
 	{
 		"P_SKILL_ID": "100112402",
-		"P_EXPLAIN_SHORT": "カーディナルヴァニッシュ",
-		"P_EXTRA_TEXT": "カーディナルヴァニッシュ",
+		"P_EXPLAIN_SHORT": "カーディナルヴァニッシュ
+		"P_EXTRA_TEXT": "カーディナルヴァニッシュ
 	},
 	{
 		"P_SKILL_ID": "100122201",
-		"P_EXPLAIN_SHORT": "炎烈剣",
-		"P_EXTRA_TEXT": "炎烈剣",
+		"P_EXPLAIN_SHORT": "炎烈剣
+		"P_EXTRA_TEXT": "炎烈剣
 	},
 	{
 		"P_SKILL_ID": "100122301",
-		"P_EXPLAIN_SHORT": "炎烈昂剣",
-		"P_EXTRA_TEXT": "炎烈昂剣",
+		"P_EXPLAIN_SHORT": "炎烈昂剣
+		"P_EXTRA_TEXT": "炎烈昂剣
 	},
 	{
 		"P_SKILL_ID": "100122401",
-		"P_EXPLAIN_SHORT": "炎烈昂覇剣",
-		"P_EXTRA_TEXT": "炎烈昂覇剣",
+		"P_EXPLAIN_SHORT": "炎烈昂覇剣
+		"P_EXTRA_TEXT": "炎烈昂覇剣
 	},
 	{
 		"P_SKILL_ID": "100122402",
-		"P_EXPLAIN_SHORT": "天炎の陣『スヴァローグ』",
-		"P_EXTRA_TEXT": "天炎の陣『スヴァローグ』",
+		"P_EXPLAIN_SHORT": "天炎の陣『スヴァローグ』
+		"P_EXTRA_TEXT": "天炎の陣『スヴァローグ』
 	},
 	{
 		"P_SKILL_ID": "100131201",
-		"P_EXPLAIN_SHORT": "フレアライド",
-		"P_EXTRA_TEXT": "フレアライド",
+		"P_EXPLAIN_SHORT": "フレアライド
+		"P_EXTRA_TEXT": "フレアライド
 	},
 	{
 		"P_SKILL_ID": "100131301",
-		"P_EXPLAIN_SHORT": "フレアライド改",
-		"P_EXTRA_TEXT": "フレアライド改",
+		"P_EXPLAIN_SHORT": "フレアライド改
+		"P_EXTRA_TEXT": "フレアライド改
 	},
 	{
 		"P_SKILL_ID": "100131401",
-		"P_EXPLAIN_SHORT": "インフィニティバースト",
-		"P_EXTRA_TEXT": "インフィニティバースト",
+		"P_EXPLAIN_SHORT": "インフィニティバースト
+		"P_EXTRA_TEXT": "インフィニティバースト
 	},
 	{
 		"P_SKILL_ID": "100131402",
-		"P_EXPLAIN_SHORT": "インフィニティ・ノヴァ",
-		"P_EXTRA_TEXT": "インフィニティ・ノヴァ",
+		"P_EXPLAIN_SHORT": "インフィニティ・ノヴァ
+		"P_EXTRA_TEXT": "インフィニティ・ノヴァ
 	},
 	{
 		"P_SKILL_ID": "100141201",
-		"P_EXPLAIN_SHORT": "王の盾",
-		"P_EXTRA_TEXT": "王の盾",
+		"P_EXPLAIN_SHORT": "王の盾
+		"P_EXTRA_TEXT": "王の盾
 	},
 	{
 		"P_SKILL_ID": "100141301",
-		"P_EXPLAIN_SHORT": "神の盾",
-		"P_EXTRA_TEXT": "神の盾",
+		"P_EXPLAIN_SHORT": "神の盾
+		"P_EXTRA_TEXT": "神の盾
 	},
 	{
 		"P_SKILL_ID": "100141401",
-		"P_EXPLAIN_SHORT": "神王の盾",
-		"P_EXTRA_TEXT": "神王の盾",
+		"P_EXPLAIN_SHORT": "神王の盾
+		"P_EXTRA_TEXT": "神王の盾
 	},
 	{
 		"P_SKILL_ID": "100141402",
-		"P_EXPLAIN_SHORT": "シールドノヴァ",
-		"P_EXTRA_TEXT": "シールドノヴァ",
+		"P_EXPLAIN_SHORT": "シールドノヴァ
+		"P_EXTRA_TEXT": "シールドノヴァ
 	},
 	{
 		"P_SKILL_ID": "100151201",
-		"P_EXPLAIN_SHORT": "バーニングフェザー",
-		"P_EXTRA_TEXT": "バーニングフェザー",
+		"P_EXPLAIN_SHORT": "バーニングフェザー
+		"P_EXTRA_TEXT": "バーニングフェザー
 	},
 	{
 		"P_SKILL_ID": "100151301",
-		"P_EXPLAIN_SHORT": "イグニードフェザー",
-		"P_EXTRA_TEXT": "イグニードフェザー",
+		"P_EXPLAIN_SHORT": "イグニードフェザー
+		"P_EXTRA_TEXT": "イグニードフェザー
 	},
 	{
 		"P_SKILL_ID": "100151401",
-		"P_EXPLAIN_SHORT": "フェニックスフェザー",
-		"P_EXTRA_TEXT": "フェニックスフェザー",
+		"P_EXPLAIN_SHORT": "フェニックスフェザー
+		"P_EXTRA_TEXT": "フェニックスフェザー
 	},
 	{
 		"P_SKILL_ID": "100151402",
-		"P_EXPLAIN_SHORT": "ヴァイタライズ",
-		"P_EXTRA_TEXT": "ヴァイタライズ",
+		"P_EXPLAIN_SHORT": "ヴァイタライズ
+		"P_EXTRA_TEXT": "ヴァイタライズ
 	},
 	{
 		"P_SKILL_ID": "100161201",
-		"P_EXPLAIN_SHORT": "炎竜滅葬斬",
-		"P_EXTRA_TEXT": "炎竜滅葬斬",
+		"P_EXPLAIN_SHORT": "炎竜滅葬斬
+		"P_EXTRA_TEXT": "炎竜滅葬斬
 	},
 	{
 		"P_SKILL_ID": "100161301",
-		"P_EXPLAIN_SHORT": "真・炎竜滅葬斬",
-		"P_EXTRA_TEXT": "真・炎竜滅葬斬",
+		"P_EXPLAIN_SHORT": "真・炎竜滅葬斬
+		"P_EXTRA_TEXT": "真・炎竜滅葬斬
 	},
 	{
 		"P_SKILL_ID": "100161401",
-		"P_EXPLAIN_SHORT": "神竜滅葬斬",
-		"P_EXTRA_TEXT": "神竜滅葬斬",
+		"P_EXPLAIN_SHORT": "神竜滅葬斬
+		"P_EXTRA_TEXT": "神竜滅葬斬
 	},
 	{
 		"P_SKILL_ID": "100161402",
-		"P_EXPLAIN_SHORT": "烈・神竜煉葬技",
-		"P_EXTRA_TEXT": "烈・神竜煉葬技",
+		"P_EXPLAIN_SHORT": "烈・神竜煉葬技
+		"P_EXTRA_TEXT": "烈・神竜煉葬技
 	},
 	{
 		"P_SKILL_ID": "100171201",
-		"P_EXPLAIN_SHORT": "ブレイジングインフェルノ",
-		"P_EXTRA_TEXT": "ブレイジングインフェルノ",
+		"P_EXPLAIN_SHORT": "ブレイジングインフェルノ
+		"P_EXTRA_TEXT": "ブレイジングインフェルノ
 	},
 	{
 		"P_SKILL_ID": "100171301",
-		"P_EXPLAIN_SHORT": "プロメテウスバーン",
-		"P_EXTRA_TEXT": "プロメテウスバーン",
+		"P_EXPLAIN_SHORT": "プロメテウスバーン
+		"P_EXTRA_TEXT": "プロメテウスバーン
 	},
 	{
 		"P_SKILL_ID": "100171401",
-		"P_EXPLAIN_SHORT": "ヘルアグニッシュ・ブレード",
-		"P_EXTRA_TEXT": "ヘルアグニッシュ・ブレード",
+		"P_EXPLAIN_SHORT": "ヘルアグニッシュ・ブレード
+		"P_EXTRA_TEXT": "ヘルアグニッシュ・ブレード
 	},
 	{
 		"P_SKILL_ID": "100171402",
-		"P_EXPLAIN_SHORT": "スカーレットスケイプ",
-		"P_EXTRA_TEXT": "スカーレットスケイプ",
+		"P_EXPLAIN_SHORT": "スカーレットスケイプ
+		"P_EXTRA_TEXT": "スカーレットスケイプ
 	},
 	{
 		"P_SKILL_ID": "100181201",
-		"P_EXPLAIN_SHORT": "ラブリークッキング",
-		"P_EXTRA_TEXT": "ラブリークッキング",
+		"P_EXPLAIN_SHORT": "ラブリークッキング
+		"P_EXTRA_TEXT": "ラブリークッキング
 	},
 	{
 		"P_SKILL_ID": "100181301",
-		"P_EXPLAIN_SHORT": "ハートフルクッキング",
-		"P_EXTRA_TEXT": "ハートフルクッキング",
+		"P_EXPLAIN_SHORT": "ハートフルクッキング
+		"P_EXTRA_TEXT": "ハートフルクッキング
 	},
 	{
 		"P_SKILL_ID": "100181401",
-		"P_EXPLAIN_SHORT": "至高のフルコース",
-		"P_EXTRA_TEXT": "至高のフルコース",
+		"P_EXPLAIN_SHORT": "至高のフルコース
+		"P_EXTRA_TEXT": "至高のフルコース
 	},
 	{
 		"P_SKILL_ID": "100181402",
-		"P_EXPLAIN_SHORT": "炎の極上アラカルト",
-		"P_EXTRA_TEXT": "炎の極上アラカルト",
+		"P_EXPLAIN_SHORT": "炎の極上アラカルト
+		"P_EXTRA_TEXT": "炎の極上アラカルト
 	},
 	{
 		"P_SKILL_ID": "100191201",
-		"P_EXPLAIN_SHORT": "炎奉陣",
-		"P_EXTRA_TEXT": "炎奉陣",
+		"P_EXPLAIN_SHORT": "炎奉陣
+		"P_EXTRA_TEXT": "炎奉陣
 	},
 	{
 		"P_SKILL_ID": "100191301",
-		"P_EXPLAIN_SHORT": "聖皇・炎奉陣",
-		"P_EXTRA_TEXT": "聖皇・炎奉陣",
+		"P_EXPLAIN_SHORT": "聖皇・炎奉陣
+		"P_EXTRA_TEXT": "聖皇・炎奉陣
 	},
 	{
 		"P_SKILL_ID": "100191401",
-		"P_EXPLAIN_SHORT": "神皇・炎奉陣",
-		"P_EXTRA_TEXT": "神皇・炎奉陣",
+		"P_EXPLAIN_SHORT": "神皇・炎奉陣
+		"P_EXTRA_TEXT": "神皇・炎奉陣
 	},
 	{
 		"P_SKILL_ID": "100191402",
-		"P_EXPLAIN_SHORT": "炎奉千陣",
-		"P_EXTRA_TEXT": "炎奉千陣",
+		"P_EXPLAIN_SHORT": "炎奉千陣
+		"P_EXTRA_TEXT": "炎奉千陣
 	},
 	{
 		"P_SKILL_ID": "100201201",
-		"P_EXPLAIN_SHORT": "フレイムアラウズ",
-		"P_EXTRA_TEXT": "フレイムアラウズ",
+		"P_EXPLAIN_SHORT": "フレイムアラウズ
+		"P_EXTRA_TEXT": "フレイムアラウズ
 	},
 	{
 		"P_SKILL_ID": "100201301",
-		"P_EXPLAIN_SHORT": "ヴュールアラウズ",
-		"P_EXTRA_TEXT": "ヴュールアラウズ",
+		"P_EXPLAIN_SHORT": "ヴュールアラウズ
+		"P_EXTRA_TEXT": "ヴュールアラウズ
 	},
 	{
 		"P_SKILL_ID": "100201401",
-		"P_EXPLAIN_SHORT": "イグニートアラウズ",
-		"P_EXTRA_TEXT": "イグニートアラウズ",
+		"P_EXPLAIN_SHORT": "イグニートアラウズ
+		"P_EXTRA_TEXT": "イグニートアラウズ
 	},
 	{
 		"P_SKILL_ID": "100201402",
-		"P_EXPLAIN_SHORT": "メギドスレイヤー",
-		"P_EXTRA_TEXT": "メギドスレイヤー",
+		"P_EXPLAIN_SHORT": "メギドスレイヤー
+		"P_EXTRA_TEXT": "メギドスレイヤー
 	},
 	{
 		"P_SKILL_ID": "100211201",
-		"P_EXPLAIN_SHORT": "ライドアッシュ",
-		"P_EXTRA_TEXT": "ライドアッシュ",
+		"P_EXPLAIN_SHORT": "ライドアッシュ
+		"P_EXTRA_TEXT": "ライドアッシュ
 	},
 	{
 		"P_SKILL_ID": "100211301",
-		"P_EXPLAIN_SHORT": "リングライドアッシュ",
-		"P_EXTRA_TEXT": "リングライドアッシュ",
+		"P_EXPLAIN_SHORT": "リングライドアッシュ
+		"P_EXTRA_TEXT": "リングライドアッシュ
 	},
 	{
 		"P_SKILL_ID": "100211401",
-		"P_EXPLAIN_SHORT": "サンレイドグリッター",
-		"P_EXTRA_TEXT": "サンレイドグリッター",
+		"P_EXPLAIN_SHORT": "サンレイドグリッター
+		"P_EXTRA_TEXT": "サンレイドグリッター
 	},
 	{
 		"P_SKILL_ID": "100211402",
-		"P_EXPLAIN_SHORT": "リベラシオン・テイル",
-		"P_EXTRA_TEXT": "リベラシオン・テイル",
+		"P_EXPLAIN_SHORT": "リベラシオン・テイル
+		"P_EXTRA_TEXT": "リベラシオン・テイル
 	},
 	{
 		"P_SKILL_ID": "100221001",
-		"P_EXPLAIN_SHORT": "噛みつきフレイム",
-		"P_EXTRA_TEXT": "噛みつきフレイム",
+		"P_EXPLAIN_SHORT": "噛みつきフレイム
+		"P_EXTRA_TEXT": "噛みつきフレイム
 	},
 	{
 		"P_SKILL_ID": "100221101",
-		"P_EXPLAIN_SHORT": "丸かじりフレイム",
-		"P_EXTRA_TEXT": "丸かじりフレイム",
+		"P_EXPLAIN_SHORT": "丸かじりフレイム
+		"P_EXTRA_TEXT": "丸かじりフレイム
 	},
 	{
 		"P_SKILL_ID": "100231001",
-		"P_EXPLAIN_SHORT": "イラプション",
-		"P_EXTRA_TEXT": "イラプション",
+		"P_EXPLAIN_SHORT": "イラプション
+		"P_EXTRA_TEXT": "イラプション
 	},
 	{
 		"P_SKILL_ID": "100231101",
-		"P_EXPLAIN_SHORT": "エクスプロージョン",
-		"P_EXTRA_TEXT": "エクスプロージョン",
+		"P_EXPLAIN_SHORT": "エクスプロージョン
+		"P_EXTRA_TEXT": "エクスプロージョン
 	},
 	{
 		"P_SKILL_ID": "100231201",
-		"P_EXPLAIN_SHORT": "メテオスォーム",
-		"P_EXTRA_TEXT": "メテオスォーム",
+		"P_EXPLAIN_SHORT": "メテオスォーム
+		"P_EXTRA_TEXT": "メテオスォーム
 	},
 	{
 		"P_SKILL_ID": "100241001",
-		"P_EXPLAIN_SHORT": "ゴブリンアタック",
-		"P_EXTRA_TEXT": "ゴブリンアタック",
+		"P_EXPLAIN_SHORT": "ゴブリンアタック
+		"P_EXTRA_TEXT": "ゴブリンアタック
 	},
 	{
 		"P_SKILL_ID": "100241101",
-		"P_EXPLAIN_SHORT": "レッドストライク",
-		"P_EXTRA_TEXT": "レッドストライク",
+		"P_EXPLAIN_SHORT": "レッドストライク
+		"P_EXTRA_TEXT": "レッドストライク
 	},
 	{
 		"P_SKILL_ID": "100241201",
-		"P_EXPLAIN_SHORT": "ゴブリンクラッシュ",
-		"P_EXTRA_TEXT": "ゴブリンクラッシュ",
+		"P_EXPLAIN_SHORT": "ゴブリンクラッシュ
+		"P_EXTRA_TEXT": "ゴブリンクラッシュ
 	},
 	{
 		"P_SKILL_ID": "100251101",
-		"P_EXPLAIN_SHORT": "ブレイズフォース",
-		"P_EXTRA_TEXT": "ブレイズフォース",
+		"P_EXPLAIN_SHORT": "ブレイズフォース
+		"P_EXTRA_TEXT": "ブレイズフォース
 	},
 	{
 		"P_SKILL_ID": "100251201",
-		"P_EXPLAIN_SHORT": "煉獄の魔炎",
-		"P_EXTRA_TEXT": "煉獄の魔炎",
+		"P_EXPLAIN_SHORT": "煉獄の魔炎
+		"P_EXTRA_TEXT": "煉獄の魔炎
 	},
 	{
 		"P_SKILL_ID": "100261101",
-		"P_EXPLAIN_SHORT": "ポイズンゲイル",
-		"P_EXTRA_TEXT": "ポイズンゲイル",
+		"P_EXPLAIN_SHORT": "ポイズンゲイル
+		"P_EXTRA_TEXT": "ポイズンゲイル
 	},
 	{
 		"P_SKILL_ID": "100261201",
-		"P_EXPLAIN_SHORT": "ベノムゲイル",
-		"P_EXTRA_TEXT": "ベノムゲイル",
+		"P_EXPLAIN_SHORT": "ベノムゲイル
+		"P_EXTRA_TEXT": "ベノムゲイル
 	},
 	{
 		"P_SKILL_ID": "100261301",
-		"P_EXPLAIN_SHORT": "ポイズンネイド",
-		"P_EXTRA_TEXT": "ポイズンネイド",
+		"P_EXPLAIN_SHORT": "ポイズンネイド
+		"P_EXTRA_TEXT": "ポイズンネイド
 	},
 	{
 		"P_SKILL_ID": "100271401",
-		"P_EXPLAIN_SHORT": "炎武剛拳",
-		"P_EXTRA_TEXT": "炎武剛拳",
+		"P_EXPLAIN_SHORT": "炎武剛拳
+		"P_EXTRA_TEXT": "炎武剛拳
 	},
 	{
 		"P_SKILL_ID": "100271402",
-		"P_EXPLAIN_SHORT": "サングイン・フィスト",
-		"P_EXTRA_TEXT": "サングイン・フィスト",
+		"P_EXPLAIN_SHORT": "サングイン・フィスト
+		"P_EXTRA_TEXT": "サングイン・フィスト
 	},
 	{
 		"P_SKILL_ID": "100281401",
-		"P_EXPLAIN_SHORT": "ヴォルカノブレイザー",
-		"P_EXTRA_TEXT": "ヴォルカノブレイザー",
+		"P_EXPLAIN_SHORT": "ヴォルカノブレイザー
+		"P_EXTRA_TEXT": "ヴォルカノブレイザー
 	},
 	{
 		"P_SKILL_ID": "100281402",
-		"P_EXPLAIN_SHORT": "緋纏のレーヴァテイン",
-		"P_EXTRA_TEXT": "緋纏のレーヴァテイン",
+		"P_EXPLAIN_SHORT": "緋纏のレーヴァテイン
+		"P_EXTRA_TEXT": "緋纏のレーヴァテイン
 	},
 	{
 		"P_SKILL_ID": "100291201",
-		"P_EXPLAIN_SHORT": "鬼烈斬",
-		"P_EXTRA_TEXT": "鬼烈斬",
+		"P_EXPLAIN_SHORT": "鬼烈斬
+		"P_EXTRA_TEXT": "鬼烈斬
 	},
 	{
 		"P_SKILL_ID": "100291301",
-		"P_EXPLAIN_SHORT": "鬼人烈火斬",
-		"P_EXTRA_TEXT": "鬼人烈火斬",
+		"P_EXPLAIN_SHORT": "鬼人烈火斬
+		"P_EXTRA_TEXT": "鬼人烈火斬
 	},
 	{
 		"P_SKILL_ID": "100291401",
-		"P_EXPLAIN_SHORT": "鬼神羅刹斬",
-		"P_EXTRA_TEXT": "鬼神羅刹斬",
+		"P_EXPLAIN_SHORT": "鬼神羅刹斬
+		"P_EXTRA_TEXT": "鬼神羅刹斬
 	},
 	{
 		"P_SKILL_ID": "100291402",
-		"P_EXPLAIN_SHORT": "業・鬼神剣",
-		"P_EXTRA_TEXT": "業・鬼神剣",
+		"P_EXPLAIN_SHORT": "業・鬼神剣
+		"P_EXTRA_TEXT": "業・鬼神剣
 	},
 	{
 		"P_SKILL_ID": "200012201",
-		"P_EXPLAIN_SHORT": "氷閃牙",
-		"P_EXTRA_TEXT": "氷閃牙",
+		"P_EXPLAIN_SHORT": "氷閃牙
+		"P_EXTRA_TEXT": "氷閃牙
 	},
 	{
 		"P_SKILL_ID": "200012301",
-		"P_EXPLAIN_SHORT": "氷彗牙",
-		"P_EXTRA_TEXT": "氷彗牙",
+		"P_EXPLAIN_SHORT": "氷彗牙
+		"P_EXTRA_TEXT": "氷彗牙
 	},
 	{
 		"P_SKILL_ID": "200012401",
-		"P_EXPLAIN_SHORT": "氷烈彗牙",
-		"P_EXTRA_TEXT": "氷烈彗牙",
+		"P_EXPLAIN_SHORT": "氷烈彗牙
+		"P_EXTRA_TEXT": "氷烈彗牙
 	},
 	{
 		"P_SKILL_ID": "200012402",
-		"P_EXPLAIN_SHORT": "グリスタースコール",
-		"P_EXTRA_TEXT": "グリスタースコール",
+		"P_EXPLAIN_SHORT": "グリスタースコール
+		"P_EXTRA_TEXT": "グリスタースコール
 	},
 	{
 		"P_SKILL_ID": "200022201",
-		"P_EXPLAIN_SHORT": "マイヤ＝トクス",
-		"P_EXTRA_TEXT": "マイヤ＝トクス",
+		"P_EXPLAIN_SHORT": "マイヤ＝トクス
+		"P_EXTRA_TEXT": "マイヤ＝トクス
 	},
 	{
 		"P_SKILL_ID": "200022301",
-		"P_EXPLAIN_SHORT": "マイヤ＝ケトム",
-		"P_EXTRA_TEXT": "マイヤ＝ケトム",
+		"P_EXPLAIN_SHORT": "マイヤ＝ケトム
+		"P_EXTRA_TEXT": "マイヤ＝ケトム
 	},
 	{
 		"P_SKILL_ID": "200022401",
-		"P_EXPLAIN_SHORT": "マイヤ＝カノン",
-		"P_EXTRA_TEXT": "マイヤ＝カノン",
+		"P_EXPLAIN_SHORT": "マイヤ＝カノン
+		"P_EXTRA_TEXT": "マイヤ＝カノン
 	},
 	{
 		"P_SKILL_ID": "200022402",
-		"P_EXPLAIN_SHORT": "魔魂ノ渦",
-		"P_EXTRA_TEXT": "魔魂ノ渦",
+		"P_EXPLAIN_SHORT": "魔魂ノ渦
+		"P_EXTRA_TEXT": "魔魂ノ渦
 	},
 	{
 		"P_SKILL_ID": "200032201",
-		"P_EXPLAIN_SHORT": "ブレイブフロウ",
-		"P_EXTRA_TEXT": "ブレイブフロウ",
+		"P_EXPLAIN_SHORT": "ブレイブフロウ
+		"P_EXTRA_TEXT": "ブレイブフロウ
 	},
 	{
 		"P_SKILL_ID": "200032301",
-		"P_EXPLAIN_SHORT": "ブレイブクリーク",
-		"P_EXTRA_TEXT": "ブレイブクリーク",
+		"P_EXPLAIN_SHORT": "ブレイブクリーク
+		"P_EXTRA_TEXT": "ブレイブクリーク
 	},
 	{
 		"P_SKILL_ID": "200032401",
-		"P_EXPLAIN_SHORT": "ブレイブシェイプ",
-		"P_EXTRA_TEXT": "ブレイブシェイプ",
+		"P_EXPLAIN_SHORT": "ブレイブシェイプ
+		"P_EXTRA_TEXT": "ブレイブシェイプ
 	},
 	{
 		"P_SKILL_ID": "200032402",
-		"P_EXPLAIN_SHORT": "ヴァリアントストリーム",
-		"P_EXTRA_TEXT": "ヴァリアントストリーム",
+		"P_EXPLAIN_SHORT": "ヴァリアントストリーム
+		"P_EXTRA_TEXT": "ヴァリアントストリーム
 	},
 	{
 		"P_SKILL_ID": "200042201",
-		"P_EXPLAIN_SHORT": "ウィリートリック",
-		"P_EXTRA_TEXT": "ウィリートリック",
+		"P_EXPLAIN_SHORT": "ウィリートリック
+		"P_EXTRA_TEXT": "ウィリートリック
 	},
 	{
 		"P_SKILL_ID": "200042301",
-		"P_EXPLAIN_SHORT": "ウィリートラップ",
-		"P_EXTRA_TEXT": "ウィリートラップ",
+		"P_EXPLAIN_SHORT": "ウィリートラップ
+		"P_EXTRA_TEXT": "ウィリートラップ
 	},
 	{
 		"P_SKILL_ID": "200042401",
-		"P_EXPLAIN_SHORT": "ウィリーベリーガー",
-		"P_EXTRA_TEXT": "ウィリーベリーガー",
+		"P_EXPLAIN_SHORT": "ウィリーベリーガー
+		"P_EXTRA_TEXT": "ウィリーベリーガー
 	},
 	{
 		"P_SKILL_ID": "200042402",
-		"P_EXPLAIN_SHORT": "エクスクルージョン",
-		"P_EXTRA_TEXT": "エクスクルージョン",
+		"P_EXPLAIN_SHORT": "エクスクルージョン
+		"P_EXTRA_TEXT": "エクスクルージョン
 	},
 	{
 		"P_SKILL_ID": "200052201",
-		"P_EXPLAIN_SHORT": "『静』の星位",
-		"P_EXTRA_TEXT": "『静』の星位",
+		"P_EXPLAIN_SHORT": "『静』の星位
+		"P_EXTRA_TEXT": "『静』の星位
 	},
 	{
 		"P_SKILL_ID": "200052301",
-		"P_EXPLAIN_SHORT": "『癒』の星位",
-		"P_EXTRA_TEXT": "『癒』の星位",
+		"P_EXPLAIN_SHORT": "『癒』の星位
+		"P_EXTRA_TEXT": "『癒』の星位
 	},
 	{
 		"P_SKILL_ID": "200052401",
-		"P_EXPLAIN_SHORT": "『命』の星位",
-		"P_EXTRA_TEXT": "『命』の星位",
+		"P_EXPLAIN_SHORT": "『命』の星位
+		"P_EXTRA_TEXT": "『命』の星位
 	},
 	{
 		"P_SKILL_ID": "200052402",
-		"P_EXPLAIN_SHORT": "ヴェルソーの聖流",
-		"P_EXTRA_TEXT": "ヴェルソーの聖流",
+		"P_EXPLAIN_SHORT": "ヴェルソーの聖流
+		"P_EXTRA_TEXT": "ヴェルソーの聖流
 	},
 	{
 		"P_SKILL_ID": "200062001",
-		"P_EXPLAIN_SHORT": "スノウブレス",
-		"P_EXTRA_TEXT": "スノウブレス",
+		"P_EXPLAIN_SHORT": "スノウブレス
+		"P_EXTRA_TEXT": "スノウブレス
 	},
 	{
 		"P_SKILL_ID": "200062101",
-		"P_EXPLAIN_SHORT": "フリーズブレス",
-		"P_EXTRA_TEXT": "フリーズブレス",
+		"P_EXPLAIN_SHORT": "フリーズブレス
+		"P_EXTRA_TEXT": "フリーズブレス
 	},
 	{
 		"P_SKILL_ID": "200072101",
-		"P_EXPLAIN_SHORT": "スネークガッシュ",
-		"P_EXTRA_TEXT": "スネークガッシュ",
+		"P_EXPLAIN_SHORT": "スネークガッシュ
+		"P_EXTRA_TEXT": "スネークガッシュ
 	},
 	{
 		"P_SKILL_ID": "200072201",
-		"P_EXPLAIN_SHORT": "スネークスラッシュ",
-		"P_EXTRA_TEXT": "スネークスラッシュ",
+		"P_EXPLAIN_SHORT": "スネークスラッシュ
+		"P_EXTRA_TEXT": "スネークスラッシュ
 	},
 	{
 		"P_SKILL_ID": "200082001",
-		"P_EXPLAIN_SHORT": "ピグスライド",
-		"P_EXTRA_TEXT": "ピグスライド",
+		"P_EXPLAIN_SHORT": "ピグスライド
+		"P_EXTRA_TEXT": "ピグスライド
 	},
 	{
 		"P_SKILL_ID": "200082101",
-		"P_EXPLAIN_SHORT": "ピグノースライド",
-		"P_EXTRA_TEXT": "ピグノースライド",
+		"P_EXPLAIN_SHORT": "ピグノースライド
+		"P_EXTRA_TEXT": "ピグノースライド
 	},
 	{
 		"P_SKILL_ID": "200092101",
-		"P_EXPLAIN_SHORT": "シャークスマッシュ",
-		"P_EXTRA_TEXT": "シャークスマッシュ",
+		"P_EXPLAIN_SHORT": "シャークスマッシュ
+		"P_EXTRA_TEXT": "シャークスマッシュ
 	},
 	{
 		"P_SKILL_ID": "200092201",
-		"P_EXPLAIN_SHORT": "シャークトライデント",
-		"P_EXTRA_TEXT": "シャークトライデント",
+		"P_EXPLAIN_SHORT": "シャークトライデント
+		"P_EXTRA_TEXT": "シャークトライデント
 	},
 	{
 		"P_SKILL_ID": "200102001",
-		"P_EXPLAIN_SHORT": "ウィアードイート",
-		"P_EXTRA_TEXT": "ウィアードイート",
+		"P_EXPLAIN_SHORT": "ウィアードイート
+		"P_EXTRA_TEXT": "ウィアードイート
 	},
 	{
 		"P_SKILL_ID": "200102101",
-		"P_EXPLAIN_SHORT": "ウィアードコンスーム",
-		"P_EXTRA_TEXT": "ウィアードコンスーム",
+		"P_EXPLAIN_SHORT": "ウィアードコンスーム
+		"P_EXTRA_TEXT": "ウィアードコンスーム
 	},
 	{
 		"P_SKILL_ID": "200112401",
-		"P_EXPLAIN_SHORT": "魔神蒼覇斬",
-		"P_EXTRA_TEXT": "魔神蒼覇斬",
+		"P_EXPLAIN_SHORT": "魔神蒼覇斬
+		"P_EXTRA_TEXT": "魔神蒼覇斬
 	},
 	{
 		"P_SKILL_ID": "200112402",
-		"P_EXPLAIN_SHORT": "皇魔凍迅 蒼覇斬",
-		"P_EXTRA_TEXT": "皇魔凍迅 蒼覇斬",
+		"P_EXPLAIN_SHORT": "皇魔凍迅 蒼覇斬
+		"P_EXTRA_TEXT": "皇魔凍迅 蒼覇斬
 	},
 	{
 		"P_SKILL_ID": "200121201",
-		"P_EXPLAIN_SHORT": "エストレアルブレイド",
-		"P_EXTRA_TEXT": "エストレアルブレイド",
+		"P_EXPLAIN_SHORT": "エストレアルブレイド
+		"P_EXTRA_TEXT": "エストレアルブレイド
 	},
 	{
 		"P_SKILL_ID": "200121301",
-		"P_EXPLAIN_SHORT": "ディヴァインヘイル",
-		"P_EXTRA_TEXT": "ディヴァインヘイル",
+		"P_EXPLAIN_SHORT": "ディヴァインヘイル
+		"P_EXTRA_TEXT": "ディヴァインヘイル
 	},
 	{
 		"P_SKILL_ID": "200121401",
-		"P_EXPLAIN_SHORT": "ブリザードペイン",
-		"P_EXTRA_TEXT": "ブリザードペイン",
+		"P_EXPLAIN_SHORT": "ブリザードペイン
+		"P_EXTRA_TEXT": "ブリザードペイン
 	},
 	{
 		"P_SKILL_ID": "200121402",
-		"P_EXPLAIN_SHORT": "コキュートス・ゼロ",
-		"P_EXTRA_TEXT": "コキュートス・ゼロ",
+		"P_EXPLAIN_SHORT": "コキュートス・ゼロ
+		"P_EXTRA_TEXT": "コキュートス・ゼロ
 	},
 	{
 		"P_SKILL_ID": "200131201",
-		"P_EXPLAIN_SHORT": "エーテルガード",
-		"P_EXTRA_TEXT": "エーテルガード",
+		"P_EXPLAIN_SHORT": "エーテルガード
+		"P_EXTRA_TEXT": "エーテルガード
 	},
 	{
 		"P_SKILL_ID": "200131301",
-		"P_EXPLAIN_SHORT": "エーテルシールド",
-		"P_EXTRA_TEXT": "エーテルシールド",
+		"P_EXPLAIN_SHORT": "エーテルシールド
+		"P_EXTRA_TEXT": "エーテルシールド
 	},
 	{
 		"P_SKILL_ID": "200131401",
-		"P_EXPLAIN_SHORT": "ガーディアンフォース",
-		"P_EXTRA_TEXT": "ガーディアンフォース",
+		"P_EXPLAIN_SHORT": "ガーディアンフォース
+		"P_EXTRA_TEXT": "ガーディアンフォース
 	},
 	{
 		"P_SKILL_ID": "200131402",
-		"P_EXPLAIN_SHORT": "エーテルオーブ",
-		"P_EXTRA_TEXT": "エーテルオーブ",
+		"P_EXPLAIN_SHORT": "エーテルオーブ
+		"P_EXTRA_TEXT": "エーテルオーブ
 	},
 	{
 		"P_SKILL_ID": "200141201",
-		"P_EXPLAIN_SHORT": "サイクロンウィール",
-		"P_EXTRA_TEXT": "サイクロンウィール",
+		"P_EXPLAIN_SHORT": "サイクロンウィール
+		"P_EXTRA_TEXT": "サイクロンウィール
 	},
 	{
 		"P_SKILL_ID": "200141301",
-		"P_EXPLAIN_SHORT": "サイクロンオウス",
-		"P_EXTRA_TEXT": "サイクロンオウス",
+		"P_EXPLAIN_SHORT": "サイクロンオウス
+		"P_EXTRA_TEXT": "サイクロンオウス
 	},
 	{
 		"P_SKILL_ID": "200141401",
-		"P_EXPLAIN_SHORT": "グラウンドヴァルナー",
-		"P_EXTRA_TEXT": "グラウンドヴァルナー",
+		"P_EXPLAIN_SHORT": "グラウンドヴァルナー
+		"P_EXTRA_TEXT": "グラウンドヴァルナー
 	},
 	{
 		"P_SKILL_ID": "200141402",
-		"P_EXPLAIN_SHORT": "蒼氷界",
-		"P_EXTRA_TEXT": "蒼氷界",
+		"P_EXPLAIN_SHORT": "蒼氷界
+		"P_EXTRA_TEXT": "蒼氷界
 	},
 	{
 		"P_SKILL_ID": "200151201",
-		"P_EXPLAIN_SHORT": "覇凍連撃",
-		"P_EXTRA_TEXT": "覇凍連撃",
+		"P_EXPLAIN_SHORT": "覇凍連撃
+		"P_EXTRA_TEXT": "覇凍連撃
 	},
 	{
 		"P_SKILL_ID": "200151301",
-		"P_EXPLAIN_SHORT": "帝王氷刹刃",
-		"P_EXTRA_TEXT": "帝王氷刹刃",
+		"P_EXPLAIN_SHORT": "帝王氷刹刃
+		"P_EXTRA_TEXT": "帝王氷刹刃
 	},
 	{
 		"P_SKILL_ID": "200151401",
-		"P_EXPLAIN_SHORT": "砕覇裂氷撃",
-		"P_EXTRA_TEXT": "砕覇裂氷撃",
+		"P_EXPLAIN_SHORT": "砕覇裂氷撃
+		"P_EXTRA_TEXT": "砕覇裂氷撃
 	},
 	{
 		"P_SKILL_ID": "200151402",
-		"P_EXPLAIN_SHORT": "ダイヤモンドクリーヴ",
-		"P_EXTRA_TEXT": "ダイヤモンドクリーヴ",
+		"P_EXPLAIN_SHORT": "ダイヤモンドクリーヴ
+		"P_EXTRA_TEXT": "ダイヤモンドクリーヴ
 	},
 	{
 		"P_SKILL_ID": "200161201",
-		"P_EXPLAIN_SHORT": "海穿ちフラッドスピン",
-		"P_EXTRA_TEXT": "海穿ちフラッドスピン",
+		"P_EXPLAIN_SHORT": "海穿ちフラッドスピン
+		"P_EXTRA_TEXT": "海穿ちフラッドスピン
 	},
 	{
 		"P_SKILL_ID": "200161301",
-		"P_EXPLAIN_SHORT": "テンペストガロウズ",
-		"P_EXTRA_TEXT": "テンペストガロウズ",
+		"P_EXPLAIN_SHORT": "テンペストガロウズ
+		"P_EXTRA_TEXT": "テンペストガロウズ
 	},
 	{
 		"P_SKILL_ID": "200161401",
-		"P_EXPLAIN_SHORT": "サイクロンディザスター",
-		"P_EXTRA_TEXT": "サイクロンディザスター",
+		"P_EXPLAIN_SHORT": "サイクロンディザスター
+		"P_EXTRA_TEXT": "サイクロンディザスター
 	},
 	{
 		"P_SKILL_ID": "200161402",
-		"P_EXPLAIN_SHORT": "ポセイドンタイド",
-		"P_EXTRA_TEXT": "ポセイドンタイド",
+		"P_EXPLAIN_SHORT": "ポセイドンタイド
+		"P_EXTRA_TEXT": "ポセイドンタイド
 	},
 	{
 		"P_SKILL_ID": "200171201",
-		"P_EXPLAIN_SHORT": "コールドソリッド",
-		"P_EXTRA_TEXT": "コールドソリッド",
+		"P_EXPLAIN_SHORT": "コールドソリッド
+		"P_EXTRA_TEXT": "コールドソリッド
 	},
 	{
 		"P_SKILL_ID": "200171301",
-		"P_EXPLAIN_SHORT": "ダイヤモンドダスト",
-		"P_EXTRA_TEXT": "ダイヤモンドダスト",
+		"P_EXPLAIN_SHORT": "ダイヤモンドダスト
+		"P_EXTRA_TEXT": "ダイヤモンドダスト
 	},
 	{
 		"P_SKILL_ID": "200171401",
-		"P_EXPLAIN_SHORT": "アブソリュート・ゼロ",
-		"P_EXTRA_TEXT": "アブソリュート・ゼロ",
+		"P_EXPLAIN_SHORT": "アブソリュート・ゼロ
+		"P_EXTRA_TEXT": "アブソリュート・ゼロ
 	},
 	{
 		"P_SKILL_ID": "200171402",
-		"P_EXPLAIN_SHORT": "ベナムゾーン",
-		"P_EXTRA_TEXT": "ベナムゾーン",
+		"P_EXPLAIN_SHORT": "ベナムゾーン
+		"P_EXTRA_TEXT": "ベナムゾーン
 	},
 	{
 		"P_SKILL_ID": "200181201",
-		"P_EXPLAIN_SHORT": "アイシクルレイ",
-		"P_EXTRA_TEXT": "アイシクルレイ",
+		"P_EXPLAIN_SHORT": "アイシクルレイ
+		"P_EXTRA_TEXT": "アイシクルレイ
 	},
 	{
 		"P_SKILL_ID": "200181301",
-		"P_EXPLAIN_SHORT": "アイシクルブライト",
-		"P_EXTRA_TEXT": "アイシクルブライト",
+		"P_EXPLAIN_SHORT": "アイシクルブライト
+		"P_EXTRA_TEXT": "アイシクルブライト
 	},
 	{
 		"P_SKILL_ID": "200181401",
-		"P_EXPLAIN_SHORT": "アイシクルグレア",
-		"P_EXTRA_TEXT": "アイシクルグレア",
+		"P_EXPLAIN_SHORT": "アイシクルグレア
+		"P_EXTRA_TEXT": "アイシクルグレア
 	},
 	{
 		"P_SKILL_ID": "200181402",
-		"P_EXPLAIN_SHORT": "ダイアディック",
-		"P_EXTRA_TEXT": "ダイアディック",
+		"P_EXPLAIN_SHORT": "ダイアディック
+		"P_EXTRA_TEXT": "ダイアディック
 	},
 	{
 		"P_SKILL_ID": "200191201",
-		"P_EXPLAIN_SHORT": "テラ・ガード",
-		"P_EXTRA_TEXT": "テラ・ガード",
+		"P_EXPLAIN_SHORT": "テラ・ガード
+		"P_EXTRA_TEXT": "テラ・ガード
 	},
 	{
 		"P_SKILL_ID": "200191301",
-		"P_EXPLAIN_SHORT": "エクサ・ガード",
-		"P_EXTRA_TEXT": "エクサ・ガード",
+		"P_EXPLAIN_SHORT": "エクサ・ガード
+		"P_EXTRA_TEXT": "エクサ・ガード
 	},
 	{
 		"P_SKILL_ID": "200191401",
-		"P_EXPLAIN_SHORT": "ゼタ・ガード",
-		"P_EXTRA_TEXT": "ゼタ・ガード",
+		"P_EXPLAIN_SHORT": "ゼタ・ガード
+		"P_EXTRA_TEXT": "ゼタ・ガード
 	},
 	{
 		"P_SKILL_ID": "200191402",
-		"P_EXPLAIN_SHORT": "Ａ.Ｇ.Ｐ",
-		"P_EXTRA_TEXT": "Ａ.Ｇ.Ｐ",
+		"P_EXPLAIN_SHORT": "Ａ.Ｇ.Ｐ
+		"P_EXTRA_TEXT": "Ａ.Ｇ.Ｐ
 	},
 	{
 		"P_SKILL_ID": "200201201",
-		"P_EXPLAIN_SHORT": "デッドリークロウ",
-		"P_EXTRA_TEXT": "デッドリークロウ",
+		"P_EXPLAIN_SHORT": "デッドリークロウ
+		"P_EXTRA_TEXT": "デッドリークロウ
 	},
 	{
 		"P_SKILL_ID": "200201301",
-		"P_EXPLAIN_SHORT": "デッドリーアーツ",
-		"P_EXTRA_TEXT": "デッドリーアーツ",
+		"P_EXPLAIN_SHORT": "デッドリーアーツ
+		"P_EXTRA_TEXT": "デッドリーアーツ
 	},
 	{
 		"P_SKILL_ID": "200201401",
-		"P_EXPLAIN_SHORT": "メルトガーディアン",
-		"P_EXTRA_TEXT": "メルトガーディアン",
+		"P_EXPLAIN_SHORT": "メルトガーディアン
+		"P_EXTRA_TEXT": "メルトガーディアン
 	},
 	{
 		"P_SKILL_ID": "200201402",
-		"P_EXPLAIN_SHORT": "裂爪『流絶鬼』",
-		"P_EXTRA_TEXT": "裂爪『流絶鬼』",
+		"P_EXPLAIN_SHORT": "裂爪『流絶鬼』
+		"P_EXTRA_TEXT": "裂爪『流絶鬼』
 	},
 	{
 		"P_SKILL_ID": "200211001",
-		"P_EXPLAIN_SHORT": "噛みつきアイジング",
-		"P_EXTRA_TEXT": "噛みつきアイジング",
+		"P_EXPLAIN_SHORT": "噛みつきアイジング
+		"P_EXTRA_TEXT": "噛みつきアイジング
 	},
 	{
 		"P_SKILL_ID": "200211101",
-		"P_EXPLAIN_SHORT": "丸かじりアイジング",
-		"P_EXTRA_TEXT": "丸かじりアイジング",
+		"P_EXPLAIN_SHORT": "丸かじりアイジング
+		"P_EXTRA_TEXT": "丸かじりアイジング
 	},
 	{
 		"P_SKILL_ID": "200221001",
-		"P_EXPLAIN_SHORT": "キュアリング",
-		"P_EXTRA_TEXT": "キュアリング",
+		"P_EXPLAIN_SHORT": "キュアリング
+		"P_EXTRA_TEXT": "キュアリング
 	},
 	{
 		"P_SKILL_ID": "200221101",
-		"P_EXPLAIN_SHORT": "キュアライト",
-		"P_EXTRA_TEXT": "キュアライト",
+		"P_EXPLAIN_SHORT": "キュアライト
+		"P_EXTRA_TEXT": "キュアライト
 	},
 	{
 		"P_SKILL_ID": "200221201",
-		"P_EXPLAIN_SHORT": "キュアストーム",
-		"P_EXTRA_TEXT": "キュアストーム",
+		"P_EXPLAIN_SHORT": "キュアストーム
+		"P_EXTRA_TEXT": "キュアストーム
 	},
 	{
 		"P_SKILL_ID": "200231001",
-		"P_EXPLAIN_SHORT": "スパイラルランス",
-		"P_EXTRA_TEXT": "スパイラルランス",
+		"P_EXPLAIN_SHORT": "スパイラルランス
+		"P_EXTRA_TEXT": "スパイラルランス
 	},
 	{
 		"P_SKILL_ID": "200231101",
-		"P_EXPLAIN_SHORT": "ダンシングチャージ",
-		"P_EXTRA_TEXT": "ダンシングチャージ",
+		"P_EXPLAIN_SHORT": "ダンシングチャージ
+		"P_EXTRA_TEXT": "ダンシングチャージ
 	},
 	{
 		"P_SKILL_ID": "200231201",
-		"P_EXPLAIN_SHORT": "フリーズランサー",
-		"P_EXTRA_TEXT": "フリーズランサー",
+		"P_EXPLAIN_SHORT": "フリーズランサー
+		"P_EXTRA_TEXT": "フリーズランサー
 	},
 	{
 		"P_SKILL_ID": "200241101",
-		"P_EXPLAIN_SHORT": "リキュアライズ",
-		"P_EXTRA_TEXT": "リキュアライズ",
+		"P_EXPLAIN_SHORT": "リキュアライズ
+		"P_EXTRA_TEXT": "リキュアライズ
 	},
 	{
 		"P_SKILL_ID": "200241201",
-		"P_EXPLAIN_SHORT": "レメディフロー",
-		"P_EXTRA_TEXT": "レメディフロー",
+		"P_EXPLAIN_SHORT": "レメディフロー
+		"P_EXTRA_TEXT": "レメディフロー
 	},
 	{
 		"P_SKILL_ID": "200251101",
-		"P_EXPLAIN_SHORT": "クレイジースラッシュ",
-		"P_EXTRA_TEXT": "クレイジースラッシュ",
+		"P_EXPLAIN_SHORT": "クレイジースラッシュ
+		"P_EXTRA_TEXT": "クレイジースラッシュ
 	},
 	{
 		"P_SKILL_ID": "200251201",
-		"P_EXPLAIN_SHORT": "マキシマムヴァイス",
-		"P_EXTRA_TEXT": "マキシマムヴァイス",
+		"P_EXPLAIN_SHORT": "マキシマムヴァイス
+		"P_EXTRA_TEXT": "マキシマムヴァイス
 	},
 	{
 		"P_SKILL_ID": "200251301",
-		"P_EXPLAIN_SHORT": "ポセイドンアックス",
-		"P_EXTRA_TEXT": "ポセイドンアックス",
+		"P_EXPLAIN_SHORT": "ポセイドンアックス
+		"P_EXTRA_TEXT": "ポセイドンアックス
 	},
 	{
 		"P_SKILL_ID": "200281401",
-		"P_EXPLAIN_SHORT": "セルリアンセイヴァー",
-		"P_EXTRA_TEXT": "セルリアンセイヴァー",
+		"P_EXPLAIN_SHORT": "セルリアンセイヴァー
+		"P_EXTRA_TEXT": "セルリアンセイヴァー
 	},
 	{
 		"P_SKILL_ID": "200281402",
-		"P_EXPLAIN_SHORT": "アコレード・ブルー",
-		"P_EXTRA_TEXT": "アコレード・ブルー",
+		"P_EXPLAIN_SHORT": "アコレード・ブルー
+		"P_EXTRA_TEXT": "アコレード・ブルー
 	},
 	{
 		"P_SKILL_ID": "210112401",
-		"P_EXPLAIN_SHORT": "真竜蒼覇界",
-		"P_EXTRA_TEXT": "真竜蒼覇界",
+		"P_EXPLAIN_SHORT": "真竜蒼覇界
+		"P_EXTRA_TEXT": "真竜蒼覇界
 	},
 	{
 		"P_SKILL_ID": "210112402",
-		"P_EXPLAIN_SHORT": "神魔蒼零界",
-		"P_EXTRA_TEXT": "神魔蒼零界",
+		"P_EXPLAIN_SHORT": "神魔蒼零界
+		"P_EXTRA_TEXT": "神魔蒼零界
 	},
 	{
 		"P_SKILL_ID": "300012201",
-		"P_EXPLAIN_SHORT": "アレイフロウ",
-		"P_EXTRA_TEXT": "アレイフロウ",
+		"P_EXPLAIN_SHORT": "アレイフロウ
+		"P_EXTRA_TEXT": "アレイフロウ
 	},
 	{
 		"P_SKILL_ID": "300012301",
-		"P_EXPLAIN_SHORT": "アレイブリーズ",
-		"P_EXTRA_TEXT": "アレイブリーズ",
+		"P_EXPLAIN_SHORT": "アレイブリーズ
+		"P_EXTRA_TEXT": "アレイブリーズ
 	},
 	{
 		"P_SKILL_ID": "300012401",
-		"P_EXPLAIN_SHORT": "アレイストリーム",
-		"P_EXTRA_TEXT": "アレイストリーム",
+		"P_EXPLAIN_SHORT": "アレイストリーム
+		"P_EXTRA_TEXT": "アレイストリーム
 	},
 	{
 		"P_SKILL_ID": "300012402",
-		"P_EXPLAIN_SHORT": "ヒールアンビエンス",
-		"P_EXTRA_TEXT": "ヒールアンビエンス",
+		"P_EXPLAIN_SHORT": "ヒールアンビエンス
+		"P_EXTRA_TEXT": "ヒールアンビエンス
 	},
 	{
 		"P_SKILL_ID": "300022201",
-		"P_EXPLAIN_SHORT": "連装魔銃『クインス』",
-		"P_EXTRA_TEXT": "連装魔銃『クインス』",
+		"P_EXPLAIN_SHORT": "連装魔銃『クインス』
+		"P_EXTRA_TEXT": "連装魔銃『クインス』
 	},
 	{
 		"P_SKILL_ID": "300022301",
-		"P_EXPLAIN_SHORT": "連装魔砲『オーキッド』",
-		"P_EXTRA_TEXT": "連装魔砲『オーキッド』",
+		"P_EXPLAIN_SHORT": "連装魔砲『オーキッド』
+		"P_EXTRA_TEXT": "連装魔砲『オーキッド』
 	},
 	{
 		"P_SKILL_ID": "300022401",
-		"P_EXPLAIN_SHORT": "連装魔閃『アマリリス』",
-		"P_EXTRA_TEXT": "連装魔閃『アマリリス』",
+		"P_EXPLAIN_SHORT": "連装魔閃『アマリリス』
+		"P_EXTRA_TEXT": "連装魔閃『アマリリス』
 	},
 	{
 		"P_SKILL_ID": "300022402",
-		"P_EXPLAIN_SHORT": "殲激のアミュニション",
-		"P_EXTRA_TEXT": "殲激のアミュニション",
+		"P_EXPLAIN_SHORT": "殲激のアミュニション
+		"P_EXTRA_TEXT": "殲激のアミュニション
 	},
 	{
 		"P_SKILL_ID": "300032201",
-		"P_EXPLAIN_SHORT": "テラピアブリーズ",
-		"P_EXTRA_TEXT": "テラピアブリーズ",
+		"P_EXPLAIN_SHORT": "テラピアブリーズ
+		"P_EXTRA_TEXT": "テラピアブリーズ
 	},
 	{
 		"P_SKILL_ID": "300032301",
-		"P_EXPLAIN_SHORT": "テラピアウィンド",
-		"P_EXTRA_TEXT": "テラピアウィンド",
+		"P_EXPLAIN_SHORT": "テラピアウィンド
+		"P_EXTRA_TEXT": "テラピアウィンド
 	},
 	{
 		"P_SKILL_ID": "300032401",
-		"P_EXPLAIN_SHORT": "テラピアブルーム",
-		"P_EXTRA_TEXT": "テラピアブルーム",
+		"P_EXPLAIN_SHORT": "テラピアブルーム
+		"P_EXTRA_TEXT": "テラピアブルーム
 	},
 	{
 		"P_SKILL_ID": "300032402",
-		"P_EXPLAIN_SHORT": "リライアンス",
-		"P_EXTRA_TEXT": "リライアンス",
+		"P_EXPLAIN_SHORT": "リライアンス
+		"P_EXTRA_TEXT": "リライアンス
 	},
 	{
 		"P_SKILL_ID": "300042201",
-		"P_EXPLAIN_SHORT": "華剣『バロック』",
-		"P_EXTRA_TEXT": "華剣『バロック』",
+		"P_EXPLAIN_SHORT": "華剣『バロック』
+		"P_EXTRA_TEXT": "華剣『バロック』
 	},
 	{
 		"P_SKILL_ID": "300042301",
-		"P_EXPLAIN_SHORT": "貴剣『パソ・ドブル』",
-		"P_EXTRA_TEXT": "貴剣『パソ・ドブル』",
+		"P_EXPLAIN_SHORT": "貴剣『パソ・ドブル』
+		"P_EXTRA_TEXT": "貴剣『パソ・ドブル』
 	},
 	{
 		"P_SKILL_ID": "300042401",
-		"P_EXPLAIN_SHORT": "麗剣『フリューレット』",
-		"P_EXTRA_TEXT": "麗剣『フリューレット』",
+		"P_EXPLAIN_SHORT": "麗剣『フリューレット』
+		"P_EXTRA_TEXT": "麗剣『フリューレット』
 	},
 	{
 		"P_SKILL_ID": "300042402",
-		"P_EXPLAIN_SHORT": "ラヴィアンローズ",
-		"P_EXTRA_TEXT": "ラヴィアンローズ",
+		"P_EXPLAIN_SHORT": "ラヴィアンローズ
+		"P_EXTRA_TEXT": "ラヴィアンローズ
 	},
 	{
 		"P_SKILL_ID": "300052201",
-		"P_EXPLAIN_SHORT": "生の章『ファーム』",
-		"P_EXTRA_TEXT": "生の章『ファーム』",
+		"P_EXPLAIN_SHORT": "生の章『ファーム』
+		"P_EXTRA_TEXT": "生の章『ファーム』
 	},
 	{
 		"P_SKILL_ID": "300052301",
-		"P_EXPLAIN_SHORT": "識の章『ロージュ』",
-		"P_EXTRA_TEXT": "識の章『ロージュ』",
+		"P_EXPLAIN_SHORT": "識の章『ロージュ』
+		"P_EXTRA_TEXT": "識の章『ロージュ』
 	},
 	{
 		"P_SKILL_ID": "300052401",
-		"P_EXPLAIN_SHORT": "護の章『フェノリアス』",
-		"P_EXTRA_TEXT": "護の章『フェノリアス』",
+		"P_EXPLAIN_SHORT": "護の章『フェノリアス』
+		"P_EXTRA_TEXT": "護の章『フェノリアス』
 	},
 	{
 		"P_SKILL_ID": "300052402",
-		"P_EXPLAIN_SHORT": "幻章『サピエンティア』",
-		"P_EXTRA_TEXT": "幻章『サピエンティア』",
+		"P_EXPLAIN_SHORT": "幻章『サピエンティア』
+		"P_EXTRA_TEXT": "幻章『サピエンティア』
 	},
 	{
 		"P_SKILL_ID": "300062001",
-		"P_EXPLAIN_SHORT": "クイックラム",
-		"P_EXTRA_TEXT": "クイックラム",
+		"P_EXPLAIN_SHORT": "クイックラム
+		"P_EXTRA_TEXT": "クイックラム
 	},
 	{
 		"P_SKILL_ID": "300062101",
-		"P_EXPLAIN_SHORT": "クイックラッシュ",
-		"P_EXTRA_TEXT": "クイックラッシュ",
+		"P_EXPLAIN_SHORT": "クイックラッシュ
+		"P_EXTRA_TEXT": "クイックラッシュ
 	},
 	{
 		"P_SKILL_ID": "300072101",
-		"P_EXPLAIN_SHORT": "デッドブレス",
-		"P_EXTRA_TEXT": "デッドブレス",
+		"P_EXPLAIN_SHORT": "デッドブレス
+		"P_EXTRA_TEXT": "デッドブレス
 	},
 	{
 		"P_SKILL_ID": "300072201",
-		"P_EXPLAIN_SHORT": "デッドヴォミット",
-		"P_EXTRA_TEXT": "デッドヴォミット",
+		"P_EXPLAIN_SHORT": "デッドヴォミット
+		"P_EXTRA_TEXT": "デッドヴォミット
 	},
 	{
 		"P_SKILL_ID": "300082001",
-		"P_EXPLAIN_SHORT": "煙胞子",
-		"P_EXTRA_TEXT": "煙胞子",
+		"P_EXPLAIN_SHORT": "煙胞子
+		"P_EXTRA_TEXT": "煙胞子
 	},
 	{
 		"P_SKILL_ID": "300082101",
-		"P_EXPLAIN_SHORT": "紫煙胞子",
-		"P_EXTRA_TEXT": "紫煙胞子",
+		"P_EXPLAIN_SHORT": "紫煙胞子
+		"P_EXTRA_TEXT": "紫煙胞子
 	},
 	{
 		"P_SKILL_ID": "300092101",
-		"P_EXPLAIN_SHORT": "ステージの開幕だよ♪",
-		"P_EXTRA_TEXT": "ステージの開幕だよ♪",
+		"P_EXPLAIN_SHORT": "ステージの開幕だよ♪
+		"P_EXTRA_TEXT": "ステージの開幕だよ♪
 	},
 	{
 		"P_SKILL_ID": "300092201",
-		"P_EXPLAIN_SHORT": "私の活躍、見逃さないでね♪",
-		"P_EXTRA_TEXT": "私の活躍、見逃さないでね♪",
+		"P_EXPLAIN_SHORT": "私の活躍、見逃さないでね♪
+		"P_EXTRA_TEXT": "私の活躍、見逃さないでね♪
 	},
 	{
 		"P_SKILL_ID": "300102001",
-		"P_EXPLAIN_SHORT": "泥粘液",
-		"P_EXTRA_TEXT": "泥粘液",
+		"P_EXPLAIN_SHORT": "泥粘液
+		"P_EXTRA_TEXT": "泥粘液
 	},
 	{
 		"P_SKILL_ID": "300102101",
-		"P_EXPLAIN_SHORT": "汚泥粘撃",
-		"P_EXTRA_TEXT": "汚泥粘撃",
+		"P_EXPLAIN_SHORT": "汚泥粘撃
+		"P_EXTRA_TEXT": "汚泥粘撃
 	},
 	{
 		"P_SKILL_ID": "300112201",
-		"P_EXPLAIN_SHORT": "翠旋華",
-		"P_EXTRA_TEXT": "翠旋華",
+		"P_EXPLAIN_SHORT": "翠旋華
+		"P_EXTRA_TEXT": "翠旋華
 	},
 	{
 		"P_SKILL_ID": "300112301",
-		"P_EXPLAIN_SHORT": "翠閃華",
-		"P_EXTRA_TEXT": "翠閃華",
+		"P_EXPLAIN_SHORT": "翠閃華
+		"P_EXTRA_TEXT": "翠閃華
 	},
 	{
 		"P_SKILL_ID": "300112401",
-		"P_EXPLAIN_SHORT": "瞬迅 翠連華",
-		"P_EXTRA_TEXT": "瞬迅 翠連華",
+		"P_EXPLAIN_SHORT": "瞬迅 翠連華
+		"P_EXTRA_TEXT": "瞬迅 翠連華
 	},
 	{
 		"P_SKILL_ID": "300112402",
-		"P_EXPLAIN_SHORT": "閃舞刄",
-		"P_EXTRA_TEXT": "閃舞刄",
+		"P_EXPLAIN_SHORT": "閃舞刄
+		"P_EXTRA_TEXT": "閃舞刄
 	},
 	{
 		"P_SKILL_ID": "300121201",
-		"P_EXPLAIN_SHORT": "フラッシュゲイル",
-		"P_EXTRA_TEXT": "フラッシュゲイル",
+		"P_EXPLAIN_SHORT": "フラッシュゲイル
+		"P_EXTRA_TEXT": "フラッシュゲイル
 	},
 	{
 		"P_SKILL_ID": "300121301",
-		"P_EXPLAIN_SHORT": "フラッシュトルネード",
-		"P_EXTRA_TEXT": "フラッシュトルネード",
+		"P_EXPLAIN_SHORT": "フラッシュトルネード
+		"P_EXTRA_TEXT": "フラッシュトルネード
 	},
 	{
 		"P_SKILL_ID": "300121401",
-		"P_EXPLAIN_SHORT": "ミストラルレイジ",
-		"P_EXTRA_TEXT": "ミストラルレイジ",
+		"P_EXPLAIN_SHORT": "ミストラルレイジ
+		"P_EXTRA_TEXT": "ミストラルレイジ
 	},
 	{
 		"P_SKILL_ID": "300121402",
-		"P_EXPLAIN_SHORT": "エターナルゼファー",
-		"P_EXTRA_TEXT": "エターナルゼファー",
+		"P_EXPLAIN_SHORT": "エターナルゼファー
+		"P_EXTRA_TEXT": "エターナルゼファー
 	},
 	{
 		"P_SKILL_ID": "300122401",
-		"P_EXPLAIN_SHORT": "ヴェルト・スカイガーデン",
-		"P_EXTRA_TEXT": "ヴェルト・スカイガーデン",
+		"P_EXPLAIN_SHORT": "ヴェルト・スカイガーデン
+		"P_EXTRA_TEXT": "ヴェルト・スカイガーデン
 	},
 	{
 		"P_SKILL_ID": "300122402",
-		"P_EXPLAIN_SHORT": "叢垓覇刄",
-		"P_EXTRA_TEXT": "叢垓覇刄",
+		"P_EXPLAIN_SHORT": "叢垓覇刄
+		"P_EXTRA_TEXT": "叢垓覇刄
 	},
 	{
 		"P_SKILL_ID": "300131201",
-		"P_EXPLAIN_SHORT": "カルネージスカイ",
-		"P_EXTRA_TEXT": "カルネージスカイ",
+		"P_EXPLAIN_SHORT": "カルネージスカイ
+		"P_EXTRA_TEXT": "カルネージスカイ
 	},
 	{
 		"P_SKILL_ID": "300131301",
-		"P_EXPLAIN_SHORT": "スペリオルニードル",
-		"P_EXTRA_TEXT": "スペリオルニードル",
+		"P_EXPLAIN_SHORT": "スペリオルニードル
+		"P_EXTRA_TEXT": "スペリオルニードル
 	},
 	{
 		"P_SKILL_ID": "300131401",
-		"P_EXPLAIN_SHORT": "シューティングスター",
-		"P_EXTRA_TEXT": "シューティングスター",
+		"P_EXPLAIN_SHORT": "シューティングスター
+		"P_EXTRA_TEXT": "シューティングスター
 	},
 	{
 		"P_SKILL_ID": "300131402",
-		"P_EXPLAIN_SHORT": "スターゲイル",
-		"P_EXTRA_TEXT": "スターゲイル",
+		"P_EXPLAIN_SHORT": "スターゲイル
+		"P_EXTRA_TEXT": "スターゲイル
 	},
 	{
 		"P_SKILL_ID": "300141201",
-		"P_EXPLAIN_SHORT": "デフトスティール",
-		"P_EXTRA_TEXT": "デフトスティール",
+		"P_EXPLAIN_SHORT": "デフトスティール
+		"P_EXTRA_TEXT": "デフトスティール
 	},
 	{
 		"P_SKILL_ID": "300141301",
-		"P_EXPLAIN_SHORT": "バトルスティール",
-		"P_EXTRA_TEXT": "バトルスティール",
+		"P_EXPLAIN_SHORT": "バトルスティール
+		"P_EXTRA_TEXT": "バトルスティール
 	},
 	{
 		"P_SKILL_ID": "300141401",
-		"P_EXPLAIN_SHORT": "リディングレイジ",
-		"P_EXTRA_TEXT": "リディングレイジ",
+		"P_EXPLAIN_SHORT": "リディングレイジ
+		"P_EXTRA_TEXT": "リディングレイジ
 	},
 	{
 		"P_SKILL_ID": "300141402",
-		"P_EXPLAIN_SHORT": "ゼルナイトの慧眼",
-		"P_EXTRA_TEXT": "ゼルナイトの慧眼",
+		"P_EXPLAIN_SHORT": "ゼルナイトの慧眼
+		"P_EXTRA_TEXT": "ゼルナイトの慧眼
 	},
 	{
 		"P_SKILL_ID": "300151201",
-		"P_EXPLAIN_SHORT": "ルーセントパージ",
-		"P_EXTRA_TEXT": "ルーセントパージ",
+		"P_EXPLAIN_SHORT": "ルーセントパージ
+		"P_EXTRA_TEXT": "ルーセントパージ
 	},
 	{
 		"P_SKILL_ID": "300151301",
-		"P_EXPLAIN_SHORT": "べネボランスパージ",
-		"P_EXTRA_TEXT": "べネボランスパージ",
+		"P_EXPLAIN_SHORT": "べネボランスパージ
+		"P_EXTRA_TEXT": "べネボランスパージ
 	},
 	{
 		"P_SKILL_ID": "300151401",
-		"P_EXPLAIN_SHORT": "ゴッドパージ",
-		"P_EXTRA_TEXT": "ゴッドパージ",
+		"P_EXPLAIN_SHORT": "ゴッドパージ
+		"P_EXTRA_TEXT": "ゴッドパージ
 	},
 	{
 		"P_SKILL_ID": "300151402",
-		"P_EXPLAIN_SHORT": "コスモブルーム",
-		"P_EXTRA_TEXT": "コスモブルーム",
+		"P_EXPLAIN_SHORT": "コスモブルーム
+		"P_EXTRA_TEXT": "コスモブルーム
 	},
 	{
 		"P_SKILL_ID": "300161201",
-		"P_EXPLAIN_SHORT": "わたし、戦います！",
-		"P_EXTRA_TEXT": "わたし、戦います！",
+		"P_EXPLAIN_SHORT": "わたし、戦います！
+		"P_EXTRA_TEXT": "わたし、戦います！
 	},
 	{
 		"P_SKILL_ID": "300161301",
-		"P_EXPLAIN_SHORT": "私の剣で皆を守ります！",
-		"P_EXTRA_TEXT": "私の剣で皆を守ります！",
+		"P_EXPLAIN_SHORT": "私の剣で皆を守ります！
+		"P_EXTRA_TEXT": "私の剣で皆を守ります！
 	},
 	{
 		"P_SKILL_ID": "300161401",
-		"P_EXPLAIN_SHORT": "私に任せてください！",
-		"P_EXTRA_TEXT": "私に任せてください！",
+		"P_EXPLAIN_SHORT": "私に任せてください！
+		"P_EXTRA_TEXT": "私に任せてください！
 	},
 	{
 		"P_SKILL_ID": "300161402",
-		"P_EXPLAIN_SHORT": "ホーリーラスター",
-		"P_EXTRA_TEXT": "ホーリーラスター",
+		"P_EXPLAIN_SHORT": "ホーリーラスター
+		"P_EXTRA_TEXT": "ホーリーラスター
 	},
 	{
 		"P_SKILL_ID": "300171201",
-		"P_EXPLAIN_SHORT": "グランドバッシュ",
-		"P_EXTRA_TEXT": "グランドバッシュ",
+		"P_EXPLAIN_SHORT": "グランドバッシュ
+		"P_EXTRA_TEXT": "グランドバッシュ
 	},
 	{
 		"P_SKILL_ID": "300171301",
-		"P_EXPLAIN_SHORT": "アストロンバッシュ",
-		"P_EXTRA_TEXT": "アストロンバッシュ",
+		"P_EXPLAIN_SHORT": "アストロンバッシュ
+		"P_EXTRA_TEXT": "アストロンバッシュ
 	},
 	{
 		"P_SKILL_ID": "300171401",
-		"P_EXPLAIN_SHORT": "グランドクロス",
-		"P_EXTRA_TEXT": "グランドクロス",
+		"P_EXPLAIN_SHORT": "グランドクロス
+		"P_EXTRA_TEXT": "グランドクロス
 	},
 	{
 		"P_SKILL_ID": "300171402",
-		"P_EXPLAIN_SHORT": "フロルパグローム",
-		"P_EXTRA_TEXT": "フロルパグローム",
+		"P_EXPLAIN_SHORT": "フロルパグローム
+		"P_EXTRA_TEXT": "フロルパグローム
 	},
 	{
 		"P_SKILL_ID": "300181201",
-		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『シーク』",
-		"P_EXTRA_TEXT": "ヴェーダ流破剣『シーク』",
+		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『シーク』
+		"P_EXTRA_TEXT": "ヴェーダ流破剣『シーク』
 	},
 	{
 		"P_SKILL_ID": "300181301",
-		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『フォルク』",
-		"P_EXTRA_TEXT": "ヴェーダ流破剣『フォルク』",
+		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『フォルク』
+		"P_EXTRA_TEXT": "ヴェーダ流破剣『フォルク』
 	},
 	{
 		"P_SKILL_ID": "300181401",
-		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『レイドル』",
-		"P_EXTRA_TEXT": "ヴェーダ流破剣『レイドル』",
+		"P_EXPLAIN_SHORT": "ヴェーダ流破剣『レイドル』
+		"P_EXTRA_TEXT": "ヴェーダ流破剣『レイドル』
 	},
 	{
 		"P_SKILL_ID": "300181402",
-		"P_EXPLAIN_SHORT": "ゼルバーンの使命",
-		"P_EXTRA_TEXT": "ゼルバーンの使命",
+		"P_EXPLAIN_SHORT": "ゼルバーンの使命
+		"P_EXTRA_TEXT": "ゼルバーンの使命
 	},
 	{
 		"P_SKILL_ID": "300191201",
-		"P_EXPLAIN_SHORT": "ブラストアンブラー",
-		"P_EXTRA_TEXT": "ブラストアンブラー",
+		"P_EXPLAIN_SHORT": "ブラストアンブラー
+		"P_EXTRA_TEXT": "ブラストアンブラー
 	},
 	{
 		"P_SKILL_ID": "300191301",
-		"P_EXPLAIN_SHORT": "ビッグバンブラスト",
-		"P_EXTRA_TEXT": "ビッグバンブラスト",
+		"P_EXPLAIN_SHORT": "ビッグバンブラスト
+		"P_EXTRA_TEXT": "ビッグバンブラスト
 	},
 	{
 		"P_SKILL_ID": "300191401",
-		"P_EXPLAIN_SHORT": "グラビトン・アーム",
-		"P_EXTRA_TEXT": "グラビトン・アーム",
+		"P_EXPLAIN_SHORT": "グラビトン・アーム
+		"P_EXTRA_TEXT": "グラビトン・アーム
 	},
 	{
 		"P_SKILL_ID": "300191402",
-		"P_EXPLAIN_SHORT": "マグネイドカノン",
-		"P_EXTRA_TEXT": "マグネイドカノン",
+		"P_EXPLAIN_SHORT": "マグネイドカノン
+		"P_EXTRA_TEXT": "マグネイドカノン
 	},
 	{
 		"P_SKILL_ID": "300201201",
-		"P_EXPLAIN_SHORT": "フォースアグネイト",
-		"P_EXTRA_TEXT": "フォースアグネイト",
+		"P_EXPLAIN_SHORT": "フォースアグネイト
+		"P_EXTRA_TEXT": "フォースアグネイト
 	},
 	{
 		"P_SKILL_ID": "300201301",
-		"P_EXPLAIN_SHORT": "エレメンタルフォール",
-		"P_EXTRA_TEXT": "エレメンタルフォール",
+		"P_EXPLAIN_SHORT": "エレメンタルフォール
+		"P_EXTRA_TEXT": "エレメンタルフォール
 	},
 	{
 		"P_SKILL_ID": "300201401",
-		"P_EXPLAIN_SHORT": "エレメンタルライズ",
-		"P_EXTRA_TEXT": "エレメンタルライズ",
+		"P_EXPLAIN_SHORT": "エレメンタルライズ
+		"P_EXTRA_TEXT": "エレメンタルライズ
 	},
 	{
 		"P_SKILL_ID": "300201402",
-		"P_EXPLAIN_SHORT": "ヴィルエクスペル",
-		"P_EXTRA_TEXT": "ヴィルエクスペル",
+		"P_EXPLAIN_SHORT": "ヴィルエクスペル
+		"P_EXTRA_TEXT": "ヴィルエクスペル
 	},
 	{
 		"P_SKILL_ID": "300211001",
-		"P_EXPLAIN_SHORT": "噛みつきウッド",
-		"P_EXTRA_TEXT": "噛みつきウッド",
+		"P_EXPLAIN_SHORT": "噛みつきウッド
+		"P_EXTRA_TEXT": "噛みつきウッド
 	},
 	{
 		"P_SKILL_ID": "300211101",
-		"P_EXPLAIN_SHORT": "丸かじりウッド",
-		"P_EXTRA_TEXT": "丸かじりウッド",
+		"P_EXPLAIN_SHORT": "丸かじりウッド
+		"P_EXTRA_TEXT": "丸かじりウッド
 	},
 	{
 		"P_SKILL_ID": "300221001",
-		"P_EXPLAIN_SHORT": "大地の水",
-		"P_EXTRA_TEXT": "大地の水",
+		"P_EXPLAIN_SHORT": "大地の水
+		"P_EXTRA_TEXT": "大地の水
 	},
 	{
 		"P_SKILL_ID": "300221101",
-		"P_EXPLAIN_SHORT": "アルカナディア",
-		"P_EXTRA_TEXT": "アルカナディア",
+		"P_EXPLAIN_SHORT": "アルカナディア
+		"P_EXTRA_TEXT": "アルカナディア
 	},
 	{
 		"P_SKILL_ID": "300221201",
-		"P_EXPLAIN_SHORT": "時空の光",
-		"P_EXTRA_TEXT": "時空の光",
+		"P_EXPLAIN_SHORT": "時空の光
+		"P_EXTRA_TEXT": "時空の光
 	},
 	{
 		"P_SKILL_ID": "300231001",
-		"P_EXPLAIN_SHORT": "パワースクリーム",
-		"P_EXTRA_TEXT": "パワースクリーム",
+		"P_EXPLAIN_SHORT": "パワースクリーム
+		"P_EXTRA_TEXT": "パワースクリーム
 	},
 	{
 		"P_SKILL_ID": "300231101",
-		"P_EXPLAIN_SHORT": "パワーインテンション",
-		"P_EXTRA_TEXT": "パワーインテンション",
+		"P_EXPLAIN_SHORT": "パワーインテンション
+		"P_EXTRA_TEXT": "パワーインテンション
 	},
 	{
 		"P_SKILL_ID": "300231201",
-		"P_EXPLAIN_SHORT": "大地の叫び",
-		"P_EXTRA_TEXT": "大地の叫び",
+		"P_EXPLAIN_SHORT": "大地の叫び
+		"P_EXTRA_TEXT": "大地の叫び
 	},
 	{
 		"P_SKILL_ID": "300241101",
-		"P_EXPLAIN_SHORT": "妖精の歌",
-		"P_EXTRA_TEXT": "妖精の歌",
+		"P_EXPLAIN_SHORT": "妖精の歌
+		"P_EXTRA_TEXT": "妖精の歌
 	},
 	{
 		"P_SKILL_ID": "300241201",
-		"P_EXPLAIN_SHORT": "安らぎの聖歌",
-		"P_EXTRA_TEXT": "安らぎの聖歌",
+		"P_EXPLAIN_SHORT": "安らぎの聖歌
+		"P_EXTRA_TEXT": "安らぎの聖歌
 	},
 	{
 		"P_SKILL_ID": "300251101",
-		"P_EXPLAIN_SHORT": "大円斬",
-		"P_EXTRA_TEXT": "大円斬",
+		"P_EXPLAIN_SHORT": "大円斬
+		"P_EXTRA_TEXT": "大円斬
 	},
 	{
 		"P_SKILL_ID": "300251201",
-		"P_EXPLAIN_SHORT": "戦斧大破斬",
-		"P_EXTRA_TEXT": "戦斧大破斬",
+		"P_EXPLAIN_SHORT": "戦斧大破斬
+		"P_EXTRA_TEXT": "戦斧大破斬
 	},
 	{
 		"P_SKILL_ID": "300251301",
-		"P_EXPLAIN_SHORT": "鬼王大破月斬",
-		"P_EXTRA_TEXT": "鬼王大破月斬",
+		"P_EXPLAIN_SHORT": "鬼王大破月斬
+		"P_EXTRA_TEXT": "鬼王大破月斬
 	},
 	{
 		"P_SKILL_ID": "300281401",
-		"P_EXPLAIN_SHORT": "旋風裂破",
-		"P_EXTRA_TEXT": "旋風裂破",
+		"P_EXPLAIN_SHORT": "旋風裂破
+		"P_EXTRA_TEXT": "旋風裂破
 	},
 	{
 		"P_SKILL_ID": "300281402",
-		"P_EXPLAIN_SHORT": "ハヴォックレイザー",
-		"P_EXTRA_TEXT": "ハヴォックレイザー",
+		"P_EXPLAIN_SHORT": "ハヴォックレイザー
+		"P_EXTRA_TEXT": "ハヴォックレイザー
 	},
 	{
 		"P_SKILL_ID": "400012201",
-		"P_EXPLAIN_SHORT": "イーグルストライク",
-		"P_EXTRA_TEXT": "イーグルストライク",
+		"P_EXPLAIN_SHORT": "イーグルストライク
+		"P_EXTRA_TEXT": "イーグルストライク
 	},
 	{
 		"P_SKILL_ID": "400012301",
-		"P_EXPLAIN_SHORT": "アクセルストライク",
-		"P_EXTRA_TEXT": "アクセルストライク",
+		"P_EXPLAIN_SHORT": "アクセルストライク
+		"P_EXTRA_TEXT": "アクセルストライク
 	},
 	{
 		"P_SKILL_ID": "400012401",
-		"P_EXPLAIN_SHORT": "ランブルストライク",
-		"P_EXTRA_TEXT": "ランブルストライク",
+		"P_EXPLAIN_SHORT": "ランブルストライク
+		"P_EXTRA_TEXT": "ランブルストライク
 	},
 	{
 		"P_SKILL_ID": "400012402",
-		"P_EXPLAIN_SHORT": "雷天訣",
-		"P_EXTRA_TEXT": "雷天訣",
+		"P_EXPLAIN_SHORT": "雷天訣
+		"P_EXTRA_TEXT": "雷天訣
 	},
 	{
 		"P_SKILL_ID": "400022201",
-		"P_EXPLAIN_SHORT": "パチパチっと",
-		"P_EXTRA_TEXT": "パチパチっと",
+		"P_EXPLAIN_SHORT": "パチパチっと
+		"P_EXTRA_TEXT": "パチパチっと
 	},
 	{
 		"P_SKILL_ID": "400022301",
-		"P_EXPLAIN_SHORT": "ビリビリっと",
-		"P_EXTRA_TEXT": "ビリビリっと",
+		"P_EXPLAIN_SHORT": "ビリビリっと
+		"P_EXTRA_TEXT": "ビリビリっと
 	},
 	{
 		"P_SKILL_ID": "400022401",
-		"P_EXPLAIN_SHORT": "バリバリバリーっと",
-		"P_EXTRA_TEXT": "バリバリバリーっと",
+		"P_EXPLAIN_SHORT": "バリバリバリーっと
+		"P_EXTRA_TEXT": "バリバリバリーっと
 	},
 	{
 		"P_SKILL_ID": "400022402",
-		"P_EXPLAIN_SHORT": "ワンダリング・インパクト",
-		"P_EXTRA_TEXT": "ワンダリング・インパクト",
+		"P_EXPLAIN_SHORT": "ワンダリング・インパクト
+		"P_EXTRA_TEXT": "ワンダリング・インパクト
 	},
 	{
 		"P_SKILL_ID": "400032201",
-		"P_EXPLAIN_SHORT": "雷火掌",
-		"P_EXTRA_TEXT": "雷火掌",
+		"P_EXPLAIN_SHORT": "雷火掌
+		"P_EXTRA_TEXT": "雷火掌
 	},
 	{
 		"P_SKILL_ID": "400032301",
-		"P_EXPLAIN_SHORT": "雷鳴掌",
-		"P_EXTRA_TEXT": "雷鳴掌",
+		"P_EXPLAIN_SHORT": "雷鳴掌
+		"P_EXTRA_TEXT": "雷鳴掌
 	},
 	{
 		"P_SKILL_ID": "400032401",
-		"P_EXPLAIN_SHORT": "雷塊掌",
-		"P_EXTRA_TEXT": "雷塊掌",
+		"P_EXPLAIN_SHORT": "雷塊掌
+		"P_EXTRA_TEXT": "雷塊掌
 	},
 	{
 		"P_SKILL_ID": "400032402",
-		"P_EXPLAIN_SHORT": "天轟『無空衝波』",
-		"P_EXTRA_TEXT": "天轟『無空衝波』",
+		"P_EXPLAIN_SHORT": "天轟『無空衝波』
+		"P_EXTRA_TEXT": "天轟『無空衝波』
 	},
 	{
 		"P_SKILL_ID": "400042201",
-		"P_EXPLAIN_SHORT": "アンガースラッシュ",
-		"P_EXTRA_TEXT": "アンガースラッシュ",
+		"P_EXPLAIN_SHORT": "アンガースラッシュ
+		"P_EXTRA_TEXT": "アンガースラッシュ
 	},
 	{
 		"P_SKILL_ID": "400042301",
-		"P_EXPLAIN_SHORT": "レイジスラッシュ",
-		"P_EXTRA_TEXT": "レイジスラッシュ",
+		"P_EXPLAIN_SHORT": "レイジスラッシュ
+		"P_EXTRA_TEXT": "レイジスラッシュ
 	},
 	{
 		"P_SKILL_ID": "400042401",
-		"P_EXPLAIN_SHORT": "ヴァイオレートスラッシュ",
-		"P_EXTRA_TEXT": "ヴァイオレートスラッシュ",
+		"P_EXPLAIN_SHORT": "ヴァイオレートスラッシュ
+		"P_EXTRA_TEXT": "ヴァイオレートスラッシュ
 	},
 	{
 		"P_SKILL_ID": "400042402",
-		"P_EXPLAIN_SHORT": "猛魂の煌牙",
-		"P_EXTRA_TEXT": "猛魂の煌牙",
+		"P_EXPLAIN_SHORT": "猛魂の煌牙
+		"P_EXTRA_TEXT": "猛魂の煌牙
 	},
 	{
 		"P_SKILL_ID": "400052201",
-		"P_EXPLAIN_SHORT": "クルークチェイサー",
-		"P_EXTRA_TEXT": "クルークチェイサー",
+		"P_EXPLAIN_SHORT": "クルークチェイサー
+		"P_EXTRA_TEXT": "クルークチェイサー
 	},
 	{
 		"P_SKILL_ID": "400052301",
-		"P_EXPLAIN_SHORT": "ミリオンゲイナー",
-		"P_EXTRA_TEXT": "ミリオンゲイナー",
+		"P_EXPLAIN_SHORT": "ミリオンゲイナー
+		"P_EXTRA_TEXT": "ミリオンゲイナー
 	},
 	{
 		"P_SKILL_ID": "400052401",
-		"P_EXPLAIN_SHORT": "フェイムコレクター",
-		"P_EXTRA_TEXT": "フェイムコレクター",
+		"P_EXPLAIN_SHORT": "フェイムコレクター
+		"P_EXTRA_TEXT": "フェイムコレクター
 	},
 	{
 		"P_SKILL_ID": "400052402",
-		"P_EXPLAIN_SHORT": "パーフェクトキャプチャー",
-		"P_EXTRA_TEXT": "パーフェクトキャプチャー",
+		"P_EXPLAIN_SHORT": "パーフェクトキャプチャー
+		"P_EXTRA_TEXT": "パーフェクトキャプチャー
 	},
 	{
 		"P_SKILL_ID": "400062001",
-		"P_EXPLAIN_SHORT": "ストレートクラウト",
-		"P_EXTRA_TEXT": "ストレートクラウト",
+		"P_EXPLAIN_SHORT": "ストレートクラウト
+		"P_EXTRA_TEXT": "ストレートクラウト
 	},
 	{
 		"P_SKILL_ID": "400062101",
-		"P_EXPLAIN_SHORT": "スパイラルクラウト",
-		"P_EXTRA_TEXT": "スパイラルクラウト",
+		"P_EXPLAIN_SHORT": "スパイラルクラウト
+		"P_EXTRA_TEXT": "スパイラルクラウト
 	},
 	{
 		"P_SKILL_ID": "400072101",
-		"P_EXPLAIN_SHORT": "ボルトアックス",
-		"P_EXTRA_TEXT": "ボルトアックス",
+		"P_EXPLAIN_SHORT": "ボルトアックス
+		"P_EXTRA_TEXT": "ボルトアックス
 	},
 	{
 		"P_SKILL_ID": "400072201",
-		"P_EXPLAIN_SHORT": "ヘヴィアックス",
-		"P_EXTRA_TEXT": "ヘヴィアックス",
+		"P_EXPLAIN_SHORT": "ヘヴィアックス
+		"P_EXTRA_TEXT": "ヘヴィアックス
 	},
 	{
 		"P_SKILL_ID": "400082001",
-		"P_EXPLAIN_SHORT": "ノーズブロウ",
-		"P_EXTRA_TEXT": "ノーズブロウ",
+		"P_EXPLAIN_SHORT": "ノーズブロウ
+		"P_EXTRA_TEXT": "ノーズブロウ
 	},
 	{
 		"P_SKILL_ID": "400082101",
-		"P_EXPLAIN_SHORT": "トランクブロウ",
-		"P_EXTRA_TEXT": "トランクブロウ",
+		"P_EXPLAIN_SHORT": "トランクブロウ
+		"P_EXTRA_TEXT": "トランクブロウ
 	},
 	{
 		"P_SKILL_ID": "400092101",
-		"P_EXPLAIN_SHORT": "ワスプスティング",
-		"P_EXTRA_TEXT": "ワスプスティング",
+		"P_EXPLAIN_SHORT": "ワスプスティング
+		"P_EXTRA_TEXT": "ワスプスティング
 	},
 	{
 		"P_SKILL_ID": "400092201",
-		"P_EXPLAIN_SHORT": "ホーネットスティング",
-		"P_EXTRA_TEXT": "ホーネットスティング",
+		"P_EXPLAIN_SHORT": "ホーネットスティング
+		"P_EXTRA_TEXT": "ホーネットスティング
 	},
 	{
 		"P_SKILL_ID": "400102001",
-		"P_EXPLAIN_SHORT": "Ｅ０６スパーク",
-		"P_EXTRA_TEXT": "Ｅ０６スパーク",
+		"P_EXPLAIN_SHORT": "Ｅ０６スパーク
+		"P_EXTRA_TEXT": "Ｅ０６スパーク
 	},
 	{
 		"P_SKILL_ID": "400102101",
-		"P_EXPLAIN_SHORT": "ＥＳ０９スパーク",
-		"P_EXTRA_TEXT": "ＥＳ０９スパーク",
+		"P_EXPLAIN_SHORT": "ＥＳ０９スパーク
+		"P_EXTRA_TEXT": "ＥＳ０９スパーク
 	},
 	{
 		"P_SKILL_ID": "400112401",
-		"P_EXPLAIN_SHORT": "ブリッツシェイク",
-		"P_EXTRA_TEXT": "ブリッツシェイク",
+		"P_EXPLAIN_SHORT": "ブリッツシェイク
+		"P_EXTRA_TEXT": "ブリッツシェイク
 	},
 	{
 		"P_SKILL_ID": "400112402",
-		"P_EXPLAIN_SHORT": "ドゥーベインパクト",
-		"P_EXTRA_TEXT": "ドゥーベインパクト",
+		"P_EXPLAIN_SHORT": "ドゥーベインパクト
+		"P_EXTRA_TEXT": "ドゥーベインパクト
 	},
 	{
 		"P_SKILL_ID": "400121201",
-		"P_EXPLAIN_SHORT": "雷迅烈斬",
-		"P_EXTRA_TEXT": "雷迅烈斬",
+		"P_EXPLAIN_SHORT": "雷迅烈斬
+		"P_EXTRA_TEXT": "雷迅烈斬
 	},
 	{
 		"P_SKILL_ID": "400121301",
-		"P_EXPLAIN_SHORT": "雷迅烈破斬",
-		"P_EXTRA_TEXT": "雷迅烈破斬",
+		"P_EXPLAIN_SHORT": "雷迅烈破斬
+		"P_EXTRA_TEXT": "雷迅烈破斬
 	},
 	{
 		"P_SKILL_ID": "400121401",
-		"P_EXPLAIN_SHORT": "雷神烈破斬",
-		"P_EXTRA_TEXT": "雷神烈破斬",
+		"P_EXPLAIN_SHORT": "雷神烈破斬
+		"P_EXTRA_TEXT": "雷神烈破斬
 	},
 	{
 		"P_SKILL_ID": "400121402",
-		"P_EXPLAIN_SHORT": "雷神天閃",
-		"P_EXTRA_TEXT": "雷神天閃",
+		"P_EXPLAIN_SHORT": "雷神天閃
+		"P_EXTRA_TEXT": "雷神天閃
 	},
 	{
 		"P_SKILL_ID": "400122201",
-		"P_EXPLAIN_SHORT": "トールアクス",
-		"P_EXTRA_TEXT": "トールアクス",
+		"P_EXPLAIN_SHORT": "トールアクス
+		"P_EXTRA_TEXT": "トールアクス
 	},
 	{
 		"P_SKILL_ID": "400122301",
-		"P_EXPLAIN_SHORT": "トールスラム",
-		"P_EXTRA_TEXT": "トールスラム",
+		"P_EXPLAIN_SHORT": "トールスラム
+		"P_EXTRA_TEXT": "トールスラム
 	},
 	{
 		"P_SKILL_ID": "400122401",
-		"P_EXPLAIN_SHORT": "トールブレイク",
-		"P_EXTRA_TEXT": "トールブレイク",
+		"P_EXPLAIN_SHORT": "トールブレイク
+		"P_EXTRA_TEXT": "トールブレイク
 	},
 	{
 		"P_SKILL_ID": "400122402",
-		"P_EXPLAIN_SHORT": "アダマント",
-		"P_EXTRA_TEXT": "アダマント",
+		"P_EXPLAIN_SHORT": "アダマント
+		"P_EXTRA_TEXT": "アダマント
 	},
 	{
 		"P_SKILL_ID": "400131201",
-		"P_EXPLAIN_SHORT": "雷攻の号令",
-		"P_EXTRA_TEXT": "雷攻の号令",
+		"P_EXPLAIN_SHORT": "雷攻の号令
+		"P_EXTRA_TEXT": "雷攻の号令
 	},
 	{
 		"P_SKILL_ID": "400131301",
-		"P_EXPLAIN_SHORT": "雷激謀の号令",
-		"P_EXTRA_TEXT": "雷激謀の号令",
+		"P_EXPLAIN_SHORT": "雷激謀の号令
+		"P_EXTRA_TEXT": "雷激謀の号令
 	},
 	{
 		"P_SKILL_ID": "400131401",
-		"P_EXPLAIN_SHORT": "雷帝戦の大号令",
-		"P_EXTRA_TEXT": "雷帝戦の大号令",
+		"P_EXPLAIN_SHORT": "雷帝戦の大号令
+		"P_EXTRA_TEXT": "雷帝戦の大号令
 	},
 	{
 		"P_SKILL_ID": "400131402",
-		"P_EXPLAIN_SHORT": "雷軍神の大号令",
-		"P_EXTRA_TEXT": "雷軍神の大号令",
+		"P_EXPLAIN_SHORT": "雷軍神の大号令
+		"P_EXTRA_TEXT": "雷軍神の大号令
 	},
 	{
 		"P_SKILL_ID": "400141201",
-		"P_EXPLAIN_SHORT": "クロスレアブリッツ",
-		"P_EXTRA_TEXT": "クロスレアブリッツ",
+		"P_EXPLAIN_SHORT": "クロスレアブリッツ
+		"P_EXTRA_TEXT": "クロスレアブリッツ
 	},
 	{
 		"P_SKILL_ID": "400141301",
-		"P_EXPLAIN_SHORT": "エルゼネットセイバー",
-		"P_EXTRA_TEXT": "エルゼネットセイバー",
+		"P_EXPLAIN_SHORT": "エルゼネットセイバー
+		"P_EXTRA_TEXT": "エルゼネットセイバー
 	},
 	{
 		"P_SKILL_ID": "400141401",
-		"P_EXPLAIN_SHORT": "ジェノサイドレビン",
-		"P_EXTRA_TEXT": "ジェノサイドレビン",
+		"P_EXPLAIN_SHORT": "ジェノサイドレビン
+		"P_EXTRA_TEXT": "ジェノサイドレビン
 	},
 	{
 		"P_SKILL_ID": "400141402",
-		"P_EXPLAIN_SHORT": "ペルクナスグリッド",
-		"P_EXTRA_TEXT": "ペルクナスグリッド",
+		"P_EXPLAIN_SHORT": "ペルクナスグリッド
+		"P_EXTRA_TEXT": "ペルクナスグリッド
 	},
 	{
 		"P_SKILL_ID": "400151201",
-		"P_EXPLAIN_SHORT": "アレイクラウド",
-		"P_EXTRA_TEXT": "アレイクラウド",
+		"P_EXPLAIN_SHORT": "アレイクラウド
+		"P_EXTRA_TEXT": "アレイクラウド
 	},
 	{
 		"P_SKILL_ID": "400151301",
-		"P_EXPLAIN_SHORT": "キュアクラウド",
-		"P_EXTRA_TEXT": "キュアクラウド",
+		"P_EXPLAIN_SHORT": "キュアクラウド
+		"P_EXTRA_TEXT": "キュアクラウド
 	},
 	{
 		"P_SKILL_ID": "400151401",
-		"P_EXPLAIN_SHORT": "スターライトクラウディア",
-		"P_EXTRA_TEXT": "スターライトクラウディア",
+		"P_EXPLAIN_SHORT": "スターライトクラウディア
+		"P_EXTRA_TEXT": "スターライトクラウディア
 	},
 	{
 		"P_SKILL_ID": "400151402",
-		"P_EXPLAIN_SHORT": "レメディストリーム",
-		"P_EXTRA_TEXT": "レメディストリーム",
+		"P_EXPLAIN_SHORT": "レメディストリーム
+		"P_EXTRA_TEXT": "レメディストリーム
 	},
 	{
 		"P_SKILL_ID": "400161201",
-		"P_EXPLAIN_SHORT": "フラッシュストリーム",
-		"P_EXTRA_TEXT": "フラッシュストリーム",
+		"P_EXPLAIN_SHORT": "フラッシュストリーム
+		"P_EXTRA_TEXT": "フラッシュストリーム
 	},
 	{
 		"P_SKILL_ID": "400161301",
-		"P_EXPLAIN_SHORT": "デュエルアーク",
-		"P_EXTRA_TEXT": "デュエルアーク",
+		"P_EXPLAIN_SHORT": "デュエルアーク
+		"P_EXTRA_TEXT": "デュエルアーク
 	},
 	{
 		"P_SKILL_ID": "400161401",
-		"P_EXPLAIN_SHORT": "ライジングアーク",
-		"P_EXTRA_TEXT": "ライジングアーク",
+		"P_EXPLAIN_SHORT": "ライジングアーク
+		"P_EXTRA_TEXT": "ライジングアーク
 	},
 	{
 		"P_SKILL_ID": "400161402",
-		"P_EXPLAIN_SHORT": "ミリオンテンペスト",
-		"P_EXTRA_TEXT": "ミリオンテンペスト",
+		"P_EXPLAIN_SHORT": "ミリオンテンペスト
+		"P_EXTRA_TEXT": "ミリオンテンペスト
 	},
 	{
 		"P_SKILL_ID": "400171201",
-		"P_EXPLAIN_SHORT": "ライトニングマグナム",
-		"P_EXTRA_TEXT": "ライトニングマグナム",
+		"P_EXPLAIN_SHORT": "ライトニングマグナム
+		"P_EXTRA_TEXT": "ライトニングマグナム
 	},
 	{
 		"P_SKILL_ID": "400171301",
-		"P_EXPLAIN_SHORT": "チャリオットマグナム",
-		"P_EXTRA_TEXT": "チャリオットマグナム",
+		"P_EXPLAIN_SHORT": "チャリオットマグナム
+		"P_EXTRA_TEXT": "チャリオットマグナム
 	},
 	{
 		"P_SKILL_ID": "400171401",
-		"P_EXPLAIN_SHORT": "ペルクナストリガー",
-		"P_EXTRA_TEXT": "ペルクナストリガー",
+		"P_EXPLAIN_SHORT": "ペルクナストリガー
+		"P_EXTRA_TEXT": "ペルクナストリガー
 	},
 	{
 		"P_SKILL_ID": "400171402",
-		"P_EXPLAIN_SHORT": "９９ブラスター",
-		"P_EXTRA_TEXT": "９９ブラスター",
+		"P_EXPLAIN_SHORT": "９９ブラスター
+		"P_EXTRA_TEXT": "９９ブラスター
 	},
 	{
 		"P_SKILL_ID": "400181201",
-		"P_EXPLAIN_SHORT": "ライトニングレイヤー",
-		"P_EXTRA_TEXT": "ライトニングレイヤー",
+		"P_EXPLAIN_SHORT": "ライトニングレイヤー
+		"P_EXTRA_TEXT": "ライトニングレイヤー
 	},
 	{
 		"P_SKILL_ID": "400181301",
-		"P_EXPLAIN_SHORT": "パルサーフォール",
-		"P_EXTRA_TEXT": "パルサーフォール",
+		"P_EXPLAIN_SHORT": "パルサーフォール
+		"P_EXTRA_TEXT": "パルサーフォール
 	},
 	{
 		"P_SKILL_ID": "400181401",
-		"P_EXPLAIN_SHORT": "ライジングノヴァ",
-		"P_EXTRA_TEXT": "ライジングノヴァ",
+		"P_EXPLAIN_SHORT": "ライジングノヴァ
+		"P_EXTRA_TEXT": "ライジングノヴァ
 	},
 	{
 		"P_SKILL_ID": "400181402",
-		"P_EXPLAIN_SHORT": "神を貫く一撃",
-		"P_EXTRA_TEXT": "神を貫く一撃",
+		"P_EXPLAIN_SHORT": "神を貫く一撃
+		"P_EXTRA_TEXT": "神を貫く一撃
 	},
 	{
 		"P_SKILL_ID": "400191201",
-		"P_EXPLAIN_SHORT": "ドラゴンリーヴ",
-		"P_EXTRA_TEXT": "ドラゴンリーヴ",
+		"P_EXPLAIN_SHORT": "ドラゴンリーヴ
+		"P_EXTRA_TEXT": "ドラゴンリーヴ
 	},
 	{
 		"P_SKILL_ID": "400191301",
-		"P_EXPLAIN_SHORT": "ドラゴンインパルス",
-		"P_EXTRA_TEXT": "ドラゴンインパルス",
+		"P_EXPLAIN_SHORT": "ドラゴンインパルス
+		"P_EXTRA_TEXT": "ドラゴンインパルス
 	},
 	{
 		"P_SKILL_ID": "400191401",
-		"P_EXPLAIN_SHORT": "ドラゴンディスチャージ",
-		"P_EXTRA_TEXT": "ドラゴンディスチャージ",
+		"P_EXPLAIN_SHORT": "ドラゴンディスチャージ
+		"P_EXTRA_TEXT": "ドラゴンディスチャージ
 	},
 	{
 		"P_SKILL_ID": "400191402",
-		"P_EXPLAIN_SHORT": "雷刹衝",
-		"P_EXTRA_TEXT": "雷刹衝",
+		"P_EXPLAIN_SHORT": "雷刹衝
+		"P_EXTRA_TEXT": "雷刹衝
 	},
 	{
 		"P_SKILL_ID": "400201201",
-		"P_EXPLAIN_SHORT": "ライジングフォース",
-		"P_EXTRA_TEXT": "ライジングフォース",
+		"P_EXPLAIN_SHORT": "ライジングフォース
+		"P_EXTRA_TEXT": "ライジングフォース
 	},
 	{
 		"P_SKILL_ID": "400201301",
-		"P_EXPLAIN_SHORT": "ライジングスピリット",
-		"P_EXTRA_TEXT": "ライジングスピリット",
+		"P_EXPLAIN_SHORT": "ライジングスピリット
+		"P_EXTRA_TEXT": "ライジングスピリット
 	},
 	{
 		"P_SKILL_ID": "400201401",
-		"P_EXPLAIN_SHORT": "ライジングエリクシール",
-		"P_EXTRA_TEXT": "ライジングエリクシール",
+		"P_EXPLAIN_SHORT": "ライジングエリクシール
+		"P_EXTRA_TEXT": "ライジングエリクシール
 	},
 	{
 		"P_SKILL_ID": "400201402",
-		"P_EXPLAIN_SHORT": "リベレイション",
-		"P_EXTRA_TEXT": "リベレイション",
+		"P_EXPLAIN_SHORT": "リベレイション
+		"P_EXTRA_TEXT": "リベレイション
 	},
 	{
 		"P_SKILL_ID": "400211001",
-		"P_EXPLAIN_SHORT": "噛みつきエレキ",
-		"P_EXTRA_TEXT": "噛みつきエレキ",
+		"P_EXPLAIN_SHORT": "噛みつきエレキ
+		"P_EXTRA_TEXT": "噛みつきエレキ
 	},
 	{
 		"P_SKILL_ID": "400211101",
-		"P_EXPLAIN_SHORT": "丸かじりエレキ",
-		"P_EXTRA_TEXT": "丸かじりエレキ",
+		"P_EXPLAIN_SHORT": "丸かじりエレキ
+		"P_EXTRA_TEXT": "丸かじりエレキ
 	},
 	{
 		"P_SKILL_ID": "400221001",
-		"P_EXPLAIN_SHORT": "雷桜の舞い",
-		"P_EXTRA_TEXT": "雷桜の舞い",
+		"P_EXPLAIN_SHORT": "雷桜の舞い
+		"P_EXTRA_TEXT": "雷桜の舞い
 	},
 	{
 		"P_SKILL_ID": "400221101",
-		"P_EXPLAIN_SHORT": "法仙治癒演武",
-		"P_EXTRA_TEXT": "法仙治癒演武",
+		"P_EXPLAIN_SHORT": "法仙治癒演武
+		"P_EXTRA_TEXT": "法仙治癒演武
 	},
 	{
 		"P_SKILL_ID": "400221201",
-		"P_EXPLAIN_SHORT": "天千治想の舞い",
-		"P_EXTRA_TEXT": "天千治想の舞い",
+		"P_EXPLAIN_SHORT": "天千治想の舞い
+		"P_EXTRA_TEXT": "天千治想の舞い
 	},
 	{
 		"P_SKILL_ID": "400231001",
-		"P_EXPLAIN_SHORT": "ウィンドアーマー",
-		"P_EXTRA_TEXT": "ウィンドアーマー",
+		"P_EXPLAIN_SHORT": "ウィンドアーマー
+		"P_EXTRA_TEXT": "ウィンドアーマー
 	},
 	{
 		"P_SKILL_ID": "400231101",
-		"P_EXPLAIN_SHORT": "ウィンドプロテクション",
-		"P_EXTRA_TEXT": "ウィンドプロテクション",
+		"P_EXPLAIN_SHORT": "ウィンドプロテクション
+		"P_EXTRA_TEXT": "ウィンドプロテクション
 	},
 	{
 		"P_SKILL_ID": "400231201",
-		"P_EXPLAIN_SHORT": "アーマーストーム",
-		"P_EXTRA_TEXT": "アーマーストーム",
+		"P_EXPLAIN_SHORT": "アーマーストーム
+		"P_EXTRA_TEXT": "アーマーストーム
 	},
 	{
 		"P_SKILL_ID": "400241101",
-		"P_EXPLAIN_SHORT": "渾身の一撃",
-		"P_EXTRA_TEXT": "渾身の一撃",
+		"P_EXPLAIN_SHORT": "渾身の一撃
+		"P_EXTRA_TEXT": "渾身の一撃
 	},
 	{
 		"P_SKILL_ID": "400241201",
-		"P_EXPLAIN_SHORT": "破壊の一撃",
-		"P_EXTRA_TEXT": "破壊の一撃",
+		"P_EXPLAIN_SHORT": "破壊の一撃
+		"P_EXTRA_TEXT": "破壊の一撃
 	},
 	{
 		"P_SKILL_ID": "400271401",
-		"P_EXPLAIN_SHORT": "魔導法『エレクペル』",
-		"P_EXTRA_TEXT": "魔導法『エレクペル』",
+		"P_EXPLAIN_SHORT": "魔導法『エレクペル』
+		"P_EXTRA_TEXT": "魔導法『エレクペル』
 	},
 	{
 		"P_SKILL_ID": "400271402",
-		"P_EXPLAIN_SHORT": "魔導紋『ウル＝ヤマン』",
-		"P_EXTRA_TEXT": "魔導紋『ウル＝ヤマン』",
+		"P_EXPLAIN_SHORT": "魔導紋『ウル＝ヤマン』
+		"P_EXTRA_TEXT": "魔導紋『ウル＝ヤマン』
 	},
 	{
 		"P_SKILL_ID": "500012201",
-		"P_EXPLAIN_SHORT": "クラウンオーダー",
-		"P_EXTRA_TEXT": "クラウンオーダー",
+		"P_EXPLAIN_SHORT": "クラウンオーダー
+		"P_EXTRA_TEXT": "クラウンオーダー
 	},
 	{
 		"P_SKILL_ID": "500012301",
-		"P_EXPLAIN_SHORT": "グローリーオーダー",
-		"P_EXTRA_TEXT": "グローリーオーダー",
+		"P_EXPLAIN_SHORT": "グローリーオーダー
+		"P_EXTRA_TEXT": "グローリーオーダー
 	},
 	{
 		"P_SKILL_ID": "500012401",
-		"P_EXPLAIN_SHORT": "ラスターオーダー",
-		"P_EXTRA_TEXT": "ラスターオーダー",
+		"P_EXPLAIN_SHORT": "ラスターオーダー
+		"P_EXTRA_TEXT": "ラスターオーダー
 	},
 	{
 		"P_SKILL_ID": "500012402",
-		"P_EXPLAIN_SHORT": "マジェスティ・グリント",
-		"P_EXTRA_TEXT": "マジェスティ・グリント",
+		"P_EXPLAIN_SHORT": "マジェスティ・グリント
+		"P_EXTRA_TEXT": "マジェスティ・グリント
 	},
 	{
 		"P_SKILL_ID": "500022201",
-		"P_EXPLAIN_SHORT": "アリーヴィエイト",
-		"P_EXTRA_TEXT": "アリーヴィエイト",
+		"P_EXPLAIN_SHORT": "アリーヴィエイト
+		"P_EXTRA_TEXT": "アリーヴィエイト
 	},
 	{
 		"P_SKILL_ID": "500022301",
-		"P_EXPLAIN_SHORT": "光のアリーヴィエイト",
-		"P_EXTRA_TEXT": "光のアリーヴィエイト",
+		"P_EXPLAIN_SHORT": "光のアリーヴィエイト
+		"P_EXTRA_TEXT": "光のアリーヴィエイト
 	},
 	{
 		"P_SKILL_ID": "500022401",
-		"P_EXPLAIN_SHORT": "聖巡のアリーヴィエイト",
-		"P_EXTRA_TEXT": "聖巡のアリーヴィエイト",
+		"P_EXPLAIN_SHORT": "聖巡のアリーヴィエイト
+		"P_EXTRA_TEXT": "聖巡のアリーヴィエイト
 	},
 	{
 		"P_SKILL_ID": "500022402",
-		"P_EXPLAIN_SHORT": "再聖術『アルテ・ヴェル』",
-		"P_EXTRA_TEXT": "再聖術『アルテ・ヴェル』",
+		"P_EXPLAIN_SHORT": "再聖術『アルテ・ヴェル』
+		"P_EXTRA_TEXT": "再聖術『アルテ・ヴェル』
 	},
 	{
 		"P_SKILL_ID": "500032201",
-		"P_EXPLAIN_SHORT": "白迅爪",
-		"P_EXTRA_TEXT": "白迅爪",
+		"P_EXPLAIN_SHORT": "白迅爪
+		"P_EXTRA_TEXT": "白迅爪
 	},
 	{
 		"P_SKILL_ID": "500032301",
-		"P_EXPLAIN_SHORT": "輝迅爪",
-		"P_EXTRA_TEXT": "輝迅爪",
+		"P_EXPLAIN_SHORT": "輝迅爪
+		"P_EXTRA_TEXT": "輝迅爪
 	},
 	{
 		"P_SKILL_ID": "500032401",
-		"P_EXPLAIN_SHORT": "輝迅連爪",
-		"P_EXTRA_TEXT": "輝迅連爪",
+		"P_EXPLAIN_SHORT": "輝迅連爪
+		"P_EXTRA_TEXT": "輝迅連爪
 	},
 	{
 		"P_SKILL_ID": "500032402",
-		"P_EXPLAIN_SHORT": "輝天閃鉤",
-		"P_EXTRA_TEXT": "輝天閃鉤",
+		"P_EXPLAIN_SHORT": "輝天閃鉤
+		"P_EXTRA_TEXT": "輝天閃鉤
 	},
 	{
 		"P_SKILL_ID": "500042201",
-		"P_EXPLAIN_SHORT": "深清の浄化",
-		"P_EXTRA_TEXT": "深清の浄化",
+		"P_EXPLAIN_SHORT": "深清の浄化
+		"P_EXTRA_TEXT": "深清の浄化
 	},
 	{
 		"P_SKILL_ID": "500042301",
-		"P_EXPLAIN_SHORT": "深潔の聖浄",
-		"P_EXTRA_TEXT": "深潔の聖浄",
+		"P_EXPLAIN_SHORT": "深潔の聖浄
+		"P_EXTRA_TEXT": "深潔の聖浄
 	},
 	{
 		"P_SKILL_ID": "500042401",
-		"P_EXPLAIN_SHORT": "神潔の聖浄",
-		"P_EXTRA_TEXT": "神潔の聖浄",
+		"P_EXPLAIN_SHORT": "神潔の聖浄
+		"P_EXTRA_TEXT": "神潔の聖浄
 	},
 	{
 		"P_SKILL_ID": "500042402",
-		"P_EXPLAIN_SHORT": "純麗たる願い",
-		"P_EXTRA_TEXT": "純麗たる願い",
+		"P_EXPLAIN_SHORT": "純麗たる願い
+		"P_EXTRA_TEXT": "純麗たる願い
 	},
 	{
 		"P_SKILL_ID": "500052201",
-		"P_EXPLAIN_SHORT": "試作型パルスウェイヴ",
-		"P_EXTRA_TEXT": "試作型パルスウェイヴ",
+		"P_EXPLAIN_SHORT": "試作型パルスウェイヴ
+		"P_EXTRA_TEXT": "試作型パルスウェイヴ
 	},
 	{
 		"P_SKILL_ID": "500052301",
-		"P_EXPLAIN_SHORT": "初期型エーテルウェイヴ",
-		"P_EXTRA_TEXT": "初期型エーテルウェイヴ",
+		"P_EXPLAIN_SHORT": "初期型エーテルウェイヴ
+		"P_EXTRA_TEXT": "初期型エーテルウェイヴ
 	},
 	{
 		"P_SKILL_ID": "500052401",
-		"P_EXPLAIN_SHORT": "改修型ディバインウェイヴ",
-		"P_EXTRA_TEXT": "改修型ディバインウェイヴ",
+		"P_EXPLAIN_SHORT": "改修型ディバインウェイヴ
+		"P_EXTRA_TEXT": "改修型ディバインウェイヴ
 	},
 	{
 		"P_SKILL_ID": "500052402",
-		"P_EXPLAIN_SHORT": "ＲＳサーキュレイトフォース",
-		"P_EXTRA_TEXT": "ＲＳサーキュレイトフォース",
+		"P_EXPLAIN_SHORT": "ＲＳサーキュレイトフォース
+		"P_EXTRA_TEXT": "ＲＳサーキュレイトフォース
 	},
 	{
 		"P_SKILL_ID": "500062001",
-		"P_EXPLAIN_SHORT": "魂砕撃",
-		"P_EXTRA_TEXT": "魂砕撃",
+		"P_EXPLAIN_SHORT": "魂砕撃
+		"P_EXTRA_TEXT": "魂砕撃
 	},
 	{
 		"P_SKILL_ID": "500062101",
-		"P_EXPLAIN_SHORT": "魂滅撃",
-		"P_EXTRA_TEXT": "魂滅撃",
+		"P_EXPLAIN_SHORT": "魂滅撃
+		"P_EXTRA_TEXT": "魂滅撃
 	},
 	{
 		"P_SKILL_ID": "500072101",
-		"P_EXPLAIN_SHORT": "ミナゴロシ……",
-		"P_EXTRA_TEXT": "ミナゴロシ……",
+		"P_EXPLAIN_SHORT": "ミナゴロシ……
+		"P_EXTRA_TEXT": "ミナゴロシ……
 	},
 	{
 		"P_SKILL_ID": "500072201",
-		"P_EXPLAIN_SHORT": "逃ガシハシナイ……",
-		"P_EXTRA_TEXT": "逃ガシハシナイ……",
+		"P_EXPLAIN_SHORT": "逃ガシハシナイ……
+		"P_EXTRA_TEXT": "逃ガシハシナイ……
 	},
 	{
 		"P_SKILL_ID": "500082101",
-		"P_EXPLAIN_SHORT": "聖句詠唱",
-		"P_EXTRA_TEXT": "聖句詠唱",
+		"P_EXPLAIN_SHORT": "聖句詠唱
+		"P_EXTRA_TEXT": "聖句詠唱
 	},
 	{
 		"P_SKILL_ID": "500082201",
-		"P_EXPLAIN_SHORT": "聖言詠唱",
-		"P_EXTRA_TEXT": "聖言詠唱",
+		"P_EXPLAIN_SHORT": "聖言詠唱
+		"P_EXTRA_TEXT": "聖言詠唱
 	},
 	{
 		"P_SKILL_ID": "500092001",
-		"P_EXPLAIN_SHORT": "獣突の槍",
-		"P_EXTRA_TEXT": "獣突の槍",
+		"P_EXPLAIN_SHORT": "獣突の槍
+		"P_EXTRA_TEXT": "獣突の槍
 	},
 	{
 		"P_SKILL_ID": "500092101",
-		"P_EXPLAIN_SHORT": "獣激の槍",
-		"P_EXTRA_TEXT": "獣激の槍",
+		"P_EXPLAIN_SHORT": "獣激の槍
+		"P_EXTRA_TEXT": "獣激の槍
 	},
 	{
 		"P_SKILL_ID": "500102101",
-		"P_EXPLAIN_SHORT": "ペガサスチャージ",
-		"P_EXTRA_TEXT": "ペガサスチャージ",
+		"P_EXPLAIN_SHORT": "ペガサスチャージ
+		"P_EXTRA_TEXT": "ペガサスチャージ
 	},
 	{
 		"P_SKILL_ID": "500102201",
-		"P_EXPLAIN_SHORT": "ペガサスグライド",
-		"P_EXTRA_TEXT": "ペガサスグライド",
+		"P_EXPLAIN_SHORT": "ペガサスグライド
+		"P_EXTRA_TEXT": "ペガサスグライド
 	},
 	{
 		"P_SKILL_ID": "500112401",
-		"P_EXPLAIN_SHORT": "グローアステール",
-		"P_EXTRA_TEXT": "グローアステール",
+		"P_EXPLAIN_SHORT": "グローアステール
+		"P_EXTRA_TEXT": "グローアステール
 	},
 	{
 		"P_SKILL_ID": "500112402",
-		"P_EXPLAIN_SHORT": "レイディアンス",
-		"P_EXTRA_TEXT": "レイディアンス",
+		"P_EXPLAIN_SHORT": "レイディアンス
+		"P_EXTRA_TEXT": "レイディアンス
 	},
 	{
 		"P_SKILL_ID": "500122201",
-		"P_EXPLAIN_SHORT": "ディターレント",
-		"P_EXTRA_TEXT": "ディターレント",
+		"P_EXPLAIN_SHORT": "ディターレント
+		"P_EXTRA_TEXT": "ディターレント
 	},
 	{
 		"P_SKILL_ID": "500122301",
-		"P_EXPLAIN_SHORT": "グローリー・ディターレント",
-		"P_EXTRA_TEXT": "グローリー・ディターレント",
+		"P_EXPLAIN_SHORT": "グローリー・ディターレント
+		"P_EXTRA_TEXT": "グローリー・ディターレント
 	},
 	{
 		"P_SKILL_ID": "500122401",
-		"P_EXPLAIN_SHORT": "ラスト・ディターレント",
-		"P_EXTRA_TEXT": "ラスト・ディターレント",
+		"P_EXPLAIN_SHORT": "ラスト・ディターレント
+		"P_EXTRA_TEXT": "ラスト・ディターレント
 	},
 	{
 		"P_SKILL_ID": "500122402",
-		"P_EXPLAIN_SHORT": "聖輝のトライアンフ",
-		"P_EXTRA_TEXT": "聖輝のトライアンフ",
+		"P_EXPLAIN_SHORT": "聖輝のトライアンフ
+		"P_EXTRA_TEXT": "聖輝のトライアンフ
 	},
 	{
 		"P_SKILL_ID": "500131201",
-		"P_EXPLAIN_SHORT": "ディバインソード",
-		"P_EXTRA_TEXT": "ディバインソード",
+		"P_EXPLAIN_SHORT": "ディバインソード
+		"P_EXTRA_TEXT": "ディバインソード
 	},
 	{
 		"P_SKILL_ID": "500131301",
-		"P_EXPLAIN_SHORT": "カテドラルジャッジメント",
-		"P_EXTRA_TEXT": "カテドラルジャッジメント",
+		"P_EXPLAIN_SHORT": "カテドラルジャッジメント
+		"P_EXTRA_TEXT": "カテドラルジャッジメント
 	},
 	{
 		"P_SKILL_ID": "500131401",
-		"P_EXPLAIN_SHORT": "ザウザンドネメシス",
-		"P_EXTRA_TEXT": "ザウザンドネメシス",
+		"P_EXPLAIN_SHORT": "ザウザンドネメシス
+		"P_EXTRA_TEXT": "ザウザンドネメシス
 	},
 	{
 		"P_SKILL_ID": "500131402",
-		"P_EXPLAIN_SHORT": "メシアハザード",
-		"P_EXTRA_TEXT": "メシアハザード",
+		"P_EXPLAIN_SHORT": "メシアハザード
+		"P_EXTRA_TEXT": "メシアハザード
 	},
 	{
 		"P_SKILL_ID": "500141201",
-		"P_EXPLAIN_SHORT": "ハルシオンハック",
-		"P_EXTRA_TEXT": "ハルシオンハック",
+		"P_EXPLAIN_SHORT": "ハルシオンハック
+		"P_EXTRA_TEXT": "ハルシオンハック
 	},
 	{
 		"P_SKILL_ID": "500141301",
-		"P_EXPLAIN_SHORT": "ディストラクトチェイン",
-		"P_EXTRA_TEXT": "ディストラクトチェイン",
+		"P_EXPLAIN_SHORT": "ディストラクトチェイン
+		"P_EXTRA_TEXT": "ディストラクトチェイン
 	},
 	{
 		"P_SKILL_ID": "500141401",
-		"P_EXPLAIN_SHORT": "クリナップジハード",
-		"P_EXTRA_TEXT": "クリナップジハード",
+		"P_EXPLAIN_SHORT": "クリナップジハード
+		"P_EXTRA_TEXT": "クリナップジハード
 	},
 	{
 		"P_SKILL_ID": "500141402",
-		"P_EXPLAIN_SHORT": "プラチナム・ノヴァ",
-		"P_EXTRA_TEXT": "プラチナム・ノヴァ",
+		"P_EXPLAIN_SHORT": "プラチナム・ノヴァ
+		"P_EXTRA_TEXT": "プラチナム・ノヴァ
 	},
 	{
 		"P_SKILL_ID": "500151201",
-		"P_EXPLAIN_SHORT": "ディムヒール",
-		"P_EXTRA_TEXT": "ディムヒール",
+		"P_EXPLAIN_SHORT": "ディムヒール
+		"P_EXTRA_TEXT": "ディムヒール
 	},
 	{
 		"P_SKILL_ID": "500151301",
-		"P_EXPLAIN_SHORT": "ダークネスヒール",
-		"P_EXTRA_TEXT": "ダークネスヒール",
+		"P_EXPLAIN_SHORT": "ダークネスヒール
+		"P_EXTRA_TEXT": "ダークネスヒール
 	},
 	{
 		"P_SKILL_ID": "500151401",
-		"P_EXPLAIN_SHORT": "キュアディメント",
-		"P_EXTRA_TEXT": "キュアディメント",
+		"P_EXPLAIN_SHORT": "キュアディメント
+		"P_EXTRA_TEXT": "キュアディメント
 	},
 	{
 		"P_SKILL_ID": "500151402",
-		"P_EXPLAIN_SHORT": "スターイフルジェンス",
-		"P_EXTRA_TEXT": "スターイフルジェンス",
+		"P_EXPLAIN_SHORT": "スターイフルジェンス
+		"P_EXTRA_TEXT": "スターイフルジェンス
 	},
 	{
 		"P_SKILL_ID": "500161201",
-		"P_EXPLAIN_SHORT": "ドラゴンボイス",
-		"P_EXTRA_TEXT": "ドラゴンボイス",
+		"P_EXPLAIN_SHORT": "ドラゴンボイス
+		"P_EXTRA_TEXT": "ドラゴンボイス
 	},
 	{
 		"P_SKILL_ID": "500161301",
-		"P_EXPLAIN_SHORT": "ジェノサイドブラスター",
-		"P_EXTRA_TEXT": "ジェノサイドブラスター",
+		"P_EXPLAIN_SHORT": "ジェノサイドブラスター
+		"P_EXTRA_TEXT": "ジェノサイドブラスター
 	},
 	{
 		"P_SKILL_ID": "500161401",
-		"P_EXPLAIN_SHORT": "天竜砲テスタメント",
-		"P_EXTRA_TEXT": "天竜砲テスタメント",
+		"P_EXPLAIN_SHORT": "天竜砲テスタメント
+		"P_EXTRA_TEXT": "天竜砲テスタメント
 	},
 	{
 		"P_SKILL_ID": "500161402",
-		"P_EXPLAIN_SHORT": "スターダストブレス",
-		"P_EXTRA_TEXT": "スターダストブレス",
+		"P_EXPLAIN_SHORT": "スターダストブレス
+		"P_EXTRA_TEXT": "スターダストブレス
 	},
 	{
 		"P_SKILL_ID": "500171201",
-		"P_EXPLAIN_SHORT": "ホーリーレイ",
-		"P_EXTRA_TEXT": "ホーリーレイ",
+		"P_EXPLAIN_SHORT": "ホーリーレイ
+		"P_EXTRA_TEXT": "ホーリーレイ
 	},
 	{
 		"P_SKILL_ID": "500171301",
-		"P_EXPLAIN_SHORT": "スターチルドレン",
-		"P_EXTRA_TEXT": "スターチルドレン",
+		"P_EXPLAIN_SHORT": "スターチルドレン
+		"P_EXTRA_TEXT": "スターチルドレン
 	},
 	{
 		"P_SKILL_ID": "500171401",
-		"P_EXPLAIN_SHORT": "スターバスター",
-		"P_EXTRA_TEXT": "スターバスター",
+		"P_EXPLAIN_SHORT": "スターバスター
+		"P_EXTRA_TEXT": "スターバスター
 	},
 	{
 		"P_SKILL_ID": "500171402",
-		"P_EXPLAIN_SHORT": "メテオバラージ",
-		"P_EXTRA_TEXT": "メテオバラージ",
+		"P_EXPLAIN_SHORT": "メテオバラージ
+		"P_EXTRA_TEXT": "メテオバラージ
 	},
 	{
 		"P_SKILL_ID": "500181201",
-		"P_EXPLAIN_SHORT": "ギャラクシーバレット",
-		"P_EXTRA_TEXT": "ギャラクシーバレット",
+		"P_EXPLAIN_SHORT": "ギャラクシーバレット
+		"P_EXTRA_TEXT": "ギャラクシーバレット
 	},
 	{
 		"P_SKILL_ID": "500181301",
-		"P_EXPLAIN_SHORT": "セイグリットフォース",
-		"P_EXTRA_TEXT": "セイグリットフォース",
+		"P_EXPLAIN_SHORT": "セイグリットフォース
+		"P_EXTRA_TEXT": "セイグリットフォース
 	},
 	{
 		"P_SKILL_ID": "500181401",
-		"P_EXPLAIN_SHORT": "アストラル・ノヴァ",
-		"P_EXTRA_TEXT": "アストラル・ノヴァ",
+		"P_EXPLAIN_SHORT": "アストラル・ノヴァ
+		"P_EXTRA_TEXT": "アストラル・ノヴァ
 	},
 	{
 		"P_SKILL_ID": "500181402",
-		"P_EXPLAIN_SHORT": "トリスタン",
-		"P_EXTRA_TEXT": "トリスタン",
+		"P_EXPLAIN_SHORT": "トリスタン
+		"P_EXTRA_TEXT": "トリスタン
 	},
 	{
 		"P_SKILL_ID": "500191201",
-		"P_EXPLAIN_SHORT": "シャイニングゲイル",
-		"P_EXTRA_TEXT": "シャイニングゲイル",
+		"P_EXPLAIN_SHORT": "シャイニングゲイル
+		"P_EXTRA_TEXT": "シャイニングゲイル
 	},
 	{
 		"P_SKILL_ID": "500191301",
-		"P_EXPLAIN_SHORT": "シャイニングフォース",
-		"P_EXTRA_TEXT": "シャイニングフォース",
+		"P_EXPLAIN_SHORT": "シャイニングフォース
+		"P_EXTRA_TEXT": "シャイニングフォース
 	},
 	{
 		"P_SKILL_ID": "500191401",
-		"P_EXPLAIN_SHORT": "シャイニングオーラ",
-		"P_EXTRA_TEXT": "シャイニングオーラ",
+		"P_EXPLAIN_SHORT": "シャイニングオーラ
+		"P_EXTRA_TEXT": "シャイニングオーラ
 	},
 	{
 		"P_SKILL_ID": "500191402",
-		"P_EXPLAIN_SHORT": "ヘミルシフェル",
-		"P_EXTRA_TEXT": "ヘミルシフェル",
+		"P_EXPLAIN_SHORT": "ヘミルシフェル
+		"P_EXTRA_TEXT": "ヘミルシフェル
 	},
 	{
 		"P_SKILL_ID": "500201201",
-		"P_EXPLAIN_SHORT": "パルスブラスター",
-		"P_EXTRA_TEXT": "パルスブラスター",
+		"P_EXPLAIN_SHORT": "パルスブラスター
+		"P_EXTRA_TEXT": "パルスブラスター
 	},
 	{
 		"P_SKILL_ID": "500201301",
-		"P_EXPLAIN_SHORT": "エーテルブラスター",
-		"P_EXTRA_TEXT": "エーテルブラスター",
+		"P_EXPLAIN_SHORT": "エーテルブラスター
+		"P_EXTRA_TEXT": "エーテルブラスター
 	},
 	{
 		"P_SKILL_ID": "500201401",
-		"P_EXPLAIN_SHORT": "ディバインブラスター",
-		"P_EXTRA_TEXT": "ディバインブラスター",
+		"P_EXPLAIN_SHORT": "ディバインブラスター
+		"P_EXTRA_TEXT": "ディバインブラスター
 	},
 	{
 		"P_SKILL_ID": "500201402",
-		"P_EXPLAIN_SHORT": "ＲＳリーンフォース",
-		"P_EXTRA_TEXT": "ＲＳリーンフォース",
+		"P_EXPLAIN_SHORT": "ＲＳリーンフォース
+		"P_EXTRA_TEXT": "ＲＳリーンフォース
 	},
 	{
 		"P_SKILL_ID": "500211201",
-		"P_EXPLAIN_SHORT": "光の障壁",
-		"P_EXTRA_TEXT": "光の障壁",
+		"P_EXPLAIN_SHORT": "光の障壁
+		"P_EXTRA_TEXT": "光の障壁
 	},
 	{
 		"P_SKILL_ID": "500211301",
-		"P_EXPLAIN_SHORT": "聖なる障壁",
-		"P_EXTRA_TEXT": "聖なる障壁",
+		"P_EXPLAIN_SHORT": "聖なる障壁
+		"P_EXTRA_TEXT": "聖なる障壁
 	},
 	{
 		"P_SKILL_ID": "500211401",
-		"P_EXPLAIN_SHORT": "重聖壁",
-		"P_EXTRA_TEXT": "重聖壁",
+		"P_EXPLAIN_SHORT": "重聖壁
+		"P_EXTRA_TEXT": "重聖壁
 	},
 	{
 		"P_SKILL_ID": "500211402",
-		"P_EXPLAIN_SHORT": "聖堅断陣",
-		"P_EXTRA_TEXT": "聖堅断陣",
+		"P_EXPLAIN_SHORT": "聖堅断陣
+		"P_EXTRA_TEXT": "聖堅断陣
 	},
 	{
 		"P_SKILL_ID": "500221001",
-		"P_EXPLAIN_SHORT": "噛みつきフォトン",
-		"P_EXTRA_TEXT": "噛みつきフォトン",
+		"P_EXPLAIN_SHORT": "噛みつきフォトン
+		"P_EXTRA_TEXT": "噛みつきフォトン
 	},
 	{
 		"P_SKILL_ID": "500221101",
-		"P_EXPLAIN_SHORT": "丸かじりフォトン",
-		"P_EXTRA_TEXT": "丸かじりフォトン",
+		"P_EXPLAIN_SHORT": "丸かじりフォトン
+		"P_EXTRA_TEXT": "丸かじりフォトン
 	},
 	{
 		"P_SKILL_ID": "500231001",
-		"P_EXPLAIN_SHORT": "ミルキー・ウェイ",
-		"P_EXTRA_TEXT": "ミルキー・ウェイ",
+		"P_EXPLAIN_SHORT": "ミルキー・ウェイ
+		"P_EXTRA_TEXT": "ミルキー・ウェイ
 	},
 	{
 		"P_SKILL_ID": "500231101",
-		"P_EXPLAIN_SHORT": "セイントべネディクション",
-		"P_EXTRA_TEXT": "セイントべネディクション",
+		"P_EXPLAIN_SHORT": "セイントべネディクション
+		"P_EXTRA_TEXT": "セイントべネディクション
 	},
 	{
 		"P_SKILL_ID": "500231201",
-		"P_EXPLAIN_SHORT": "スターヒール",
-		"P_EXTRA_TEXT": "スターヒール",
+		"P_EXPLAIN_SHORT": "スターヒール
+		"P_EXTRA_TEXT": "スターヒール
 	},
 	{
 		"P_SKILL_ID": "500241001",
-		"P_EXPLAIN_SHORT": "光の剣",
-		"P_EXTRA_TEXT": "光の剣",
+		"P_EXPLAIN_SHORT": "光の剣
+		"P_EXTRA_TEXT": "光の剣
 	},
 	{
 		"P_SKILL_ID": "500241101",
-		"P_EXPLAIN_SHORT": "祝福の剣",
-		"P_EXTRA_TEXT": "祝福の剣",
+		"P_EXPLAIN_SHORT": "祝福の剣
+		"P_EXTRA_TEXT": "祝福の剣
 	},
 	{
 		"P_SKILL_ID": "500241201",
-		"P_EXPLAIN_SHORT": "天の柱",
-		"P_EXTRA_TEXT": "天の柱",
+		"P_EXPLAIN_SHORT": "天の柱
+		"P_EXTRA_TEXT": "天の柱
 	},
 	{
 		"P_SKILL_ID": "500251101",
-		"P_EXPLAIN_SHORT": "ミラージュホーン",
-		"P_EXTRA_TEXT": "ミラージュホーン",
+		"P_EXPLAIN_SHORT": "ミラージュホーン
+		"P_EXTRA_TEXT": "ミラージュホーン
 	},
 	{
 		"P_SKILL_ID": "500251201",
-		"P_EXPLAIN_SHORT": "トルネードチャージ",
-		"P_EXTRA_TEXT": "トルネードチャージ",
+		"P_EXPLAIN_SHORT": "トルネードチャージ
+		"P_EXTRA_TEXT": "トルネードチャージ
 	},
 	{
 		"P_SKILL_ID": "500291401",
-		"P_EXPLAIN_SHORT": "ロスヴァイセ",
-		"P_EXTRA_TEXT": "ロスヴァイセ",
+		"P_EXPLAIN_SHORT": "ロスヴァイセ
+		"P_EXTRA_TEXT": "ロスヴァイセ
 	},
 	{
 		"P_SKILL_ID": "500291402",
-		"P_EXPLAIN_SHORT": "オルトリンデ",
-		"P_EXTRA_TEXT": "オルトリンデ",
+		"P_EXPLAIN_SHORT": "オルトリンデ
+		"P_EXTRA_TEXT": "オルトリンデ
 	},
 	{
 		"P_SKILL_ID": "600012201",
-		"P_EXPLAIN_SHORT": "闇の滅閃",
-		"P_EXTRA_TEXT": "闇の滅閃",
+		"P_EXPLAIN_SHORT": "闇の滅閃
+		"P_EXTRA_TEXT": "闇の滅閃
 	},
 	{
 		"P_SKILL_ID": "600012301",
-		"P_EXPLAIN_SHORT": "怨渦の滅閃",
-		"P_EXTRA_TEXT": "怨渦の滅閃",
+		"P_EXPLAIN_SHORT": "怨渦の滅閃
+		"P_EXTRA_TEXT": "怨渦の滅閃
 	},
 	{
 		"P_SKILL_ID": "600012401",
-		"P_EXPLAIN_SHORT": "崩傀の滅閃",
-		"P_EXTRA_TEXT": "崩傀の滅閃",
+		"P_EXPLAIN_SHORT": "崩傀の滅閃
+		"P_EXTRA_TEXT": "崩傀の滅閃
 	},
 	{
 		"P_SKILL_ID": "600012402",
-		"P_EXPLAIN_SHORT": "黒霧を纏う無燼",
-		"P_EXTRA_TEXT": "黒霧を纏う無燼",
+		"P_EXPLAIN_SHORT": "黒霧を纏う無燼
+		"P_EXTRA_TEXT": "黒霧を纏う無燼
 	},
 	{
 		"P_SKILL_ID": "600022201",
-		"P_EXPLAIN_SHORT": "えーっ、あたしも戦うの？",
-		"P_EXTRA_TEXT": "えーっ、あたしも戦うの？",
+		"P_EXPLAIN_SHORT": "えーっ、あたしも戦うの？
+		"P_EXTRA_TEXT": "えーっ、あたしも戦うの？
 	},
 	{
 		"P_SKILL_ID": "600022301",
-		"P_EXPLAIN_SHORT": "めんどいなぁ、ちょっとだけだよ",
-		"P_EXTRA_TEXT": "めんどいなぁ、ちょっとだけだよ",
+		"P_EXPLAIN_SHORT": "めんどいなぁ、ちょっとだけだよ
+		"P_EXTRA_TEXT": "めんどいなぁ、ちょっとだけだよ
 	},
 	{
 		"P_SKILL_ID": "600022401",
-		"P_EXPLAIN_SHORT": "眠いんだから邪魔しないでよ！",
-		"P_EXTRA_TEXT": "眠いんだから邪魔しないでよ！",
+		"P_EXPLAIN_SHORT": "眠いんだから邪魔しないでよ！
+		"P_EXTRA_TEXT": "眠いんだから邪魔しないでよ！
 	},
 	{
 		"P_SKILL_ID": "600022402",
-		"P_EXPLAIN_SHORT": "ユーフォリア",
-		"P_EXTRA_TEXT": "ユーフォリア",
+		"P_EXPLAIN_SHORT": "ユーフォリア
+		"P_EXTRA_TEXT": "ユーフォリア
 	},
 	{
 		"P_SKILL_ID": "600032201",
-		"P_EXPLAIN_SHORT": "今回もよろしくね……",
-		"P_EXTRA_TEXT": "今回もよろしくね……",
+		"P_EXPLAIN_SHORT": "今回もよろしくね……
+		"P_EXTRA_TEXT": "今回もよろしくね……
 	},
 	{
 		"P_SKILL_ID": "600032301",
-		"P_EXPLAIN_SHORT": "こんな感じでいいのかな……？",
-		"P_EXTRA_TEXT": "こんな感じでいいのかな……？",
+		"P_EXPLAIN_SHORT": "こんな感じでいいのかな……？
+		"P_EXTRA_TEXT": "こんな感じでいいのかな……？
 	},
 	{
 		"P_SKILL_ID": "600032401",
-		"P_EXPLAIN_SHORT": "僕だって戦える……と思う！",
-		"P_EXTRA_TEXT": "僕だって戦える……と思う！",
+		"P_EXPLAIN_SHORT": "僕だって戦える……と思う！
+		"P_EXTRA_TEXT": "僕だって戦える……と思う！
 	},
 	{
 		"P_SKILL_ID": "600032402",
-		"P_EXPLAIN_SHORT": "魔元転異",
-		"P_EXTRA_TEXT": "魔元転異",
+		"P_EXPLAIN_SHORT": "魔元転異
+		"P_EXTRA_TEXT": "魔元転異
 	},
 	{
 		"P_SKILL_ID": "600042201",
-		"P_EXPLAIN_SHORT": "瘴害のリージョン",
-		"P_EXTRA_TEXT": "瘴害のリージョン",
+		"P_EXPLAIN_SHORT": "瘴害のリージョン
+		"P_EXTRA_TEXT": "瘴害のリージョン
 	},
 	{
 		"P_SKILL_ID": "600042301",
-		"P_EXPLAIN_SHORT": "瘴罪のコロージョン",
-		"P_EXTRA_TEXT": "瘴罪のコロージョン",
+		"P_EXPLAIN_SHORT": "瘴罪のコロージョン
+		"P_EXTRA_TEXT": "瘴罪のコロージョン
 	},
 	{
 		"P_SKILL_ID": "600042401",
-		"P_EXPLAIN_SHORT": "瘴滅のコラプション",
-		"P_EXTRA_TEXT": "瘴滅のコラプション",
+		"P_EXPLAIN_SHORT": "瘴滅のコラプション
+		"P_EXTRA_TEXT": "瘴滅のコラプション
 	},
 	{
 		"P_SKILL_ID": "600042402",
-		"P_EXPLAIN_SHORT": "潔承のディフュージョン",
-		"P_EXTRA_TEXT": "潔承のディフュージョン",
+		"P_EXPLAIN_SHORT": "潔承のディフュージョン
+		"P_EXTRA_TEXT": "潔承のディフュージョン
 	},
 	{
 		"P_SKILL_ID": "600052201",
-		"P_EXPLAIN_SHORT": "試作型パルスセイバー",
-		"P_EXTRA_TEXT": "試作型パルスセイバー",
+		"P_EXPLAIN_SHORT": "試作型パルスセイバー
+		"P_EXTRA_TEXT": "試作型パルスセイバー
 	},
 	{
 		"P_SKILL_ID": "600052301",
-		"P_EXPLAIN_SHORT": "初期型エーテルセイバー",
-		"P_EXTRA_TEXT": "初期型エーテルセイバー",
+		"P_EXPLAIN_SHORT": "初期型エーテルセイバー
+		"P_EXTRA_TEXT": "初期型エーテルセイバー
 	},
 	{
 		"P_SKILL_ID": "600052401",
-		"P_EXPLAIN_SHORT": "改修型ディバインセイバー",
-		"P_EXTRA_TEXT": "改修型ディバインセイバー",
+		"P_EXPLAIN_SHORT": "改修型ディバインセイバー
+		"P_EXTRA_TEXT": "改修型ディバインセイバー
 	},
 	{
 		"P_SKILL_ID": "600052402",
-		"P_EXPLAIN_SHORT": "ＲＳアイソレイトフォース",
-		"P_EXTRA_TEXT": "ＲＳアイソレイトフォース",
+		"P_EXPLAIN_SHORT": "ＲＳアイソレイトフォース
+		"P_EXTRA_TEXT": "ＲＳアイソレイトフォース
 	},
 	{
 		"P_SKILL_ID": "600062001",
-		"P_EXPLAIN_SHORT": "ナイフイリュージョン",
-		"P_EXTRA_TEXT": "ナイフイリュージョン",
+		"P_EXPLAIN_SHORT": "ナイフイリュージョン
+		"P_EXTRA_TEXT": "ナイフイリュージョン
 	},
 	{
 		"P_SKILL_ID": "600062101",
-		"P_EXPLAIN_SHORT": "ダガーイリュージョン",
-		"P_EXTRA_TEXT": "ダガーイリュージョン",
+		"P_EXPLAIN_SHORT": "ダガーイリュージョン
+		"P_EXTRA_TEXT": "ダガーイリュージョン
 	},
 	{
 		"P_SKILL_ID": "600072001",
-		"P_EXPLAIN_SHORT": "黒閃斬り",
-		"P_EXTRA_TEXT": "黒閃斬り",
+		"P_EXPLAIN_SHORT": "黒閃斬り
+		"P_EXTRA_TEXT": "黒閃斬り
 	},
 	{
 		"P_SKILL_ID": "600072101",
-		"P_EXPLAIN_SHORT": "黒影流し",
-		"P_EXTRA_TEXT": "黒影流し",
+		"P_EXPLAIN_SHORT": "黒影流し
+		"P_EXTRA_TEXT": "黒影流し
 	},
 	{
 		"P_SKILL_ID": "600082001",
-		"P_EXPLAIN_SHORT": "打ち付ける",
-		"P_EXTRA_TEXT": "打ち付ける",
+		"P_EXPLAIN_SHORT": "打ち付ける
+		"P_EXTRA_TEXT": "打ち付ける
 	},
 	{
 		"P_SKILL_ID": "600082101",
-		"P_EXPLAIN_SHORT": "叩きのめす",
-		"P_EXTRA_TEXT": "叩きのめす",
+		"P_EXPLAIN_SHORT": "叩きのめす
+		"P_EXTRA_TEXT": "叩きのめす
 	},
 	{
 		"P_SKILL_ID": "600092101",
-		"P_EXPLAIN_SHORT": "黒旋断",
-		"P_EXTRA_TEXT": "黒旋断",
+		"P_EXPLAIN_SHORT": "黒旋断
+		"P_EXTRA_TEXT": "黒旋断
 	},
 	{
 		"P_SKILL_ID": "600092201",
-		"P_EXPLAIN_SHORT": "黒殲断",
-		"P_EXTRA_TEXT": "黒殲断",
+		"P_EXPLAIN_SHORT": "黒殲断
+		"P_EXTRA_TEXT": "黒殲断
 	},
 	{
 		"P_SKILL_ID": "600102001",
-		"P_EXPLAIN_SHORT": "スイングペイン",
-		"P_EXTRA_TEXT": "スイングペイン",
+		"P_EXPLAIN_SHORT": "スイングペイン
+		"P_EXTRA_TEXT": "スイングペイン
 	},
 	{
 		"P_SKILL_ID": "600102101",
-		"P_EXPLAIN_SHORT": "スイングビーク",
-		"P_EXTRA_TEXT": "スイングビーク",
+		"P_EXPLAIN_SHORT": "スイングビーク
+		"P_EXTRA_TEXT": "スイングビーク
 	},
 	{
 		"P_SKILL_ID": "600112001",
-		"P_EXPLAIN_SHORT": "イビルスピア",
-		"P_EXTRA_TEXT": "イビルスピア",
+		"P_EXPLAIN_SHORT": "イビルスピア
+		"P_EXTRA_TEXT": "イビルスピア
 	},
 	{
 		"P_SKILL_ID": "600112101",
-		"P_EXPLAIN_SHORT": "アビススピア",
-		"P_EXTRA_TEXT": "アビススピア",
+		"P_EXPLAIN_SHORT": "アビススピア
+		"P_EXTRA_TEXT": "アビススピア
 	},
 	{
 		"P_SKILL_ID": "600122101",
-		"P_EXPLAIN_SHORT": "デモンプレス",
-		"P_EXTRA_TEXT": "デモンプレス",
+		"P_EXPLAIN_SHORT": "デモンプレス
+		"P_EXTRA_TEXT": "デモンプレス
 	},
 	{
 		"P_SKILL_ID": "600122201",
-		"P_EXPLAIN_SHORT": "デモンプロード",
-		"P_EXTRA_TEXT": "デモンプロード",
+		"P_EXPLAIN_SHORT": "デモンプロード
+		"P_EXTRA_TEXT": "デモンプロード
 	},
 	{
 		"P_SKILL_ID": "600132201",
-		"P_EXPLAIN_SHORT": "シャドウレイド",
-		"P_EXTRA_TEXT": "シャドウレイド",
+		"P_EXPLAIN_SHORT": "シャドウレイド
+		"P_EXTRA_TEXT": "シャドウレイド
 	},
 	{
 		"P_SKILL_ID": "600132301",
-		"P_EXPLAIN_SHORT": "シークレットレイド",
-		"P_EXTRA_TEXT": "シークレットレイド",
+		"P_EXPLAIN_SHORT": "シークレットレイド
+		"P_EXTRA_TEXT": "シークレットレイド
 	},
 	{
 		"P_SKILL_ID": "600132401",
-		"P_EXPLAIN_SHORT": "ミスティックレイド",
-		"P_EXTRA_TEXT": "ミスティックレイド",
+		"P_EXPLAIN_SHORT": "ミスティックレイド
+		"P_EXTRA_TEXT": "ミスティックレイド
 	},
 	{
 		"P_SKILL_ID": "600132402",
-		"P_EXPLAIN_SHORT": "幻遁術・葬",
-		"P_EXTRA_TEXT": "幻遁術・葬",
+		"P_EXPLAIN_SHORT": "幻遁術・葬
+		"P_EXTRA_TEXT": "幻遁術・葬
 	},
 	{
 		"P_SKILL_ID": "600141201",
-		"P_EXPLAIN_SHORT": "ギルティーアッシュ",
-		"P_EXTRA_TEXT": "ギルティーアッシュ",
+		"P_EXPLAIN_SHORT": "ギルティーアッシュ
+		"P_EXTRA_TEXT": "ギルティーアッシュ
 	},
 	{
 		"P_SKILL_ID": "600141301",
-		"P_EXPLAIN_SHORT": "グラビティエクリプス",
-		"P_EXTRA_TEXT": "グラビティエクリプス",
+		"P_EXPLAIN_SHORT": "グラビティエクリプス
+		"P_EXTRA_TEXT": "グラビティエクリプス
 	},
 	{
 		"P_SKILL_ID": "600141401",
-		"P_EXPLAIN_SHORT": "デスヴォートバベル",
-		"P_EXTRA_TEXT": "デスヴォートバベル",
+		"P_EXPLAIN_SHORT": "デスヴォートバベル
+		"P_EXTRA_TEXT": "デスヴォートバベル
 	},
 	{
 		"P_SKILL_ID": "600141402",
-		"P_EXPLAIN_SHORT": "ヴァ―ミリオンタワー",
-		"P_EXTRA_TEXT": "ヴァ―ミリオンタワー",
+		"P_EXPLAIN_SHORT": "ヴァ―ミリオンタワー
+		"P_EXTRA_TEXT": "ヴァ―ミリオンタワー
 	},
 	{
 		"P_SKILL_ID": "600151201",
-		"P_EXPLAIN_SHORT": "夜光蟲",
-		"P_EXTRA_TEXT": "夜光蟲",
+		"P_EXPLAIN_SHORT": "夜光蟲
+		"P_EXTRA_TEXT": "夜光蟲
 	},
 	{
 		"P_SKILL_ID": "600151301",
-		"P_EXPLAIN_SHORT": "千年夜光蟲",
-		"P_EXTRA_TEXT": "千年夜光蟲",
+		"P_EXPLAIN_SHORT": "千年夜光蟲
+		"P_EXTRA_TEXT": "千年夜光蟲
 	},
 	{
 		"P_SKILL_ID": "600151401",
-		"P_EXPLAIN_SHORT": "神閃夜光蟲",
-		"P_EXTRA_TEXT": "神閃夜光蟲",
+		"P_EXPLAIN_SHORT": "神閃夜光蟲
+		"P_EXTRA_TEXT": "神閃夜光蟲
 	},
 	{
 		"P_SKILL_ID": "600151402",
-		"P_EXPLAIN_SHORT": "紅闇の雨",
-		"P_EXTRA_TEXT": "紅闇の雨",
+		"P_EXPLAIN_SHORT": "紅闇の雨
+		"P_EXTRA_TEXT": "紅闇の雨
 	},
 	{
 		"P_SKILL_ID": "600161201",
-		"P_EXPLAIN_SHORT": "シャドウインサルト",
-		"P_EXTRA_TEXT": "シャドウインサルト",
+		"P_EXPLAIN_SHORT": "シャドウインサルト
+		"P_EXTRA_TEXT": "シャドウインサルト
 	},
 	{
 		"P_SKILL_ID": "600161301",
-		"P_EXPLAIN_SHORT": "クリムゾンリーパー",
-		"P_EXTRA_TEXT": "クリムゾンリーパー",
+		"P_EXPLAIN_SHORT": "クリムゾンリーパー
+		"P_EXTRA_TEXT": "クリムゾンリーパー
 	},
 	{
 		"P_SKILL_ID": "600161401",
-		"P_EXPLAIN_SHORT": "アバドンイーター",
-		"P_EXTRA_TEXT": "アバドンイーター",
+		"P_EXPLAIN_SHORT": "アバドンイーター
+		"P_EXTRA_TEXT": "アバドンイーター
 	},
 	{
 		"P_SKILL_ID": "600161402",
-		"P_EXPLAIN_SHORT": "ブラッドサクション",
-		"P_EXTRA_TEXT": "ブラッドサクション",
+		"P_EXPLAIN_SHORT": "ブラッドサクション
+		"P_EXTRA_TEXT": "ブラッドサクション
 	},
 	{
 		"P_SKILL_ID": "600171201",
-		"P_EXPLAIN_SHORT": "スカーレットリーパー",
-		"P_EXTRA_TEXT": "スカーレットリーパー",
+		"P_EXPLAIN_SHORT": "スカーレットリーパー
+		"P_EXTRA_TEXT": "スカーレットリーパー
 	},
 	{
 		"P_SKILL_ID": "600171301",
-		"P_EXPLAIN_SHORT": "ソウルイクリプス",
-		"P_EXTRA_TEXT": "ソウルイクリプス",
+		"P_EXPLAIN_SHORT": "ソウルイクリプス
+		"P_EXTRA_TEXT": "ソウルイクリプス
 	},
 	{
 		"P_SKILL_ID": "600171401",
-		"P_EXPLAIN_SHORT": "グリムクリーヴァ",
-		"P_EXTRA_TEXT": "グリムクリーヴァ",
+		"P_EXPLAIN_SHORT": "グリムクリーヴァ
+		"P_EXTRA_TEXT": "グリムクリーヴァ
 	},
 	{
 		"P_SKILL_ID": "600171402",
-		"P_EXPLAIN_SHORT": "エクスターミネイション",
-		"P_EXTRA_TEXT": "エクスターミネイション",
+		"P_EXPLAIN_SHORT": "エクスターミネイション
+		"P_EXTRA_TEXT": "エクスターミネイション
 	},
 	{
 		"P_SKILL_ID": "600181201",
-		"P_EXPLAIN_SHORT": "奥義・月光",
-		"P_EXTRA_TEXT": "奥義・月光",
+		"P_EXPLAIN_SHORT": "奥義・月光
+		"P_EXTRA_TEXT": "奥義・月光
 	},
 	{
 		"P_SKILL_ID": "600181301",
-		"P_EXPLAIN_SHORT": "奥義・紫電",
-		"P_EXTRA_TEXT": "奥義・紫電",
+		"P_EXPLAIN_SHORT": "奥義・紫電
+		"P_EXTRA_TEXT": "奥義・紫電
 	},
 	{
 		"P_SKILL_ID": "600181401",
-		"P_EXPLAIN_SHORT": "奥義・極光",
-		"P_EXTRA_TEXT": "奥義・極光",
+		"P_EXPLAIN_SHORT": "奥義・極光
+		"P_EXTRA_TEXT": "奥義・極光
 	},
 	{
 		"P_SKILL_ID": "600181402",
-		"P_EXPLAIN_SHORT": "奥義・羅刹",
-		"P_EXTRA_TEXT": "奥義・羅刹",
+		"P_EXPLAIN_SHORT": "奥義・羅刹
+		"P_EXTRA_TEXT": "奥義・羅刹
 	},
 	{
 		"P_SKILL_ID": "600191201",
-		"P_EXPLAIN_SHORT": "ブラックハザード",
-		"P_EXTRA_TEXT": "ブラックハザード",
+		"P_EXPLAIN_SHORT": "ブラックハザード
+		"P_EXTRA_TEXT": "ブラックハザード
 	},
 	{
 		"P_SKILL_ID": "600191301",
-		"P_EXPLAIN_SHORT": "ブラックベーゼ",
-		"P_EXTRA_TEXT": "ブラックベーゼ",
+		"P_EXPLAIN_SHORT": "ブラックベーゼ
+		"P_EXTRA_TEXT": "ブラックベーゼ
 	},
 	{
 		"P_SKILL_ID": "600191401",
-		"P_EXPLAIN_SHORT": "ブラックディヴァート",
-		"P_EXTRA_TEXT": "ブラックディヴァート",
+		"P_EXPLAIN_SHORT": "ブラックディヴァート
+		"P_EXTRA_TEXT": "ブラックディヴァート
 	},
 	{
 		"P_SKILL_ID": "600191402",
-		"P_EXPLAIN_SHORT": "コンヴィクション",
-		"P_EXTRA_TEXT": "コンヴィクション",
+		"P_EXPLAIN_SHORT": "コンヴィクション
+		"P_EXTRA_TEXT": "コンヴィクション
 	},
 	{
 		"P_SKILL_ID": "600201201",
-		"P_EXPLAIN_SHORT": "カタストロフィ",
-		"P_EXTRA_TEXT": "カタストロフィ",
+		"P_EXPLAIN_SHORT": "カタストロフィ
+		"P_EXTRA_TEXT": "カタストロフィ
 	},
 	{
 		"P_SKILL_ID": "600201301",
-		"P_EXPLAIN_SHORT": "ダークマター",
-		"P_EXTRA_TEXT": "ダークマター",
+		"P_EXPLAIN_SHORT": "ダークマター
+		"P_EXTRA_TEXT": "ダークマター
 	},
 	{
 		"P_SKILL_ID": "600201401",
-		"P_EXPLAIN_SHORT": "サクリファイス",
-		"P_EXTRA_TEXT": "サクリファイス",
+		"P_EXPLAIN_SHORT": "サクリファイス
+		"P_EXTRA_TEXT": "サクリファイス
 	},
 	{
 		"P_SKILL_ID": "600201402",
-		"P_EXPLAIN_SHORT": "カオスインヴォーク",
-		"P_EXTRA_TEXT": "カオスインヴォーク",
+		"P_EXPLAIN_SHORT": "カオスインヴォーク
+		"P_EXTRA_TEXT": "カオスインヴォーク
 	},
 	{
 		"P_SKILL_ID": "600211201",
-		"P_EXPLAIN_SHORT": "索敵モード",
-		"P_EXTRA_TEXT": "索敵モード",
+		"P_EXPLAIN_SHORT": "索敵モード
+		"P_EXTRA_TEXT": "索敵モード
 	},
 	{
 		"P_SKILL_ID": "600211301",
-		"P_EXPLAIN_SHORT": "破壊モード",
-		"P_EXTRA_TEXT": "破壊モード",
+		"P_EXPLAIN_SHORT": "破壊モード
+		"P_EXTRA_TEXT": "破壊モード
 	},
 	{
 		"P_SKILL_ID": "600211401",
-		"P_EXPLAIN_SHORT": "破壊モードII",
-		"P_EXTRA_TEXT": "破壊モードII",
+		"P_EXPLAIN_SHORT": "破壊モードII
+		"P_EXTRA_TEXT": "破壊モードII
 	},
 	{
 		"P_SKILL_ID": "600211402",
-		"P_EXPLAIN_SHORT": "トータルスウィープ",
-		"P_EXTRA_TEXT": "トータルスウィープ",
+		"P_EXPLAIN_SHORT": "トータルスウィープ
+		"P_EXTRA_TEXT": "トータルスウィープ
 	},
 	{
 		"P_SKILL_ID": "600221201",
-		"P_EXPLAIN_SHORT": "影魔炎",
-		"P_EXTRA_TEXT": "影魔炎",
+		"P_EXPLAIN_SHORT": "影魔炎
+		"P_EXTRA_TEXT": "影魔炎
 	},
 	{
 		"P_SKILL_ID": "600221301",
-		"P_EXPLAIN_SHORT": "魔炎剣",
-		"P_EXTRA_TEXT": "魔炎剣",
+		"P_EXPLAIN_SHORT": "魔炎剣
+		"P_EXTRA_TEXT": "魔炎剣
 	},
 	{
 		"P_SKILL_ID": "600221401",
-		"P_EXPLAIN_SHORT": "魔喰炎斬",
-		"P_EXTRA_TEXT": "魔喰炎斬",
+		"P_EXPLAIN_SHORT": "魔喰炎斬
+		"P_EXTRA_TEXT": "魔喰炎斬
 	},
 	{
 		"P_SKILL_ID": "600221402",
-		"P_EXPLAIN_SHORT": "ヴァルナフィーニス",
-		"P_EXTRA_TEXT": "ヴァルナフィーニス",
+		"P_EXPLAIN_SHORT": "ヴァルナフィーニス
+		"P_EXTRA_TEXT": "ヴァルナフィーニス
 	},
 	{
 		"P_SKILL_ID": "600231201",
-		"P_EXPLAIN_SHORT": "ブラッディーリム",
-		"P_EXTRA_TEXT": "ブラッディーリム",
+		"P_EXPLAIN_SHORT": "ブラッディーリム
+		"P_EXTRA_TEXT": "ブラッディーリム
 	},
 	{
 		"P_SKILL_ID": "600231301",
-		"P_EXPLAIN_SHORT": "ブラッディークロス",
-		"P_EXTRA_TEXT": "ブラッディークロス",
+		"P_EXPLAIN_SHORT": "ブラッディークロス
+		"P_EXTRA_TEXT": "ブラッディークロス
 	},
 	{
 		"P_SKILL_ID": "600231401",
-		"P_EXPLAIN_SHORT": "ブラックデスペリア",
-		"P_EXTRA_TEXT": "ブラックデスペリア",
+		"P_EXPLAIN_SHORT": "ブラックデスペリア
+		"P_EXTRA_TEXT": "ブラックデスペリア
 	},
 	{
 		"P_SKILL_ID": "600231402",
-		"P_EXPLAIN_SHORT": "ファントムドライブ",
-		"P_EXTRA_TEXT": "ファントムドライブ",
+		"P_EXPLAIN_SHORT": "ファントムドライブ
+		"P_EXTRA_TEXT": "ファントムドライブ
 	},
 	{
 		"P_SKILL_ID": "600241001",
-		"P_EXPLAIN_SHORT": "噛みつきシャドウ",
-		"P_EXTRA_TEXT": "噛みつきシャドウ",
+		"P_EXPLAIN_SHORT": "噛みつきシャドウ
+		"P_EXTRA_TEXT": "噛みつきシャドウ
 	},
 	{
 		"P_SKILL_ID": "600241101",
-		"P_EXPLAIN_SHORT": "丸かじりシャドウ",
-		"P_EXTRA_TEXT": "丸かじりシャドウ",
+		"P_EXPLAIN_SHORT": "丸かじりシャドウ
+		"P_EXTRA_TEXT": "丸かじりシャドウ
 	},
 	{
 		"P_SKILL_ID": "600251001",
-		"P_EXPLAIN_SHORT": "鳳壁印　",
-		"P_EXTRA_TEXT": "鳳壁印　",
+		"P_EXPLAIN_SHORT": "鳳壁印　
+		"P_EXTRA_TEXT": "鳳壁印　
 	},
 	{
 		"P_SKILL_ID": "600251101",
-		"P_EXPLAIN_SHORT": "ソウルインテンション",
-		"P_EXTRA_TEXT": "ソウルインテンション",
+		"P_EXPLAIN_SHORT": "ソウルインテンション
+		"P_EXTRA_TEXT": "ソウルインテンション
 	},
 	{
 		"P_SKILL_ID": "600251201",
-		"P_EXPLAIN_SHORT": "グランドデスペリア",
-		"P_EXTRA_TEXT": "グランドデスペリア",
+		"P_EXPLAIN_SHORT": "グランドデスペリア
+		"P_EXTRA_TEXT": "グランドデスペリア
 	},
 	{
 		"P_SKILL_ID": "600261001",
-		"P_EXPLAIN_SHORT": "ボーンスマッシュ",
-		"P_EXTRA_TEXT": "ボーンスマッシュ",
+		"P_EXPLAIN_SHORT": "ボーンスマッシュ
+		"P_EXTRA_TEXT": "ボーンスマッシュ
 	},
 	{
 		"P_SKILL_ID": "600261101",
-		"P_EXPLAIN_SHORT": "ヴォーパルショック",
-		"P_EXTRA_TEXT": "ヴォーパルショック",
+		"P_EXPLAIN_SHORT": "ヴォーパルショック
+		"P_EXTRA_TEXT": "ヴォーパルショック
 	},
 	{
 		"P_SKILL_ID": "600261201",
-		"P_EXPLAIN_SHORT": "スカルヴァイン",
-		"P_EXTRA_TEXT": "スカルヴァイン",
+		"P_EXPLAIN_SHORT": "スカルヴァイン
+		"P_EXTRA_TEXT": "スカルヴァイン
 	},
 	{
 		"P_SKILL_ID": "600271101",
-		"P_EXPLAIN_SHORT": "ゴルゴンの瞳",
-		"P_EXTRA_TEXT": "ゴルゴンの瞳",
+		"P_EXPLAIN_SHORT": "ゴルゴンの瞳
+		"P_EXTRA_TEXT": "ゴルゴンの
 	},
 	{
 		"P_SKILL_ID": "600271201",
-		"P_EXPLAIN_SHORT": "黒蛇の心臓",
-		"P_EXTRA_TEXT": "黒蛇の心臓",
+		"P_EXPLAIN_SHORT": "黒蛇の心臓
+		"P_EXTRA_TEXT": "黒蛇の心臓
 	}
 ]
