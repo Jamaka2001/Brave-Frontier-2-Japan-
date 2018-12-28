@@ -1,0 +1,62 @@
+[
+    {
+        "8q4pgcmV": "100",
+        "P_IMG": "bg_randall.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100150"
+    },
+    {
+        "8q4pgcmV": "101",
+        "P_IMG": "bg_rinbag.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": ""
+    },
+    {
+        "8q4pgcmV": "200",
+        "P_IMG": "bg_randall_management.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100300"
+    },
+    {
+        "8q4pgcmV": "201",
+        "P_IMG": "bg_randall_factory.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100200"
+    },
+    {
+        "8q4pgcmV": "202",
+        "P_IMG": "bg_randall_shop.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100050"
+    },
+    {
+        "8q4pgcmV": "203",
+        "P_IMG": "bg_randall_storage.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": ""
+    },
+    {
+        "8q4pgcmV": "204",
+        "P_IMG": "bg_randall_library.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": ""
+    },
+    {
+        "8q4pgcmV": "205",
+        "P_IMG": "bg_randall_gamecenter.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100350"
+    },
+    {
+        "8q4pgcmV": "300",
+        "P_IMG": "bg_labo.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100250"
+    },
+    {
+        "8q4pgcmV": "400",
+        "P_IMG": "event_bg_009.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000017"
+    }
+]

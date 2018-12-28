@@ -1,0 +1,210 @@
+[
+    {
+        "k8SZhQ0H": "BROWSER_ACCOUNT_ENTRY",
+        "P_NAME": "\u30a8\u30a4\u30ea\u30e0\u30a2\u30ab\u30a6\u30f3\u30c8\u767b\u9332",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://account.a-lim.co.jp/signup",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_ACCOUNT_EXPLANATION",
+        "P_NAME": "\u30a8\u30a4\u30ea\u30e0\u30a2\u30ab\u30a6\u30f3\u30c8\u8aac\u660e",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://account.a-lim.co.jp/alim_account.html",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_APPLI_DL_URL_ANDROID",
+        "P_NAME": "\u30a2\u30d7\u30ea\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9URL ANDROID",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "market://details?id=jp.co.alim.brave",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_APPLI_DL_URL_IOS",
+        "P_NAME": "\u30a2\u30d7\u30ea\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9URL IOS",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://itunes.apple.com/jp/app/id653542050?mt=8",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_OFFICIAL_HP",
+        "P_NAME": "\u516c\u5f0f\u30b5\u30a4\u30c8",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/b2/",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_PRIVACY_POLICY",
+        "P_NAME": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "http://www.a-lim.co.jp/privacypolicy",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_SUBSCRIPTION_INFO_ANDROID",
+        "P_NAME": "\u5b9a\u671f\u8cfc\u8aad\u5185\u5bb9\u78ba\u8a8d_ANDROID",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://support.google.com/googleplay/answer/7018481",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_SUBSCRIPTION_INFO_IOS",
+        "P_NAME": "\u5b9a\u671f\u8cfc\u8aad\u5185\u5bb9\u78ba\u8a8d_IOS",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://support.apple.com/ja-jp/HT202039",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "BROWSER_TRANSFER_INFO",
+        "P_NAME": "\u5f15\u304d\u7d99\u304e\u8a73\u7d30",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/help/faq/data.html",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_ACCOUNT_BF1_LINK",
+        "P_NAME": "\u30a8\u30a4\u30ea\u30e0\u30a2\u30ab\u30a6\u30f3\u30c8\u9023\u643a",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://v1.game.bravefrontier2.jp/statics/alimaccount",
+        "t5R47iwj": "Platform,friendID,mail,pass,identityID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_ARENA_RANKING",
+        "P_NAME": "\u30a2\u30ea\u30fc\u30ca\u30e9\u30f3\u30ad\u30f3\u30b0",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://v1.game.bravefrontier2.jp/statics/arena",
+        "t5R47iwj": "Platform,friendID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_FH_RANKING",
+        "P_NAME": "\u30d5\u30ed\u30cf\u30f3\u30e9\u30f3\u30ad\u30f3\u30b0",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://v1.game.bravefrontier2.jp/statics/frohun",
+        "t5R47iwj": "Platform,friendID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_FRIEND_INVITE",
+        "P_NAME": "\u30d5\u30ec\u30f3\u30c9\u7d39\u4ecb",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://notice.bravefrontier2.jp/bf2/public/friend.php",
+        "t5R47iwj": "Platform,friendID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_GACHA_LIST",
+        "P_NAME": "\u53ec\u559a\u51fa\u73fe\u8a73\u7d30",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://v1.game.bravefrontier2.jp/statics/summon",
+        "t5R47iwj": "gachaID,gachaDetailID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_RAID_HELP",
+        "P_NAME": "\u653b\u9632\u6226\u30d8\u30eb\u30d7",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/help/help/koubou.html",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_SUBSCRIPTION_EXPLANATION",
+        "P_NAME": "\u5b9a\u671f\u8cfc\u8aad\u306e\u8aac\u660e",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://notice.bravefrontier2.jp/bf2/public/subscription.php",
+        "t5R47iwj": "Platform,friendID,state",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_CREDEIT",
+        "P_NAME": "\u30af\u30ec\u30b8\u30c3\u30c8",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://notice.bravefrontier2.jp/bf2/public/credit.html",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_FUND_SETTLEMENT",
+        "P_NAME": "\u8cc7\u91d1\u6c7a\u6e08\u6cd5",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/accounts.html?appli=1",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_HAVE_DIA",
+        "P_NAME": "\u30c0\u30a4\u30e4\u6240\u6301\u5185\u5bb9",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://v1.game.bravefrontier2.jp/statics/user/dia",
+        "t5R47iwj": "Platform,friendID",
+        "nEj78MRq": "1"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_HELP",
+        "P_NAME": "\u30d8\u30eb\u30d7",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/help/",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_INFORMATION",
+        "P_NAME": "\u304a\u77e5\u3089\u305b",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://notice.bravefrontier2.jp/bf2/news/news.php",
+        "t5R47iwj": "Platform,friendID",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_INFO_SUBSCRIPTION",
+        "P_NAME": "\u5b9a\u671f\u8cfc\u8aad\u306e\u8a73\u7d30",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/subscription.html?appli=1",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_MONEY_OF_SERVICE",
+        "P_NAME": "\u5229\u7528\u898f\u7d04",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/agreement.html?appli=1",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_SPECIFIED_COMMERCIAL",
+        "P_NAME": "\u7279\u5b9a\u5546\u53d6\u5f15\u6cd5",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/law.html?appli=1",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_SUPPORT",
+        "P_NAME": "\u304a\u554f\u3044\u5408\u308f\u305b",
+        "X4mIT5Lc": "2",
+        "jsRoN50z": "https://www.bravefrontier.jp/bf2/contact/form.html",
+        "t5R47iwj": "contact_id,model,handle_name",
+        "nEj78MRq": "0"
+    },
+    {
+        "k8SZhQ0H": "WEBVIEW_TITLE_TEAM_OF_SERVICE",
+        "P_NAME": "\u5229\u7528\u898f\u7d04",
+        "X4mIT5Lc": "1",
+        "jsRoN50z": "https://notice.bravefrontier2.jp/bf2/public/agreement.html",
+        "t5R47iwj": "",
+        "nEj78MRq": "0"
+    }
+]

@@ -1,0 +1,6066 @@
+[
+    {
+        "P_MAX_LV": "1",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "11.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "22.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "33.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "44.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "55.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "66.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "77.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "88.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "10",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "9.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "18.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "27.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "36.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "45.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "54.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "63.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "72.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "81.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "90.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "12",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "7.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "14.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "21.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "28.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "35.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "42.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "50.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "57.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "64.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "71.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "78.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "85.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "92.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "15",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "10.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "15.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "20.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "25.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "30.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "35.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "40.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "45.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "50.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "55.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "60.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "65.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "70.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "75.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "80.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "85.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "90.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "95.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "20",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "3.45",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "6.90",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "10.34",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "13.79",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "17.24",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "20.69",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "24.14",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "27.59",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "31.03",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "34.48",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "37.93",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "41.38",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "44.83",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "48.28",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "51.72",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "55.17",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "58.62",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "62.07",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "65.52",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "68.97",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "72.41",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "75.86",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "79.31",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "82.76",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "86.21",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "89.66",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "93.10",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "96.55",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "30",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "2.56",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "5.13",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "7.69",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "10.26",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "12.82",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "15.38",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "17.95",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "20.51",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "23.08",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "25.64",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "28.21",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "30.77",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "33.33",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "35.90",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "38.46",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "41.03",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "43.59",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "46.15",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "48.72",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "51.28",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "53.85",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "56.41",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "58.97",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "61.54",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "64.10",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "66.67",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "69.23",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "71.79",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "74.36",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "76.92",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "79.49",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "82.05",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "84.62",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "87.18",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "89.74",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "92.31",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "94.87",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "97.44",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "40",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "2.04",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "4.08",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "6.12",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "8.16",
+        "P_CREATEDATE": "2018-02-08 16:48:39",
+        "P_UPDATEDATE": "2018-02-08 16:48:39"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "10.20",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "12.24",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "14.29",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "16.33",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "18.37",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "20.41",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "22.45",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "24.49",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "26.53",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "28.57",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "30.61",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "32.65",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "34.69",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "36.73",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "38.78",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "40.82",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "42.86",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "44.90",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "46.94",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "48.98",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "51.02",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "53.06",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "55.10",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "57.14",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "59.18",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "61.22",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "63.27",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "65.31",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "67.35",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "69.39",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "71.43",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "73.47",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "75.51",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "77.55",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "79.59",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "81.63",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "83.67",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "85.71",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "87.76",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "89.80",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "91.84",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "93.88",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "95.92",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "97.96",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "50",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "1.69",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "3.39",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "5.08",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "6.78",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "8.47",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "10.17",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "11.86",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "13.56",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "15.25",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "16.95",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "18.64",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "20.34",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "22.03",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "23.73",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "25.42",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "27.12",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "28.81",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "30.51",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "32.20",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "33.90",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "35.59",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "37.29",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "38.98",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "40.68",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "42.37",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "44.07",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "45.76",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "47.46",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "49.15",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "50.85",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "52.54",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "54.24",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "55.93",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "57.63",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "59.32",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "61.02",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "62.71",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "64.41",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "66.10",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "67.80",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "69.49",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "71.19",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "72.88",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "74.58",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "76.27",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "77.97",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "79.66",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "81.36",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "83.05",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "84.75",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "86.44",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "88.14",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "89.83",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "91.53",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "93.22",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "94.92",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "96.61",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "98.31",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "60",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "1.45",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "2.90",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "4.35",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "5.80",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "7.25",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "8.70",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "10.14",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "11.59",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "13.04",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "14.49",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "15.94",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "17.39",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "18.84",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "20.29",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "21.74",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "23.19",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "24.64",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "26.09",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "27.54",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "28.99",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "30.43",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "31.88",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "33.33",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "34.78",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "36.23",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "37.68",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "39.13",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "40.58",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "42.03",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "43.48",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "44.93",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "46.38",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "47.83",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "49.28",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "50.72",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "52.17",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "53.62",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "55.07",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "56.52",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "57.97",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "59.42",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "60.87",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "62.32",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "63.77",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "65.22",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "66.67",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "68.12",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "69.57",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "71.01",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "72.46",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "73.91",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "75.36",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "76.81",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "78.26",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "79.71",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "81.16",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "82.61",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "84.06",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "85.51",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "61",
+        "4vwSGh50": "86.96",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "62",
+        "4vwSGh50": "88.41",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "63",
+        "4vwSGh50": "89.86",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "64",
+        "4vwSGh50": "91.30",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "65",
+        "4vwSGh50": "92.75",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "66",
+        "4vwSGh50": "94.20",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "67",
+        "4vwSGh50": "95.65",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "68",
+        "4vwSGh50": "97.10",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "69",
+        "4vwSGh50": "98.55",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "70",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "70",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "1.27",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "2.53",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "3.80",
+        "P_CREATEDATE": "2018-02-08 16:48:40",
+        "P_UPDATEDATE": "2018-02-08 16:48:40"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "5.06",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "6.33",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "7.59",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "8.86",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "10.13",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "11.39",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "12.66",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "13.92",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "15.19",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "16.46",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "17.72",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "18.99",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "20.25",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "21.52",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "22.78",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "24.05",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "25.32",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "26.58",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "27.85",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "29.11",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "30.38",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "31.65",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "32.91",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "34.18",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "35.44",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "36.71",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "37.97",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "39.24",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "40.51",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "41.77",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "43.04",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "44.30",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "45.57",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "46.84",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "48.10",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "49.37",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "50.63",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "51.90",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "53.16",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "54.43",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "55.70",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "56.96",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "58.23",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "59.49",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "60.76",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "62.03",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "63.29",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "64.56",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "65.82",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "67.09",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "68.35",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "69.62",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "70.89",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "72.15",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "73.42",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "74.68",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "61",
+        "4vwSGh50": "75.95",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "62",
+        "4vwSGh50": "77.22",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "63",
+        "4vwSGh50": "78.48",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "64",
+        "4vwSGh50": "79.75",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "65",
+        "4vwSGh50": "81.01",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "66",
+        "4vwSGh50": "82.28",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "67",
+        "4vwSGh50": "83.54",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "68",
+        "4vwSGh50": "84.81",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "69",
+        "4vwSGh50": "86.08",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "70",
+        "4vwSGh50": "87.34",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "71",
+        "4vwSGh50": "88.61",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "72",
+        "4vwSGh50": "89.87",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "73",
+        "4vwSGh50": "91.14",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "74",
+        "4vwSGh50": "92.41",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "75",
+        "4vwSGh50": "93.67",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "76",
+        "4vwSGh50": "94.94",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "77",
+        "4vwSGh50": "96.20",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "78",
+        "4vwSGh50": "97.47",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "79",
+        "4vwSGh50": "98.73",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "80",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "80",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "2.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "3.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "4.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "5.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "6.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "7.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "8.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "9.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "10.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "11.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "12.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "13.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "14.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "15.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "16.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "17.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "18.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "19.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "20.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "21.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "22.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "23.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "24.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "25.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "26.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "27.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "28.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "29.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "30.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "31.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "32.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "33.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "34.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "35.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "36.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "37.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "38.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "39.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "40.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "41.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "42.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "43.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "44.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "45.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "46.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "47.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "48.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "49.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "50.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "51.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "52.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "53.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "54.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "55.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "56.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "57.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "58.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "59.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "60.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "61",
+        "4vwSGh50": "61.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "62",
+        "4vwSGh50": "62.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "63",
+        "4vwSGh50": "63.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "64",
+        "4vwSGh50": "64.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "65",
+        "4vwSGh50": "65.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "66",
+        "4vwSGh50": "66.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "67",
+        "4vwSGh50": "67.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "68",
+        "4vwSGh50": "68.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "69",
+        "4vwSGh50": "69.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "70",
+        "4vwSGh50": "70.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "71",
+        "4vwSGh50": "71.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "72",
+        "4vwSGh50": "72.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "73",
+        "4vwSGh50": "73.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "74",
+        "4vwSGh50": "74.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "75",
+        "4vwSGh50": "75.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "76",
+        "4vwSGh50": "76.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "77",
+        "4vwSGh50": "77.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "78",
+        "4vwSGh50": "78.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "79",
+        "4vwSGh50": "79.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "80",
+        "4vwSGh50": "80.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "81",
+        "4vwSGh50": "81.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "82",
+        "4vwSGh50": "82.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "83",
+        "4vwSGh50": "83.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "84",
+        "4vwSGh50": "84.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "85",
+        "4vwSGh50": "85.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "86",
+        "4vwSGh50": "86.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "87",
+        "4vwSGh50": "87.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "88",
+        "4vwSGh50": "88.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "89",
+        "4vwSGh50": "89.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "90",
+        "4vwSGh50": "90.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "91",
+        "4vwSGh50": "91.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "92",
+        "4vwSGh50": "92.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "93",
+        "4vwSGh50": "93.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "94",
+        "4vwSGh50": "94.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "95",
+        "4vwSGh50": "95.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "96",
+        "4vwSGh50": "96.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "97",
+        "4vwSGh50": "97.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "98",
+        "4vwSGh50": "98.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "99",
+        "4vwSGh50": "99.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "100",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "100",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "1.67",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "2.50",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "3.33",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "4.17",
+        "P_CREATEDATE": "2018-02-08 16:48:41",
+        "P_UPDATEDATE": "2018-02-08 16:48:41"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "5.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "5.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "6.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "7.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "8.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "9.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "10.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "10.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "11.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "12.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "13.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "14.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "15.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "15.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "16.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "17.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "18.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "19.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "20.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "20.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "21.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "22.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "23.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "24.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "25.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "25.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "26.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "27.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "28.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "29.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "30.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "30.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "31.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "32.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "33.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "34.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "35.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "35.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "36.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "37.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "38.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "39.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "40.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "40.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "41.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "42.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "43.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "44.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "45.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "45.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "46.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "47.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "48.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "49.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "50.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "61",
+        "4vwSGh50": "50.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "62",
+        "4vwSGh50": "51.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "63",
+        "4vwSGh50": "52.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "64",
+        "4vwSGh50": "53.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "65",
+        "4vwSGh50": "54.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "66",
+        "4vwSGh50": "55.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "67",
+        "4vwSGh50": "55.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "68",
+        "4vwSGh50": "56.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "69",
+        "4vwSGh50": "57.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "70",
+        "4vwSGh50": "58.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "71",
+        "4vwSGh50": "59.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "72",
+        "4vwSGh50": "60.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "73",
+        "4vwSGh50": "60.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "74",
+        "4vwSGh50": "61.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "75",
+        "4vwSGh50": "62.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "76",
+        "4vwSGh50": "63.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "77",
+        "4vwSGh50": "64.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "78",
+        "4vwSGh50": "65.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "79",
+        "4vwSGh50": "65.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "80",
+        "4vwSGh50": "66.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "81",
+        "4vwSGh50": "67.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "82",
+        "4vwSGh50": "68.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "83",
+        "4vwSGh50": "69.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "84",
+        "4vwSGh50": "70.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "85",
+        "4vwSGh50": "70.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "86",
+        "4vwSGh50": "71.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "87",
+        "4vwSGh50": "72.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "88",
+        "4vwSGh50": "73.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "89",
+        "4vwSGh50": "74.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "90",
+        "4vwSGh50": "75.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "91",
+        "4vwSGh50": "75.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "92",
+        "4vwSGh50": "76.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "93",
+        "4vwSGh50": "77.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "94",
+        "4vwSGh50": "78.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "95",
+        "4vwSGh50": "79.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "96",
+        "4vwSGh50": "80.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "97",
+        "4vwSGh50": "80.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "98",
+        "4vwSGh50": "81.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "99",
+        "4vwSGh50": "82.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "100",
+        "4vwSGh50": "83.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "101",
+        "4vwSGh50": "84.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "102",
+        "4vwSGh50": "85.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "103",
+        "4vwSGh50": "85.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "104",
+        "4vwSGh50": "86.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "105",
+        "4vwSGh50": "87.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "106",
+        "4vwSGh50": "88.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "107",
+        "4vwSGh50": "89.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "108",
+        "4vwSGh50": "90.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "109",
+        "4vwSGh50": "90.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "110",
+        "4vwSGh50": "91.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "111",
+        "4vwSGh50": "92.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "112",
+        "4vwSGh50": "93.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "113",
+        "4vwSGh50": "94.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "114",
+        "4vwSGh50": "95.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "115",
+        "4vwSGh50": "95.83",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "116",
+        "4vwSGh50": "96.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "117",
+        "4vwSGh50": "97.50",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "118",
+        "4vwSGh50": "98.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "119",
+        "4vwSGh50": "99.17",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "120",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "120",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "1",
+        "4vwSGh50": "0.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "2",
+        "4vwSGh50": "1.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "3",
+        "4vwSGh50": "2.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "4",
+        "4vwSGh50": "2.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "5",
+        "4vwSGh50": "3.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "6",
+        "4vwSGh50": "4.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "7",
+        "4vwSGh50": "4.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "8",
+        "4vwSGh50": "5.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "9",
+        "4vwSGh50": "6.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "10",
+        "4vwSGh50": "6.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "11",
+        "4vwSGh50": "7.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "12",
+        "4vwSGh50": "8.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "13",
+        "4vwSGh50": "8.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "14",
+        "4vwSGh50": "9.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "15",
+        "4vwSGh50": "10.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "16",
+        "4vwSGh50": "10.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "17",
+        "4vwSGh50": "11.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "18",
+        "4vwSGh50": "12.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "19",
+        "4vwSGh50": "12.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "20",
+        "4vwSGh50": "13.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "21",
+        "4vwSGh50": "14.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "22",
+        "4vwSGh50": "14.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "23",
+        "4vwSGh50": "15.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "24",
+        "4vwSGh50": "16.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "25",
+        "4vwSGh50": "16.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "26",
+        "4vwSGh50": "17.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "27",
+        "4vwSGh50": "18.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "28",
+        "4vwSGh50": "18.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "29",
+        "4vwSGh50": "19.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "30",
+        "4vwSGh50": "20.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "31",
+        "4vwSGh50": "20.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "32",
+        "4vwSGh50": "21.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "33",
+        "4vwSGh50": "22.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "34",
+        "4vwSGh50": "22.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "35",
+        "4vwSGh50": "23.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "36",
+        "4vwSGh50": "24.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "37",
+        "4vwSGh50": "24.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "38",
+        "4vwSGh50": "25.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "39",
+        "4vwSGh50": "26.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "40",
+        "4vwSGh50": "26.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "41",
+        "4vwSGh50": "27.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "42",
+        "4vwSGh50": "28.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "43",
+        "4vwSGh50": "28.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "44",
+        "4vwSGh50": "29.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "45",
+        "4vwSGh50": "30.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "46",
+        "4vwSGh50": "30.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "47",
+        "4vwSGh50": "31.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "48",
+        "4vwSGh50": "32.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "49",
+        "4vwSGh50": "32.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "50",
+        "4vwSGh50": "33.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "51",
+        "4vwSGh50": "34.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "52",
+        "4vwSGh50": "34.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "53",
+        "4vwSGh50": "35.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "54",
+        "4vwSGh50": "36.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "55",
+        "4vwSGh50": "36.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "56",
+        "4vwSGh50": "37.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "57",
+        "4vwSGh50": "38.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "58",
+        "4vwSGh50": "38.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "59",
+        "4vwSGh50": "39.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "60",
+        "4vwSGh50": "40.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "61",
+        "4vwSGh50": "40.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "62",
+        "4vwSGh50": "41.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "63",
+        "4vwSGh50": "42.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "64",
+        "4vwSGh50": "42.67",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "65",
+        "4vwSGh50": "43.33",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "66",
+        "4vwSGh50": "44.00",
+        "P_CREATEDATE": "2018-02-08 16:48:42",
+        "P_UPDATEDATE": "2018-02-08 16:48:42"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "67",
+        "4vwSGh50": "44.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "68",
+        "4vwSGh50": "45.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "69",
+        "4vwSGh50": "46.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "70",
+        "4vwSGh50": "46.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "71",
+        "4vwSGh50": "47.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "72",
+        "4vwSGh50": "48.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "73",
+        "4vwSGh50": "48.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "74",
+        "4vwSGh50": "49.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "75",
+        "4vwSGh50": "50.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "76",
+        "4vwSGh50": "50.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "77",
+        "4vwSGh50": "51.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "78",
+        "4vwSGh50": "52.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "79",
+        "4vwSGh50": "52.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "80",
+        "4vwSGh50": "53.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "81",
+        "4vwSGh50": "54.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "82",
+        "4vwSGh50": "54.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "83",
+        "4vwSGh50": "55.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "84",
+        "4vwSGh50": "56.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "85",
+        "4vwSGh50": "56.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "86",
+        "4vwSGh50": "57.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "87",
+        "4vwSGh50": "58.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "88",
+        "4vwSGh50": "58.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "89",
+        "4vwSGh50": "59.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "90",
+        "4vwSGh50": "60.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "91",
+        "4vwSGh50": "60.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "92",
+        "4vwSGh50": "61.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "93",
+        "4vwSGh50": "62.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "94",
+        "4vwSGh50": "62.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "95",
+        "4vwSGh50": "63.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "96",
+        "4vwSGh50": "64.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "97",
+        "4vwSGh50": "64.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "98",
+        "4vwSGh50": "65.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "99",
+        "4vwSGh50": "66.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "100",
+        "4vwSGh50": "66.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "101",
+        "4vwSGh50": "67.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "102",
+        "4vwSGh50": "68.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "103",
+        "4vwSGh50": "68.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "104",
+        "4vwSGh50": "69.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "105",
+        "4vwSGh50": "70.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "106",
+        "4vwSGh50": "70.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "107",
+        "4vwSGh50": "71.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "108",
+        "4vwSGh50": "72.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "109",
+        "4vwSGh50": "72.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "110",
+        "4vwSGh50": "73.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "111",
+        "4vwSGh50": "74.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "112",
+        "4vwSGh50": "74.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "113",
+        "4vwSGh50": "75.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "114",
+        "4vwSGh50": "76.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "115",
+        "4vwSGh50": "76.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "116",
+        "4vwSGh50": "77.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "117",
+        "4vwSGh50": "78.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "118",
+        "4vwSGh50": "78.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "119",
+        "4vwSGh50": "79.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "120",
+        "4vwSGh50": "80.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "121",
+        "4vwSGh50": "80.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "122",
+        "4vwSGh50": "81.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "123",
+        "4vwSGh50": "82.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "124",
+        "4vwSGh50": "82.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "125",
+        "4vwSGh50": "83.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "126",
+        "4vwSGh50": "84.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "127",
+        "4vwSGh50": "84.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "128",
+        "4vwSGh50": "85.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "129",
+        "4vwSGh50": "86.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "130",
+        "4vwSGh50": "86.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "131",
+        "4vwSGh50": "87.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "132",
+        "4vwSGh50": "88.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "133",
+        "4vwSGh50": "88.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "134",
+        "4vwSGh50": "89.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "135",
+        "4vwSGh50": "90.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "136",
+        "4vwSGh50": "90.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "137",
+        "4vwSGh50": "91.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "138",
+        "4vwSGh50": "92.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "139",
+        "4vwSGh50": "92.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "140",
+        "4vwSGh50": "93.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "141",
+        "4vwSGh50": "94.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "142",
+        "4vwSGh50": "94.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "143",
+        "4vwSGh50": "95.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "144",
+        "4vwSGh50": "96.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "145",
+        "4vwSGh50": "96.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "146",
+        "4vwSGh50": "97.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "147",
+        "4vwSGh50": "98.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "148",
+        "4vwSGh50": "98.67",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "149",
+        "4vwSGh50": "99.33",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    },
+    {
+        "P_MAX_LV": "150",
+        "P_GROWTH_TYPE": "1",
+        "P_LV": "150",
+        "4vwSGh50": "100.00",
+        "P_CREATEDATE": "2018-02-08 16:48:43",
+        "P_UPDATEDATE": "2018-02-08 16:48:43"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "VIMC82Tf": "1",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb",
+        "P_ICON_ID": "0",
+        "5L3Q1Kbe": "",
+        "k8mCo19p": "",
+        "iUGekJ37": "",
+        "Rve9T26a": "101,102,103,104,105,106",
+        "P8z69BkA": "bg_randall.jpg",
+        "8q4pgcmV": "100",
+        "P_SOUND_ID": "7",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "",
+        "P_OPEN_SWITCH_INFO": "",
+        "P_CREATEDATE": "2018-02-12 16:14:07",
+        "P_UPDATEDATE": "2018-02-12 16:14:07"
+    },
+    {
+        "VIMC82Tf": "2",
+        "P_NAME": "\u5192\u967a\u30d0\u30c3\u30b0",
+        "P_ICON_ID": "0",
+        "5L3Q1Kbe": "",
+        "k8mCo19p": "",
+        "iUGekJ37": "",
+        "Rve9T26a": "201,202",
+        "P8z69BkA": "bg_rinbag.jpg",
+        "8q4pgcmV": "101",
+        "P_SOUND_ID": "3",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "",
+        "P_OPEN_SWITCH_INFO": "",
+        "P_CREATEDATE": "2018-02-12 16:14:07",
+        "P_UPDATEDATE": "2018-02-12 16:14:07"
+    }
+]

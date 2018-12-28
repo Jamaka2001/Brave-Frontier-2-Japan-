@@ -1,0 +1,212 @@
+[
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "1",
+        "P_USE_COUNT": "0",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "2",
+        "P_USE_COUNT": "10",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "3",
+        "P_USE_COUNT": "20",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "4",
+        "P_USE_COUNT": "30",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "5",
+        "P_USE_COUNT": "40",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "6",
+        "P_USE_COUNT": "50",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "7",
+        "P_USE_COUNT": "80",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "8",
+        "P_USE_COUNT": "100",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "9",
+        "P_USE_COUNT": "120",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "10",
+        "P_USE_COUNT": "150",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "1",
+        "P_USE_COUNT": "0",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "2",
+        "P_USE_COUNT": "15",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "3",
+        "P_USE_COUNT": "30",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "4",
+        "P_USE_COUNT": "45",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "5",
+        "P_USE_COUNT": "60",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "6",
+        "P_USE_COUNT": "75",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "7",
+        "P_USE_COUNT": "120",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "8",
+        "P_USE_COUNT": "150",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "9",
+        "P_USE_COUNT": "180",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "15",
+        "P_LV": "10",
+        "P_USE_COUNT": "225",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "1",
+        "P_USE_COUNT": "0",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "2",
+        "P_USE_COUNT": "20",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "3",
+        "P_USE_COUNT": "40",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "4",
+        "P_USE_COUNT": "60",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "5",
+        "P_USE_COUNT": "80",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "6",
+        "P_USE_COUNT": "100",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "7",
+        "P_USE_COUNT": "160",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "8",
+        "P_USE_COUNT": "200",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "9",
+        "P_USE_COUNT": "240",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_LV": "10",
+        "P_USE_COUNT": "300",
+        "P_CREATEDATE": "2018-02-12 16:09:14",
+        "P_UPDATEDATE": "2018-02-12 16:09:14"
+    }
+]

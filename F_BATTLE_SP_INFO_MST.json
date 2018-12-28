@@ -1,0 +1,386 @@
+[
+    {
+        "P_MISSION_ID": "904",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "1",
+        "P_SP_INFO": "102",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2402",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1001513",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2402",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1001513",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2403",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1001530",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3102",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1002211",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3201",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1002310",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "5003",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1003124",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "5003",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1003107",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "5003",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1003152",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "5010",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "100044",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "6701",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "8",
+        "P_SP_INFO": "1004851,1050503",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "7401",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1005806",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "7401",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1005851",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "7402",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1005808",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "7402",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1005853",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "7501",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "8",
+        "P_SP_INFO": "1005951,1050605",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8001",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1006804",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8001",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1006805",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8001",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1006806",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8701",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008809",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8701",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008814",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8702",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008810",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8702",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008815",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8703",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008809",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "8703",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "1008816",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "9003",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "9901",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "8",
+        "P_SP_INFO": "1009905,1051008",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "9904",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2000200",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5002001",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2000401",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5004015",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2000410",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5004015",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2000500",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "10000004",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2000602",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5005008",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001000",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5009001",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001000",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5009010",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001201",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5011003",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001201",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5011005",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001300",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5012001",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001303",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5012007",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001303",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5012009",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "2001401",
+        "P_BATTLE_ORDER": "3",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "5013006",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020103",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020104",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020105",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "3",
+        "P_SP_INFO": "8000040",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020106",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020107",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020108",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020108",
+        "P_BATTLE_ORDER": "2",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
+    }
+]

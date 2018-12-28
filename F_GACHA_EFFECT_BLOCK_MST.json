@@ -1,0 +1,156 @@
+[
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "11",
+        "P_NAME": "\u30ce\u30fc\u30de\u30ebwait",
+        "P_EFFECT_INFO": "gWaitStone.txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "12",
+        "P_NAME": "\u30ce\u30fc\u30de\u30ebopen",
+        "P_EFFECT_INFO": "gOpenStone(N).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "21",
+        "P_NAME": "\u30ec\u30a2wait",
+        "P_EFFECT_INFO": "gWaitGold.txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "22",
+        "P_NAME": "\u30ec\u30a2open",
+        "P_EFFECT_INFO": "gOpenGold(R).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "23",
+        "P_NAME": "\u30ce\u30fc\u30de\u30eb\u21d2\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Stone-Gold).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "31",
+        "P_NAME": "\u6fc0\u30ec\u30a2wait",
+        "P_EFFECT_INFO": "gWaitRed.txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "32",
+        "P_NAME": "\u6fc0\u30ec\u30a2open",
+        "P_EFFECT_INFO": "gOpenRed(SR).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "33",
+        "P_NAME": "\u30ce\u30fc\u30de\u30eb\u21d2\u6fc0\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Stone-Red).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "34",
+        "P_NAME": "\u30ec\u30a2\u21d2\u6fc0\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Gold-Red).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "41",
+        "P_NAME": "\u8d85\u6fc0\u30ec\u30a2wait",
+        "P_EFFECT_INFO": "gWaitRainbow.txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "42",
+        "P_NAME": "\u8d85\u6fc0\u30ec\u30a2open",
+        "P_EFFECT_INFO": "gOpenRainbow(SSR).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "43",
+        "P_NAME": "\u30ce\u30fc\u30de\u30eb\u21d2\u8d85\u6fc0\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Stone-Rainbow).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "44",
+        "P_NAME": "\u30ec\u30a2\u21d2\u8d85\u6fc0\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Gold-Rainbow).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    },
+    {
+        "P_GACHA_EFFECT_BLOCK_ID": "45",
+        "P_NAME": "\u6fc0\u30ec\u30a2\u21d2\u8d85\u6fc0\u30ec\u30a2",
+        "P_EFFECT_INFO": "gChange(Red-Rainbow).txt",
+        "P_PLAY_TYPE": "0",
+        "P_SKIP_TYPE": "0",
+        "P_FRAME_CNT": "0",
+        "P_SE_INFO": "0",
+        "P_CREATEDATE": "2018-02-12 16:04:06",
+        "P_UPDATEDATE": "2018-02-12 16:04:06"
+    }
+]

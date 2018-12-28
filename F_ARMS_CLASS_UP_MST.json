@@ -1,0 +1,372 @@
+[
+    {
+        "P_ARMS_ID": "100102",
+        "4ReW3a7M": "100113",
+        "P_COST_INFO": "30,5000",
+        "P_MATERIAL_INFO": "22:12000:3,22:14000:3,22:12001:1,22:4001:10",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "100102",
+        "4ReW3a7M": "400133",
+        "P_COST_INFO": "30,5000",
+        "P_MATERIAL_INFO": "22:12000:3,22:13000:3,22:12001:1,22:4004:10",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "100113",
+        "4ReW3a7M": "100124",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:15,22:14000:15,22:12001:5,22:4001:20,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "100313",
+        "4ReW3a7M": "100314",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:14001:10,22:4001:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200172",
+        "4ReW3a7M": "200173",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "22:14000:10,22:13000:10,22:13001:5,22:4002:20",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200173",
+        "4ReW3a7M": "100464",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:40,22:14000:40,22:14001:30,22:4001:40,22:15001:1",
+        "P_NEED_SWITCH_INFO": "61100016",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100001"
+    },
+    {
+        "P_ARMS_ID": "200173",
+        "4ReW3a7M": "200174",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:20,22:13000:20,22:13001:10,22:4002:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200173",
+        "4ReW3a7M": "600184",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:14001:10,22:4006:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200322",
+        "4ReW3a7M": "200323",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "22:12000:10,22:13000:10,22:12001:5,22:4002:20",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200323",
+        "4ReW3a7M": "200334",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:13000:20,22:12001:10,22:4002:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200323",
+        "4ReW3a7M": "300344",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:14001:10,22:4003:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "200323",
+        "4ReW3a7M": "600354",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:20,22:13000:20,22:13001:10,22:4006:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300142",
+        "4ReW3a7M": "200164",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:12001:10,22:4002:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300142",
+        "4ReW3a7M": "300143",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "22:12000:10,22:14000:10,22:14001:5,22:4003:20",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300142",
+        "4ReW3a7M": "300564",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:13000:40,22:13001:30,22:12001:30,22:4003:40,22:15001:2",
+        "P_NEED_SWITCH_INFO": "61100021",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100005"
+    },
+    {
+        "P_ARMS_ID": "300143",
+        "4ReW3a7M": "300154",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:14001:10,22:4003:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300383",
+        "4ReW3a7M": "200404",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:30,22:13000:30,22:12001:15,22:4002:40,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300383",
+        "4ReW3a7M": "300394",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:30,22:13000:30,22:14001:15,22:4003:40,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "300383",
+        "4ReW3a7M": "400494",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:50,22:13000:30,22:12001:30,22:4004:30,22:15001:2",
+        "P_NEED_SWITCH_INFO": "61100019",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100004"
+    },
+    {
+        "P_ARMS_ID": "400133",
+        "4ReW3a7M": "400134",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:15,22:13000:15,22:12001:5,22:4004:20,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "400133",
+        "4ReW3a7M": "600474",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:40,22:13000:40,22:13001:30,22:4006:40,22:15001:2",
+        "P_NEED_SWITCH_INFO": "61100017",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100002"
+    },
+    {
+        "P_ARMS_ID": "400243",
+        "4ReW3a7M": "400254",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:13000:20,22:13001:10,22:4004:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "400272",
+        "4ReW3a7M": "100313",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "22:12000:10,22:14000:10,22:14001:5,22:4001:20",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "400272",
+        "4ReW3a7M": "400283",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "22:12000:5,22:13000:5,22:13001:1,22:4004:10",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "400272",
+        "4ReW3a7M": "500304",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:20,22:13000:20,22:12001:10,22:4005:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "400283",
+        "4ReW3a7M": "400294",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:15,22:13000:15,22:13001:5,22:4004:20,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "500223",
+        "4ReW3a7M": "300234",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:13000:20,22:14001:10,22:4003:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "500223",
+        "4ReW3a7M": "500224",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:14000:20,22:12001:10,22:4005:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "500363",
+        "4ReW3a7M": "300484",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:50,22:13000:30,22:13001:30,22:4003:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "61100018",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100003"
+    },
+    {
+        "P_ARMS_ID": "500363",
+        "4ReW3a7M": "500374",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:20,22:13000:20,22:13001:10,22:4005:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "500363",
+        "4ReW3a7M": "500584",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:13000:40,22:13001:30,22:12001:30,22:4005:40,22:15001:2",
+        "P_NEED_SWITCH_INFO": "61100023",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "40100006"
+    },
+    {
+        "P_ARMS_ID": "500413",
+        "4ReW3a7M": "400424",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:50,22:13000:10,22:12001:20,22:4004:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "500413",
+        "4ReW3a7M": "500414",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:13000:30,22:14000:30,22:13001:30,22:4005:20,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "600193",
+        "4ReW3a7M": "100214",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:20,22:13000:20,22:14001:10,22:4001:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "600193",
+        "4ReW3a7M": "600204",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:14000:20,22:13000:20,22:12001:10,22:4006:30,22:15000:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "600443",
+        "4ReW3a7M": "100454",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:50,22:14000:10,22:14001:20,22:4001:30,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    },
+    {
+        "P_ARMS_ID": "600443",
+        "4ReW3a7M": "600444",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "22:12000:30,22:13000:30,22:12001:30,22:4006:20,22:15001:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "0"
+    }
+]

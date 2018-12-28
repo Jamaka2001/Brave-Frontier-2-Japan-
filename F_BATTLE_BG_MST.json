@@ -1,0 +1,1759 @@
+[
+    {
+        "P_BATTLE_BG_ID": "1",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "0,0",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-50",
+        "P_EFFECT_INFO": "2:900000,1:900001",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "3",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-50",
+        "P_EFFECT_INFO": "1:900011",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "4",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-50",
+        "P_EFFECT_INFO": "1:900021",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "5",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-50",
+        "P_EFFECT_INFO": "1:900031",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "6",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-50",
+        "P_EFFECT_INFO": "2:900040,1:900041",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "10",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-136",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "11",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-136",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "997",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-150",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "998",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-150",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "999",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100000",
+        "P_IMG": "bg_arena.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:100000",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100050",
+        "P_IMG": "bg_randall_shop.jpg",
+        "P_POS": "-86,-142",
+        "P_EFFECT_INFO": "1:100050",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100100",
+        "P_IMG": "bg_gate.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100100",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100150",
+        "P_IMG": "bg_randall.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100150",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100200",
+        "P_IMG": "bg_randall_management.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100300",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100250",
+        "P_IMG": "bg_randall_factory.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100200",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100300",
+        "P_IMG": "bg_labo.jpg",
+        "P_POS": "-106,-142",
+        "P_EFFECT_INFO": "1:100250",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "100350",
+        "P_IMG": "event_bg_009.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000017",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "700000",
+        "P_IMG": "battle_bg_2000.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:4000001,3:4000000",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800000",
+        "P_IMG": "battle_bg_1001.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000001,3:3000000",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800001",
+        "P_IMG": "battle_bg_1002.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000003",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800002",
+        "P_IMG": "battle_bg_1003.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000005",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800003",
+        "P_IMG": "battle_bg_1004.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000007",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800004",
+        "P_IMG": "battle_bg_1005.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000009",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "800005",
+        "P_IMG": "battle_bg_1006.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:3000011",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900000",
+        "P_IMG": "event_bg_001.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000001,3:1000000",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900001",
+        "P_IMG": "event_bg_002.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900003",
+        "P_IMG": "event_bg_004.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000007",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900005",
+        "P_IMG": "event_bg_006.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900006",
+        "P_IMG": "event_bg_007.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000013",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900007",
+        "P_IMG": "event_bg_008.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900008",
+        "P_IMG": "event_bg_009.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000017",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900009",
+        "P_IMG": "event_bg_010.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900010",
+        "P_IMG": "event_bg_011.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900011",
+        "P_IMG": "event_bg_012.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900012",
+        "P_IMG": "event_bg_013.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900013",
+        "P_IMG": "event_bg_012_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900014",
+        "P_IMG": "battle_bg_003_11_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000027",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900015",
+        "P_IMG": "event_bg_014.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900016",
+        "P_IMG": "battle_bg_015_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000028",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900017",
+        "P_IMG": "battle_bg_015_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:1000029,1:1000030",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900018",
+        "P_IMG": "battle_bg_017_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:1000031",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900019",
+        "P_IMG": "battle_bg_017_04_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900678,1:900679",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "900020",
+        "P_IMG": "battle_bg_017_04_3.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900680",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010101",
+        "P_IMG": "battle_bg_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900051,3:900050",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010102",
+        "P_IMG": "battle_bg_001_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900061,3:900060",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010103",
+        "P_IMG": "battle_bg_001_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900071,3:900070",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010104",
+        "P_IMG": "battle_bg_001_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900081,3:900080",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010105",
+        "P_IMG": "battle_bg_001_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "0:900091,1:900090",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010106",
+        "P_IMG": "battle_bg_001_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900659",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010107",
+        "P_IMG": "battle_bg_001_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900660",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010201",
+        "P_IMG": "battle_bg_004_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900301,3:900300",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010202",
+        "P_IMG": "battle_bg_004_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900302",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010203",
+        "P_IMG": "battle_bg_004_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900307,3:900306",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010204",
+        "P_IMG": "battle_bg_004_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900314",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010205",
+        "P_IMG": "battle_bg_004_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900309",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010206",
+        "P_IMG": "battle_bg_004_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900311,3:900310",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010207",
+        "P_IMG": "battle_bg_004_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900313,3:900312",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010208",
+        "P_IMG": "battle_bg_004_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010301",
+        "P_IMG": "battle_bg_005_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900401,3:900400",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010302",
+        "P_IMG": "battle_bg_005_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900403",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010303",
+        "P_IMG": "battle_bg_005_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900405",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010304",
+        "P_IMG": "battle_bg_005_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900407,3:900406",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010305",
+        "P_IMG": "battle_bg_005_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900409",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010306",
+        "P_IMG": "battle_bg_005_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900411",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010307",
+        "P_IMG": "battle_bg_005_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900413",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1010308",
+        "P_IMG": "battle_bg_005_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900415,3:900414",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020101",
+        "P_IMG": "battle_bg_002_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900100",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020102",
+        "P_IMG": "battle_bg_002_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900101",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020103",
+        "P_IMG": "battle_bg_002_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900102",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020104",
+        "P_IMG": "battle_bg_002_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900104",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020105",
+        "P_IMG": "battle_bg_002_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1020106",
+        "P_IMG": "battle_bg_002_EX02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900108",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030101",
+        "P_IMG": "battle_bg_003_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900201,3:900200",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030102",
+        "P_IMG": "battle_bg_003_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900203,3:900202",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030103",
+        "P_IMG": "battle_bg_003_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900205,3:900204",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030201",
+        "P_IMG": "battle_bg_003_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900207",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030202",
+        "P_IMG": "battle_bg_003_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900209,3:900208",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030203",
+        "P_IMG": "battle_bg_003_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030204",
+        "P_IMG": "battle_bg_003_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900213",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030205",
+        "P_IMG": "battle_bg_003_08.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900215",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030301",
+        "P_IMG": "battle_bg_003_09.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900226",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030302",
+        "P_IMG": "battle_bg_003_10.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900219",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030303",
+        "P_IMG": "battle_bg_003_11.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900221",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030304",
+        "P_IMG": "battle_bg_003_12.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900223",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030305",
+        "P_IMG": "battle_bg_003_13.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900225",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030306",
+        "P_IMG": "battle_bg_003_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030307",
+        "P_IMG": "battle_bg_003_EX02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1030308",
+        "P_IMG": "battle_bg_017_08.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900676",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040101",
+        "P_IMG": "battle_bg_006_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040102",
+        "P_IMG": "battle_bg_006_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900503",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040103",
+        "P_IMG": "battle_bg_006_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900505",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040201",
+        "P_IMG": "battle_bg_007_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900511,3:900510",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040202",
+        "P_IMG": "battle_bg_007_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900513",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040203",
+        "P_IMG": "battle_bg_007_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900515",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040204",
+        "P_IMG": "battle_bg_007_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900517",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040205",
+        "P_IMG": "battle_bg_007_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900519",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040301",
+        "P_IMG": "battle_bg_008_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900521",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040302",
+        "P_IMG": "battle_bg_008_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900525",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040303",
+        "P_IMG": "battle_bg_008_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900527",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040304",
+        "P_IMG": "battle_bg_008_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900529",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1040305",
+        "P_IMG": "battle_bg_008_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900523",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050101",
+        "P_IMG": "battle_bg_009_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900601",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050102",
+        "P_IMG": "battle_bg_009_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900603",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050103",
+        "P_IMG": "battle_bg_009_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900605",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050104",
+        "P_IMG": "battle_bg_009_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050105",
+        "P_IMG": "battle_bg_009_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900609",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050106",
+        "P_IMG": "battle_bg_009_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900611",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050107",
+        "P_IMG": "battle_bg_009_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900613",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050113",
+        "P_IMG": "battle_bg_009_03_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900615",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050114",
+        "P_IMG": "battle_bg_009_04_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050201",
+        "P_IMG": "battle_bg_010_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900616",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050202",
+        "P_IMG": "battle_bg_010_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900617",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050203",
+        "P_IMG": "battle_bg_010_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900631",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050204",
+        "P_IMG": "battle_bg_010_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900619,2:900618",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050301",
+        "P_IMG": "battle_bg_011_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900620",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050302",
+        "P_IMG": "battle_bg_011_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900621",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050303",
+        "P_IMG": "battle_bg_011_03_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900633",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050304",
+        "P_IMG": "battle_bg_011_03_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900634",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050305",
+        "P_IMG": "battle_bg_011_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900622",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050306",
+        "P_IMG": "battle_bg_011_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900623",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050307",
+        "P_IMG": "battle_bg_011_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900624",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050308",
+        "P_IMG": "battle_bg_011_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900625",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050309",
+        "P_IMG": "battle_bg_011_08.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900627,2:900626",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050310",
+        "P_IMG": "battle_bg_011_09_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900628",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050311",
+        "P_IMG": "battle_bg_011_09_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900629",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050312",
+        "P_IMG": "battle_bg_011_10_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050313",
+        "P_IMG": "battle_bg_011_10_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050314",
+        "P_IMG": "battle_bg_011_11.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900630",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050315",
+        "P_IMG": "battle_bg_011_EX01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900632",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050401",
+        "P_IMG": "battle_bg_012_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900635",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050402",
+        "P_IMG": "battle_bg_012_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900636",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050403",
+        "P_IMG": "battle_bg_012_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900637,1:900638",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050501",
+        "P_IMG": "battle_bg_013_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900639",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050502",
+        "P_IMG": "battle_bg_013_02_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900640",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050503",
+        "P_IMG": "battle_bg_013_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900642",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050504",
+        "P_IMG": "battle_bg_013_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900643",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050505",
+        "P_IMG": "battle_bg_013_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900644",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050506",
+        "P_IMG": "battle_bg_013_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900645",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050507",
+        "P_IMG": "battle_bg_013_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900646,1:900647",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050508",
+        "P_IMG": "battle_bg_013_08_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900648,1:900649",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050509",
+        "P_IMG": "battle_bg_013_08_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900650",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050510",
+        "P_IMG": "battle_bg_013_09_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900651",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050511",
+        "P_IMG": "battle_bg_013_09_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900652",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050512",
+        "P_IMG": "battle_bg_013_10.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900653",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050513",
+        "P_IMG": "battle_bg_013_02_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900641",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050514",
+        "P_IMG": "battle_bg_014_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900661",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050601",
+        "P_IMG": "battle_bg_014_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900654",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050602",
+        "P_IMG": "battle_bg_014_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900655",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050603",
+        "P_IMG": "battle_bg_014_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900656",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050604",
+        "P_IMG": "battle_bg_014_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900657",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050605",
+        "P_IMG": "battle_bg_014_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900658",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050701",
+        "P_IMG": "battle_bg_015_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900662",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050702",
+        "P_IMG": "battle_bg_015_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900664,1:900665",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050711",
+        "P_IMG": "battle_bg_015_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900663",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050901",
+        "P_IMG": "battle_bg_016_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900666",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050902",
+        "P_IMG": "battle_bg_016_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900667",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050903",
+        "P_IMG": "battle_bg_016_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:900668,1:900669",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050904",
+        "P_IMG": "battle_bg_016_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900670",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050905",
+        "P_IMG": "battle_bg_016_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900671",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1050906",
+        "P_IMG": "battle_bg_016_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900672",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051002",
+        "P_IMG": "battle_bg_017_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900675",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051003",
+        "P_IMG": "battle_bg_017_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900673",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051004",
+        "P_IMG": "battle_bg_017_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900674",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051005",
+        "P_IMG": "battle_bg_017_04_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900677",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051007",
+        "P_IMG": "battle_bg_017_05_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900681",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051008",
+        "P_IMG": "battle_bg_017_06_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900683",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051009",
+        "P_IMG": "battle_bg_017_05_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900682",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "1051010",
+        "P_IMG": "battle_bg_017_06_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:900684",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100001",
+        "P_IMG": "battle_bg_ex_sq_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000502,3:2000501",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100002",
+        "P_IMG": "battle_bg_ex_sq_001_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000503",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100003",
+        "P_IMG": "battle_bg_ex_sq_001_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000504",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100101",
+        "P_IMG": "battle_bg_ex_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001001",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100102",
+        "P_IMG": "battle_bg_ex_001_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001002",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100103",
+        "P_IMG": "battle_bg_ex_001_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001003",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "2100104",
+        "P_IMG": "battle_bg_ex_001_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001004",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "20100101",
+        "P_IMG": "battle_bg_3000.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:5000000",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "20100102",
+        "P_IMG": "battle_bg_3001.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:5000001",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "20100103",
+        "P_IMG": "battle_bg_3002.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:5000002",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "20100104",
+        "P_IMG": "battle_bg_3003.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202010101",
+        "P_IMG": "battle_bg_sq_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000001",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202010102",
+        "P_IMG": "battle_bg_sq_001_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000003,3:2000002",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202010103",
+        "P_IMG": "battle_bg_sq_001_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000005",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202010104",
+        "P_IMG": "battle_bg_sq_001_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000007",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202010105",
+        "P_IMG": "event_bg_sq_001_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000009",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020101",
+        "P_IMG": "battle_bg_sq_002_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000101,3:2000100",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020102",
+        "P_IMG": "battle_bg_sq_002_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000103",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020103",
+        "P_IMG": "battle_bg_sq_002_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000105",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020104",
+        "P_IMG": "battle_bg_sq_002_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000107",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020105",
+        "P_IMG": "event_bg_sq_002_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202020106",
+        "P_IMG": "event_bg_sq_002_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202030101",
+        "P_IMG": "battle_bg_sq_003_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000201",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202030102",
+        "P_IMG": "battle_bg_sq_003_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000203",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040101",
+        "P_IMG": "battle_bg_sq_004_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000301",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040102",
+        "P_IMG": "battle_bg_sq_004_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000303",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040103",
+        "P_IMG": "battle_bg_sq_004_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000305",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040104",
+        "P_IMG": "battle_bg_sq_004_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000307",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040105",
+        "P_IMG": "battle_bg_sq_004_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000309",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202040106",
+        "P_IMG": "battle_bg_sq_004_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000311,3:2000310",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202050101",
+        "P_IMG": "battle_bg_sq_005_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000401",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202050102",
+        "P_IMG": "battle_bg_sq_005_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000403",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202050103",
+        "P_IMG": "battle_bg_sq_005_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000405",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202050104",
+        "P_IMG": "battle_bg_sq_005_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000407,3:2000406",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202060101",
+        "P_IMG": "battle_bg_sq_007_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000601",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202070101",
+        "P_IMG": "battle_bg_sq_008_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000701",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202070102",
+        "P_IMG": "battle_bg_sq_008_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000702",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202080101",
+        "P_IMG": "battle_bg_sq_009_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000801",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090101",
+        "P_IMG": "battle_bg_sq_010_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000901",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090102",
+        "P_IMG": "battle_bg_sq_010_02_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000905,2:2000904",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090103",
+        "P_IMG": "battle_bg_sq_010_02_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000903,2:2000902",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090104",
+        "P_IMG": "battle_bg_sq_010_03_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000909",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090105",
+        "P_IMG": "battle_bg_sq_010_03_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000907",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090106",
+        "P_IMG": "battle_bg_sq_010_04_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000913",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090107",
+        "P_IMG": "battle_bg_sq_010_04_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000911",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090108",
+        "P_IMG": "battle_bg_sq_010_05_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000917",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090109",
+        "P_IMG": "battle_bg_sq_010_05_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000915",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090110",
+        "P_IMG": "battle_bg_sq_010_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000919",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202090111",
+        "P_IMG": "battle_bg_sq_010_07.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2000921",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202110101",
+        "P_IMG": "battle_bg_sq_012_01_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001101",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202130101",
+        "P_IMG": "battle_bg_sq_013_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001211",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150101",
+        "P_IMG": "battle_bg_sq_014_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001212,1:2001213",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150102",
+        "P_IMG": "battle_bg_sq_014_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001214",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150103",
+        "P_IMG": "battle_bg_sq_014_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001215",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150104",
+        "P_IMG": "battle_bg_sq_014_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001216",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150105",
+        "P_IMG": "battle_bg_sq_015_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001305",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150106",
+        "P_IMG": "battle_bg_sq_015_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001301,1:2001302",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150107",
+        "P_IMG": "battle_bg_sq_015_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001303,1:2001304",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150108",
+        "P_IMG": "battle_bg_sq_015_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001306",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202150109",
+        "P_IMG": "battle_bg_sq_015_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001307",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160101",
+        "P_IMG": "battle_bg_sq_016_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001408,1:2001409",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160102",
+        "P_IMG": "battle_bg_sq_016_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001401,1:2001402",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160103",
+        "P_IMG": "battle_bg_sq_016_03_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001403,1:2001404",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160104",
+        "P_IMG": "battle_bg_sq_016_03_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001405,1:2001406",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160105",
+        "P_IMG": "battle_bg_sq_016_04_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001407",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202160106",
+        "P_IMG": "battle_bg_sq_016_04_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001410",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202170101",
+        "P_IMG": "battle_bg_sq_017_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001411",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202170102",
+        "P_IMG": "battle_bg_sq_017_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001412,1:2001413",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202170103",
+        "P_IMG": "battle_bg_sq_017_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001414",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202170104",
+        "P_IMG": "battle_bg_sq_017_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001415",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202170105",
+        "P_IMG": "battle_bg_sq_017_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001416,1:2001417",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110101",
+        "P_IMG": "battle_bg_sq_011_01_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001201",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110102",
+        "P_IMG": "battle_bg_sq_011_01_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001202",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110103",
+        "P_IMG": "battle_bg_sq_011_01_3.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001203",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110104",
+        "P_IMG": "battle_bg_sq_011_01_4.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001204",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110105",
+        "P_IMG": "battle_bg_sq_011_02_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001205",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110106",
+        "P_IMG": "battle_bg_sq_011_02_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001206",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110107",
+        "P_IMG": "battle_bg_sq_011_02_3.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001207",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110108",
+        "P_IMG": "battle_bg_sq_011_02_4.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001208",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110109",
+        "P_IMG": "battle_bg_sq_011_03_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001209",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "203110110",
+        "P_IMG": "battle_bg_sq_011_03_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001210",
+        "P_HOME_EFFECT_INFO": "20"
+    }
+]

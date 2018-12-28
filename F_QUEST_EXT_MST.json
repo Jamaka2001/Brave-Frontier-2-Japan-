@@ -1,0 +1,93 @@
+[
+    {
+        "6DRC7MPk": "1",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "101",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "1",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "2",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "102",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "1",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "3",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "103",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "2",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "4",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "104",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "2",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "5",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "105",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "1",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "6",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "99",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "1",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "6DRC7MPk": "7",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "98",
+        "NH65Wj0f": "1",
+        "usyxZ0f6": "2",
+        "P_PRIORITY": "1",
+        "P_NEED_SWITCH_INFO": "",
+        "P_HIDE_SWITCH_INFO": "10000148",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    }
+]

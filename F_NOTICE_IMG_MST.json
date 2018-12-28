@@ -1,0 +1,27 @@
+[
+    {
+        "so31XAuy": "1",
+        "P_NAME": "\u304a\u77e5\u3089\u305b\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\uff09",
+        "P_IMG": "info_icon_notice.png"
+    },
+    {
+        "so31XAuy": "2",
+        "P_NAME": "\u30a4\u30d9\u30f3\u30c8\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\uff09",
+        "P_IMG": "info_icon_event.png"
+    },
+    {
+        "so31XAuy": "3",
+        "P_NAME": "\u91cd\u8981\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\uff09",
+        "P_IMG": "info_icon_important.png"
+    },
+    {
+        "so31XAuy": "4",
+        "P_NAME": "\u304a\u8a6b\u3073\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\uff09",
+        "P_IMG": "info_icon_apology.png"
+    },
+    {
+        "so31XAuy": "5",
+        "P_NAME": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\uff09",
+        "P_IMG": "info_uicon_pdate.png"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "P_UNIT_SHOP_ID": "100",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "101",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "102",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "103",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "104",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "105",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "106",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "107",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "108",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "109",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "110",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "111",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "112",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "113",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "114",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "115",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "116",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "117",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "118",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "119",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "120",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "121",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "122",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "123",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "124",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "125",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "126",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "127",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "128",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "129",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "130",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "131",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "132",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "133",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "134",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "135",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "136",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "137",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "138",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "139",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "140",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "141",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "142",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "143",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "144",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "145",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "146",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "147",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "148",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "149",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "150",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "151",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "152",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "153",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "154",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "155",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "156",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "157",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "158",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "159",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "160",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "161",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "9999",
+        "P_UNIT_SHOP_NAME": "\u30c7\u30d0\u30c3\u30b0\u7528",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10000",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10001",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10002",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10003",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10004",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "2xiKY8E3": "9000000",
+        "P_NAME": "\u53ec\u559a\u5e2b",
+        "8jCYqcN5": "book_symbol_summoner.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "10000000",
+        "P_NAME": "\u30ec\u30b3\u30fc\u30c9",
+        "8jCYqcN5": "book_symbol_record.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "20000000",
+        "P_NAME": "\u30af\u30a8\u30b9\u30c8",
+        "8jCYqcN5": "book_symbol_story.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "30000000",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8",
+        "8jCYqcN5": "book_symbol_unit.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "50000000",
+        "P_NAME": "\u30a2\u30ea\u30fc\u30ca",
+        "8jCYqcN5": "book_symbol_arena.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "60000000",
+        "P_NAME": "\u30a2\u30a4\u30c6\u30e0",
+        "8jCYqcN5": "book_symbol_item.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "70000000",
+        "P_NAME": "\u7814\u7a76\u6240",
+        "8jCYqcN5": "book_symbol_labo.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "75000000",
+        "P_NAME": "\u63a2\u7d22",
+        "8jCYqcN5": "book_symbol_explorer.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "78000000",
+        "P_NAME": "\u653b\u9632\u6226",
+        "8jCYqcN5": "book_symbol_raid.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "80000000",
+        "P_NAME": "\u30b9\u30da\u30b7\u30e3\u30eb",
+        "8jCYqcN5": "book_symbol_battle.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    },
+    {
+        "2xiKY8E3": "90000000",
+        "P_NAME": "\u30a4\u30d9\u30f3\u30c8",
+        "8jCYqcN5": "book_symbol_events.png",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_CREATEDATE": "2018-10-31 13:08:42",
+        "P_UPDATEDATE": "2018-10-31 13:08:42"
+    }
+]

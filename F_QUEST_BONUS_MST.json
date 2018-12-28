@@ -1,0 +1,35 @@
+[
+    {
+        "59BkutKX": "1",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_INFO": "101,102",
+        "P_PRIORITY": "1",
+        "nA95Bdj6": "2",
+        "5Z1LNoyH": "200",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "59BkutKX": "2",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_INFO": "201,202",
+        "P_PRIORITY": "10",
+        "nA95Bdj6": "5",
+        "5Z1LNoyH": "150",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    },
+    {
+        "59BkutKX": "3",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_INFO": "101",
+        "P_PRIORITY": "5",
+        "nA95Bdj6": "1",
+        "5Z1LNoyH": "50",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-02-12 16:08:41",
+        "P_UPDATEDATE": "2018-02-12 16:08:41"
+    }
+]

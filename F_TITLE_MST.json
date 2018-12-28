@@ -1,0 +1,4922 @@
+[
+    {
+        "oebg75U2": "1001",
+        "P_NAME": "\u9a0e\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u3057",
+        "P_DICTIONARY_BG": "1001",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1002",
+        "P_NAME": "\u898b\u7fd2\u3044",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u307f\u306a\u3089\u3044",
+        "P_DICTIONARY_BG": "1002",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1003",
+        "P_NAME": "\u52c7\u6562",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u3046\u304b\u3093",
+        "P_DICTIONARY_BG": "1003",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1004",
+        "P_NAME": "\u53ec\u559a\u5e2b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3087\u3046\u304b\u3093\u3057",
+        "P_DICTIONARY_BG": "1004",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1005",
+        "P_NAME": "\u306a\u308a\u305f\u3066",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u306a\u308a\u305f\u3066",
+        "P_DICTIONARY_BG": "1005",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1006",
+        "P_NAME": "\u521d\u7d1a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3087\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "1006",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1007",
+        "P_NAME": "\u7121\u540d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3080\u3081\u3044",
+        "P_DICTIONARY_BG": "1007",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1008",
+        "P_NAME": "\u306e",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u306e",
+        "P_DICTIONARY_BG": "1008",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1009",
+        "P_NAME": "\u306a",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u306a",
+        "P_DICTIONARY_BG": "1009",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "1010",
+        "P_NAME": "\u3068",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3068",
+        "P_DICTIONARY_BG": "1010",
+        "P_NEED_SWITCH_INFO": "1000000",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2001",
+        "P_NAME": "\u306a\u308b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306a\u308b",
+        "P_DICTIONARY_BG": "2001",
+        "P_NEED_SWITCH_INFO": "71000047",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2002",
+        "P_NAME": "\u304b\u3064",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3064",
+        "P_DICTIONARY_BG": "2002",
+        "P_NEED_SWITCH_INFO": "71000048",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2003",
+        "P_NAME": "\u30aa\u30d6",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3076",
+        "P_DICTIONARY_BG": "2003",
+        "P_NEED_SWITCH_INFO": "71000049",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2004",
+        "P_NAME": "\u901a",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3064\u3046",
+        "P_DICTIONARY_BG": "2004",
+        "P_NEED_SWITCH_INFO": "71000050",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2005",
+        "P_NAME": "\u30e1\u30bf\u30eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3081\u305f\u308b",
+        "P_DICTIONARY_BG": "2005",
+        "P_NEED_SWITCH_INFO": "71000244",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "2006",
+        "P_NAME": "\u30b8\u30e5\u30a8\u30eb",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3058\u3085\u3048\u308b",
+        "P_DICTIONARY_BG": "2006",
+        "P_NEED_SWITCH_INFO": "71000245",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3001",
+        "P_NAME": "\u59cb\u307e\u308a",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u306f\u3058\u307e\u308a",
+        "P_DICTIONARY_BG": "3001",
+        "P_NEED_SWITCH_INFO": "71000051",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3002",
+        "P_NAME": "\u305d\u3053\u305d\u3053",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u305d\u3053\u305d\u3053",
+        "P_DICTIONARY_BG": "3002",
+        "P_NEED_SWITCH_INFO": "71000052",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3003",
+        "P_NAME": "\u9811\u5f35\u308a",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304c\u3093\u3070\u308a",
+        "P_DICTIONARY_BG": "3003",
+        "P_NEED_SWITCH_INFO": "71000053",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3004",
+        "P_NAME": "\u52aa\u529b\u5bb6",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3069\u308a\u3087\u304f\u304b",
+        "P_DICTIONARY_BG": "3004",
+        "P_NEED_SWITCH_INFO": "71000054",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3005",
+        "P_NAME": "\u4e2d\u7d1a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3061\u3085\u3046\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "3005",
+        "P_NEED_SWITCH_INFO": "71000055",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3006",
+        "P_NAME": "\u624b\u7df4\u308c",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3066\u3060\u308c",
+        "P_DICTIONARY_BG": "3006",
+        "P_NEED_SWITCH_INFO": "71000056",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3007",
+        "P_NAME": "\u4e0a\u7d1a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3087\u3046\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "3007",
+        "P_NEED_SWITCH_INFO": "71000057",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3008",
+        "P_NAME": "\u51c4\u8155",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3059\u3054\u3046\u3067",
+        "P_DICTIONARY_BG": "3008",
+        "P_NEED_SWITCH_INFO": "71000058",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3009",
+        "P_NAME": "\u719f\u7df4",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u304f\u308c\u3093",
+        "P_DICTIONARY_BG": "3009",
+        "P_NEED_SWITCH_INFO": "71000059",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3010",
+        "P_NAME": "\u6700\u9ad8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u3053\u3046",
+        "P_DICTIONARY_BG": "3010",
+        "P_NEED_SWITCH_INFO": "71000060",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3011",
+        "P_NAME": "\u30b9\u30fc\u30d1\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3059\u30fc\u3071\u30fc",
+        "P_DICTIONARY_BG": "3011",
+        "P_NEED_SWITCH_INFO": "71000333",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3012",
+        "P_NAME": "\u30cf\u30a4\u30d1\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u306f\u3044\u3071\u30fc",
+        "P_DICTIONARY_BG": "3012",
+        "P_NEED_SWITCH_INFO": "71000372",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3013",
+        "P_NAME": "\u30a6\u30eb\u30c8\u30e9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3046\u308b\u3068\u3089",
+        "P_DICTIONARY_BG": "3013",
+        "P_NEED_SWITCH_INFO": "71000373",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "3014",
+        "P_NAME": "\u30de\u30c3\u30af\u30b9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u307e\u3063\u304f\u3059",
+        "P_DICTIONARY_BG": "3014",
+        "P_NEED_SWITCH_INFO": "71000478",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4001",
+        "P_NAME": "\u304b\u3051\u3060\u3057",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304b\u3051\u3060\u3057",
+        "P_DICTIONARY_BG": "4001",
+        "P_NEED_SWITCH_INFO": "71000061",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4002",
+        "P_NAME": "\u4e09\u6d41",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3093\u308a\u3085\u3046",
+        "P_DICTIONARY_BG": "4002",
+        "P_NEED_SWITCH_INFO": "71000062",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4003",
+        "P_NAME": "\u4eba\u6c17",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306b\u3093\u304d",
+        "P_DICTIONARY_BG": "4003",
+        "P_NEED_SWITCH_INFO": "71000063",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4004",
+        "P_NAME": "\u4e8c\u6d41",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306b\u308a\u3085\u3046",
+        "P_DICTIONARY_BG": "4004",
+        "P_NEED_SWITCH_INFO": "71000064",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4005",
+        "P_NAME": "\u6709\u540d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u3046\u3081\u3044",
+        "P_DICTIONARY_BG": "4005",
+        "P_NEED_SWITCH_INFO": "71000065",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4006",
+        "P_NAME": "\u4e00\u6d41",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u3061\u308a\u3085\u3046",
+        "P_DICTIONARY_BG": "4006",
+        "P_NEED_SWITCH_INFO": "71000066",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4007",
+        "P_NAME": "\u30d7\u30ed",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3077\u308d",
+        "P_DICTIONARY_BG": "4007",
+        "P_NEED_SWITCH_INFO": "71000067",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4008",
+        "P_NAME": "\u5929\u4e0b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u304b",
+        "P_DICTIONARY_BG": "4008",
+        "P_NEED_SWITCH_INFO": "71000068",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4009",
+        "P_NAME": "\u5929\u4e0a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "4009",
+        "P_NEED_SWITCH_INFO": "71000069",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "4010",
+        "P_NAME": "\u4f1d\u8aac",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3067\u3093\u305b\u3064",
+        "P_DICTIONARY_BG": "4010",
+        "P_NEED_SWITCH_INFO": "71000070",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5001",
+        "P_NAME": "\u30b3\u30ec\u30af\u30bf\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3053\u308c\u304f\u305f\u30fc",
+        "P_DICTIONARY_BG": "5001",
+        "P_NEED_SWITCH_INFO": "71000071",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5002",
+        "P_NAME": "\u672c",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307b\u3093",
+        "P_DICTIONARY_BG": "5002",
+        "P_NEED_SWITCH_INFO": "71000072",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5003",
+        "P_NAME": "\u6975\u307f",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u308f\u307f",
+        "P_DICTIONARY_BG": "5003",
+        "P_NEED_SWITCH_INFO": "71000073",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5004",
+        "P_NAME": "\u535a\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u304b\u305b",
+        "P_DICTIONARY_BG": "5004",
+        "P_NEED_SWITCH_INFO": "71000074",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5005",
+        "P_NAME": "\u30b4\u30c3\u30c9\u30cf\u30f3\u30c9",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3054\u3063\u3069\u306f\u3093\u3069",
+        "P_DICTIONARY_BG": "5005",
+        "P_NEED_SWITCH_INFO": "71000075",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5006",
+        "P_NAME": "\u9583\u304d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3089\u3081\u304d",
+        "P_DICTIONARY_BG": "5006",
+        "P_NEED_SWITCH_INFO": "71000076",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5007",
+        "P_NAME": "\u7834\u58ca",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u304b\u3044",
+        "P_DICTIONARY_BG": "5007",
+        "P_NEED_SWITCH_INFO": "71000077",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5008",
+        "P_NAME": "\u70b8\u88c2",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u304f\u308c\u3064",
+        "P_DICTIONARY_BG": "5008",
+        "P_NEED_SWITCH_INFO": "71000078",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5009",
+        "P_NAME": "\u7206\u767a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3070\u304f\u306f\u3064",
+        "P_DICTIONARY_BG": "5009",
+        "P_NEED_SWITCH_INFO": "71000079",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5010",
+        "P_NAME": "\u751f\u547d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u3081\u3044",
+        "P_DICTIONARY_BG": "5010",
+        "P_NEED_SWITCH_INFO": "71000080",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5011",
+        "P_NAME": "\u30de\u30b9\u30bf\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u307e\u3059\u305f\u30fc",
+        "P_DICTIONARY_BG": "5011",
+        "P_NEED_SWITCH_INFO": "71000081",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5012",
+        "P_NAME": "\u5320",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u305f\u304f\u307f",
+        "P_DICTIONARY_BG": "5012",
+        "P_NEED_SWITCH_INFO": "71000082",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5013",
+        "P_NAME": "\u5192\u967a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307c\u3046\u3051\u3093",
+        "P_DICTIONARY_BG": "5013",
+        "P_NEED_SWITCH_INFO": "71000083",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5014",
+        "P_NAME": "\u5e1d\u90fd",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3044\u3068",
+        "P_DICTIONARY_BG": "5014",
+        "P_NEED_SWITCH_INFO": "71000084",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5015",
+        "P_NAME": "\u65c5\u4eba",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3073\u3073\u3068",
+        "P_DICTIONARY_BG": "5015",
+        "P_NEED_SWITCH_INFO": "71000085",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5016",
+        "P_NAME": "\u738b\u65cf",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3046\u305e\u304f",
+        "P_DICTIONARY_BG": "5016",
+        "P_NEED_SWITCH_INFO": "71000086",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5017",
+        "P_NAME": "\u8ff7\u5b50",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3044\u3054",
+        "P_DICTIONARY_BG": "5017",
+        "P_NEED_SWITCH_INFO": "71000087",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5018",
+        "P_NAME": "\u672a\u6765",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307f\u3089\u3044",
+        "P_DICTIONARY_BG": "5018",
+        "P_NEED_SWITCH_INFO": "71000088",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5019",
+        "P_NAME": "\u6a5f\u68b0",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u304b\u3044",
+        "P_DICTIONARY_BG": "5019",
+        "P_NEED_SWITCH_INFO": "71000089",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5020",
+        "P_NAME": "\u4eba\u578b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3068\u304c\u305f",
+        "P_DICTIONARY_BG": "5020",
+        "P_NEED_SWITCH_INFO": "71000090",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5021",
+        "P_NAME": "\u518d\u4f1a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u304b\u3044",
+        "P_DICTIONARY_BG": "5021",
+        "P_NEED_SWITCH_INFO": "71000091",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5022",
+        "P_NAME": "\u9054\u4eba",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3064\u3058\u3093",
+        "P_DICTIONARY_BG": "5022",
+        "P_NEED_SWITCH_INFO": "71000092",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5023",
+        "P_NAME": "\u30ab\u30ea\u30b9\u30de",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304b\u308a\u3059\u307e",
+        "P_DICTIONARY_BG": "5023",
+        "P_NEED_SWITCH_INFO": "71000280",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5024",
+        "P_NAME": "\u5e2b",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3057",
+        "P_DICTIONARY_BG": "5024",
+        "P_NEED_SWITCH_INFO": "71000281",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5025",
+        "P_NAME": "\u30a6\u30a7\u30dd\u30f3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3046\u3047\u307d\u3093",
+        "P_DICTIONARY_BG": "5025",
+        "P_NEED_SWITCH_INFO": "71000289",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5026",
+        "P_NAME": "\u30de\u30cb\u30a2",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u307e\u306b\u3042",
+        "P_DICTIONARY_BG": "5026",
+        "P_NEED_SWITCH_INFO": "71000290",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5027",
+        "P_NAME": "\u6545\u90f7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u304d\u3087\u3046",
+        "P_DICTIONARY_BG": "5027",
+        "P_NEED_SWITCH_INFO": "71000291",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5028",
+        "P_NAME": "\u738b\u56fd",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3046\u3053\u304f",
+        "P_DICTIONARY_BG": "5028",
+        "P_NEED_SWITCH_INFO": "71000292",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5029",
+        "P_NAME": "\u30b9\u30ad\u30eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3059\u304d\u308b",
+        "P_DICTIONARY_BG": "5029",
+        "P_NEED_SWITCH_INFO": "71000295",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5030",
+        "P_NAME": "\u653b\u7565",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u308a\u3083\u304f",
+        "P_DICTIONARY_BG": "5030",
+        "P_NEED_SWITCH_INFO": "71000304",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5031",
+        "P_NAME": "\u81f3\u9ad8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3053\u3046",
+        "P_DICTIONARY_BG": "5031",
+        "P_NEED_SWITCH_INFO": "71000308",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5032",
+        "P_NAME": "\u5165\u53e3",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u308a\u3050\u3061",
+        "P_DICTIONARY_BG": "5032",
+        "P_NEED_SWITCH_INFO": "71000309",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5033",
+        "P_NAME": "\u5287\u5834",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3052\u304d\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "5033",
+        "P_NEED_SWITCH_INFO": "71000310",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5034",
+        "P_NAME": "\u63a2\u6c42\u8005",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305f\u3093\u304d\u3085\u3046\u3057\u3083",
+        "P_DICTIONARY_BG": "5034",
+        "P_NEED_SWITCH_INFO": "71000311",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5035",
+        "P_NAME": "\u53cc\u74a7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3078\u304d",
+        "P_DICTIONARY_BG": "5035",
+        "P_NEED_SWITCH_INFO": "71000334",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5036",
+        "P_NAME": "\u30e9\u30a4\u30ba",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3089\u3044\u305a",
+        "P_DICTIONARY_BG": "5036",
+        "P_NEED_SWITCH_INFO": "71000335",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5037",
+        "P_NAME": "\u6e21\u308a\u9ce5",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308f\u305f\u308a\u3069\u308a",
+        "P_DICTIONARY_BG": "5037",
+        "P_NEED_SWITCH_INFO": "71000336",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5038",
+        "P_NAME": "\u4e00\u6483",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u3061\u3052\u304d",
+        "P_DICTIONARY_BG": "5038",
+        "P_NEED_SWITCH_INFO": "71000357",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5039",
+        "P_NAME": "\u30ab\u30fc\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304b\u30fc\u3069",
+        "P_DICTIONARY_BG": "5039",
+        "P_NEED_SWITCH_INFO": "71000358",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5040",
+        "P_NAME": "\uff36\uff33",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3076\u3044\u3048\u3059",
+        "P_DICTIONARY_BG": "5040",
+        "P_NEED_SWITCH_INFO": "71000359",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5041",
+        "P_NAME": "\u6311\u6226",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3061\u3087\u3046\u305b\u3093",
+        "P_DICTIONARY_BG": "5041",
+        "P_NEED_SWITCH_INFO": "71000364",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5042",
+        "P_NAME": "\u6b21\u5143",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3052\u3093",
+        "P_DICTIONARY_BG": "5042",
+        "P_NEED_SWITCH_INFO": "71000396",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5043",
+        "P_NAME": "\u30df\u30af\u30ed",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u307f\u304f\u308d",
+        "P_DICTIONARY_BG": "5043",
+        "P_NEED_SWITCH_INFO": "71000397",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5044",
+        "P_NAME": "\u30df\u30df\u30c3\u30af",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u307f\u307f\u3063\u304f",
+        "P_DICTIONARY_BG": "5044",
+        "P_NEED_SWITCH_INFO": "71000406",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5045",
+        "P_NAME": "\u30b9\u30d4\u30fc\u30c9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3059\u3074\u30fc\u3069",
+        "P_DICTIONARY_BG": "5045",
+        "P_NEED_SWITCH_INFO": "71000407",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5046",
+        "P_NAME": "\u6700\u4e0a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "5046",
+        "P_NEED_SWITCH_INFO": "71000408",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5047",
+        "P_NAME": "\u30c0\u30c3\u30b7\u30e5",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3060\u3063\u3057\u3085",
+        "P_DICTIONARY_BG": "5047",
+        "P_NEED_SWITCH_INFO": "71000445",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5048",
+        "P_NAME": "GO",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3054\u30fc",
+        "P_DICTIONARY_BG": "5048",
+        "P_NEED_SWITCH_INFO": "71000446",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5049",
+        "P_NAME": "\u30aa\u30fc\u30c0\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304a\u30fc\u3060\u30fc",
+        "P_DICTIONARY_BG": "5049",
+        "P_NEED_SWITCH_INFO": "71000447",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "5050",
+        "P_NAME": "\u6700\u7d42",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u3057\u3085\u3046",
+        "P_DICTIONARY_BG": "5050",
+        "P_NEED_SWITCH_INFO": "71000479",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6001",
+        "P_NAME": "\u708e",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307b\u306e\u304a",
+        "P_DICTIONARY_BG": "6001",
+        "P_NEED_SWITCH_INFO": "71000093",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6002",
+        "P_NAME": "\u6c34",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307f\u305a",
+        "P_DICTIONARY_BG": "6002",
+        "P_NEED_SWITCH_INFO": "71000094",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6003",
+        "P_NAME": "\u6a39",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304d",
+        "P_DICTIONARY_BG": "6003",
+        "P_NEED_SWITCH_INFO": "71000095",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6004",
+        "P_NAME": "\u96f7",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304b\u307f\u306a\u308a",
+        "P_DICTIONARY_BG": "6004",
+        "P_NEED_SWITCH_INFO": "71000096",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6005",
+        "P_NAME": "\u5149",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3072\u304b\u308a",
+        "P_DICTIONARY_BG": "6005",
+        "P_NEED_SWITCH_INFO": "71000097",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6006",
+        "P_NAME": "\u95c7",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3084\u307f",
+        "P_DICTIONARY_BG": "6006",
+        "P_NEED_SWITCH_INFO": "71000098",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6007",
+        "P_NAME": "\u7114",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307b\u3080\u3089",
+        "P_DICTIONARY_BG": "6007",
+        "P_NEED_SWITCH_INFO": "71000099",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6008",
+        "P_NAME": "\u6c37",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3053\u304a\u308a",
+        "P_DICTIONARY_BG": "6008",
+        "P_NEED_SWITCH_INFO": "71000100",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6009",
+        "P_NAME": "\u5c71",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3084\u307e",
+        "P_DICTIONARY_BG": "6009",
+        "P_NEED_SWITCH_INFO": "71000101",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6010",
+        "P_NAME": "\u5d50",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3042\u3089\u3057",
+        "P_DICTIONARY_BG": "6010",
+        "P_NEED_SWITCH_INFO": "71000102",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6011",
+        "P_NAME": "\u8056",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u305b\u3044",
+        "P_DICTIONARY_BG": "6011",
+        "P_NEED_SWITCH_INFO": "71000103",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6012",
+        "P_NAME": "\u51a5",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3081\u3044",
+        "P_DICTIONARY_BG": "6012",
+        "P_NEED_SWITCH_INFO": "71000104",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6013",
+        "P_NAME": "\u6681",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3042\u304b\u3064\u304d",
+        "P_DICTIONARY_BG": "6013",
+        "P_NEED_SWITCH_INFO": "71000105",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6014",
+        "P_NAME": "\u96f6",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u308c\u3044",
+        "P_DICTIONARY_BG": "6014",
+        "P_NEED_SWITCH_INFO": "71000106",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6015",
+        "P_NAME": "\u78a7",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3078\u304d",
+        "P_DICTIONARY_BG": "6015",
+        "P_NEED_SWITCH_INFO": "71000107",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6016",
+        "P_NAME": "\u8fc5",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3058\u3093",
+        "P_DICTIONARY_BG": "6016",
+        "P_NEED_SWITCH_INFO": "71000108",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6017",
+        "P_NAME": "\u5929",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3066\u3093",
+        "P_DICTIONARY_BG": "6017",
+        "P_NEED_SWITCH_INFO": "71000109",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6018",
+        "P_NAME": "\u51f6",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304d\u3087\u3046",
+        "P_DICTIONARY_BG": "6018",
+        "P_NEED_SWITCH_INFO": "71000110",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6019",
+        "P_NAME": "\u82f1\u970a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3044\u308c\u3044",
+        "P_DICTIONARY_BG": "6019",
+        "P_NEED_SWITCH_INFO": "71000111",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6020",
+        "P_NAME": "\u30db\u30c3\u30c8",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u307b\u3063\u3068",
+        "P_DICTIONARY_BG": "6020",
+        "P_NEED_SWITCH_INFO": "71000282",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6021",
+        "P_NAME": "\u30af\u30fc\u30eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304f\u30fc\u308b",
+        "P_DICTIONARY_BG": "6021",
+        "P_NEED_SWITCH_INFO": "71000283",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6022",
+        "P_NAME": "\u30af\u30ec\u30d0\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304f\u308c\u3070\u30fc",
+        "P_DICTIONARY_BG": "6022",
+        "P_NEED_SWITCH_INFO": "71000284",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6023",
+        "P_NAME": "\u30ed\u30c3\u30af",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308d\u3063\u304f",
+        "P_DICTIONARY_BG": "6023",
+        "P_NEED_SWITCH_INFO": "71000285",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6024",
+        "P_NAME": "\u30b7\u30e3\u30a4\u30f3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3057\u3083\u3044\u3093",
+        "P_DICTIONARY_BG": "6024",
+        "P_NEED_SWITCH_INFO": "71000286",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6025",
+        "P_NAME": "\u30c0\u30fc\u30af",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3060\u30fc\u304f",
+        "P_DICTIONARY_BG": "6025",
+        "P_NEED_SWITCH_INFO": "71000287",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6026",
+        "P_NAME": "\u30d1\u30fc\u30c6\u30a3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3071\u30fc\u3066\u3043",
+        "P_DICTIONARY_BG": "6026",
+        "P_NEED_SWITCH_INFO": "71000288",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6027",
+        "P_NAME": "\u30d0\u30fc\u30cb\u30f3\u30b0",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3070\u30fc\u306b\u3093\u3050",
+        "P_DICTIONARY_BG": "6027",
+        "P_NEED_SWITCH_INFO": "71000374",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6028",
+        "P_NAME": "\u30b3\u30fc\u30eb\u30c9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3053\u30fc\u308b\u3069",
+        "P_DICTIONARY_BG": "6028",
+        "P_NEED_SWITCH_INFO": "71000375",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6029",
+        "P_NAME": "\u30a2\u30fc\u30b9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u30fc\u3059",
+        "P_DICTIONARY_BG": "6029",
+        "P_NEED_SWITCH_INFO": "71000376",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6030",
+        "P_NAME": "\u30b9\u30d1\u30fc\u30af",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3059\u3071\u30fc\u304f",
+        "P_DICTIONARY_BG": "6030",
+        "P_NEED_SWITCH_INFO": "71000377",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6031",
+        "P_NAME": "\u30db\u30fc\u30ea\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u307b\u30fc\u308a\u30fc",
+        "P_DICTIONARY_BG": "6031",
+        "P_NEED_SWITCH_INFO": "71000378",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6032",
+        "P_NAME": "\u30a2\u30d3\u30b9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u3073\u3059",
+        "P_DICTIONARY_BG": "6032",
+        "P_NEED_SWITCH_INFO": "71000379",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6033",
+        "P_NAME": "\u306b",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u306b",
+        "P_DICTIONARY_BG": "6033",
+        "P_NEED_SWITCH_INFO": "71000380",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "6034",
+        "P_NAME": "\u30a2\u30f3\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u3093\u3069",
+        "P_DICTIONARY_BG": "6034",
+        "P_NEED_SWITCH_INFO": "71000381",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7001",
+        "P_NAME": "\u5263\u8c6a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u3054\u3046",
+        "P_DICTIONARY_BG": "7001",
+        "P_NEED_SWITCH_INFO": "71000112",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7002",
+        "P_NAME": "\u5263\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u3057",
+        "P_DICTIONARY_BG": "7002",
+        "P_NEED_SWITCH_INFO": "71000113",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7003",
+        "P_NAME": "\u89aa\u53cb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u3086\u3046",
+        "P_DICTIONARY_BG": "7003",
+        "P_NEED_SWITCH_INFO": "71000114",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7004",
+        "P_NAME": "\u6226\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3093\u3057",
+        "P_DICTIONARY_BG": "7004",
+        "P_NEED_SWITCH_INFO": "71000115",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7005",
+        "P_NAME": "\u5263\u8056",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u305b\u3044",
+        "P_DICTIONARY_BG": "7005",
+        "P_NEED_SWITCH_INFO": "71000116",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7006",
+        "P_NAME": "\u9244\u9a0e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3063\u304d",
+        "P_DICTIONARY_BG": "7006",
+        "P_NEED_SWITCH_INFO": "71000117",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7007",
+        "P_NAME": "\u516d\u82f1\u96c4",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308d\u304f\u3048\u3044\u3086\u3046",
+        "P_DICTIONARY_BG": "7007",
+        "P_NEED_SWITCH_INFO": "71000118",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7008",
+        "P_NAME": "\u516b\u5263",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u3063\u3051\u3093",
+        "P_DICTIONARY_BG": "7008",
+        "P_NEED_SWITCH_INFO": "71000119",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7009",
+        "P_NAME": "\u591c\u59eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3084\u304d",
+        "P_DICTIONARY_BG": "7009",
+        "P_NEED_SWITCH_INFO": "71000120",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7010",
+        "P_NAME": "\u597d\u6575\u624b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3053\u3046\u3066\u304d\u3057\u3085",
+        "P_DICTIONARY_BG": "7010",
+        "P_NEED_SWITCH_INFO": "71000121",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7011",
+        "P_NAME": "\u59b9",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3044\u3082\u3046\u3068",
+        "P_DICTIONARY_BG": "7011",
+        "P_NEED_SWITCH_INFO": "71000122",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7012",
+        "P_NAME": "\u59c9",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3042\u306d",
+        "P_DICTIONARY_BG": "7012",
+        "P_NEED_SWITCH_INFO": "71000123",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7013",
+        "P_NAME": "\u7149\u7344",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308c\u3093\u3054\u304f",
+        "P_DICTIONARY_BG": "7013",
+        "P_NEED_SWITCH_INFO": "71000124",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7014",
+        "P_NAME": "\u5f13\u5c06",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u3085\u3046\u3057\u3087\u3046",
+        "P_DICTIONARY_BG": "7014",
+        "P_NEED_SWITCH_INFO": "71000125",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7015",
+        "P_NAME": "\u8ecd\u5e2b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3050\u3093\u3057",
+        "P_DICTIONARY_BG": "7015",
+        "P_NEED_SWITCH_INFO": "71000126",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7016",
+        "P_NAME": "\u9b54\u5200",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3068\u3046",
+        "P_DICTIONARY_BG": "7016",
+        "P_NEED_SWITCH_INFO": "71000127",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7017",
+        "P_NAME": "\u7570\u624d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u3055\u3044",
+        "P_DICTIONARY_BG": "7017",
+        "P_NEED_SWITCH_INFO": "71000128",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7018",
+        "P_NAME": "\u9ed2\u708e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u304f\u3048\u3093",
+        "P_DICTIONARY_BG": "7018",
+        "P_NEED_SWITCH_INFO": "71000129",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7019",
+        "P_NAME": "\u6d77\u738b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3044\u304a\u3046",
+        "P_DICTIONARY_BG": "7019",
+        "P_NEED_SWITCH_INFO": "71000130",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7020",
+        "P_NAME": "\u8056\u9a0e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u304d",
+        "P_DICTIONARY_BG": "7020",
+        "P_NEED_SWITCH_INFO": "71000131",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7021",
+        "P_NAME": "\u96f7\u821e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u3044\u3076",
+        "P_DICTIONARY_BG": "7021",
+        "P_NEED_SWITCH_INFO": "71000132",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7022",
+        "P_NAME": "\u82f1\u5091",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3044\u3051\u3064",
+        "P_DICTIONARY_BG": "7022",
+        "P_NEED_SWITCH_INFO": "71000133",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7023",
+        "P_NAME": "\u708e\u9ce5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3093\u3061\u3087\u3046",
+        "P_DICTIONARY_BG": "7023",
+        "P_NEED_SWITCH_INFO": "71000134",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7024",
+        "P_NAME": "\u5927\u6a39",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3044\u3058\u3085",
+        "P_DICTIONARY_BG": "7024",
+        "P_NEED_SWITCH_INFO": "71000135",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7025",
+        "P_NAME": "\u7adc\u738b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308a\u3085\u3046\u304a\u3046",
+        "P_DICTIONARY_BG": "7025",
+        "P_NEED_SWITCH_INFO": "71000136",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7026",
+        "P_NAME": "\u30e2\u30f3\u30b9\u30bf\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3082\u3093\u3059\u305f\u30fc",
+        "P_DICTIONARY_BG": "7026",
+        "P_NEED_SWITCH_INFO": "71000137",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7027",
+        "P_NAME": "\u5c0e\u5e2b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3069\u3046\u3057",
+        "P_DICTIONARY_BG": "7027",
+        "P_NEED_SWITCH_INFO": "71000138",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7028",
+        "P_NAME": "\u6383\u8a0e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3068\u3046",
+        "P_DICTIONARY_BG": "7028",
+        "P_NEED_SWITCH_INFO": "71000139",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7029",
+        "P_NAME": "\u7814\u7a76",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "7029",
+        "P_NEED_SWITCH_INFO": "71000140",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7030",
+        "P_NAME": "\u5c06\u8ecd",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3087\u3046\u3050\u3093",
+        "P_DICTIONARY_BG": "7030",
+        "P_NEED_SWITCH_INFO": "71000141",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7031",
+        "P_NAME": "\u6c37\u5e1d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3087\u3046\u3066\u3044",
+        "P_DICTIONARY_BG": "7031",
+        "P_NEED_SWITCH_INFO": "71000142",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7032",
+        "P_NAME": "\u738b\u5973",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3046\u3058\u3087",
+        "P_DICTIONARY_BG": "7032",
+        "P_NEED_SWITCH_INFO": "71000143",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7033",
+        "P_NAME": "\u7a7a\u5e1d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304f\u3046\u3066\u3044",
+        "P_DICTIONARY_BG": "7033",
+        "P_NEED_SWITCH_INFO": "71000144",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7034",
+        "P_NAME": "\u9283\u4f7f\u3044",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3058\u3085\u3046\u3064\u304b\u3044",
+        "P_DICTIONARY_BG": "7034",
+        "P_NEED_SWITCH_INFO": "71000145",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7035",
+        "P_NAME": "\u6b7b\u8853\u5e2b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3058\u3085\u3064\u3057",
+        "P_DICTIONARY_BG": "7035",
+        "P_NEED_SWITCH_INFO": "71000146",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7036",
+        "P_NAME": "\u7570\u306a\u308b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3053\u3068\u306a\u308b",
+        "P_DICTIONARY_BG": "7036",
+        "P_NEED_SWITCH_INFO": "71000147",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7037",
+        "P_NAME": "\u76d7\u8cca",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3068\u3046\u305e\u304f",
+        "P_DICTIONARY_BG": "7037",
+        "P_NEED_SWITCH_INFO": "71000148",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7038",
+        "P_NAME": "\u6d77\u8cca",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3044\u305e\u304f",
+        "P_DICTIONARY_BG": "7038",
+        "P_NEED_SWITCH_INFO": "71000149",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7039",
+        "P_NAME": "\u5c71\u8cca",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3093\u305e\u304f",
+        "P_DICTIONARY_BG": "7039",
+        "P_NEED_SWITCH_INFO": "71000150",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7040",
+        "P_NAME": "\u7a7a\u8cca",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304f\u3046\u305e\u304f",
+        "P_DICTIONARY_BG": "7040",
+        "P_NEED_SWITCH_INFO": "71000151",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7041",
+        "P_NAME": "\u3061\u3087\u3044\u30ef\u30eb",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3061\u3087\u3044\u308f\u308b",
+        "P_DICTIONARY_BG": "7041",
+        "P_NEED_SWITCH_INFO": "71000152",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7042",
+        "P_NAME": "\u708e\u8056",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3093\u305b\u3044",
+        "P_DICTIONARY_BG": "7042",
+        "P_NEED_SWITCH_INFO": "71000153",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7043",
+        "P_NAME": "\u6cd5\u5e1d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3046\u3066\u3044",
+        "P_DICTIONARY_BG": "7043",
+        "P_NEED_SWITCH_INFO": "71000154",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7044",
+        "P_NAME": "\u93a7\u59eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304c\u3044\u304d",
+        "P_DICTIONARY_BG": "7044",
+        "P_NEED_SWITCH_INFO": "71000155",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7045",
+        "P_NAME": "\u96f7\u5f13",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u3044\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "7045",
+        "P_NEED_SWITCH_INFO": "71000156",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7046",
+        "P_NAME": "\u30d1\u30eb\u30df\u30ca",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3071\u308b\u307f\u306a",
+        "P_DICTIONARY_BG": "7046",
+        "P_NEED_SWITCH_INFO": "71000157",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7047",
+        "P_NAME": "\u6c37\u5854",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3087\u3046\u3068\u3046",
+        "P_DICTIONARY_BG": "7047",
+        "P_NEED_SWITCH_INFO": "71000158",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7048",
+        "P_NAME": "\u9b54\u5ca9",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u304c\u3093",
+        "P_DICTIONARY_BG": "7048",
+        "P_NEED_SWITCH_INFO": "71000159",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7049",
+        "P_NAME": "\u534a\u9b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u3093\u307e",
+        "P_DICTIONARY_BG": "7049",
+        "P_NEED_SWITCH_INFO": "71000160",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7050",
+        "P_NAME": "\u707d\u5384",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u3084\u304f",
+        "P_DICTIONARY_BG": "7050",
+        "P_NEED_SWITCH_INFO": "71000161",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7051",
+        "P_NAME": "\u7114\u5263",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3093\u3051\u3093",
+        "P_DICTIONARY_BG": "7051",
+        "P_NEED_SWITCH_INFO": "71000162",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7052",
+        "P_NAME": "\u722a\u95d8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3068\u3046",
+        "P_DICTIONARY_BG": "7052",
+        "P_NEED_SWITCH_INFO": "71000163",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7053",
+        "P_NAME": "\u6cd5\u529b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3046\u308a\u304d",
+        "P_DICTIONARY_BG": "7053",
+        "P_NEED_SWITCH_INFO": "71000164",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7054",
+        "P_NAME": "\u5929\u5553",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u3051\u3044",
+        "P_DICTIONARY_BG": "7054",
+        "P_NEED_SWITCH_INFO": "71000165",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7055",
+        "P_NAME": "\u91cd\u93a7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u3046\u304c\u3044",
+        "P_DICTIONARY_BG": "7055",
+        "P_NEED_SWITCH_INFO": "71000166",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7056",
+        "P_NAME": "\u53cc\u5203",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3058\u3093",
+        "P_DICTIONARY_BG": "7056",
+        "P_NEED_SWITCH_INFO": "71000167",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7057",
+        "P_NAME": "\u5148\u5c0e\u8005",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305b\u3093\u3069\u3046\u3057\u3083",
+        "P_DICTIONARY_BG": "7057",
+        "P_NEED_SWITCH_INFO": "71000168",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7058",
+        "P_NAME": "\u9b54\u6cd5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u307b\u3046",
+        "P_DICTIONARY_BG": "7058",
+        "P_NEED_SWITCH_INFO": "71000169",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7059",
+        "P_NAME": "\u50e7\u4fb6",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u308a\u3087",
+        "P_DICTIONARY_BG": "7059",
+        "P_NEED_SWITCH_INFO": "71000170",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7060",
+        "P_NAME": "\u98a8\u6c34",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3075\u3046\u3059\u3044",
+        "P_DICTIONARY_BG": "7060",
+        "P_NEED_SWITCH_INFO": "71000171",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7061",
+        "P_NAME": "\u821e\u59eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3044\u3072\u3081",
+        "P_DICTIONARY_BG": "7061",
+        "P_NEED_SWITCH_INFO": "71000172",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7062",
+        "P_NAME": "\u6cd5\u5e2b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3046\u3057",
+        "P_DICTIONARY_BG": "7062",
+        "P_NEED_SWITCH_INFO": "71000173",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7063",
+        "P_NAME": "\u9b54\u8853",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3058\u3085\u3064",
+        "P_DICTIONARY_BG": "7063",
+        "P_NEED_SWITCH_INFO": "71000174",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7064",
+        "P_NAME": "\u5973\u5b50",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3087\u3057",
+        "P_DICTIONARY_BG": "7064",
+        "P_NEED_SWITCH_INFO": "71000175",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7065",
+        "P_NAME": "\u62f3\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u3057\u3093",
+        "P_DICTIONARY_BG": "7065",
+        "P_NEED_SWITCH_INFO": "71000176",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7066",
+        "P_NAME": "\u5263\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u3057\u3093",
+        "P_DICTIONARY_BG": "7066",
+        "P_NEED_SWITCH_INFO": "71000177",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7067",
+        "P_NAME": "\u65a7\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3075\u3057\u3093",
+        "P_DICTIONARY_BG": "7067",
+        "P_NEED_SWITCH_INFO": "71000178",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7068",
+        "P_NAME": "\u6cd5\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3046\u3057\u3093",
+        "P_DICTIONARY_BG": "7068",
+        "P_NEED_SWITCH_INFO": "71000179",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7069",
+        "P_NAME": "\u5f57\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3059\u3044\u3057\u3093",
+        "P_DICTIONARY_BG": "7069",
+        "P_NEED_SWITCH_INFO": "71000180",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7070",
+        "P_NAME": "\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3061\u3083\u3093\u3074\u304a\u3093",
+        "P_DICTIONARY_BG": "7070",
+        "P_NEED_SWITCH_INFO": "71000181",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7071",
+        "P_NAME": "\u708e\u72fc",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3093\u308d\u3046",
+        "P_DICTIONARY_BG": "7071",
+        "P_NEED_SWITCH_INFO": "71000182",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7072",
+        "P_NAME": "\u6c34\u7adc",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u305d\u3046",
+        "P_DICTIONARY_BG": "7072",
+        "P_NEED_SWITCH_INFO": "71000183",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7073",
+        "P_NAME": "\u6a39\u970a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u308c\u3044",
+        "P_DICTIONARY_BG": "7073",
+        "P_NEED_SWITCH_INFO": "71000184",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7074",
+        "P_NAME": "\u96f7\u9df9",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u3044\u3088\u3046",
+        "P_DICTIONARY_BG": "7074",
+        "P_NEED_SWITCH_INFO": "71000185",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7075",
+        "P_NAME": "\u7345\u5b50",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3057",
+        "P_DICTIONARY_BG": "7075",
+        "P_NEED_SWITCH_INFO": "71000186",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7076",
+        "P_NAME": "\u60aa\u9b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3042\u304f\u307e",
+        "P_DICTIONARY_BG": "7076",
+        "P_NEED_SWITCH_INFO": "71000187",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7077",
+        "P_NAME": "\u30f4\u30a1\u30a4\u30b6\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3094\u3041\u3044\u3056\u30fc",
+        "P_DICTIONARY_BG": "7077",
+        "P_NEED_SWITCH_INFO": "71000188",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7078",
+        "P_NAME": "\u9670\u967d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3093\u307f\u3087\u3046",
+        "P_DICTIONARY_BG": "7078",
+        "P_NEED_SWITCH_INFO": "71000189",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7079",
+        "P_NAME": "\u7363\u9b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u3046\u307e",
+        "P_DICTIONARY_BG": "7079",
+        "P_NEED_SWITCH_INFO": "71000190",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7080",
+        "P_NAME": "\u9b54\u5f3e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3060\u3093",
+        "P_DICTIONARY_BG": "7080",
+        "P_NEED_SWITCH_INFO": "71000191",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7081",
+        "P_NAME": "\u9b54\u7403",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "7081",
+        "P_NEED_SWITCH_INFO": "71000192",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7082",
+        "P_NAME": "\u8056\u5c0e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u3069\u3046",
+        "P_DICTIONARY_BG": "7082",
+        "P_NEED_SWITCH_INFO": "71000193",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7083",
+        "P_NAME": "\u6020\u9b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3044\u307e",
+        "P_DICTIONARY_BG": "7083",
+        "P_NEED_SWITCH_INFO": "71000194",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7084",
+        "P_NAME": "\u9b54\u5c0e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3069\u3046",
+        "P_DICTIONARY_BG": "7084",
+        "P_NEED_SWITCH_INFO": "71000195",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7085",
+        "P_NAME": "\u52c7\u5263",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u3046\u3051\u3093",
+        "P_DICTIONARY_BG": "7085",
+        "P_NEED_SWITCH_INFO": "71000196",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7086",
+        "P_NAME": "\u52c7\u6226",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u3046\u305b\u3093",
+        "P_DICTIONARY_BG": "7086",
+        "P_NEED_SWITCH_INFO": "71000197",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7087",
+        "P_NAME": "\u7652\u8056",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u305b\u3044",
+        "P_DICTIONARY_BG": "7087",
+        "P_NEED_SWITCH_INFO": "71000198",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7088",
+        "P_NAME": "\u52c7\u62f3",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u3046\u3051\u3093",
+        "P_DICTIONARY_BG": "7088",
+        "P_NEED_SWITCH_INFO": "71000199",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7089",
+        "P_NAME": "\u722a\u821e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3076",
+        "P_DICTIONARY_BG": "7089",
+        "P_NEED_SWITCH_INFO": "71000200",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7090",
+        "P_NAME": "\u95c7\u970a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3042\u3093\u308c\u3044",
+        "P_DICTIONARY_BG": "7090",
+        "P_NEED_SWITCH_INFO": "71000201",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7091",
+        "P_NAME": "\u4e00\u5bb6",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u3063\u304b",
+        "P_DICTIONARY_BG": "7091",
+        "P_NEED_SWITCH_INFO": "71000202",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7092",
+        "P_NAME": "\u7d05\u7363",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u3058\u3085\u3046",
+        "P_DICTIONARY_BG": "7092",
+        "P_NEED_SWITCH_INFO": "71000203",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7093",
+        "P_NAME": "\u6c37\u6f54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3087\u3046\u3051\u3064",
+        "P_DICTIONARY_BG": "7093",
+        "P_NEED_SWITCH_INFO": "71000204",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7094",
+        "P_NAME": "\u68ee\u9e97",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u308c\u3044",
+        "P_DICTIONARY_BG": "7094",
+        "P_NEED_SWITCH_INFO": "71000205",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7095",
+        "P_NAME": "\u8f5f\u7363",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3054\u3046\u3058\u3085\u3046",
+        "P_DICTIONARY_BG": "7095",
+        "P_NEED_SWITCH_INFO": "71000206",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7096",
+        "P_NAME": "\u8056\u5983",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u304d",
+        "P_DICTIONARY_BG": "7096",
+        "P_NEED_SWITCH_INFO": "71000207",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7097",
+        "P_NAME": "\u7634\u9b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3087\u3046\u307e",
+        "P_DICTIONARY_BG": "7097",
+        "P_NEED_SWITCH_INFO": "71000208",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7098",
+        "P_NAME": "\u60b2\u5287",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3052\u304d",
+        "P_DICTIONARY_BG": "7098",
+        "P_NEED_SWITCH_INFO": "71000209",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7099",
+        "P_NAME": "\u7b56\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u304f\u3057",
+        "P_DICTIONARY_BG": "7099",
+        "P_NEED_SWITCH_INFO": "71000210",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7100",
+        "P_NAME": "\u661f\u8aad",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3057\u3088\u307f",
+        "P_DICTIONARY_BG": "7100",
+        "P_NEED_SWITCH_INFO": "71000211",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7101",
+        "P_NAME": "\u795e\u66f8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u3057\u3087",
+        "P_DICTIONARY_BG": "7101",
+        "P_NEED_SWITCH_INFO": "71000212",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7102",
+        "P_NAME": "\u8cde\u91d1\u7a3c\u304e",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3057\u3087\u3046\u304d\u3093\u304b\u305b\u304e",
+        "P_DICTIONARY_BG": "7102",
+        "P_NEED_SWITCH_INFO": "71000213",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7103",
+        "P_NAME": "\u30b3\u30f3\u30d3",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3053\u3093\u3073",
+        "P_DICTIONARY_BG": "7103",
+        "P_NEED_SWITCH_INFO": "71000214",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7104",
+        "P_NAME": "\u6383\u5c04",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3057\u3083",
+        "P_DICTIONARY_BG": "7104",
+        "P_NEED_SWITCH_INFO": "71000215",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7105",
+        "P_NAME": "\u6383\u6ec5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3081\u3064",
+        "P_DICTIONARY_BG": "7105",
+        "P_NEED_SWITCH_INFO": "71000216",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7106",
+        "P_NAME": "\u5175\u5668",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3078\u3044\u304d",
+        "P_DICTIONARY_BG": "7106",
+        "P_NEED_SWITCH_INFO": "71000217",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7107",
+        "P_NAME": "\u30e1\u30e2\u30ea\u30fc\u30ba",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3081\u3082\u308a\u30fc\u305a",
+        "P_DICTIONARY_BG": "7107",
+        "P_NEED_SWITCH_INFO": "71000218",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7108",
+        "P_NAME": "\u7fe0",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307f\u3069\u308a",
+        "P_DICTIONARY_BG": "7108",
+        "P_NEED_SWITCH_INFO": "71000219",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7109",
+        "P_NAME": "\u8c6a\u96f7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3054\u3046\u3089\u3044",
+        "P_DICTIONARY_BG": "7109",
+        "P_NEED_SWITCH_INFO": "71000249",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7110",
+        "P_NAME": "\u7d2b\u5fcd",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u306b\u3093",
+        "P_DICTIONARY_BG": "7110",
+        "P_NEED_SWITCH_INFO": "71000250",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7111",
+        "P_NAME": "\u304a\u5b22\u69d8",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304a\u3058\u3087\u3046\u3055\u307e",
+        "P_DICTIONARY_BG": "7111",
+        "P_NEED_SWITCH_INFO": "71000251",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7112",
+        "P_NAME": "\u81c6\u75c5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u304f\u3073\u3087\u3046",
+        "P_DICTIONARY_BG": "7112",
+        "P_NEED_SWITCH_INFO": "71000252",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7113",
+        "P_NAME": "\u5263\u738b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u3093\u304a\u3046",
+        "P_DICTIONARY_BG": "7113",
+        "P_NEED_SWITCH_INFO": "71000253",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7114",
+        "P_NAME": "\u7adc\u6bba\u3057",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308a\u3085\u3046\u3054\u308d\u3057",
+        "P_DICTIONARY_BG": "7114",
+        "P_NEED_SWITCH_INFO": "71000254",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7115",
+        "P_NAME": "\u5341\u7ffc",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u3046\u3088\u304f",
+        "P_DICTIONARY_BG": "7115",
+        "P_NEED_SWITCH_INFO": "71000255",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7116",
+        "P_NAME": "\u30ab\u30cb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u306b",
+        "P_DICTIONARY_BG": "7116",
+        "P_NEED_SWITCH_INFO": "71000256",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7117",
+        "P_NAME": "\u7834\u58ca\u8005",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u306f\u304b\u3044\u3057\u3083",
+        "P_DICTIONARY_BG": "7117",
+        "P_NEED_SWITCH_INFO": "71000257",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7118",
+        "P_NAME": "\u5929\u624d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u3055\u3044",
+        "P_DICTIONARY_BG": "7118",
+        "P_NEED_SWITCH_INFO": "71000267",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7119",
+        "P_NAME": "\u82e5\u304d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308f\u304b\u304d",
+        "P_DICTIONARY_BG": "7119",
+        "P_NEED_SWITCH_INFO": "71000268",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7120",
+        "P_NAME": "\u30ec\u30c3\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308c\u3063\u3069",
+        "P_DICTIONARY_BG": "7120",
+        "P_NEED_SWITCH_INFO": "71000269",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7121",
+        "P_NAME": "\u30d6\u30eb\u30fc",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3076\u308b\u30fc",
+        "P_DICTIONARY_BG": "7121",
+        "P_NEED_SWITCH_INFO": "71000270",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7122",
+        "P_NAME": "\u30b0\u30ea\u30fc\u30f3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3050\u308a\u30fc\u3093",
+        "P_DICTIONARY_BG": "7122",
+        "P_NEED_SWITCH_INFO": "71000271",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7123",
+        "P_NAME": "\u30b4\u30fc\u30eb\u30c9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3054\u30fc\u308b\u3069",
+        "P_DICTIONARY_BG": "7123",
+        "P_NEED_SWITCH_INFO": "71000272",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7124",
+        "P_NAME": "\u30d4\u30f3\u30af",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3074\u3093\u304f",
+        "P_DICTIONARY_BG": "7124",
+        "P_NEED_SWITCH_INFO": "71000273",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7125",
+        "P_NAME": "\u30d6\u30e9\u30c3\u30af",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3076\u3089\u3063\u304f",
+        "P_DICTIONARY_BG": "7125",
+        "P_NEED_SWITCH_INFO": "71000274",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7126",
+        "P_NAME": "\u697d\u3057\u307f",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305f\u306e\u3057\u307f",
+        "P_DICTIONARY_BG": "7126",
+        "P_NEED_SWITCH_INFO": "71000275",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7127",
+        "P_NAME": "\u559c\u3073",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3088\u308d\u3053\u3073",
+        "P_DICTIONARY_BG": "7127",
+        "P_NEED_SWITCH_INFO": "71000276",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7128",
+        "P_NAME": "\u30ad\u30e7\u30a6\u30ea\u30e5\u30a6",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u304d\u3087\u3046\u308a\u3085\u3046",
+        "P_DICTIONARY_BG": "7128",
+        "P_NEED_SWITCH_INFO": "71000277",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7129",
+        "P_NAME": "\u30c7\u30fc\u30dc\u30b9\u8ecd",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3067\u30fc\u307c\u3059\u3050\u3093",
+        "P_DICTIONARY_BG": "7129",
+        "P_NEED_SWITCH_INFO": "71000278",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7130",
+        "P_NAME": "\u30b9\u30fc\u30d1\u30fc\u6226\u968a",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3059\u30fc\u3071\u30fc\u305b\u3093\u305f\u3044",
+        "P_DICTIONARY_BG": "7130",
+        "P_NEED_SWITCH_INFO": "71000279",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7131",
+        "P_NAME": "\u968a\u9577",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3044\u3061\u3087\u3046",
+        "P_DICTIONARY_BG": "7131",
+        "P_NEED_SWITCH_INFO": "71000296",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7132",
+        "P_NAME": "\u5c11\u5e74",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3087\u3046\u306d\u3093",
+        "P_DICTIONARY_BG": "7132",
+        "P_NEED_SWITCH_INFO": "71000297",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7133",
+        "P_NAME": "\u30c0\u30f3\u30c7\u30a3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3060\u3093\u3067\u3043",
+        "P_DICTIONARY_BG": "7133",
+        "P_NEED_SWITCH_INFO": "71000298",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7134",
+        "P_NAME": "\u5408\u4f53",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304c\u3063\u305f\u3044",
+        "P_DICTIONARY_BG": "7134",
+        "P_NEED_SWITCH_INFO": "71000299",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7135",
+        "P_NAME": "\u4ffa\u69d8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u308c\u3055\u307e",
+        "P_DICTIONARY_BG": "7135",
+        "P_NEED_SWITCH_INFO": "71000300",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7136",
+        "P_NAME": "\u9e97\u3057\u304d",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3046\u308b\u308f\u3057\u304d",
+        "P_DICTIONARY_BG": "7136",
+        "P_NEED_SWITCH_INFO": "71000301",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7137",
+        "P_NAME": "\u795e\u5f92",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u3068",
+        "P_DICTIONARY_BG": "7137",
+        "P_NEED_SWITCH_INFO": "71000302",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7138",
+        "P_NAME": "\u7f85\u6bb2\u93a7",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3089\u305b\u3093\u304c\u3044",
+        "P_DICTIONARY_BG": "7138",
+        "P_NEED_SWITCH_INFO": "71000303",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7139",
+        "P_NAME": "\u5a18",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3080\u3059\u3081",
+        "P_DICTIONARY_BG": "7139",
+        "P_NEED_SWITCH_INFO": "71000305",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7140",
+        "P_NAME": "\u606f\u5b50",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3080\u3059\u3053",
+        "P_DICTIONARY_BG": "7140",
+        "P_NEED_SWITCH_INFO": "71000306",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7141",
+        "P_NAME": "\u30ac\u30fc\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304c\u30fc\u3069",
+        "P_DICTIONARY_BG": "7141",
+        "P_NEED_SWITCH_INFO": "71000307",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7142",
+        "P_NAME": "\u5929\u771f\u721b\u6f2b",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3066\u3093\u3057\u3093\u3089\u3093\u307e\u3093",
+        "P_DICTIONARY_BG": "7142",
+        "P_NEED_SWITCH_INFO": "71000312",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7143",
+        "P_NAME": "\u611b\u60c5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3042\u3044\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "7143",
+        "P_NEED_SWITCH_INFO": "71000313",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7144",
+        "P_NAME": "\u5185\u5411\u7684",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u306a\u3044\u3053\u3046\u3066\u304d",
+        "P_DICTIONARY_BG": "7144",
+        "P_NEED_SWITCH_INFO": "71000314",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7145",
+        "P_NAME": "\u4e0d\u5668\u7528",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3076\u304d\u3088\u3046",
+        "P_DICTIONARY_BG": "7145",
+        "P_NEED_SWITCH_INFO": "71000315",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7146",
+        "P_NAME": "\u7d75\u5e2b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3057",
+        "P_DICTIONARY_BG": "7146",
+        "P_NEED_SWITCH_INFO": "71000316",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7147",
+        "P_NAME": "\u935b\u51b6\u5c4b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304b\u3058\u3084",
+        "P_DICTIONARY_BG": "7147",
+        "P_NEED_SWITCH_INFO": "71000317",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7148",
+        "P_NAME": "\u5973\u6d77\u8cca",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304a\u3093\u306a\u304b\u3044\u305e\u304f",
+        "P_DICTIONARY_BG": "7148",
+        "P_NEED_SWITCH_INFO": "71000318",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7149",
+        "P_NAME": "\u62f3\u95d8\u58eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3051\u3093\u3068\u3046\u3057",
+        "P_DICTIONARY_BG": "7149",
+        "P_NEED_SWITCH_INFO": "71000319",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7150",
+        "P_NAME": "\u6b66\u95d8\u5bb6",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3076\u3068\u3046\u304b",
+        "P_DICTIONARY_BG": "7150",
+        "P_NEED_SWITCH_INFO": "71000320",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7151",
+        "P_NAME": "\u5192\u967a\u5bb6",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u307c\u3046\u3051\u3093\u304b",
+        "P_DICTIONARY_BG": "7151",
+        "P_NEED_SWITCH_INFO": "71000321",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7152",
+        "P_NAME": "\u6697\u6bba\u8005",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u3093\u3055\u3064\u3057\u3083",
+        "P_DICTIONARY_BG": "7152",
+        "P_NEED_SWITCH_INFO": "71000322",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7153",
+        "P_NAME": "\u5b64\u9ad8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3053\u3046",
+        "P_DICTIONARY_BG": "7153",
+        "P_NEED_SWITCH_INFO": "71000323",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7154",
+        "P_NAME": "\u904e\u4fdd\u8b77",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304b\u307b\u3054",
+        "P_DICTIONARY_BG": "7154",
+        "P_NEED_SWITCH_INFO": "71000326",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7155",
+        "P_NAME": "\u5bfe\u6297\u5fc3",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305f\u3044\u3053\u3046\u3057\u3093",
+        "P_DICTIONARY_BG": "7155",
+        "P_NEED_SWITCH_INFO": "71000327",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7156",
+        "P_NAME": "\u81ea\u7531",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3086\u3046",
+        "P_DICTIONARY_BG": "7156",
+        "P_NEED_SWITCH_INFO": "71000328",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7157",
+        "P_NAME": "\u81ea\u4fe1",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3057\u3093",
+        "P_DICTIONARY_BG": "7157",
+        "P_NEED_SWITCH_INFO": "71000329",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7158",
+        "P_NAME": "\u53c2\u8b00",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3093\u307c\u3046",
+        "P_DICTIONARY_BG": "7158",
+        "P_NEED_SWITCH_INFO": "71000330",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7159",
+        "P_NAME": "\u7531\u7dd2\u3042\u308b",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3086\u3044\u3057\u3087\u3042\u308b",
+        "P_DICTIONARY_BG": "7159",
+        "P_NEED_SWITCH_INFO": "71000331",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7160",
+        "P_NAME": "\u30e1\u30a4\u30ea\u30b9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3081\u3044\u308a\u3059",
+        "P_DICTIONARY_BG": "7160",
+        "P_NEED_SWITCH_INFO": "71000332",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7161",
+        "P_NAME": "\u4f5c\u5bb6",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3063\u304b",
+        "P_DICTIONARY_BG": "7161",
+        "P_NEED_SWITCH_INFO": "71000337",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7162",
+        "P_NAME": "\u7cbe\u970a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u308c\u3044",
+        "P_DICTIONARY_BG": "7162",
+        "P_NEED_SWITCH_INFO": "71000338",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7163",
+        "P_NAME": "\u7149\u6c37\u59eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308c\u3093\u3072\u3087\u3046\u304d",
+        "P_DICTIONARY_BG": "7163",
+        "P_NEED_SWITCH_INFO": "71000339",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7164",
+        "P_NAME": "\u6c99\u86c7\u53f2",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3055\u3060\u3057",
+        "P_DICTIONARY_BG": "7164",
+        "P_NEED_SWITCH_INFO": "71000340",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7165",
+        "P_NAME": "\u30d5\u30a9\u30fc\u30b9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3075\u3049\u30fc\u3059",
+        "P_DICTIONARY_BG": "7165",
+        "P_NEED_SWITCH_INFO": "71000346",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7166",
+        "P_NAME": "\u30b8\u30a7\u30c0\u30a4",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3058\u3047\u3060\u3044",
+        "P_DICTIONARY_BG": "7166",
+        "P_NEED_SWITCH_INFO": "71000347",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7167",
+        "P_NAME": "\u60aa\u515a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3042\u304f\u3068\u3046",
+        "P_DICTIONARY_BG": "7167",
+        "P_NEED_SWITCH_INFO": "71000348",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7168",
+        "P_NAME": "\u76f8\u68d2",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3042\u3044\u307c\u3046",
+        "P_DICTIONARY_BG": "7168",
+        "P_NEED_SWITCH_INFO": "71000349",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7169",
+        "P_NAME": "\u30d7\u30ea\u30f3\u30bb\u30b9",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3077\u308a\u3093\u305b\u3059",
+        "P_DICTIONARY_BG": "7169",
+        "P_NEED_SWITCH_INFO": "71000350",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7170",
+        "P_NAME": "\u30b7\u30b9\u306e\u6697\u9ed2\u537f",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3057\u3059\u306e\u3042\u3093\u3053\u304f\u304d\u3087\u3046",
+        "P_DICTIONARY_BG": "7170",
+        "P_NEED_SWITCH_INFO": "71000351",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7171",
+        "P_NAME": "\u30bd\u30eb\u30b8\u30e3\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u305d\u308b\u3058\u3083\u30fc",
+        "P_DICTIONARY_BG": "7171",
+        "P_NEED_SWITCH_INFO": "71000352",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7172",
+        "P_NAME": "\u30c9\u30ed\u30a4\u30c9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3069\u308d\u3044\u3069",
+        "P_DICTIONARY_BG": "7172",
+        "P_NEED_SWITCH_INFO": "71000353",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7173",
+        "P_NAME": "\u30b9\u30bf\u30fc\u30fb\u30a6\u30a9\u30fc\u30ba",
+        "ncs98mfL": "8",
+        "X6C7WxUB": "\u3059\u305f\u30fc\u3046\u3049\u30fc\u305a",
+        "P_DICTIONARY_BG": "7173",
+        "P_NEED_SWITCH_INFO": "71000354",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7174",
+        "P_NAME": "\u30ea\u30fc\u30c0\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u308a\u30fc\u3060\u30fc",
+        "P_DICTIONARY_BG": "7174",
+        "P_NEED_SWITCH_INFO": "71000355",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7175",
+        "P_NAME": "\u767a\u660e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u3064\u3081\u3044",
+        "P_DICTIONARY_BG": "7175",
+        "P_NEED_SWITCH_INFO": "71000356",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7176",
+        "P_NAME": "\u5947\u8853\u5e2b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304d\u3058\u3085\u3064\u3057",
+        "P_DICTIONARY_BG": "7176",
+        "P_NEED_SWITCH_INFO": "71000365",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7177",
+        "P_NAME": "\u602a\u76d7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3044\u3068\u3046",
+        "P_DICTIONARY_BG": "7177",
+        "P_NEED_SWITCH_INFO": "71000366",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7178",
+        "P_NAME": "\u59eb\u541b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3081\u304e\u307f",
+        "P_DICTIONARY_BG": "7178",
+        "P_NEED_SWITCH_INFO": "71000367",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7179",
+        "P_NAME": "\u30ec\u30c7\u30a3",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308c\u3067\u3043",
+        "P_DICTIONARY_BG": "7179",
+        "P_NEED_SWITCH_INFO": "71000368",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7180",
+        "P_NAME": "\u53c2\u4e0a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3093\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "7180",
+        "P_NEED_SWITCH_INFO": "71000369",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7181",
+        "P_NAME": "\u7f6a\u4eba",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3056\u3044\u306b\u3093",
+        "P_DICTIONARY_BG": "7181",
+        "P_NEED_SWITCH_INFO": "71000370",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7182",
+        "P_NAME": "\u9b54\u5263",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3051\u3093",
+        "P_DICTIONARY_BG": "7182",
+        "P_NEED_SWITCH_INFO": "71000371",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7183",
+        "P_NAME": "\u767d\u304d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u308d\u304d",
+        "P_DICTIONARY_BG": "7183",
+        "P_NEED_SWITCH_INFO": "71000382",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7184",
+        "P_NAME": "\u8718\u86db",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304f\u3082",
+        "P_DICTIONARY_BG": "7184",
+        "P_NEED_SWITCH_INFO": "71000383",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7185",
+        "P_NAME": "\u304f\u30ce\u4e00",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304f\u306e\u3044\u3061",
+        "P_DICTIONARY_BG": "7185",
+        "P_NEED_SWITCH_INFO": "71000384",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7186",
+        "P_NAME": "\u696d",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3054\u3046",
+        "P_DICTIONARY_BG": "7186",
+        "P_NEED_SWITCH_INFO": "71000385",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7187",
+        "P_NAME": "\u660e\u93e1\u6b62\u6c34",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3081\u3044\u304d\u3087\u3046\u3057\u3059\u3044",
+        "P_DICTIONARY_BG": "7187",
+        "P_NEED_SWITCH_INFO": "71000386",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7188",
+        "P_NAME": "\u554f\u7b54",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3082\u3093\u3069\u3046",
+        "P_DICTIONARY_BG": "7188",
+        "P_NEED_SWITCH_INFO": "71000387",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7189",
+        "P_NAME": "\u7a62\u308c",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3051\u304c\u308c",
+        "P_DICTIONARY_BG": "7189",
+        "P_NEED_SWITCH_INFO": "71000388",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7190",
+        "P_NAME": "\u30c9\u30ea\u30eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3069\u308a\u308b",
+        "P_DICTIONARY_BG": "7190",
+        "P_NEED_SWITCH_INFO": "71000389",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7191",
+        "P_NAME": "\u30af\u30b8\u30e9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304f\u3058\u3089",
+        "P_DICTIONARY_BG": "7191",
+        "P_NEED_SWITCH_INFO": "71000390",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7192",
+        "P_NAME": "\u30d6\u30ea\u30fc\u30c0\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3076\u308a\u30fc\u3060\u30fc",
+        "P_DICTIONARY_BG": "7192",
+        "P_NEED_SWITCH_INFO": "71000391",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7193",
+        "P_NAME": "\u30d1\u30c6\u30a3\u30b7\u30a8",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3071\u3066\u3043\u3057\u3048",
+        "P_DICTIONARY_BG": "7193",
+        "P_NEED_SWITCH_INFO": "71000392",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7194",
+        "P_NAME": "\u30e1\u30ed\u30c7\u30a3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3081\u308d\u3067\u3043",
+        "P_DICTIONARY_BG": "7194",
+        "P_NEED_SWITCH_INFO": "71000393",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7195",
+        "P_NAME": "\u30ea\u30ba\u30e0",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308a\u305a\u3080",
+        "P_DICTIONARY_BG": "7195",
+        "P_NEED_SWITCH_INFO": "71000394",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7196",
+        "P_NAME": "\u7fa9\u52c7\u8ecd",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304e\u3086\u3046\u3050\u3093",
+        "P_DICTIONARY_BG": "7196",
+        "P_NEED_SWITCH_INFO": "71000395",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7197",
+        "P_NAME": "\u611b\u3059\u308b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u3044\u3059\u308b",
+        "P_DICTIONARY_BG": "7197",
+        "P_NEED_SWITCH_INFO": "71000398",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7198",
+        "P_NAME": "\u308f\u304c\u307e\u307e",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u308f\u304c\u307e\u307e",
+        "P_DICTIONARY_BG": "7198",
+        "P_NEED_SWITCH_INFO": "71000399",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7199",
+        "P_NAME": "\u9ad8\u8cb4",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u304d",
+        "P_DICTIONARY_BG": "7199",
+        "P_NEED_SWITCH_INFO": "71000400",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7200",
+        "P_NAME": "\u30d0\u30ea\u30a6\u30e9",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3070\u308a\u3046\u3089",
+        "P_DICTIONARY_BG": "7200",
+        "P_NEED_SWITCH_INFO": "71000401",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7201",
+        "P_NAME": "\u5e79\u90e8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3093\u3076",
+        "P_DICTIONARY_BG": "7201",
+        "P_NEED_SWITCH_INFO": "71000409",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7202",
+        "P_NAME": "\u6b63\u7fa9",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u304e",
+        "P_DICTIONARY_BG": "7202",
+        "P_NEED_SWITCH_INFO": "71000410",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7203",
+        "P_NAME": "\u9996\u9818",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3085\u308a\u3087\u3046",
+        "P_DICTIONARY_BG": "7203",
+        "P_NEED_SWITCH_INFO": "71000411",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7204",
+        "P_NAME": "\u6559\u3048",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3057\u3048",
+        "P_DICTIONARY_BG": "7204",
+        "P_NEED_SWITCH_INFO": "71000412",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7205",
+        "P_NAME": "\u30de\u30c3\u30b9\u30eb",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u307e\u3063\u3059\u308b",
+        "P_DICTIONARY_BG": "7205",
+        "P_NEED_SWITCH_INFO": "71000413",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7206",
+        "P_NAME": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3060\u3044\u306a\u307e\u3044\u3068",
+        "P_DICTIONARY_BG": "7206",
+        "P_NEED_SWITCH_INFO": "71000414",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7207",
+        "P_NAME": "\u8352\u91ce",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u3084",
+        "P_DICTIONARY_BG": "7207",
+        "P_NEED_SWITCH_INFO": "71000415",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7208",
+        "P_NAME": "\u7206\u708e\u7345",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3070\u304f\u3048\u3093\u3057",
+        "P_DICTIONARY_BG": "7208",
+        "P_NEED_SWITCH_INFO": "71000431",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7209",
+        "P_NAME": "\u9b3c\u6559\u5b98",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304a\u306b\u304d\u3087\u3046\u304b\u3093",
+        "P_DICTIONARY_BG": "7209",
+        "P_NEED_SWITCH_INFO": "71000437",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7210",
+        "P_NAME": "\u8cb4\u65cf",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u305e\u304f",
+        "P_DICTIONARY_BG": "7210",
+        "P_NEED_SWITCH_INFO": "71000438",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7211",
+        "P_NAME": "\u624d\u80fd",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3044\u306e\u3046",
+        "P_DICTIONARY_BG": "7211",
+        "P_NEED_SWITCH_INFO": "71000439",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7212",
+        "P_NAME": "\u5148\u9063\u968a",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305b\u3093\u3051\u3093\u305f\u3044",
+        "P_DICTIONARY_BG": "7212",
+        "P_NEED_SWITCH_INFO": "71000440",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7213",
+        "P_NAME": "\u5f13\u77e2",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3086\u307f\u3084",
+        "P_DICTIONARY_BG": "7213",
+        "P_NEED_SWITCH_INFO": "71000449",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7214",
+        "P_NAME": "\u30af\u30e9\u30b2",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304f\u3089\u3052",
+        "P_DICTIONARY_BG": "7214",
+        "P_NEED_SWITCH_INFO": "71000450",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7215",
+        "P_NAME": "\u6b66\u88c5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3076\u305d\u3046",
+        "P_DICTIONARY_BG": "7215",
+        "P_NEED_SWITCH_INFO": "71000451",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7216",
+        "P_NAME": "\u5973\u738b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3087\u3046\u304a\u3046",
+        "P_DICTIONARY_BG": "7216",
+        "P_NEED_SWITCH_INFO": "71000452",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7217",
+        "P_NAME": "\u5b88\u8b77\u970a",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3085\u3054\u308c\u3044",
+        "P_DICTIONARY_BG": "7217",
+        "P_NEED_SWITCH_INFO": "71000453",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7218",
+        "P_NAME": "\u6226\u99ac",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3093\u3070",
+        "P_DICTIONARY_BG": "7218",
+        "P_NEED_SWITCH_INFO": "71000454",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7219",
+        "P_NAME": "\u659c\u967d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3083\u3088\u3046",
+        "P_DICTIONARY_BG": "7219",
+        "P_NEED_SWITCH_INFO": "71000455",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7220",
+        "P_NAME": "\u6211",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u308f\u308c",
+        "P_DICTIONARY_BG": "7220",
+        "P_NEED_SWITCH_INFO": "71000456",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7221",
+        "P_NAME": "\u30e2\u30eb\u30c7\u30f3\u30ab\u30f3\u30d7",
+        "ncs98mfL": "7",
+        "X6C7WxUB": "\u3082\u308b\u3067\u3093\u304b\u3093\u3077",
+        "P_DICTIONARY_BG": "7221",
+        "P_NEED_SWITCH_INFO": "71000457",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7222",
+        "P_NAME": "\u30b5\u30a4\u30d0\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3055\u3044\u3070\u30fc",
+        "P_DICTIONARY_BG": "7222",
+        "P_NEED_SWITCH_INFO": "71000458",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7223",
+        "P_NAME": "\u5b64\u72ec",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3069\u304f",
+        "P_DICTIONARY_BG": "7223",
+        "P_NEED_SWITCH_INFO": "71000459",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7224",
+        "P_NAME": "\u7570\u4e16\u754c",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3044\u305b\u304b\u3044",
+        "P_DICTIONARY_BG": "7224",
+        "P_NEED_SWITCH_INFO": "71000460",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7225",
+        "P_NAME": "\u9b3c\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304d\u3057\u3093",
+        "P_DICTIONARY_BG": "7225",
+        "P_NEED_SWITCH_INFO": "71000461",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7226",
+        "P_NAME": "\u7adc\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308a\u3085\u3046\u3058\u3093",
+        "P_DICTIONARY_BG": "7226",
+        "P_NEED_SWITCH_INFO": "71000462",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7227",
+        "P_NAME": "\u5204\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3068\u3046\u3058\u3093",
+        "P_DICTIONARY_BG": "7227",
+        "P_NEED_SWITCH_INFO": "71000463",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7228",
+        "P_NAME": "\u53ec\u559a\u8001",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3087\u3046\u304b\u3093\u308d\u3046",
+        "P_DICTIONARY_BG": "7228",
+        "P_NEED_SWITCH_INFO": "71000464",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7229",
+        "P_NAME": "\u5144",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3042\u306b",
+        "P_DICTIONARY_BG": "7229",
+        "P_NEED_SWITCH_INFO": "71000468",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7230",
+        "P_NAME": "\u5f1f",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304a\u3068\u3046\u3068",
+        "P_DICTIONARY_BG": "7230",
+        "P_NEED_SWITCH_INFO": "71000469",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7231",
+        "P_NAME": "\u5e7c\u99b4\u67d3",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u304a\u3055\u306a\u306a\u3058\u307f",
+        "P_DICTIONARY_BG": "7231",
+        "P_NEED_SWITCH_INFO": "71000470",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7232",
+        "P_NAME": "\u88dc\u4f50",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u3055",
+        "P_DICTIONARY_BG": "7232",
+        "P_NEED_SWITCH_INFO": "71000471",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7233",
+        "P_NAME": "\u8b77\u795e\u5341\u4e8c\u8056",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3054\u3057\u3093\u3058\u3085\u3046\u306b\u305b\u3044",
+        "P_DICTIONARY_BG": "7233",
+        "P_NEED_SWITCH_INFO": "71000472",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7234",
+        "P_NAME": "\u82f1\u96c4",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3048\u3044\u3086\u3046",
+        "P_DICTIONARY_BG": "7234",
+        "P_NEED_SWITCH_INFO": "71000480",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7235",
+        "P_NAME": "\u8ca0",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3075",
+        "P_DICTIONARY_BG": "7235",
+        "P_NEED_SWITCH_INFO": "71000481",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7236",
+        "P_NAME": "\u5c0e\u304d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307f\u3061\u3073\u304d",
+        "P_DICTIONARY_BG": "7236",
+        "P_NEED_SWITCH_INFO": "71000482",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7237",
+        "P_NAME": "\u30c9\u30e9\u30b4\u30f3",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3069\u3089\u3054\u3093",
+        "P_DICTIONARY_BG": "7237",
+        "P_NEED_SWITCH_INFO": "71000483",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7238",
+        "P_NAME": "\u8a98\u3044",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u305d\u3044",
+        "P_DICTIONARY_BG": "7238",
+        "P_NEED_SWITCH_INFO": "71000484",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7239",
+        "P_NAME": "\u795e\u8a71",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u308f",
+        "P_DICTIONARY_BG": "7239",
+        "P_NEED_SWITCH_INFO": "71000485",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8001",
+        "P_NAME": "\u92fc\u65cb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u305b\u3093",
+        "P_DICTIONARY_BG": "8001",
+        "P_NEED_SWITCH_INFO": "71000220",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8002",
+        "P_NAME": "\u714c\u97ff",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u304d\u3087\u3046",
+        "P_DICTIONARY_BG": "8002",
+        "P_NEED_SWITCH_INFO": "71000221",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8003",
+        "P_NAME": "\u51db\u9f8d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308a\u3093\u308a\u3085\u3046",
+        "P_DICTIONARY_BG": "8003",
+        "P_NEED_SWITCH_INFO": "71000222",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8004",
+        "P_NAME": "\u5929\u9e97",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u308c\u3044",
+        "P_DICTIONARY_BG": "8004",
+        "P_NEED_SWITCH_INFO": "71000223",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8005",
+        "P_NAME": "\u95d8\u7259",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3068\u3046\u304c",
+        "P_DICTIONARY_BG": "8005",
+        "P_NEED_SWITCH_INFO": "71000224",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8006",
+        "P_NAME": "\u6b66\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3076\u3057\u3093",
+        "P_DICTIONARY_BG": "8006",
+        "P_NEED_SWITCH_INFO": "71000243",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "8007",
+        "P_NAME": "\u8d85\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3061\u3087\u3046\u3058\u3093",
+        "P_DICTIONARY_BG": "8007",
+        "P_NEED_SWITCH_INFO": "71000448",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "9001",
+        "P_NAME": "\u4e00\u51a0",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u3063\u304b\u3093",
+        "P_DICTIONARY_BG": "9001",
+        "P_NEED_SWITCH_INFO": "71000225",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "9002",
+        "P_NAME": "\u4e8c\u51a0",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306b\u304b\u3093",
+        "P_DICTIONARY_BG": "9002",
+        "P_NEED_SWITCH_INFO": "71000226",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "9003",
+        "P_NAME": "\u4e09\u51a0",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3055\u3093\u304b\u3093",
+        "P_DICTIONARY_BG": "9003",
+        "P_NEED_SWITCH_INFO": "71000227",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "9004",
+        "P_NAME": "\u56db\u51a0",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3088\u3093\u304b\u3093",
+        "P_DICTIONARY_BG": "9004",
+        "P_NEED_SWITCH_INFO": "71000228",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "9005",
+        "P_NAME": "\u795e",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304b\u307f",
+        "P_DICTIONARY_BG": "9005",
+        "P_NEED_SWITCH_INFO": "71000229",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10001",
+        "P_NAME": "\u30cf\u30f3\u30bf\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u306f\u3093\u305f\u30fc",
+        "P_DICTIONARY_BG": "10001",
+        "P_NEED_SWITCH_INFO": "71000230",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10002",
+        "P_NAME": "\u30a8\u30eb\u30ac\u30a4\u30a2",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3048\u308b\u304c\u3044\u3042",
+        "P_DICTIONARY_BG": "10002",
+        "P_NEED_SWITCH_INFO": "71000231",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10003",
+        "P_NAME": "\u30b0\u30e9\u30f3\u30ac\u30a4\u30a2",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3050\u3089\u3093\u304c\u3044\u3042",
+        "P_DICTIONARY_BG": "10003",
+        "P_NEED_SWITCH_INFO": "71000232",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10004",
+        "P_NAME": "\u30b2\u30fc\u30c8",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3052\u30fc\u3068",
+        "P_DICTIONARY_BG": "10004",
+        "P_NEED_SWITCH_INFO": "71000233",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10005",
+        "P_NAME": "\u7570\u754c",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u304b\u3044",
+        "P_DICTIONARY_BG": "10005",
+        "P_NEED_SWITCH_INFO": "71000234",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10006",
+        "P_NAME": "\u795e\u3005",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u307f\u304c\u307f",
+        "P_DICTIONARY_BG": "10006",
+        "P_NEED_SWITCH_INFO": "71000235",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10007",
+        "P_NAME": "\u79d8\u5883",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u304d\u3087\u3046",
+        "P_DICTIONARY_BG": "10007",
+        "P_NEED_SWITCH_INFO": "71000236",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10008",
+        "P_NAME": "\u5929\u754c",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u304b\u3044",
+        "P_DICTIONARY_BG": "10008",
+        "P_NEED_SWITCH_INFO": "71000237",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10009",
+        "P_NAME": "\u697d\u5712",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u304f\u3048\u3093",
+        "P_DICTIONARY_BG": "10009",
+        "P_NEED_SWITCH_INFO": "71000238",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10010",
+        "P_NAME": "\u53ec\u559a\u9662",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3087\u3046\u304b\u3093\u3044\u3093",
+        "P_DICTIONARY_BG": "10010",
+        "P_NEED_SWITCH_INFO": "71000239",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10011",
+        "P_NAME": "\u5973\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3081\u304c\u307f",
+        "P_DICTIONARY_BG": "10011",
+        "P_NEED_SWITCH_INFO": "71000240",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10012",
+        "P_NAME": "\u9b54\u795e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307e\u3058\u3093",
+        "P_DICTIONARY_BG": "10012",
+        "P_NEED_SWITCH_INFO": "71000241",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10013",
+        "P_NAME": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3075\u308d\u3093\u3066\u3043\u3042",
+        "P_DICTIONARY_BG": "10013",
+        "P_NEED_SWITCH_INFO": "71000242",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10014",
+        "P_NAME": "\u72ed\u9593",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u3056\u307e",
+        "P_DICTIONARY_BG": "10014",
+        "P_NEED_SWITCH_INFO": "71000246",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10015",
+        "P_NAME": "\u4e16\u754c",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u304b\u3044",
+        "P_DICTIONARY_BG": "10015",
+        "P_NEED_SWITCH_INFO": "71000247",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "10016",
+        "P_NAME": "\u8679",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u306b\u3058",
+        "P_DICTIONARY_BG": "10016",
+        "P_NEED_SWITCH_INFO": "71000248",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20001",
+        "P_NAME": "\u8987\u8005",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306f\u3057\u3083",
+        "P_DICTIONARY_BG": "20001",
+        "P_NEED_SWITCH_INFO": "71000001",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20002",
+        "P_NAME": "\u9f8d\u864e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308a\u3085\u3046\u3053",
+        "P_DICTIONARY_BG": "20002",
+        "P_NEED_SWITCH_INFO": "71000002",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20003",
+        "P_NAME": "\u4e09\u95d8\u795e",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3055\u3093\u3068\u3046\u3057\u3093",
+        "P_DICTIONARY_BG": "20003",
+        "P_NEED_SWITCH_INFO": "71000003",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20004",
+        "P_NAME": "\u56db\u7687",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3088\u3093\u3053\u3046",
+        "P_DICTIONARY_BG": "20004",
+        "P_NEED_SWITCH_INFO": "71000004",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20005",
+        "P_NAME": "\u5341\u795e\u5c06",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3058\u3085\u3063\u3057\u3093\u3057\u3087\u3046",
+        "P_DICTIONARY_BG": "20005",
+        "P_NEED_SWITCH_INFO": "71000005",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20006",
+        "P_NAME": "\u767e\u8f1d\u661f",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3072\u3083\u3063\u304d\u305b\u3044",
+        "P_DICTIONARY_BG": "20006",
+        "P_NEED_SWITCH_INFO": "71000006",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20007",
+        "P_NAME": "\u8056\u8ce2",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u3051\u3093",
+        "P_DICTIONARY_BG": "20007",
+        "P_NEED_SWITCH_INFO": "71000007",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20008",
+        "P_NAME": "\u8c6a\u5091",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3054\u3046\u3051\u3064",
+        "P_DICTIONARY_BG": "20008",
+        "P_NEED_SWITCH_INFO": "71000008",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "20009",
+        "P_NAME": "\u731b\u8005",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3082\u3055",
+        "P_DICTIONARY_BG": "20009",
+        "P_NEED_SWITCH_INFO": "71000009",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30001",
+        "P_NAME": "\u5e1d",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307f\u304b\u3069",
+        "P_DICTIONARY_BG": "30001",
+        "P_NEED_SWITCH_INFO": "71000010",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30002",
+        "P_NAME": "\u4ec1\u738b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306b\u304a\u3046",
+        "P_DICTIONARY_BG": "30002",
+        "P_NEED_SWITCH_INFO": "71000011",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30003",
+        "P_NAME": "\u4e09\u9023\u661f",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3055\u3093\u308c\u3093\u305b\u3044",
+        "P_DICTIONARY_BG": "30003",
+        "P_NEED_SWITCH_INFO": "71000012",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30004",
+        "P_NAME": "\u56db\u5929\u738b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3066\u3093\u306e\u3046",
+        "P_DICTIONARY_BG": "30004",
+        "P_NEED_SWITCH_INFO": "71000013",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30005",
+        "P_NAME": "\u5341\u5091",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u3063\u3051\u3064",
+        "P_DICTIONARY_BG": "30005",
+        "P_NEED_SWITCH_INFO": "71000014",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30006",
+        "P_NAME": "\u767e\u9f8d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3083\u304f\u3057\u3087\u3046",
+        "P_DICTIONARY_BG": "30006",
+        "P_NEED_SWITCH_INFO": "71000015",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30007",
+        "P_NAME": "\u7f85\u5c06",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u3057\u3087\u3046",
+        "P_DICTIONARY_BG": "30007",
+        "P_NEED_SWITCH_INFO": "71000016",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30008",
+        "P_NAME": "\u70c8\u58eb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308c\u3063\u3057",
+        "P_DICTIONARY_BG": "30008",
+        "P_NEED_SWITCH_INFO": "71000017",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "30009",
+        "P_NAME": "\u72e9\u4eba",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u308a\u3085\u3046\u3069",
+        "P_DICTIONARY_BG": "30009",
+        "P_NEED_SWITCH_INFO": "71000018",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31001",
+        "P_NAME": "\u795e\u901f",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3093\u305d\u304f",
+        "P_DICTIONARY_BG": "31001",
+        "P_NEED_SWITCH_INFO": "71000019",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31002",
+        "P_NAME": "\u5929\u5263",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u3051\u3093",
+        "P_DICTIONARY_BG": "31002",
+        "P_NEED_SWITCH_INFO": "71000020",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31003",
+        "P_NAME": "\u5f57\u661f",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3059\u3044\u305b\u3044",
+        "P_DICTIONARY_BG": "31003",
+        "P_NEED_SWITCH_INFO": "71000021",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31004",
+        "P_NAME": "\u77ac\u7344",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3085\u3093\u3054\u304f",
+        "P_DICTIONARY_BG": "31004",
+        "P_NEED_SWITCH_INFO": "71000022",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31005",
+        "P_NAME": "\u98db\u71d5",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3072\u3048\u3093",
+        "P_DICTIONARY_BG": "31005",
+        "P_NEED_SWITCH_INFO": "71000023",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31006",
+        "P_NAME": "\u5e7b\u5f71",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3052\u3093\u3048\u3044",
+        "P_DICTIONARY_BG": "31006",
+        "P_NEED_SWITCH_INFO": "71000024",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31007",
+        "P_NAME": "\u9583\u5149",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3093\u3053\u3046",
+        "P_DICTIONARY_BG": "31007",
+        "P_NEED_SWITCH_INFO": "71000025",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31008",
+        "P_NAME": "\u75be\u98a8",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3063\u3077\u3046",
+        "P_DICTIONARY_BG": "31008",
+        "P_NEED_SWITCH_INFO": "71000026",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "31009",
+        "P_NAME": "\u7a32\u59bb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3044\u306a\u3065\u307e",
+        "P_DICTIONARY_BG": "31009",
+        "P_NEED_SWITCH_INFO": "71000027",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32001",
+        "P_NAME": "\u5275\u9020\u795e",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u305d\u3046\u305e\u3046\u3057\u3093",
+        "P_DICTIONARY_BG": "32001",
+        "P_NEED_SWITCH_INFO": "71000028",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32002",
+        "P_NAME": "\u5929\u5730",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3066\u3093\u3061",
+        "P_DICTIONARY_BG": "32002",
+        "P_NEED_SWITCH_INFO": "71000029",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32003",
+        "P_NAME": "\u4e09\u5927\u5929",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3055\u3093\u3060\u3044\u3066\u3093",
+        "P_DICTIONARY_BG": "32003",
+        "P_NEED_SWITCH_INFO": "71000030",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32004",
+        "P_NAME": "\u56db\u8056",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3088\u3093\u305b\u3044",
+        "P_DICTIONARY_BG": "32004",
+        "P_NEED_SWITCH_INFO": "71000031",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32005",
+        "P_NAME": "\u5341\u5929\u541b",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3058\u3085\u3063\u3066\u3093\u304f\u3093",
+        "P_DICTIONARY_BG": "32005",
+        "P_NEED_SWITCH_INFO": "71000032",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32006",
+        "P_NAME": "\u767e\u864e",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3073\u3083\u3063\u3053",
+        "P_DICTIONARY_BG": "32006",
+        "P_NEED_SWITCH_INFO": "71000033",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32007",
+        "P_NAME": "\u95d8\u5c06",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3068\u3046\u3057\u3087\u3046",
+        "P_DICTIONARY_BG": "32007",
+        "P_NEED_SWITCH_INFO": "71000034",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32008",
+        "P_NAME": "\u70c8\u706b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u308c\u3063\u304b",
+        "P_DICTIONARY_BG": "32008",
+        "P_NEED_SWITCH_INFO": "71000035",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "32009",
+        "P_NAME": "\u968a\u54e1",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3044\u3044\u3093",
+        "P_DICTIONARY_BG": "32009",
+        "P_NEED_SWITCH_INFO": "71000036",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33001",
+        "P_NAME": "\u795e\u5a01",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u3080\u3044",
+        "P_DICTIONARY_BG": "33001",
+        "P_NEED_SWITCH_INFO": "71000258",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33002",
+        "P_NAME": "\u53cc\u74a7",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305d\u3046\u3078\u304d",
+        "P_DICTIONARY_BG": "33002",
+        "P_NEED_SWITCH_INFO": "71000259",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33003",
+        "P_NAME": "\u4e09\u9283\u58eb",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3055\u3093\u3058\u3085\u3046\u3057",
+        "P_DICTIONARY_BG": "33003",
+        "P_NEED_SWITCH_INFO": "71000260",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33004",
+        "P_NAME": "\u56db\u7363",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3057\u3058\u3085\u3046",
+        "P_DICTIONARY_BG": "33004",
+        "P_NEED_SWITCH_INFO": "71000261",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33005",
+        "P_NAME": "\u5341\u754c",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3063\u304b\u3044",
+        "P_DICTIONARY_BG": "33005",
+        "P_NEED_SWITCH_INFO": "71000262",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33006",
+        "P_NAME": "\u899a\u9192",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304b\u304f\u305b\u3044",
+        "P_DICTIONARY_BG": "33006",
+        "P_NEED_SWITCH_INFO": "71000263",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33007",
+        "P_NAME": "\u5239\u90a3",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3064\u306a",
+        "P_DICTIONARY_BG": "33007",
+        "P_NEED_SWITCH_INFO": "71000264",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33008",
+        "P_NAME": "\u5fcd\u8005",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u306b\u3093\u3058\u3083",
+        "P_DICTIONARY_BG": "33008",
+        "P_NEED_SWITCH_INFO": "71000265",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "33009",
+        "P_NAME": "\u96f7\u96fb",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3089\u3044\u3067\u3093",
+        "P_DICTIONARY_BG": "33009",
+        "P_NEED_SWITCH_INFO": "71000266",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40001",
+        "P_NAME": "\u304c",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304c",
+        "P_DICTIONARY_BG": "40001",
+        "P_NEED_SWITCH_INFO": "71000293",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40002",
+        "P_NAME": "\u2605",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u307b\u3057",
+        "P_DICTIONARY_BG": "40002",
+        "P_NEED_SWITCH_INFO": "71000294",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40003",
+        "P_NAME": "\u3042\u308a\u304c\u3068\u3046",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3042\u308a\u304c\u3068\u3046",
+        "P_DICTIONARY_BG": "40003",
+        "P_NEED_SWITCH_INFO": "71000324",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40004",
+        "P_NAME": "\u8a95\u751f",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3093\u3058\u3087\u3046",
+        "P_DICTIONARY_BG": "40004",
+        "P_NEED_SWITCH_INFO": "71000325",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40005",
+        "P_NAME": "\u97f3\u697d",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304a\u3093\u304c\u304f",
+        "P_DICTIONARY_BG": "40005",
+        "P_NEED_SWITCH_INFO": "71000341",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40006",
+        "P_NAME": "\u266a",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304a\u3093\u3077",
+        "P_DICTIONARY_BG": "40006",
+        "P_NEED_SWITCH_INFO": "71000342",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40007",
+        "P_NAME": "\u5341\u5fcc",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3058\u3085\u3063\u304d",
+        "P_DICTIONARY_BG": "40007",
+        "P_NEED_SWITCH_INFO": "71000343",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40008",
+        "P_NAME": "\u30c7\u30a3\u30b9\u30ce\u30df\u30a2",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u3067\u3043\u3059\u306e\u307f\u3042",
+        "P_DICTIONARY_BG": "40008",
+        "P_NEED_SWITCH_INFO": "71000344",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40009",
+        "P_NAME": "\u30fb",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3066\u3093",
+        "P_DICTIONARY_BG": "40009",
+        "P_NEED_SWITCH_INFO": "71000345",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40010",
+        "P_NAME": "\u30ea\u30f3\u30b0",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308a\u3093\u3050",
+        "P_DICTIONARY_BG": "40010",
+        "P_NEED_SWITCH_INFO": "71000360",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40011",
+        "P_NAME": "\u30d2\u30c3\u30c8",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3072\u3063\u3068",
+        "P_DICTIONARY_BG": "40011",
+        "P_NEED_SWITCH_INFO": "71000361",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40012",
+        "P_NAME": "\u30b9\u30a4\u30f3\u30b0",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3059\u3044\u3093\u3050",
+        "P_DICTIONARY_BG": "40012",
+        "P_NEED_SWITCH_INFO": "71000362",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40013",
+        "P_NAME": "\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u308b\u30fc\u308c\u3063\u3068",
+        "P_DICTIONARY_BG": "40013",
+        "P_NEED_SWITCH_INFO": "71000363",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40014",
+        "P_NAME": "\u30ed\u30fc\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308d\u30fc\u3069",
+        "P_DICTIONARY_BG": "40014",
+        "P_NEED_SWITCH_INFO": "71000402",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40015",
+        "P_NAME": "\u30a2\u30cb\u30de",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3042\u306b\u307e",
+        "P_DICTIONARY_BG": "40015",
+        "P_NEED_SWITCH_INFO": "71000403",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40016",
+        "P_NAME": "\u3092",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3092",
+        "P_DICTIONARY_BG": "40016",
+        "P_NEED_SWITCH_INFO": "71000404",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40017",
+        "P_NAME": "\u3067",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3067",
+        "P_DICTIONARY_BG": "40017",
+        "P_NEED_SWITCH_INFO": "71000405",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40018",
+        "P_NAME": "\u30d6\u30ec\u30a4\u30ab\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3076\u308c\u3044\u304b\u30fc",
+        "P_DICTIONARY_BG": "40018",
+        "P_NEED_SWITCH_INFO": "71000441",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40019",
+        "P_NAME": "\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u304c\u30fc\u3067\u3043\u3042\u3093",
+        "P_DICTIONARY_BG": "40019",
+        "P_NEED_SWITCH_INFO": "71000442",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40020",
+        "P_NAME": "\u3063",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3063",
+        "P_DICTIONARY_BG": "40020",
+        "P_NEED_SWITCH_INFO": "71000443",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40021",
+        "P_NAME": "\u3060",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3060",
+        "P_DICTIONARY_BG": "40021",
+        "P_NEED_SWITCH_INFO": "71000444",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40022",
+        "P_NAME": "\u30aa\u30e9\u30af\u30eb",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304a\u3089\u304f\u308b",
+        "P_DICTIONARY_BG": "40022",
+        "P_NEED_SWITCH_INFO": "71000473",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40023",
+        "P_NAME": "\u30fc",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u306e\u3070\u3057\u307c\u3046",
+        "P_DICTIONARY_BG": "40023",
+        "P_NEED_SWITCH_INFO": "71000474",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40024",
+        "P_NAME": "\uff1d",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3044\u3053\u30fc\u308b",
+        "P_DICTIONARY_BG": "40024",
+        "P_NEED_SWITCH_INFO": "71000475",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40025",
+        "P_NAME": "\u300e",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304b\u304e\u304b\u3063\u3053",
+        "P_DICTIONARY_BG": "40025",
+        "P_NEED_SWITCH_INFO": "71000476",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "40026",
+        "P_NAME": "\u300f",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u304b\u304e\u304b\u3063\u3053\u3068\u3058",
+        "P_DICTIONARY_BG": "40026",
+        "P_NEED_SWITCH_INFO": "71000477",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50001",
+        "P_NAME": "\u767e\u4eba\u65ac\u308a",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3072\u3083\u304f\u306b\u3093\u304e\u308a",
+        "P_DICTIONARY_BG": "50001",
+        "P_NEED_SWITCH_INFO": "71000416",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50002",
+        "P_NAME": "\u30cf\u30ea\u30b1\u30fc\u30f3",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u306f\u308a\u3051\u30fc\u3093",
+        "P_DICTIONARY_BG": "50002",
+        "P_NEED_SWITCH_INFO": "71000417",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50003",
+        "P_NAME": "\u30c8\u30eb\u30cd\u30fc\u30c9",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3068\u308b\u306d\u30fc\u3069",
+        "P_DICTIONARY_BG": "50003",
+        "P_NEED_SWITCH_INFO": "71000418",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50004",
+        "P_NAME": "\u30d0\u30b9\u30bf\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3070\u3059\u305f\u30fc",
+        "P_DICTIONARY_BG": "50004",
+        "P_NEED_SWITCH_INFO": "71000419",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50005",
+        "P_NAME": "\u8a0e\u4f10",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3068\u3046\u3070\u3064",
+        "P_DICTIONARY_BG": "50005",
+        "P_NEED_SWITCH_INFO": "71000420",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50006",
+        "P_NAME": "\u5b88\u8b77\u795e",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3057\u3085\u3054\u3057\u3093",
+        "P_DICTIONARY_BG": "50006",
+        "P_NEED_SWITCH_INFO": "71000421",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50007",
+        "P_NAME": "\u30ac\u30fc\u30c9\u30de\u30f3",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u304c\u30fc\u3069\u307e\u3093",
+        "P_DICTIONARY_BG": "50007",
+        "P_NEED_SWITCH_INFO": "71000422",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50008",
+        "P_NAME": "\u30ad\u30fc\u30d1\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u304d\u30fc\u3071\u30fc",
+        "P_DICTIONARY_BG": "50008",
+        "P_NEED_SWITCH_INFO": "71000423",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50009",
+        "P_NAME": "\u30a2\u30fc\u30de\u30fc",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3042\u30fc\u307e\u30fc",
+        "P_DICTIONARY_BG": "50009",
+        "P_NEED_SWITCH_INFO": "71000424",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50010",
+        "P_NAME": "\u9632\u885b",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307c\u3046\u3048\u3044",
+        "P_DICTIONARY_BG": "50010",
+        "P_NEED_SWITCH_INFO": "71000425",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50011",
+        "P_NAME": "\u5bcc\u8c6a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3075\u3054\u3046",
+        "P_DICTIONARY_BG": "50011",
+        "P_NEED_SWITCH_INFO": "71000426",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50012",
+        "P_NAME": "\u30ea\u30c3\u30c1",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u308a\u3063\u3061",
+        "P_DICTIONARY_BG": "50012",
+        "P_NEED_SWITCH_INFO": "71000427",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50013",
+        "P_NAME": "\u30de\u30fc\u30c1\u30e3\u30f3\u30c8",
+        "ncs98mfL": "6",
+        "X6C7WxUB": "\u307e\u30fc\u3061\u3083\u3093\u3068",
+        "P_DICTIONARY_BG": "50013",
+        "P_NEED_SWITCH_INFO": "71000428",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50014",
+        "P_NAME": "\u30c8\u30ec\u30fc\u30c0\u30fc",
+        "ncs98mfL": "5",
+        "X6C7WxUB": "\u3068\u308c\u30fc\u3060\u30fc",
+        "P_DICTIONARY_BG": "50014",
+        "P_NEED_SWITCH_INFO": "71000429",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50015",
+        "P_NAME": "\u88dc\u7d66",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307b\u304d\u3085\u3046",
+        "P_DICTIONARY_BG": "50015",
+        "P_NEED_SWITCH_INFO": "71000430",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50016",
+        "P_NAME": "\u30dc\u30b9",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u307c\u3059",
+        "P_DICTIONARY_BG": "50016",
+        "P_NEED_SWITCH_INFO": "71000432",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50017",
+        "P_NAME": "\u30ac\u30c1",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u304c\u3061",
+        "P_DICTIONARY_BG": "50017",
+        "P_NEED_SWITCH_INFO": "71000433",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50018",
+        "P_NAME": "\u30cf\u30fc\u30c9",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u306f\u30fc\u3069",
+        "P_DICTIONARY_BG": "50018",
+        "P_NEED_SWITCH_INFO": "71000434",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50019",
+        "P_NAME": "\u30ce\u30fc\u30de\u30eb",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u306e\u30fc\u307e\u308b",
+        "P_DICTIONARY_BG": "50019",
+        "P_NEED_SWITCH_INFO": "71000435",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50020",
+        "P_NAME": "\u62c5\u5f53",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305f\u3093\u3068\u3046",
+        "P_DICTIONARY_BG": "50020",
+        "P_NEED_SWITCH_INFO": "71000436",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50021",
+        "P_NAME": "\u90e8\u968a",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3076\u305f\u3044",
+        "P_DICTIONARY_BG": "50021",
+        "P_NEED_SWITCH_INFO": "71000465",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50022",
+        "P_NAME": "\u653b\u9632",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u3053\u3046\u307c\u3046",
+        "P_DICTIONARY_BG": "50022",
+        "P_NEED_SWITCH_INFO": "71000466",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50023",
+        "P_NAME": "\u6226",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3044\u304f\u3055",
+        "P_DICTIONARY_BG": "50023",
+        "P_NEED_SWITCH_INFO": "71000467",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50024",
+        "P_NAME": "\u30b6",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3056",
+        "P_DICTIONARY_BG": "50024",
+        "P_NEED_SWITCH_INFO": "71000486",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50025",
+        "P_NAME": "\u7cbe\u92ed",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3044\u3048\u3044",
+        "P_DICTIONARY_BG": "50025",
+        "P_NEED_SWITCH_INFO": "71000487",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "50026",
+        "P_NAME": "\u7b2c",
+        "ncs98mfL": "1",
+        "X6C7WxUB": "\u3060\u3044",
+        "P_DICTIONARY_BG": "50026",
+        "P_NEED_SWITCH_INFO": "71000488",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "90001",
+        "P_NAME": "\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc",
+        "ncs98mfL": "7",
+        "X6C7WxUB": "\u3077\u308d\u3067\u3085\u30fc\u3055\u30fc",
+        "P_DICTIONARY_BG": "90001",
+        "P_NEED_SWITCH_INFO": "71100001",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "90002",
+        "P_NAME": "\u30a8\u30a4\u30ea\u30e0",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3048\u3044\u308a\u3080",
+        "P_DICTIONARY_BG": "90002",
+        "P_NEED_SWITCH_INFO": "71100002",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "90003",
+        "P_NAME": "\u5143\u6c17\u679c\u6c41",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3052\u3093\u304d\u304b\u3058\u3085\u3046",
+        "P_DICTIONARY_BG": "90003",
+        "P_NEED_SWITCH_INFO": "71100003",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "90004",
+        "P_NAME": "\uff11\uff10\uff10\uff05",
+        "ncs98mfL": "4",
+        "X6C7WxUB": "\u3072\u3083\u304f\u3071\u30fc\u305b\u3093\u3068",
+        "P_DICTIONARY_BG": "90004",
+        "P_NEED_SWITCH_INFO": "71100004",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    }
+]

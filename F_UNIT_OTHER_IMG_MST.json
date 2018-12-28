@@ -1,0 +1,13 @@
+[
+    {
+        "P_UNIT_ID": "6003614",
+        "0vzt3dFb": "1",
+        "P_IMG_CGG": "unit_cgg_6003614.csv",
+        "P_IMG_CGS": "unit_idle_cgs_6003614.csv,unit_move_cgs_6003614.csv,unit_atk_cgs_6003614.csv,unit_atk_cgs_6003614.csv,unit_win_before_cgs_6003614.csv,unit_win_cgs_6003614.csv",
+        "P_HEAD_IMG_POS": "539,342,100",
+        "P_FOOT_IMG_POS": "561,779,100",
+        "P_HP_DISP_POS": "0,0",
+        "P_CAUTION_TYPE": "0,20",
+        "P_NEED_SWITCH_INFO": "31000001"
+    }
+]

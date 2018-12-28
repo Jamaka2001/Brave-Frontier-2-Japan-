@@ -1,0 +1,562 @@
+[
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "1",
+        "P_NEED_EXP": "0",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "2",
+        "P_NEED_EXP": "107",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "3",
+        "P_NEED_EXP": "213",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "4",
+        "P_NEED_EXP": "320",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "5",
+        "P_NEED_EXP": "427",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "6",
+        "P_NEED_EXP": "533",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "7",
+        "P_NEED_EXP": "640",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "8",
+        "P_NEED_EXP": "747",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "9",
+        "P_NEED_EXP": "853",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "10",
+        "P_NEED_EXP": "960",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "11",
+        "P_NEED_EXP": "989",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "12",
+        "P_NEED_EXP": "1018",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "13",
+        "P_NEED_EXP": "1047",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "14",
+        "P_NEED_EXP": "1076",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "15",
+        "P_NEED_EXP": "1105",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "16",
+        "P_NEED_EXP": "1135",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "17",
+        "P_NEED_EXP": "1164",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "18",
+        "P_NEED_EXP": "1193",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "19",
+        "P_NEED_EXP": "1222",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "20",
+        "P_NEED_EXP": "1251",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "21",
+        "P_NEED_EXP": "1360",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "22",
+        "P_NEED_EXP": "1470",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "23",
+        "P_NEED_EXP": "1579",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "24",
+        "P_NEED_EXP": "1689",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "25",
+        "P_NEED_EXP": "1798",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "26",
+        "P_NEED_EXP": "1908",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "27",
+        "P_NEED_EXP": "2017",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "28",
+        "P_NEED_EXP": "2126",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "29",
+        "P_NEED_EXP": "2236",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "30",
+        "P_NEED_EXP": "2345",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "31",
+        "P_NEED_EXP": "2455",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "32",
+        "P_NEED_EXP": "2564",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "33",
+        "P_NEED_EXP": "2674",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "34",
+        "P_NEED_EXP": "2783",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "35",
+        "P_NEED_EXP": "2892",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "36",
+        "P_NEED_EXP": "3002",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "37",
+        "P_NEED_EXP": "3111",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "38",
+        "P_NEED_EXP": "3221",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "39",
+        "P_NEED_EXP": "3330",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "40",
+        "P_NEED_EXP": "3440",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "41",
+        "P_NEED_EXP": "3722",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "42",
+        "P_NEED_EXP": "4004",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "43",
+        "P_NEED_EXP": "4286",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "44",
+        "P_NEED_EXP": "4568",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "45",
+        "P_NEED_EXP": "4850",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "46",
+        "P_NEED_EXP": "5131",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "47",
+        "P_NEED_EXP": "5413",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "48",
+        "P_NEED_EXP": "5695",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "49",
+        "P_NEED_EXP": "5977",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "50",
+        "P_NEED_EXP": "6259",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "51",
+        "P_NEED_EXP": "6541",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "52",
+        "P_NEED_EXP": "6823",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "53",
+        "P_NEED_EXP": "7105",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "54",
+        "P_NEED_EXP": "7387",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "55",
+        "P_NEED_EXP": "7669",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "56",
+        "P_NEED_EXP": "7950",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "57",
+        "P_NEED_EXP": "8232",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "58",
+        "P_NEED_EXP": "8514",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "59",
+        "P_NEED_EXP": "8796",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "60",
+        "P_NEED_EXP": "9078",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "61",
+        "P_NEED_EXP": "9128",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "62",
+        "P_NEED_EXP": "9177",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "63",
+        "P_NEED_EXP": "9227",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "64",
+        "P_NEED_EXP": "9277",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "65",
+        "P_NEED_EXP": "9327",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "66",
+        "P_NEED_EXP": "9376",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "67",
+        "P_NEED_EXP": "9426",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "68",
+        "P_NEED_EXP": "9476",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "69",
+        "P_NEED_EXP": "9525",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "70",
+        "P_NEED_EXP": "9575",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "71",
+        "P_NEED_EXP": "9625",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "72",
+        "P_NEED_EXP": "9675",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "73",
+        "P_NEED_EXP": "9724",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "74",
+        "P_NEED_EXP": "9774",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "75",
+        "P_NEED_EXP": "9824",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "76",
+        "P_NEED_EXP": "9873",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "77",
+        "P_NEED_EXP": "9923",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "78",
+        "P_NEED_EXP": "9973",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "79",
+        "P_NEED_EXP": "10023",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_LV": "80",
+        "P_NEED_EXP": "10072",
+        "P_CREATEDATE": "2018-02-12 15:59:43",
+        "P_UPDATEDATE": "2018-02-12 15:59:43"
+    }
+]

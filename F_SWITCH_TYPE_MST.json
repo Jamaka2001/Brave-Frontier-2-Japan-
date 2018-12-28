@@ -1,0 +1,332 @@
+[
+    {
+        "P_SWITCH_TYPE": "10",
+        "P_NAME": "\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "20",
+        "P_NAME": "\u6a5f\u80fd\u958b\u653e",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "21",
+        "P_NAME": "\u521d\u56de\u8aac\u660e",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "22",
+        "P_NAME": "\u30a2\u30ab\u30a6\u30f3\u30c8\u9023\u643a",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "23",
+        "P_NAME": "\u4e00\u679a\u7d75\u544a\u77e5",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "30",
+        "P_NAME": "\u88dc\u586b\u7ba1\u7406\u7528",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "40",
+        "P_NAME": "\u30d6\u30c3\u30af\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u7528",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "41",
+        "P_NAME": "\u30d6\u30c3\u30af\u30c1\u30e3\u30ec\u30f3\u30b8\u9054\u6210\u7528",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "42",
+        "P_NAME": "\u30d6\u30c3\u30af\u30c1\u30e3\u30ec\u30f3\u30b8\u5831\u916c\u53d7\u53d6\u308a\u7528",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "43",
+        "P_NAME": "\u30d6\u30c3\u30af\u89e3\u653e\u7528",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "50",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "51",
+        "P_NAME": "\u6b66\u5668\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "52",
+        "P_NAME": "\u30a2\u30a4\u30c6\u30e0\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "53",
+        "P_NAME": "\u30a8\u30cd\u30df\u30fc\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "54",
+        "P_NAME": "\u97f3\u697d\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "55",
+        "P_NAME": "\u30b9\u30d5\u30a3\u30a2\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "56",
+        "P_NAME": "\u7d20\u6750\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "57",
+        "P_NAME": "\u5927\u4e8b\u306a\u3082\u306e\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "58",
+        "P_NAME": "XX\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "59",
+        "P_NAME": "XX\u56f3\u9451",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "60",
+        "P_NAME": "\u30d6\u30c3\u30af\u8868\u793a\u5236\u5fa1",
+        "P_SYSTEM_MANAGE": "1"
+    },
+    {
+        "P_SWITCH_TYPE": "100",
+        "P_NAME": "\u30df\u30c3\u30b7\u30e7\u30f3\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "110",
+        "P_NAME": "\u30b9\u30af\u30ea\u30d7\u30c8\u518d\u751f",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "120",
+        "P_NAME": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "130",
+        "P_NAME": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30af\u30a8\u30b9\u30c8\u30b9\u30af\u30ea\u30d7\u30c8\u518d\u751f",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "140",
+        "P_NAME": "\u8a66\u7df4\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "150",
+        "P_NAME": "\u80b2\u6210\u30c0\u30f3\u30b8\u30e7\u30f3\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "160",
+        "P_NAME": "\u30b9\u30ad\u30eb\u30e9\u30a4\u30ba\u30c0\u30f3\u30b8\u30e7\u30f3\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "170",
+        "P_NAME": "FH\u30c0\u30f3\u30b8\u30e7\u30f3\u30af\u30ea\u30a2",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "200",
+        "P_NAME": "\u30df\u30c3\u30b7\u30e7\u30f3\u30c1\u30e3\u30ec\u30f3\u30b8",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "210",
+        "P_NAME": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30af\u30a8\u30b9\u30c8\u30df\u30c3\u30b7\u30e7\u30f3\u30c1\u30e3\u30ec\u30f3\u30b8",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "300",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "310",
+        "P_NAME": "\u5225\u7d75\u30a4\u30e9\u30b9\u30c8",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "320",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8\u30b0\u30eb\u30fc\u30d7",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "330",
+        "P_NAME": "\u8d85\u8d8a\u5f37\u5316",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "400",
+        "P_NAME": "\u6b66\u5668",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "401",
+        "P_NAME": "\u6b66\u5668_\u9032\u5316\u8ffd\u52a0new\u30d5\u30e9\u30b0",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "500",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u30bc\u30eb\u30b7\u30e7\u30c3\u30d7",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "501",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u30c0\u30a4\u30e4\u30b7\u30e7\u30c3\u30d7",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "510",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u30a2\u30a4\u30c6\u30e0\u8abf\u5408",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "511",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u30b9\u30d5\u30a3\u30a2\u4f5c\u6210",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "512",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u6b66\u5668\u4f5c\u6210",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "520",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u3042\u3089\u3059\u3058",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "521",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u4e16\u754c\u9332",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "522",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u82f1\u96c4\u8b5a",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "530",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u4ea4\u63db\u6240",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "531",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u4ea4\u63db\u6240_\u30ea\u30bb\u30c3\u30c81",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "532",
+        "P_NAME": "\u30e9\u30f3\u30c9\u30fc\u30eb_new\u30d5\u30e9\u30b0_\u4ea4\u63db\u6240_\u30ea\u30bb\u30c3\u30c82",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "600",
+        "P_NAME": "\u30a2\u30a4\u30c6\u30e0",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "610",
+        "P_NAME": "\u30ec\u30b7\u30d4",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "611",
+        "P_NAME": "\u6b66\u5668\u30ec\u30b7\u30d4",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "612",
+        "P_NAME": "\u30b9\u30d5\u30a3\u30a2\u30ec\u30b7\u30d4",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "613",
+        "P_NAME": "\u6d88\u8cbb\u30a2\u30a4\u30c6\u30e0\u30ec\u30b7\u30d4",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "700",
+        "P_NAME": "\u53ec\u559a\u5e2b\u30e9\u30f3\u30af",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "710",
+        "P_NAME": "\u79f0\u53f7",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "711",
+        "P_NAME": "\u7279\u6b8a\u79f0\u53f7",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "720",
+        "P_NAME": "\u79f0\u53f7\u30ab\u30e9\u30fc",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "800",
+        "P_NAME": "\u30d6\u30c3\u30af",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "810",
+        "P_NAME": "\u30d6\u30c3\u30af_new\u30d5\u30e9\u30b0",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "820",
+        "P_NAME": "\u30d6\u30c3\u30af_\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u30af\u30ea\u30a2\u30d5\u30e9\u30b0",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "900",
+        "P_NAME": "\u56f3\u9451\u30fb\u97f3\u697d\u5c4b",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "1000",
+        "P_NAME": "\u30a2\u30ea\u30fc\u30ca",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "1100",
+        "P_NAME": "\u30b9\u30ad\u30eb\u30e9\u30a4\u30ba",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "1200",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8\u63a2\u7d22",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "1201",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8\u63a2\u7d22_\u63a2\u7d22\u5ea6MAX",
+        "P_SYSTEM_MANAGE": "0"
+    },
+    {
+        "P_SWITCH_TYPE": "1202",
+        "P_NAME": "\u30e6\u30cb\u30c3\u30c8\u63a2\u7d22_\u63a2\u7d22\u5831\u916c\u672c",
+        "P_SYSTEM_MANAGE": "0"
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "P_CATEGORY_ID": "1",
+        "P_CATEGORY_NAME": "\u5192\u967a\u306e\u8a18\u61b6",
+        "P_UPPER_CATEGORY_ID": "0",
+        "P_DISPORDER": "1",
+        "P_EXT_IMG_PARAM": "\u82e5\u304d\u9a0e\u58eb\u3068\u305d\u306e\u4ef2\u9593\u305f\u3061\u306e\u4e16\u754c\u3092\u3081\u3050\u308b\u5192\u967a\u306e\u8a18\u61b6\u3002",
+        "P_NEED_SWITCH_INFO": "0"
+    },
+    {
+        "P_CATEGORY_ID": "2",
+        "P_CATEGORY_NAME": "\u5c0e\u304d\u306e\u8a18\u61b6",
+        "P_UPPER_CATEGORY_ID": "0",
+        "P_DISPORDER": "3",
+        "P_EXT_IMG_PARAM": "\u82e5\u304d\u9a0e\u58eb\u3092\u5c0e\u304f\u8005\u305f\u3061\u306e\u8a18\u61b6\u3002",
+        "P_NEED_SWITCH_INFO": "0"
+    },
+    {
+        "P_CATEGORY_ID": "3",
+        "P_CATEGORY_NAME": "\u63a2\u7d22\u30ec\u30dd\u30fc\u30c8",
+        "P_UPPER_CATEGORY_ID": "0",
+        "P_DISPORDER": "4",
+        "P_EXT_IMG_PARAM": "\u63a2\u7d22\u3067\u6301\u3061\u5e30\u308b\u3053\u3068\u304c\u3067\u304d\u305f\u8cb4\u91cd\u306a\u8a18\u9332\u3002",
+        "P_NEED_SWITCH_INFO": "0"
+    },
+    {
+        "P_CATEGORY_ID": "100",
+        "P_CATEGORY_NAME": "\u5e8f\u7ae0\u3000\u9ed2\u8987\u306e\u6025\u8972",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "1",
+        "P_EXT_IMG_PARAM": "\u3068\u3042\u308b\u7570\u754c\u306e\u56fd\u3001\u30d5\u30a3\u30eb\u30a2\u30fc\u30e0\u3092\u8b0e\u306e\u8ecd\u52e2\u304c\u6025\u8972\u3002\u7d76\u671b\u7684\u306a\u72b6\u6cc1\u306e\u4e2d\u3001\u9a0e\u58eb\u56e3\u9577\u306e\u4e0b\u3057\u305f\u6c7a\u65ad\u306f\u2026",
+        "P_NEED_SWITCH_INFO": "0"
+    },
+    {
+        "P_CATEGORY_ID": "101",
+        "P_CATEGORY_NAME": "\u7b2c\u4e00\u7ae0\u3000\u6551\u4e16\u306e\u53ec\u559a\u5e2b",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "2",
+        "P_EXT_IMG_PARAM": "\u9a0e\u58eb\u56e3\u9577\u306b\u3088\u308a\u9003\u3055\u308c\u305f\u82e5\u304d\u9a0e\u58eb\u3002\u5e7c\u99b4\u67d3\u307f\u306e\u30ea\u30f3\u3068\u3082\u96e2\u308c\u76ee\u3092\u899a\u307e\u3057\u305f\u5148\u306f\u898b\u77e5\u3089\u306c\u7570\u754c\u3067\u3042\u3063\u305f\u3002",
+        "P_NEED_SWITCH_INFO": "0"
+    },
+    {
+        "P_CATEGORY_ID": "102",
+        "P_CATEGORY_NAME": "\u7b2c\u4e8c\u7ae0\u3000\u6ef2\u51fa\u305b\u3057\u7591\u60d1",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "4",
+        "P_EXT_IMG_PARAM": "\u30ed\u30a4\u3001\u30b5\u30fc\u30b7\u30e3\u3068\u3068\u3082\u306b\u518d\u3073\u30b0\u30e9\u30f3\u30ac\u30a4\u30a2\u306b\u5411\u304b\u3046\u82e5\u304d\u9a0e\u58eb\u3002\u305d\u3053\u3067\u5f85\u3061\u53d7\u3051\u308b\u3082\u306e\u3068\u306f\u2026\uff1f",
+        "P_NEED_SWITCH_INFO": "11000100"
+    },
+    {
+        "P_CATEGORY_ID": "103",
+        "P_CATEGORY_NAME": "\u30ea\u30f3\u7b2c\u4e00\u7ae0\u3000\u4ec4\u6697\u3044\u5730\u306e\u5e95\u3067",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "3",
+        "P_EXT_IMG_PARAM": "\u9a0e\u58eb\u56e3\u9577\u306b\u3088\u308a\u9003\u3055\u308c\u305f\u30ea\u30f3\u3002\u305f\u3063\u305f\u4e00\u4eba\u3001\u98db\u3070\u3055\u308c\u305f\u7570\u754c\u306e\u5730\u3067\u3001\u305d\u306e\u8a18\u61b6\u3055\u3048\u3082\u5931\u3063\u3066\u3044\u305f\u2026",
+        "P_NEED_SWITCH_INFO": "11000021"
+    },
+    {
+        "P_CATEGORY_ID": "104",
+        "P_CATEGORY_NAME": "\u30ea\u30f3\u7b2c\u4e8c\u7ae0\u3000\u30a4\u30af\u30b9\u30bf\u30b9\u9632\u885b\u6226",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "5",
+        "P_EXT_IMG_PARAM": "\u30a4\u30af\u30b9\u30bf\u30b9\u306b\u4fb5\u653b\u3059\u308b\u30cd\u30b0\u30ec\u30b9\u3002\u305d\u306e\u65e7\u30a2\u30b8\u30c8\u3067\u6355\u3089\u308f\u308c\u306e\u8eab\u3068\u306a\u3063\u305f\u30ea\u30f3\u306e\u8eab\u306f\u679c\u305f\u3057\u3066\u2026",
+        "P_NEED_SWITCH_INFO": "11000150"
+    },
+    {
+        "P_CATEGORY_ID": "105",
+        "P_CATEGORY_NAME": "\u7b2c\u4e09\u7ae0\u3000\u30bb\u30eb\u30bf\u30d3\u30a2\u306e\u5730\u3078",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "6",
+        "P_EXT_IMG_PARAM": "\u3044\u304f\u3064\u304b\u306e\u6226\u3044\u3092\u7d4c\u3066\u3001\u30bb\u30eb\u30bf\u30d3\u30a2\u306e\u5730\u3078\u3068\u964d\u308a\u7acb\u3064\u82e5\u304d\u9a0e\u58eb\u3002\u6545\u90f7\u3092\u53d6\u308a\u623b\u3059\u6226\u3044\u304c\u4eca\u59cb\u307e\u308b\u3002",
+        "P_NEED_SWITCH_INFO": "11000200"
+    },
+    {
+        "P_CATEGORY_ID": "106",
+        "P_CATEGORY_NAME": "\u7b2c\u56db\u7ae0\u3000\u6c37\u89e3\u306e\u30d5\u30a3\u30eb\u30a2\u30fc\u30e0",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "7",
+        "P_EXT_IMG_PARAM": "\u3064\u3044\u306b\u6545\u90f7\u30d5\u30a3\u30eb\u30a2\u30fc\u30e0\u306e\u571f\u3092\u8e0f\u3080\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u3002\u304b\u306e\u5730\u3067\u5f85\u3061\u69cb\u3048\u3066\u3044\u305f\u306e\u306f\u3001\u30cd\u30b0\u30ec\u30b9\u4e03\u9b54\u5c06\u30d2\u30eb\u30c0\u3068\u30eb\u30cd\u3060\u3063\u305f\u3002",
+        "P_NEED_SWITCH_INFO": "11000279"
+    },
+    {
+        "P_CATEGORY_ID": "107",
+        "P_CATEGORY_NAME": "\u7b2c\u4e94\u7ae0\u3000\u7570\u5f62\u306e\u9b54\u57ce",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "8",
+        "P_EXT_IMG_PARAM": "\u6545\u90f7\u3067\u3042\u308b\u30d5\u30a3\u30eb\u30a2\u30fc\u30e0\u3092\u596a\u9084\u3057\u305f\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u3002\u3057\u304b\u3057\u3001\u30cd\u30b0\u30ec\u30b9\u306f\u5317\u65b9\u306b\u65b0\u305f\u306a\u308b\u672c\u62e0\u3092\u5efa\u9020\u3057\u3066\u3044\u305f\u3002",
+        "P_NEED_SWITCH_INFO": "11000308"
+    },
+    {
+        "P_CATEGORY_ID": "108",
+        "P_CATEGORY_NAME": "\u7b2c\u516d\u7ae0\u3000\u6b66\u306e\u53cc\u74a7",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "9",
+        "P_EXT_IMG_PARAM": "\u5947\u8853\u5e2b\u30e1\u30eb\u30d5\u30a7\u30eb\u3068\u306e\u6226\u3044\u3092\u7d4c\u3066\u3055\u3089\u306b\u6210\u9577\u3057\u305f\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u306f\u9b54\u57ce\u306e\u4e2d\u968e\u5c64\u3078\u3068\u9032\u3082\u3046\u3068\u3057\u3066\u3044\u305f\u3002\u305d\u3053\u306b\u51f6\u5831\u304c\u5c4a\u3051\u3089\u308c\u2026\u2026",
+        "P_NEED_SWITCH_INFO": "11000368"
+    },
+    {
+        "P_CATEGORY_ID": "109",
+        "P_CATEGORY_NAME": "\u7b2c\u4e03\u7ae0\u3000\u6b21\u5143\u3092\u8d85\u3048\u3066",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "10",
+        "P_EXT_IMG_PARAM": "\u5f37\u6575\u3092\u6483\u7834\u3057\u3001\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u306f\u4eba\u8cea\u6551\u51fa\u306e\u7cf8\u53e3\u3092\u63b4\u3093\u3060\u3002\u3057\u304b\u3057\u672a\u3060\u8b0e\u591a\u304d\u9b54\u57ce\u3067\u3001\u5f7c\u3089\u306f\u6b21\u5143\u306e\u72ed\u9593\u306b\u8ff7\u3044\u8fbc\u3093\u3067\u3057\u307e\u3046\u3002",
+        "P_NEED_SWITCH_INFO": "11000391"
+    },
+    {
+        "P_CATEGORY_ID": "110",
+        "P_CATEGORY_NAME": "\u7b2c\u516b\u7ae0\u3000\u9b54\u795e",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "11",
+        "P_EXT_IMG_PARAM": "\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a2\u306e\u5e7b\u8853\u3092\u6253\u3061\u7834\u308a\u3001\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u306f\u3068\u3046\u3068\u3046\u6700\u4e0a\u5c64\u3078\u3068\u5230\u9054\u3059\u308b\u3002\u3057\u304b\u3057\u90aa\u60aa\u306a\u5f71\u306f\u7740\u3005\u3068\u305d\u306e\u529b\u3092\u5897\u3057\u3066\u3044\u305f\u2026",
+        "P_NEED_SWITCH_INFO": "11000412"
+    },
+    {
+        "P_CATEGORY_ID": "111",
+        "P_CATEGORY_NAME": "\u7b2c\u4e5d\u7ae0\u3000\u7d46\u306e\u884c\u65b9",
+        "P_UPPER_CATEGORY_ID": "1",
+        "P_DISPORDER": "12",
+        "P_EXT_IMG_PARAM": "\u884c\u65b9\u4e0d\u660e\u8005\u306e\u635c\u7d22\u3092\u7d9a\u3051\u308b\u82e5\u304d\u9a0e\u58eb\u305f\u3061\u306f\u3001\u6575\u304c\u6b8b\u3057\u305f\u8b0e\u306e\u75d5\u8de1\u3092\u767a\u898b\u3059\u308b\u3002\u30bb\u30eb\u30bf\u30d3\u30a2\u306e\u5730\u4e0b\u306b\u96a0\u3055\u308c\u305f\u771f\u5b9f\u3068\u306f\u2015\u2015",
+        "P_NEED_SWITCH_INFO": "11000440"
+    },
+    {
+        "P_CATEGORY_ID": "300",
+        "P_CATEGORY_NAME": "\u65c5\u884c\u8a18\u306e\u65ad\u7247",
+        "P_UPPER_CATEGORY_ID": "3",
+        "P_DISPORDER": "1",
+        "P_EXT_IMG_PARAM": "\u30db\u30eb\u30d8\u30fb\u30d1\u30fc\u30de\u30b7\u30fc\u306e\u65c5\u884c\u306e\u8a18\u9332",
+        "P_NEED_SWITCH_INFO": "120200001|120200002|120200003|120200004|120200005|120200006|120200007|120200008|120200009|120200010"
+    },
+    {
+        "P_CATEGORY_ID": "301",
+        "P_CATEGORY_NAME": "\u535a\u58eb\u306e\u624b\u8a18",
+        "P_UPPER_CATEGORY_ID": "3",
+        "P_DISPORDER": "2",
+        "P_EXT_IMG_PARAM": "\u30b0\u30b9\u30bf\u30d5\uff1d\u30d5\u30a1\u30d6\u30e9\u30b9\u30ab\u535a\u58eb\u306e\u6b8b\u3057\u305f\u624b\u8a18",
+        "P_NEED_SWITCH_INFO": "120200011|120200012|120200013|120200014|120200015|120200016|120200017|120200018|120200019|120200020"
+    },
+    {
+        "P_CATEGORY_ID": "302",
+        "P_CATEGORY_NAME": "\u9a0e\u58eb\u56e3\u8208\u4ea1\u53f2",
+        "P_UPPER_CATEGORY_ID": "3",
+        "P_DISPORDER": "3",
+        "P_EXT_IMG_PARAM": "\u30e2\u30eb\u30c7\u30f3\u30ab\u30f3\u30d7\u9a0e\u58eb\u56e3\u8208\u4ea1\u53f2",
+        "P_NEED_SWITCH_INFO": "120200021|120200022|120200023|120200024|120200025|120200026|120200027|120200028|120200029|120200030|120200031"
+    },
+    {
+        "P_CATEGORY_ID": "303",
+        "P_CATEGORY_NAME": "\u30ab\u30a8\u30eb\u306e\u7269\u8a9e",
+        "P_UPPER_CATEGORY_ID": "3",
+        "P_DISPORDER": "4",
+        "P_EXT_IMG_PARAM": "\u30a8\u30eb\u30ac\u30a4\u30a2\u3067\u89aa\u3057\u307e\u308c\u3066\u3044\u308b\u30ab\u30a8\u30eb\u306e\u7269\u8a9e",
+        "P_NEED_SWITCH_INFO": "120200032|120200033|120200034|120200035|120200036|120200037"
+    },
+    {
+        "P_CATEGORY_ID": "304",
+        "P_CATEGORY_NAME": "\u6f06\u9ed2\u306e\u9b54\u7363 \u30e9\u30fc\u30c1\u30a7\u30b9",
+        "P_UPPER_CATEGORY_ID": "3",
+        "P_DISPORDER": "5",
+        "P_EXT_IMG_PARAM": "\u30bb\u30eb\u30bf\u30d3\u30a2\u3067\u7d21\u304c\u308c\u305f\u9b54\u7363\u3068\u5c11\u5973\u306e\u7269\u8a9e",
+        "P_NEED_SWITCH_INFO": "120200039|120200040|120200041|120200042|120200043|120200044|120200045|120200046|120200047|120200048"
+    },
+    {
+        "P_CATEGORY_ID": "2000",
+        "P_CATEGORY_NAME": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30af\u30a8\u30b9\u30c8\u306e\u8a18\u61b6",
+        "P_UPPER_CATEGORY_ID": "0",
+        "P_DISPORDER": "2",
+        "P_EXT_IMG_PARAM": "\u6570\u591a\u306e\u82f1\u96c4\u305f\u3061\u304c\u5f69\u308b\u6642\u7a7a\u3092\u8d85\u3048\u305f\u7269\u8a9e\u306e\u8a18\u61b6\u3002",
+        "P_NEED_SWITCH_INFO": "13000001|13000050|13000100|13000150|13000200|13000350|13000400|13000450|13000500|13000550|13000650|13000700|13000750|13000800|13000850|13000900|13000950"
+    },
+    {
+        "P_CATEGORY_ID": "20000",
+        "P_CATEGORY_NAME": "\u56db\u8056\u3068\u5149\u95c7\u306e\u738b",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "1",
+        "P_EXT_IMG_PARAM": "\u30bb\u30eb\u30bf\u30d3\u30a2\u306b\u8a9e\u308a\u7d99\u304c\u308c\u308b\u5149\u738b\u3068\u56db\u8056\u306e\u4f1d\u8aac\u2015\u2015<br>\u4eca\u3053\u305d\u8a9e\u308d\u3046\u3002\u5168\u3066\u3092\u7e4b\u3050\u7d46\u306e\u7269\u8a9e\u3092\u3002",
+        "P_NEED_SWITCH_INFO": "13000001"
+    },
+    {
+        "P_CATEGORY_ID": "20010",
+        "P_CATEGORY_NAME": "\u5fcd\u3073\u5bc4\u308b\u60aa\u610f",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "2",
+        "P_EXT_IMG_PARAM": "\u9065\u304b\u6614\u3001\u8ff7\u3044\u306e\u68ee\u306b\u68f2\u3093\u3067\u3044\u305f\u30a8\u30eb\u30d5\u65cf\u3068\u7363\u4eba\u65cf\u3002<br>\uff12\u3064\u306e\u7a2e\u65cf\u306b\u8d77\u304d\u305f\u60b2\u5287\u306e\u771f\u76f8\u3068\u306f\u2026",
+        "P_NEED_SWITCH_INFO": "13000050"
+    },
+    {
+        "P_CATEGORY_ID": "20020",
+        "P_CATEGORY_NAME": "\u546a\u308f\u308c\u3057\u708e\u93a7\u301c\u30ea\u30ea\u30b9\u5916\u4f1d",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "3",
+        "P_EXT_IMG_PARAM": "\u6a5f\u68b0\u306f\u81ea\u3089\u3092\u8a9e\u3089\u306a\u3044\u3002\u5f7c\u3089\u3092\u7406\u89e3\u3059\u308b\u305f\u3081\u306b\u306f\u3001<br>\u5f7c\u3089\u306e\u7d4c\u9a13\u3092\u8ffd\u4f53\u9a13\u3059\u308b\u3088\u308a\u4ed6\u306a\u3044\u306e\u3060\u308d\u3046\u3002",
+        "P_NEED_SWITCH_INFO": "13000100"
+    },
+    {
+        "P_CATEGORY_ID": "20030",
+        "P_CATEGORY_NAME": "\u5341\u7ffc\u306e\u7834\u58ca\u8005",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "4",
+        "P_EXT_IMG_PARAM": "\u5341\u679a\u306e\u7ffc\u3092\u6301\u3064\u7834\u58ca\u8005\u30fb\u30e1\u30eb\u30ad\u30aa\u306b\u7acb\u3061\u5411\u304b\u3063\u305f<br>\u30df\u30bb\u30eb\u3068\u4ef2\u9593\u305f\u3061\u306e\u6fc0\u95d8\u3001\u305d\u3057\u3066\u3001\u7d46\u3068\u53cb\u60c5\u306e\u7269\u8a9e\u3002",
+        "P_NEED_SWITCH_INFO": "13000150"
+    },
+    {
+        "P_CATEGORY_ID": "20040",
+        "P_CATEGORY_NAME": "\u30df\u30d5\u30cd\u306e\u4f8d\u9053",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "5",
+        "P_EXT_IMG_PARAM": "\u4eba\u751f\u306f\u4e00\u671f\u4e00\u4f1a\u3002\u30b0\u30e9\u30f3\u30ac\u30a4\u30a2\u3068\u3044\u3046\u7570\u754c\u306e\u5730\u3067\u3001<br>\u30df\u30d5\u30cd\u304c\u51fa\u4f1a\u3063\u305f\u8005\u305f\u3061\u3068\u306f\u2026\u2026",
+        "P_NEED_SWITCH_INFO": "13000200"
+    },
+    {
+        "P_CATEGORY_ID": "20050",
+        "P_CATEGORY_NAME": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u301c\u30a2\u30ea\u30b5\u7de8",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "8",
+        "P_EXT_IMG_PARAM": "\u60c5\u5831\u5c4b\u30a2\u30ea\u30b5\u306f\u3001\u30b7\u30b0\u30b5\u30fc\u30eb\u907a\u8de1\u3067\u306e\u4e8b\u4ef6\u306e\u5f8c\u3001<br>\u884c\u65b9\u3092\u304f\u3089\u307e\u3057\u305f\u3002\u305d\u306e\u4e8b\u4ef6\u306e\u771f\u76f8\u304c\u660e\u3089\u304b\u3068\u306a\u308b\u3002",
+        "P_NEED_SWITCH_INFO": "13000350"
+    },
+    {
+        "P_CATEGORY_ID": "20060",
+        "P_CATEGORY_NAME": "\u9b54\u88c5\u5175\u5668\u30a2\u30d9\u30eb\u30ac\u30eb\u30b9",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "6",
+        "P_EXT_IMG_PARAM": "\u4e16\u754c\u5404\u5730\u306b\u6563\u3089\u3070\u308b\u3001\u69d8\u3005\u306a\u7570\u754c\u306e\u7269\u8a9e\u3002<br>\u305d\u306e\u3072\u3068\u3064\u3001\u7570\u754c\u3068\u9b54\u88c5\u5668\u306e\u4f1d\u8aac\u3092\u4eca\u3053\u305d\u7d10\u89e3\u3053\u3046\u3002",
+        "P_NEED_SWITCH_INFO": "13000400"
+    },
+    {
+        "P_CATEGORY_ID": "20070",
+        "P_CATEGORY_NAME": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u301c\u30cb\u30fc\u30ca\u7de8",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "9",
+        "P_EXT_IMG_PARAM": "\u9023\u90a6\u306e\u7814\u7a76\u6a5f\u95a2\u306b\u6355\u3089\u3048\u3089\u308c\u3066\u3044\u305f\u30cb\u30fc\u30ca\u3002<br>\u5f7c\u5973\u306e\u5883\u9047\u306b\u540c\u60c5\u3059\u308b\u82e5\u304d\u7814\u7a76\u8005\u304c\u3044\u305f\u3002",
+        "P_NEED_SWITCH_INFO": "13000450"
+    },
+    {
+        "P_CATEGORY_ID": "20080",
+        "P_CATEGORY_NAME": "\u30d5\u30a7\u30d6\u30e9\u30fc\u5144\u5f1f\u3068\u7cbe\u970a\u306e\u672c",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "7",
+        "P_EXT_IMG_PARAM": "\u30bb\u30eb\u30bf\u30d3\u30a2\u306e\u4eba\u6c17\u7d75\u672c\u4f5c\u5bb6\u30fb\u30d5\u30a7\u30d6\u30e9\u30fc\u5144\u5f1f\u3068<br>\u7d75\u672c\u304b\u3089\u751f\u307e\u308c\u305f\u7cbe\u970a\u305f\u3061\u304c\u7e54\u308a\u6210\u3059\u7269\u8a9e\u3002",
+        "P_NEED_SWITCH_INFO": "13000500"
+    },
+    {
+        "P_CATEGORY_ID": "20090",
+        "P_CATEGORY_NAME": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u301c\u30cd\u30fb\u30ab\u30a6\u7de8",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "10",
+        "P_EXT_IMG_PARAM": "\u5927\u9678\u3092\u5de1\u308b\u653e\u6d6a\u306e\u9b54\u5c0e\u5e2b\u30cd\u30fb\u30ab\u30a6\u3002<br>\u6226\u5834\u306e\u305f\u3060\u4e2d\u306b\u59ff\u3092\u73fe\u3057\u305f\u5f7c\u306e\u95d8\u4e89\u306e\u679c\u3066\u306b\u898b\u3048\u308b\u3082\u306e\u306f\u3002",
+        "P_NEED_SWITCH_INFO": "13000550"
+    },
+    {
+        "P_CATEGORY_ID": "20100",
+        "P_CATEGORY_NAME": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u301c\u30a4\u30f2\u30ea\u7de8",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "11",
+        "P_EXT_IMG_PARAM": "\u83ef\u3084\u304b\u306a\u6226\u3002\u3081\u304f\u308b\u3081\u304f\u9670\u8b00\u3002<br>\u50ad\u5175\u3068\u3057\u3066\u6226\u3046\u30a4\u30f2\u30ea\u306e\u3001\u4eee\u9762\u306e\u5965\u306b\u96a0\u3055\u308c\u3057\u5fc3\u3068\u306f\u2015\u2015\u3002",
+        "P_NEED_SWITCH_INFO": "13000650"
+    },
+    {
+        "P_CATEGORY_ID": "20110",
+        "P_CATEGORY_NAME": "\u52c7\u8005\u306e\u8840\u7d71",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "12",
+        "P_EXT_IMG_PARAM": "\u30b0\u30e9\u30f3\u30ac\u30a4\u30a2\u5927\u9678\u3067\u305d\u306e\u540d\u3092\u77e5\u3089\u308c\u305f\u52c7\u8005\u4e00\u5bb6\u306e\u8a18\u9332\u3002<br>\u52c7\u8005\u9054\u306f\u3001\u3068\u3042\u308b\u9b54\u795e\u3092\u8a0e\u3064\u305f\u3081\u30bc\u30eb\u30e1\u30ad\u30a2\u8ff7\u5bae\u3078\u3068\u65c5\u7acb\u3064\u3002",
+        "P_NEED_SWITCH_INFO": "13000700"
+    },
+    {
+        "P_CATEGORY_ID": "20120",
+        "P_CATEGORY_NAME": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u301c\u30e6\u30fc\u30cb\u30a3\uff06\u30ec\u30ea\u30c3\u30af\u7de8",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "13",
+        "P_EXT_IMG_PARAM": "\u30b7\u30b0\u30b5\u30fc\u30eb\u907a\u8de1\u306b\u96c6\u3063\u305f\u5947\u7e01\u306e\u516d\u9b54\u5c0e\u3002\u907a\u8de1\u3067\u8d77\u304d\u305f\u4e00\u9023\u306e\u51fa\u6765\u4e8b\u304c\u4e00\u4f53\u4f55\u3067\u3042\u3063\u305f\u306e\u304b\u3001\u305d\u306e\u8b0e\u306b\u8feb\u308b\u3002",
+        "P_NEED_SWITCH_INFO": "13000750"
+    },
+    {
+        "P_CATEGORY_ID": "20130",
+        "P_CATEGORY_NAME": "\u5341\u5fcc\u30c7\u30a3\u30b9\u30ce\u30df\u30a2\u301c\u707d\u5384\u3092\u8d8a\u3048\u3066\u301c",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "14",
+        "P_EXT_IMG_PARAM": "\u30a8\u30eb\u30ac\u30a4\u30a2\u306e\u60aa\u540d\u9ad8\u304d\u7121\u6cd5\u8005\u96c6\u56e3\u300e\u5341\u5fcc\u30c7\u30a3\u30b9\u30ce\u30df\u30a2\u300f\u2015\u2015<br>\u7687\u5e1d\u6bba\u3057\u3092\u4ef2\u9593\u306b\u52a0\u3048\u305f\u5f7c\u3089\u304c\u9078\u3076\u5148\u306f\u3001\u60aa\u304b\u3001\u305d\u308c\u3068\u3082\u2026\u2026",
+        "P_NEED_SWITCH_INFO": "13000800"
+    },
+    {
+        "P_CATEGORY_ID": "20140",
+        "P_CATEGORY_NAME": "\u7a62\u308c\u3057\u4e94\u5fcd",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "15",
+        "P_EXT_IMG_PARAM": "\u5bfe\u6c7a\u3001\u6fc0\u95d8\u3001\u6b7b\u95d8\u3001\u82e6\u6226\u3001\u6c7a\u6226\u2026\u2026<br>\u4e94\u7a62\u5fcd\u306e\u9b42\u3092\u5c01\u5370\u3059\u308b\u307e\u3067\u306e\u5b64\u72ec\u306a\u6226\u3044\u306e\u8a18\u9332\u3002",
+        "P_NEED_SWITCH_INFO": "13000850"
+    },
+    {
+        "P_CATEGORY_ID": "20150",
+        "P_CATEGORY_NAME": "\u8352\u5883\u306b\u97ff\u304f\u6b63\u7fa9",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "16",
+        "P_EXT_IMG_PARAM": "\u907a\u7269\u306e\u9283\u3092\u6c42\u3081\u3066\u8352\u91ce\u3092\u3055\u3059\u3089\u3046\u5c11\u5973\u306e<br>\u51fa\u4f1a\u3044\u3068\u6c7a\u95d8\u306e\u5192\u967a\u6d3b\u5287\u304c\u3001\u4eca\u3001\u59cb\u307e\u308b\uff01",
+        "P_NEED_SWITCH_INFO": "13000900"
+    },
+    {
+        "P_CATEGORY_ID": "20160",
+        "P_CATEGORY_NAME": "\u659c\u967d\u306e\u30eb\u30fc\u30e1\u30e9\u30af\u30b9",
+        "P_UPPER_CATEGORY_ID": "2000",
+        "P_DISPORDER": "17",
+        "P_EXT_IMG_PARAM": "\u30eb\u30fc\u30e1\u30e9\u30af\u30b9\u53f2\u3092\u52d5\u304b\u3057\u305f\u9769\u547d\u306e\u771f\u5b9f\u3002<br>\u305d\u3053\u306b\u306f\u56fd\u3092\u611b\u3059\u308b\u8005\u305f\u3061\u306e\u71b1\u304d\u60f3\u3044\u304c\u3042\u3063\u305f\u3002",
+        "P_NEED_SWITCH_INFO": "13000950"
+    }
+]

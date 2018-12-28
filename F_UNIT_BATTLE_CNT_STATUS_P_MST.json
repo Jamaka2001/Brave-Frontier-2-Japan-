@@ -1,0 +1,92 @@
+[
+    {
+        "P_PATTERN_ID": "10",
+        "P_BATTLE_CNT": "100",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_BATTLE_CNT": "200",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_BATTLE_CNT": "300",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_BATTLE_CNT": "400",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "10",
+        "P_BATTLE_CNT": "500",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "100",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "200",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "300",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "400",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "500",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "600",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "700",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "800",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "900",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    },
+    {
+        "P_PATTERN_ID": "20",
+        "P_BATTLE_CNT": "1000",
+        "P_RATE": "10",
+        "P_STATUS_P": "1"
+    }
+]

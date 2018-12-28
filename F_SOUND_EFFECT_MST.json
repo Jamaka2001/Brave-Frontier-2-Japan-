@@ -1,0 +1,1562 @@
+[
+    {
+        "P_SOUND_EFFECT_ID": "7",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_007_HOM_REEL          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "8",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_008_QST_WARP          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "9",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_009_MAP_NEWDUNGEON    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "10",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_010_RDL_REINFORCE_ST  ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "11",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_011_RDL_REINFORCE_FX  ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "12",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_012_RDL_EVOLUTION_FX  ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "13",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_013_RDL_UNITLEVELUP   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "14",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_014_RDL_SKILLGET      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "15",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_015_RDL_SKILLGET      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "16",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_016_RDL_MAKE_ARMS     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "17",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_017_RDL_MAKE_SPHERE   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "18",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_018_RDL_MAKE_ITEM     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "19",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_019_RDL_SCROLL        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "20",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_020_BOK_OPEN          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "21",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_021_BOK_REWARD        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "22",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_022_BOK_COMP          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "23",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_023_BOK_NEWBOOK       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "24",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_024_PTN_FEED          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "25",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_025_SMN_DECISION      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "26",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_026_SMN_GATE_APPEAR   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "27",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_027_SMN_GATE_OPEN     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "28",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_028_SMN_GATE_UPGRADE  ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "29",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_029_SMN_MAGIC3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "30",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_030_SMN_MAGIC4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "31",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_031_SMN_MAGIC5        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "32",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_032_SHP_DIA           ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "33",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_033_RST_USERRANKUP    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "34",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_034_RST_BONUS         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "35",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_035_RST_DROP          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "36",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_036_RST_REWARD        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "37",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_037_RST_COMP          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "38",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_038_PSW_TAP           ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "39",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_039_PSW_MISS          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "40",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_040_PSW_OK            ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "41",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_041_PSL_SLIDE         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "42",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_042_PSL_OK            ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "43",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_043_PSL_MISS          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "101",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_101_BTL_FORWARD       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "102",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_102_BTL_DIE           ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "103",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_103_BTL_WIPEOUT       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "104",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_104_BTL_TREASURE      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "105",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_105_BTL_BC_GET        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "106",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_106_BTL_HC_GET        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "107",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_107_BTL_ZEL_GET       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "108",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_108_BTL_ITEM_GET      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "109",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_109_BTL_UNIT_GET1_3   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "110",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_110_BTL_UNIT_GET4     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "111",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_111_BTL_UNIT_GET5     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "112",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_112_BTL_BB_MAX        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "113",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_113_BTL_BB_CUTIN      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "114",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_114_BTL_ALT           ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "115",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_115_BTL_XBB_MAX       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "116",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_116_BTL_XBB_FIX       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "117",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_117_BTL_XBB_BURST     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "118",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_118_BTL_XBB_A1        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "119",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_119_BTL_XBB_A2        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "120",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_120_BTL_XBB_A3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "121",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_121_BTL_XBB_A4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "122",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_122_BTL_XBB_A5        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "123",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_123_BTL_XBB_B1        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "124",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_124_BTL_XBB_B2        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "125",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_125_BTL_XBB_B3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "126",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_126_BTL_XBB_B4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "127",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_127_BTL_XBB_B5        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "128",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_128_BTL_XBB_B6        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "129",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_129_BTL_XBB_C1        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "130",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_130_BTL_XBB_C2        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "131",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_131_BTL_XBB_C3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "132",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_132_BTL_XBB_C4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "133",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_133_BTL_XBB_C5        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "134",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_134_BTL_XBB_C6        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "135",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_135_BTL_XBB_C7        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "136",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_136_BTL_XBB_C8        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "137",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_137_BTL_XBB_BEST      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "138",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_138_BTL_XBB_BETTER    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "139",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_139_BTL_XBB_WORSE     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "140",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_140_BTL_XBB_WORST     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "201",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_201_BFX_BUFF          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "202",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_202_BFX_DEBUFF        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "203",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_203_BFX_CURE          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "204",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_204_BFX_PROTECT       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "205",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_205_BFX_PARRY         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "206",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_206_BFX_BREAK         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "207",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_207_BFX_SHIELD_ACT    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "208",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_208_BFX_SHIELD_REV    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "209",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_209_BFX_SHIELD_ERACE  ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "210",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_210_BFX_REVIVE        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "211",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_211_BFX_POISON        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "212",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_212_BFX_INJURY        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "213",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_213_BFX_WEAKNESS      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "214",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_214_BFX_INFECTION     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "215",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_215_BFX_PARALYSIS     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "216",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_216_BFX_SICKNESS      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "217",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_217_BFX_HALLUCINATION ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "218",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_218_BFX_CONFUSION     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "219",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_219_BFX_CURSE         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "220",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_220_BFX_SEAL          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "221",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_221_BFX_TERROR        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "222",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_222_BFX_DESPAIR       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "223",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_223_BFX_TEMPTATION    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "224",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_224_BFX_BIND          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "225",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_225_BFX_OBLIVION      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "226",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_226_BFX_SLIPFIRE      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "227",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_227_BFX_SLIPWATER     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "228",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_228_BFX_SLIPTREE      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "229",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_229_BFX_SLIPTHUNDER   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "300",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_300_BFX_SLASH         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "301",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_301_BFX_SHOT          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "302",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_302_BFX_GUNSHOT       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "303",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_303_BFX_STRIKE        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "304",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_304_BFX_FLAP          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "305",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_305_BFX_FANG          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "306",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_306_BFX_SCALE         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "307",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_307_BFX_MAGIC         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "308",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_308_BFX_WINDNOISE     ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "309",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_309_BFX_METAL         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "310",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_310_BFX_SOLID         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "311",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_311_BFX_SWING         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "312",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_312_BFX_LANDING       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "313",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_313_BFX_FLUTTER       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "314",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_314_BFX_SLAM          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "315",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_315_BFX_ENERGY        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "316",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_316_BFX_ROAR          ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "317",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_317_BFX_FIRE1         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "318",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_318_BFX_FIRE2         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "319",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_319_BFX_FIRE3         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "320",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_320_BFX_FIRE4         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "321",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_321_BFX_WATER1        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "322",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_322_BFX_WATER2        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "323",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_323_BFX_WATER3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "324",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_324_BFX_WATER4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "325",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_325_BFX_TREE1         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "326",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_326_BFX_TREE2         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "327",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_327_BFX_TREE3         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "328",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_328_BFX_TREE4         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "329",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_329_BFX_THUNDER1      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "330",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_330_BFX_THUNDER2      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "331",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_331_BFX_THUNDER3      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "332",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_332_BFX_THUNDER4      ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "333",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_333_BFX_LIGHT1        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "334",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_334_BFX_LIGHT2        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "335",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_335_BFX_LIGHT3        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "336",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_336_BFX_LIGHT4        ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "337",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_337_BFX_DARK1         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "338",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_338_BFX_DARK2         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "339",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_339_BFX_DARK3         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "340",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_340_BFX_DARK4         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "341",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_341_BFX_MISSILE_HATCH ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "342",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_342_BFX_MISSILE_LAUNCH",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "343",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_343_SCR_PENETRATION   ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "344",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_344_SCR_STEP1         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "345",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_345_SCR_STEP2         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "346",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_346_SCR_WAR           ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "347",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_347_SCR_QUAKE         ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "349",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_349_SCR_GEMSTONE_LIGHT",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "350",
+        "P_SOUND_EFFECT_NAME": "BF2_SE_350_SCR_GEMSTONE_BREAK",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "351",
+        "P_SOUND_EFFECT_NAME": "BF2_se_351_scr_buzz",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "352",
+        "P_SOUND_EFFECT_NAME": "BF2_se_352_scr_jubilation",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "353",
+        "P_SOUND_EFFECT_NAME": "BF2_se_353_btl_alt_partner",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "354",
+        "P_SOUND_EFFECT_NAME": "BF2_se_354_btl_alt_enhance",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "355",
+        "P_SOUND_EFFECT_NAME": "BF2_se_355_btl_xbb_cutin",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "356",
+        "P_SOUND_EFFECT_NAME": "BF2_se_356_rdl_reinforce_success1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "357",
+        "P_SOUND_EFFECT_NAME": "BF2_se_357_rdl_reinforce_success2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "358",
+        "P_SOUND_EFFECT_NAME": "BF2_se_358_rdl_reinforce_success3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "359",
+        "P_SOUND_EFFECT_NAME": "BF2_se_359_rdl_evolution_success",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "360",
+        "P_SOUND_EFFECT_NAME": "BF2_se_360_btl_boss_act_start",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "361",
+        "P_SOUND_EFFECT_NAME": "BF2_se_361_btl_boss_act_finish",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "362",
+        "P_SOUND_EFFECT_NAME": "BF2_se_362_btl_boss_act_perfect",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "363",
+        "P_SOUND_EFFECT_NAME": "BF2_se_363_btl_melfel_skill1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "364",
+        "P_SOUND_EFFECT_NAME": "BF2_se_364_btl_melfel_skill2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "365",
+        "P_SOUND_EFFECT_NAME": "BF2_se_365_btl_xbb_cutin_s1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "366",
+        "P_SOUND_EFFECT_NAME": "BF2_se_366_scr_noise",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "367",
+        "P_SOUND_EFFECT_NAME": "BF2_se_367_scr_switch1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "368",
+        "P_SOUND_EFFECT_NAME": "BF2_se_368_scr_switch2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "369",
+        "P_SOUND_EFFECT_NAME": "BF2_se_369_scr_metal2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "370",
+        "P_SOUND_EFFECT_NAME": "BF2_se_370_scr_catch",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "371",
+        "P_SOUND_EFFECT_NAME": "BF2_se_371_scr_alert",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "372",
+        "P_SOUND_EFFECT_NAME": "BF2_se_372_scr_elevator",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "373",
+        "P_SOUND_EFFECT_NAME": "BF2_se_373_scr_dooropen",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "374",
+        "P_SOUND_EFFECT_NAME": "BF2_se_374_scr_keyitem",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "375",
+        "P_SOUND_EFFECT_NAME": "BF2_se_375_scr_ringtone",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "376",
+        "P_SOUND_EFFECT_NAME": "BF2_se_376_scr_win_open",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "377",
+        "P_SOUND_EFFECT_NAME": "BF2_se_377_scr_win_close",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "378",
+        "P_SOUND_EFFECT_NAME": "BF2_se_378_btl_xbb_cutin_s2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "379",
+        "P_SOUND_EFFECT_NAME": "BF2_se_379_scr_logosword",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "380",
+        "P_SOUND_EFFECT_NAME": "BF2_se_380_scr_WAR2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "381",
+        "P_SOUND_EFFECT_NAME": "BF2_se_381_scr_QUAKE2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "382",
+        "P_SOUND_EFFECT_NAME": "BF2_se_382_scr_buzz2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "383",
+        "P_SOUND_EFFECT_NAME": "BF2_se_383_scr_jubilation2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "384",
+        "P_SOUND_EFFECT_NAME": "BF2_se_384_scr_calculate",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "385",
+        "P_SOUND_EFFECT_NAME": "BF2_se_385_scr_hyoshigi",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "386",
+        "P_SOUND_EFFECT_NAME": "BF2_se_386_scr_sworddraw",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "387",
+        "P_SOUND_EFFECT_NAME": "BF2_se_387_btl_sanba",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "388",
+        "P_SOUND_EFFECT_NAME": "BF2_se_388_bfx_rokujuden01",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "389",
+        "P_SOUND_EFFECT_NAME": "BF2_se_389_bfx_rokujuden02",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "390",
+        "P_SOUND_EFFECT_NAME": "BF2_se_390_bfx_rokujuden03",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "391",
+        "P_SOUND_EFFECT_NAME": "BF2_se_391_bfx_rokujuden04",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "392",
+        "P_SOUND_EFFECT_NAME": "BF2_se_392_bfx_rokujuden05",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "393",
+        "P_SOUND_EFFECT_NAME": "BF2_se_393_bfx_rokujuden06",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "394",
+        "P_SOUND_EFFECT_NAME": "BF2_se_394_bfx_rokujuden07",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "395",
+        "P_SOUND_EFFECT_NAME": "BF2_se_395_bfx_rokujuden08",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "396",
+        "P_SOUND_EFFECT_NAME": "BF2_se_396_bfx_rokujuden09",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "397",
+        "P_SOUND_EFFECT_NAME": "BF2_se_397_bfx_rokujuden10",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "398",
+        "P_SOUND_EFFECT_NAME": "BF2_se_398_bfx_rokujuden11",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "399",
+        "P_SOUND_EFFECT_NAME": "BF2_se_399_bfx_rokujuden12",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "400",
+        "P_SOUND_EFFECT_NAME": "BF2_se_400_bfx_rokujuden13",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "401",
+        "P_SOUND_EFFECT_NAME": "BF2_se_401_bfx_rokujuden14",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "402",
+        "P_SOUND_EFFECT_NAME": "BF2_se_402_bfx_rokujuden15",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "403",
+        "P_SOUND_EFFECT_NAME": "BF2_se_403_bfx_rokujuden16",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "404",
+        "P_SOUND_EFFECT_NAME": "BF2_se_404_bfx_rokujuden17",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "405",
+        "P_SOUND_EFFECT_NAME": "BF2_se_405_bfx_raiden01",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "406",
+        "P_SOUND_EFFECT_NAME": "BF2_se_406_bfx_raiden02",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "407",
+        "P_SOUND_EFFECT_NAME": "BF2_se_407_bfx_raiden03",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "408",
+        "P_SOUND_EFFECT_NAME": "BF2_se_408_bfx_raiden04",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "409",
+        "P_SOUND_EFFECT_NAME": "BF2_se_409_bfx_raiden05",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "410",
+        "P_SOUND_EFFECT_NAME": "BF2_se_410_bfx_raiden06",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "411",
+        "P_SOUND_EFFECT_NAME": "BF2_se_411_bfx_raiden07",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "412",
+        "P_SOUND_EFFECT_NAME": "BF2_se_412_bfx_raiden08",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "413",
+        "P_SOUND_EFFECT_NAME": "BF2_se_413_bfx_raiden09",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "414",
+        "P_SOUND_EFFECT_NAME": "BF2_se_414_bfx_yorokobi01",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "415",
+        "P_SOUND_EFFECT_NAME": "BF2_se_415_bfx_yorokobi02",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "416",
+        "P_SOUND_EFFECT_NAME": "BF2_se_416_bfx_yorokobi03",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "417",
+        "P_SOUND_EFFECT_NAME": "BF2_se_417_bfx_yorokobi04",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "418",
+        "P_SOUND_EFFECT_NAME": "BF2_se_418_bfx_raiden10",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "419",
+        "P_SOUND_EFFECT_NAME": "BF2_se_419_bfx_light2short       ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "420",
+        "P_SOUND_EFFECT_NAME": "BF2_se_420_bfx_light3short    ",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "421",
+        "P_SOUND_EFFECT_NAME": "BF2_se_421_scr_heavydooropen",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "422",
+        "P_SOUND_EFFECT_NAME": "BF2_se_422_scr_heavydoorclose",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "423",
+        "P_SOUND_EFFECT_NAME": "BF2_se_423_scr_actcall",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "424",
+        "P_SOUND_EFFECT_NAME": "BF2_se_424_scr_spotlight",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "425",
+        "P_SOUND_EFFECT_NAME": "BF2_se_424_scr_laughtrack",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "426",
+        "P_SOUND_EFFECT_NAME": "BF2_se_426_scr_falldown",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "427",
+        "P_SOUND_EFFECT_NAME": "BF2_se_427_scr_thermae",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "428",
+        "P_SOUND_EFFECT_NAME": "BF2_se_428_scr_wooddooropen",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "429",
+        "P_SOUND_EFFECT_NAME": "BF2_se_429_scr_wooddoorclose",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "430",
+        "P_SOUND_EFFECT_NAME": "BF2_se_430_scr_drainage",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "431",
+        "P_SOUND_EFFECT_NAME": "BF2_se_431_btl_mimic_enc",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "432",
+        "P_SOUND_EFFECT_NAME": "BF2_se_432_exg_criticalhit",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "433",
+        "P_SOUND_EFFECT_NAME": "BF2_se_433_exg_draw",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "434",
+        "P_SOUND_EFFECT_NAME": "BF2_se_434_exg_carddeal",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "435",
+        "P_SOUND_EFFECT_NAME": "BF2_se_435_scr_falldown2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "436",
+        "P_SOUND_EFFECT_NAME": "BF2_se_436_scr_mfslot1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "437",
+        "P_SOUND_EFFECT_NAME": "BF2_se_437_scr_mfslot2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "438",
+        "P_SOUND_EFFECT_NAME": "BF2_se_438_scr_mfslot3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "439",
+        "P_SOUND_EFFECT_NAME": "BF2_se_439_btl_ranfordact",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "440",
+        "P_SOUND_EFFECT_NAME": "BF2_se_440_exg_comment",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "441",
+        "P_SOUND_EFFECT_NAME": "BF2_se_441_btl_lshit1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "442",
+        "P_SOUND_EFFECT_NAME": "BF2_se_442_btl_lshit2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "443",
+        "P_SOUND_EFFECT_NAME": "BF2_se_443_btl_lshit3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "444",
+        "P_SOUND_EFFECT_NAME": "BF2_se_444_btl_lshit4",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "445",
+        "P_SOUND_EFFECT_NAME": "BF2_se_445_btl_lshit5",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "446",
+        "P_SOUND_EFFECT_NAME": "BF2_se_446_btl_lshit6",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "447",
+        "P_SOUND_EFFECT_NAME": "BF2_se_447_btl_lshit7",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "448",
+        "P_SOUND_EFFECT_NAME": "BF2_se_448_btl_lshit8",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "449",
+        "P_SOUND_EFFECT_NAME": "BF2_se_449_btl_lshit9",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "450",
+        "P_SOUND_EFFECT_NAME": "BF2_se_450_btl_lshit10",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "451",
+        "P_SOUND_EFFECT_NAME": "BF2_se_451_btl_lshit11",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "452",
+        "P_SOUND_EFFECT_NAME": "BF2_se_452_btl_lshit12",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "453",
+        "P_SOUND_EFFECT_NAME": "BF2_se_453_btl_bshot1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "454",
+        "P_SOUND_EFFECT_NAME": "BF2_se_454_btl_bshot2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "455",
+        "P_SOUND_EFFECT_NAME": "BF2_se_455_btl_bshot3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "456",
+        "P_SOUND_EFFECT_NAME": "BF2_se_456_btl_bshot4",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "457",
+        "P_SOUND_EFFECT_NAME": "BF2_se_457_btl_bshot5",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "458",
+        "P_SOUND_EFFECT_NAME": "BF2_se_458_btl_bshot6",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "459",
+        "P_SOUND_EFFECT_NAME": "BF2_se_459_btl_mfarrive",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "460",
+        "P_SOUND_EFFECT_NAME": "BF2_se_460_btl_mfflying",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "461",
+        "P_SOUND_EFFECT_NAME": "BF2_se_461_btl_mfshot1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "462",
+        "P_SOUND_EFFECT_NAME": "BF2_se_462_btl_mfshot2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "463",
+        "P_SOUND_EFFECT_NAME": "BF2_se_463_btl_mfshot3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "464",
+        "P_SOUND_EFFECT_NAME": "BF2_se_464_btl_lsoff",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "465",
+        "P_SOUND_EFFECT_NAME": "BF2_se_465_btl_lson",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "466",
+        "P_SOUND_EFFECT_NAME": "BF2_se_466_btl_rd1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "467",
+        "P_SOUND_EFFECT_NAME": "BF2_se_467_btl_rd2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "468",
+        "P_SOUND_EFFECT_NAME": "BF2_se_468_btl_rd3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "469",
+        "P_SOUND_EFFECT_NAME": "BF2_se_469_btl_rd4",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "470",
+        "P_SOUND_EFFECT_NAME": "BF2_se_470_btl_rd5",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "471",
+        "P_SOUND_EFFECT_NAME": "BF2_se_471_btl_asshot",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "472",
+        "P_SOUND_EFFECT_NAME": "BF2_se_472_btl_aswalk",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "473",
+        "P_SOUND_EFFECT_NAME": "BF2_se_473_btl_eject",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "474",
+        "P_SOUND_EFFECT_NAME": "BF2_se_474_scr_baragan",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "475",
+        "P_SOUND_EFFECT_NAME": "BF2_se_475_btl_violin1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "533",
+        "P_SOUND_EFFECT_NAME": "BF2_se_533_scr_nightforest",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "534",
+        "P_SOUND_EFFECT_NAME": "BF2_se_534_btl_drill",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "535",
+        "P_SOUND_EFFECT_NAME": "BF2_se_535_btl_flyingfish",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "536",
+        "P_SOUND_EFFECT_NAME": "BF2_se_536_btl_smalldive",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "537",
+        "P_SOUND_EFFECT_NAME": "BF2_se_537_btl_spray",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "538",
+        "P_SOUND_EFFECT_NAME": "BF2_se_538_btl_pat",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "539",
+        "P_SOUND_EFFECT_NAME": "BF2_se_539_btl_kirakira",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "540",
+        "P_SOUND_EFFECT_NAME": "BF2_se_540_btl_stumble",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "541",
+        "P_SOUND_EFFECT_NAME": "BF2_se_541_exg_srush_end1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "542",
+        "P_SOUND_EFFECT_NAME": "BF2_se_542_exg_srush_end2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "543",
+        "P_SOUND_EFFECT_NAME": "BF2_se_543_exg_srush_start1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "544",
+        "P_SOUND_EFFECT_NAME": "BF2_se_544_exg_srush_start2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "545",
+        "P_SOUND_EFFECT_NAME": "BF2_se_545_exg_srush_ng",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "546",
+        "P_SOUND_EFFECT_NAME": "BF2_se_546_btl_rain",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "547",
+        "P_SOUND_EFFECT_NAME": "BF2_se_547_exg_ggrin_special",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "548",
+        "P_SOUND_EFFECT_NAME": "BF2_se_548_exg_ggrin_countdown1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "549",
+        "P_SOUND_EFFECT_NAME": "BF2_se_549_exg_ggrin_countdown2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "550",
+        "P_SOUND_EFFECT_NAME": "BF2_se_550_exg_ggrin_edamage",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "551",
+        "P_SOUND_EFFECT_NAME": "BF2_se_551_exg_ggrin_pdamage",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "552",
+        "P_SOUND_EFFECT_NAME": "BF2_se_552_exg_ggrin_pjump",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "553",
+        "P_SOUND_EFFECT_NAME": "BF2_se_553_exg_ggrin_scoreget",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "554",
+        "P_SOUND_EFFECT_NAME": "BF2_se_554_exg_ggrin_sbd1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "555",
+        "P_SOUND_EFFECT_NAME": "BF2_se_555_exg_ggrin_sbd2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "556",
+        "P_SOUND_EFFECT_NAME": "BF2_se_556_exg_ggrin_sbd3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "557",
+        "P_SOUND_EFFECT_NAME": "BF2_se_557_exg_ggrin_jumpover1",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "558",
+        "P_SOUND_EFFECT_NAME": "BF2_se_558_exg_ggrin_jumpover2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "559",
+        "P_SOUND_EFFECT_NAME": "BF2_se_559_exg_ggrin_jumpover3",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "560",
+        "P_SOUND_EFFECT_NAME": "BF2_se_560_exg_ggrin_jumpover4",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "561",
+        "P_SOUND_EFFECT_NAME": "BF2_se_561_btl_horse_neigh",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "562",
+        "P_SOUND_EFFECT_NAME": "BF2_se_562_btl_horse_galop",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "563",
+        "P_SOUND_EFFECT_NAME": "BF2_se_563_btl_bird_call",
+        "P_SOUND_FILE": ""
+    }
+]

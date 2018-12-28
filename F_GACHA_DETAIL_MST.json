@@ -1,0 +1,74 @@
+[
+    {
+        "P_GACHA_ID": "1000",
+        "8Z9CYQDq": "1001",
+        "P_NAME": "\u7d46\u53ec\u559a\u901a\u5e38",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "100:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    },
+    {
+        "P_GACHA_ID": "1010",
+        "8Z9CYQDq": "1011",
+        "P_NAME": "\u7d46\u53ec\u559a\u901a\u5e38",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "110:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    },
+    {
+        "P_GACHA_ID": "1020",
+        "8Z9CYQDq": "1021",
+        "P_NAME": "\u7d46\u53ec\u559a\u901a\u5e38",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "120:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    },
+    {
+        "P_GACHA_ID": "2000",
+        "8Z9CYQDq": "2001",
+        "P_NAME": "\u7d46\u53ec\u559a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "200:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    },
+    {
+        "P_GACHA_ID": "2010",
+        "8Z9CYQDq": "2011",
+        "P_NAME": "\u7d46\u53ec\u559a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "210:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    },
+    {
+        "P_GACHA_ID": "2020",
+        "8Z9CYQDq": "2021",
+        "P_NAME": "\u7d46\u53ec\u559a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_PROCESS_TYPE": "2",
+        "og5hSzT9": "99",
+        "JZP3g7N8": "220:99",
+        "t7eYg6Tc": "gacha_normal_summons_btn1.png",
+        "P_SCHEDULE_ID": "0",
+        "P_CREATEDATE": "2018-09-25 01:34:33",
+        "P_UPDATEDATE": "2018-09-25 01:34:33"
+    }
+]
