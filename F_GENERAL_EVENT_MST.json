@@ -22,6 +22,17 @@
         "P_HIDE_SWITCH_INFO": "0"
     },
     {
+        "v80VfcXr": "101",
+        "b4D63uav": "11",
+        "NW3CIk2A": "55,15",
+        "P_SCENE_ID": "0",
+        "t5R47iwj": "0",
+        "P_PRIORITY": "0",
+        "P_SCHEDULE_ID": "200020",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0"
+    },
+    {
         "v80VfcXr": "200",
         "b4D63uav": "20",
         "NW3CIk2A": "0",
@@ -39,7 +50,7 @@
         "P_SCENE_ID": "0",
         "t5R47iwj": "0",
         "P_PRIORITY": "0",
-        "P_SCHEDULE_ID": "500002",
+        "P_SCHEDULE_ID": "500003",
         "P_NEED_SWITCH_INFO": "0",
         "P_HIDE_SWITCH_INFO": "0"
     },

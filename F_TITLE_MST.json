@@ -900,6 +900,16 @@
         "P_OPEN_SWITCH_INFO": "0"
     },
     {
+        "oebg75U2": "5051",
+        "P_NAME": "\u5148\u751f",
+        "ncs98mfL": "2",
+        "X6C7WxUB": "\u305b\u3093\u305b\u3044",
+        "P_DICTIONARY_BG": "5051",
+        "P_NEED_SWITCH_INFO": "71000489",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
         "oebg75U2": "6001",
         "P_NAME": "\u708e",
         "ncs98mfL": "1",
@@ -3626,6 +3636,16 @@
         "X6C7WxUB": "\u3057\u3093\u308f",
         "P_DICTIONARY_BG": "7239",
         "P_NEED_SWITCH_INFO": "71000485",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "oebg75U2": "7240",
+        "P_NAME": "\u9ed2\u8987\u9a0e",
+        "ncs98mfL": "3",
+        "X6C7WxUB": "\u3053\u304f\u306f\u304d",
+        "P_DICTIONARY_BG": "7240",
+        "P_NEED_SWITCH_INFO": "71000490",
         "P_HIDE_SWITCH_INFO": "0",
         "P_OPEN_SWITCH_INFO": "0"
     },
