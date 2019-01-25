@@ -19958,5 +19958,69 @@
         "Heg8ZDQ7": "background_xbb_burst_redblue.vfxb",
         "xW6TKu9G": "",
         "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006800",
+        "CJpkT40r": "XBB_F_\u71ff\u8056\u306e\u30aa\u30e9\u30c8\u30ea\u30aa",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200444_front.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006801",
+        "CJpkT40r": "XBB_B_\u71ff\u8056\u306e\u30aa\u30e9\u30c8\u30ea\u30aa",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200444_back.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006810",
+        "CJpkT40r": "CI_F1_\u71ff\u8056\u306e\u30aa\u30e9\u30c8\u30ea\u30aa",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200444.ssbp,front/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006811",
+        "CJpkT40r": "CI_B1_\u71ff\u8056\u306e\u30aa\u30e9\u30c8\u30ea\u30aa",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200444.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006900",
+        "CJpkT40r": "XBB_F_\u30a2\u30c8\u30e2\u30b9\u30c9\u30e9\u30a4\u30f4",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200454_front.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006901",
+        "CJpkT40r": "XBB_B_\u30a2\u30c8\u30e2\u30b9\u30c9\u30e9\u30a4\u30f4",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200454_back.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006910",
+        "CJpkT40r": "CI_F1_\u30a2\u30c8\u30e2\u30b9\u30c9\u30e9\u30a4\u30f4",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200454.ssbp,front/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50006911",
+        "CJpkT40r": "CI_B1_\u30a2\u30c8\u30e2\u30b9\u30c9\u30e9\u30a4\u30f4",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200454.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
     }
 ]

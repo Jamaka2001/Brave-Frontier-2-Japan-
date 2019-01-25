@@ -2040,6 +2040,30 @@
         "P_IMG": "all.png,all_light.png"
     },
     {
+        "MFV1A4vj": "74",
+        "YvHAd5I7": "1",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "162",
+        "P_POS": "28,10",
+        "P_IMG": "top_20190125.png,top_20180222_light.png"
+    },
+    {
+        "MFV1A4vj": "74",
+        "YvHAd5I7": "2",
+        "aSJp1i9m": "3",
+        "P_SCENE_PARAM": "1020",
+        "P_POS": "28,525#0,140:580,0:580,200:0,200",
+        "P_IMG": "kizuna_20180925.png,kizuna_light.png"
+    },
+    {
+        "MFV1A4vj": "74",
+        "YvHAd5I7": "3",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "10000",
+        "P_POS": "28,472#0,0:580,0:580,42:0,180",
+        "P_IMG": "all.png,all_light.png"
+    },
+    {
         "MFV1A4vj": "100",
         "YvHAd5I7": "2",
         "aSJp1i9m": "3",
