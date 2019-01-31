@@ -854,6 +854,34 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "4110",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30da\u30eb\u30ed\u30fc\u30d6_\u81ea\u5206",
+        "P_EFFECT_FRAME": "1:0:4070",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "4111",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30da\u30eb\u30ed\u30fc\u30d6_\u6575\u5074",
+        "P_EFFECT_FRAME": "1:0:4071",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "4120",
+        "P_EFFECT_PROCESS_NAME": "\u30c7\u30a3\u30b1\u30a4\u30c9\u30e1\u30a4\u30f3",
+        "P_EFFECT_FRAME": "1:0:4080",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "4130",
+        "P_EFFECT_PROCESS_NAME": "\u30a4\u30f3\u30ab\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "P_EFFECT_FRAME": "1:0:4090",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "10100",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u30c8\u30ab\u30b2\u26051",
         "P_EFFECT_FRAME": "1:29:10030001,1:37:10030001",
@@ -5201,6 +5229,244 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "5002330",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u5168\u4f531",
+        "P_EFFECT_FRAME": "1:10:40001291",
+        "P_DAMAGE_FRAME": "10:19@19:2:2:2,16:16@16:2:2:1,22:14@14:2:2:1,28:11@11:2:2:0,34:10@10:2:2:0,40:9@9:2:2:0,46:8@8:2:2:0,52:7@7:2:2:0,58:6@6:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002331",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u5168\u4f532",
+        "P_EFFECT_FRAME": "1:0:40001292,2:1:40001293",
+        "P_DAMAGE_FRAME": "10:16@16:2:2:2,15:14@14:2:3:1,20:11@11:2:3:1,25:9@9:2:3:0,30:8@8:2:3:0,35:7@7:2:3:0,40:6@6:2:3:0,45:5@5:2:3:0,50:4@4:2:3:0,55:5@5:2:3:0,60:6@6:2:3:0,65:5@5:2:3:0,70:4@4:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002332",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:0:40001294,2:1:40001295",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002333",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u30d0\u30d5\uff06\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:0:40001294,1:40:40001296,2:1:40001295",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002334",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u5168\u4f533",
+        "P_EFFECT_FRAME": "1:0:40001297,2:1:40001298",
+        "P_DAMAGE_FRAME": "10:3@3:2:3:1,18:4@4:2:3:1,26:4@4:2:3:1,34:5@5:2:3:0,42:4@4:2:3:0,50:3@3:2:3:0,58:3@3:2:3:0,66:4@4:2:3:0,74:3@3:2:3:0,82:5@5:2:3:0,90:6@6:2:3:0,98:7@7:2:3:0,106:6@6:2:3:0,114:5@5:2:3:0,122:6@6:2:3:0,130:5@5:2:3:0,138:10@10:2:3:0,146:8@8:2:3:0,154:9@9:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002335",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u5168\u4f534",
+        "P_EFFECT_FRAME": "1:0:40001299,2:1:40001300",
+        "P_DAMAGE_FRAME": "10:16@16:2:2:2,15:14@14:2:3:1,20:11@11:2:3:1,25:9@9:2:3:0,30:8@8:2:3:0,35:7@7:2:3:0,40:6@6:2:3:0,45:5@5:2:3:0,50:4@4:2:3:0,55:5@5:2:3:0,60:6@6:2:3:0,65:5@5:2:3:0,70:4@4:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002336",
+        "P_EFFECT_PROCESS_NAME": "\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca_\u5168\u4f535",
+        "P_EFFECT_FRAME": "1:0:40001301,2:1:40001302",
+        "P_DAMAGE_FRAME": "10:16@16:2:2:2,15:14@14:2:3:1,20:11@11:2:3:1,25:9@9:2:3:0,30:8@8:2:3:0,35:7@7:2:3:0,40:6@6:2:3:0,45:5@5:2:3:0,50:4@4:2:3:0,55:5@5:2:3:0,60:6@6:2:3:0,65:5@5:2:3:0,70:4@4:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002337",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u5168\u4f53\u653b\u6483_\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca",
+        "P_EFFECT_FRAME": "1:10:40001290",
+        "P_DAMAGE_FRAME": "10:21@21:2:2:2,16:19@19:2:2:1,22:17@17:2:2:1,28:16@16:2:2:0,34:14@14:2:2:0,40:13@13:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002340",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u5217",
+        "P_EFFECT_FRAME": "1:10:40001311",
+        "P_DAMAGE_FRAME": "10:13@13:2:2:1,13:12@12:2:2:1,16:13@13:2:2:1,19:12@12:2:2:1,22:12@12:2:2:1,25:13@13:2:2:1,28:12@12:2:2:1,31:13@13:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002341",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u5168\u4f531",
+        "P_EFFECT_FRAME": "1:10:40001312",
+        "P_DAMAGE_FRAME": "10:13@13:2:2:1,13:12@12:2:2:1,16:13@13:2:2:1,19:12@12:2:2:1,22:12@12:2:2:1,25:13@13:2:2:1,28:12@12:2:2:1,31:13@13:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002342",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u56de\u5fa9",
+        "P_EFFECT_FRAME": "1:10:40001313",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002343",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u5168\u4f532",
+        "P_EFFECT_FRAME": "1:10:40001314",
+        "P_DAMAGE_FRAME": "10:8@8:2:2:1,15:7@7:2:2:1,20:8@8:2:2:1,25:6@6:2:2:1,30:28@28:2:2:1,40:8@8:2:2:1,50:28@28:2:2:1,60:7@7:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002344",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001315",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002345",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u81ea\u5206ATK\u30c7\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:10:40001316",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002346",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53\u708e_\u81ea\u5206\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:10:40001317",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002350",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u5149\u90e8\u4f4d_\u5168\u4f53",
+        "P_EFFECT_FRAME": "1:10:40001319",
+        "P_DAMAGE_FRAME": "10:27@27:2:2:1,15:26@26:2:2:1,20:24@24:2:2:1,25:23@23:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002351",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u5149\u90e8\u4f4d_\u5149\u95c7\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001320",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002360",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u708e\u90e8\u4f4d_\u5358\u4f531",
+        "P_EFFECT_FRAME": "1:10:40001322",
+        "P_DAMAGE_FRAME": "10:30@30:2:4:1,18:34@34:2:4:1,26:36@36:2:4:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002361",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u5149\u90e8\u4f4d_\u708e\u6c34\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001323",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002362",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u708e\u90e8\u4f4d_\u5358\u4f532",
+        "P_EFFECT_FRAME": "1:10:40001324",
+        "P_DAMAGE_FRAME": "10:30@30:2:4:1,18:34@34:2:4:1,26:36@36:2:4:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002370",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u96f7\u90e8\u4f4d_\u5217",
+        "P_EFFECT_FRAME": "1:10:40001326",
+        "P_DAMAGE_FRAME": "10:30@30:2:2:1,13:14@14:2:2:1,16:6@6:2:2:1,25:30@30:2:2:1,28:14@14:2:2:1,31:6@6:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002371",
+        "P_EFFECT_PROCESS_NAME": "\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u96f7\u90e8\u4f4d_\u6a39\u96f7\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001327",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002380",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u5358\u4f531",
+        "P_EFFECT_FRAME": "1:10:40001331",
+        "P_DAMAGE_FRAME": "10:30@30:2:2:1,20:40@40:2:2:1,30:30@30:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002381",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u52171",
+        "P_EFFECT_FRAME": "1:10:40001332",
+        "P_DAMAGE_FRAME": "10:18@18:2:2:1,19:16@16:2:2:1,28:17@17:2:2:1,37:16@16:2:2:1,46:17@17:2:2:1,55:16@16:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002382",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u5168\u4f531",
+        "P_EFFECT_FRAME": "1:10:40001333,2:0:40001334",
+        "P_DAMAGE_FRAME": "10:16@16:2:2:1,18:15@15:2:2:1,26:14@14:2:2:1,34:13@13:2:2:1,42:12@12:2:2:1,50:11@11:2:2:1,58:10@10:2:2:1,66:9@9:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002383",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_BB\u6ca1\u53ce",
+        "P_EFFECT_FRAME": "1:50:40001335",
+        "P_DAMAGE_FRAME": "50:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002384",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_ALT\u5fd8\u5374",
+        "P_EFFECT_FRAME": "1:50:40001336",
+        "P_DAMAGE_FRAME": "50:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002385",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u30d0\u30d5\u6d88\u3057",
+        "P_EFFECT_FRAME": "1:10:40001338",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002386",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u7269\u7406\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001339",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002387",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u9b54\u6cd5\u8efd\u6e1b",
+        "P_EFFECT_FRAME": "1:10:40001340",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002388",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u30b2\u30fc\u30c8\u306e\u529b_m2",
+        "P_EFFECT_FRAME": "1:0:40001337",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002389",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u8efd\u6e1b\uff06\u4e88\u5099\u52d5\u4f5c",
+        "P_EFFECT_FRAME": "1:10:40001341",
+        "P_DAMAGE_FRAME": "10:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002390",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u5168\u4f53\u5f37\u529b\u653b\u64831m1",
+        "P_EFFECT_FRAME": "1:10:40001342,2:11:40001343",
+        "P_DAMAGE_FRAME": "10:10@10:2:3:1,20:10@10:2:3:1,30:10@10:2:3:1,40:10@10:2:3:1,50:10@10:2:3:1,60:10@10:2:3:1,70:10@10:2:3:1,80:10@10:2:3:1,90:10@10:2:3:1,100:10@10:2:3:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "5002391",
+        "P_EFFECT_PROCESS_NAME": "\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2_\u5168\u4f53\u5f37\u529b\u653b\u64832m1",
+        "P_EFFECT_FRAME": "1:10:40001344,2:11:40001345",
+        "P_DAMAGE_FRAME": "100:8@8:2:3:1,103:5@5:2:3:1,106:6@6:2:3:1,109:5@5:2:3:1,112:5@5:2:3:1,115:4@4:2:3:1,118:5@5:2:3:1,121:4@4:2:3:1,124:7@7:2:3:1,127:3@3:2:3:1,130:5@5:2:3:1,133:4@4:2:3:1,136:5@5:2:3:1,139:5@5:2:3:1,142:6@6:2:3:1,145:3@3:2:3:1,148:5@5:2:3:1,151:3@3:2:3:1,154:5@5:2:3:1,157:7@7:2:3:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "8001001",
         "P_EFFECT_PROCESS_NAME": "\u30c6\u30b9\u30c8\u65ac\u653b\u64831",
         "P_EFFECT_FRAME": "",
@@ -6122,6 +6388,48 @@
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u8a66\u7df4\u30e9\u30f3\u30d5\u30a9\u30fc\u30c9",
         "P_EFFECT_FRAME": "1:10:40001250",
         "P_DAMAGE_FRAME": "10:50@50:2:1:1,15:50@50:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002200",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u30b9\u30c8\u30af\u30a8\u9b54\u8755\u306e\u7956\u795e\u30de\u30ca",
+        "P_EFFECT_FRAME": "1:10:40001290",
+        "P_DAMAGE_FRAME": "10:21@21:2:2:2,16:19@19:2:2:1,22:17@17:2:2:1,28:16@16:2:2:0,34:14@14:2:2:0,40:13@13:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002210",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u672c\u4f53",
+        "P_EFFECT_FRAME": "1:10:40001310",
+        "P_DAMAGE_FRAME": "10:13@13:2:2:1,13:12@12:2:2:1,16:13@13:2:2:1,19:12@12:2:2:1,22:12@12:2:2:1,25:13@13:2:2:1,28:12@12:2:2:1,31:13@13:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002220",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u5149\u90e8\u4f4d",
+        "P_EFFECT_FRAME": "1:10:40001318",
+        "P_DAMAGE_FRAME": "10:27@27:2:2:1,15:26@26:2:2:1,20:24@24:2:2:1,25:23@23:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002230",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u708e\u90e8\u4f4d",
+        "P_EFFECT_FRAME": "1:10:40001321",
+        "P_DAMAGE_FRAME": "10:30@30:2:4:1,18:34@34:2:4:1,26:36@36:2:4:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002240",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u696d\u9b54\u30b8\u30e3\u30b0\u30b7\u30e3\u96f7\u90e8\u4f4d",
+        "P_EFFECT_FRAME": "1:10:40001325",
+        "P_DAMAGE_FRAME": "10:30@30:2:2:1,13:14@14:2:2:1,16:6@6:2:2:1,25:30@30:2:2:1,28:14@14:2:2:1,31:6@6:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "8002250",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u8a66\u7df4\u30b7\u30e3\u30a4\u30a2",
+        "P_EFFECT_FRAME": "1:10:40001330",
+        "P_DAMAGE_FRAME": "10:20@20:2:2:1,15:20@20:2:2:1,20:20@20:2:2:1,25:20@20:2:2:1,30:20@20:2:2:1",
         "P_COMMENT": ""
     },
     {
@@ -8148,6 +8456,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "100122450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u71ce\u96c4\u5263\u9a0e\u30ed\u30a42",
+        "P_EFFECT_FRAME": "1:0:31000684",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100122451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u71ce\u96c4\u5263\u9a0e\u30ed\u30a4",
+        "P_EFFECT_FRAME": "1:25:31000685",
+        "P_DAMAGE_FRAME": "25:10@10:2:2:1,28:10@10:2:2:1,31:8@8:2:2:0,34:4@4:2:2:0,76:20@20:2:2:1,79:15@15:2:2:1,82:10@10:2:2:0,85:10@10:2:2:0,88:8@8:2:2:0,91:5@5:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "100131200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u708e\u5263\u8c6a\u30f4\u30a1\u30eb\u30ac\u30b9",
         "P_EFFECT_FRAME": "1:15:31000000",
@@ -8617,6 +8939,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "100191450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u795e\u708e\u516c\u30ed\u30fc\u30e9\u30f3\u30c9_\u653b\u6483",
+        "P_EFFECT_FRAME": "1:13:31000204",
+        "P_DAMAGE_FRAME": "13:20@20:2:2:3,16:20@20:2:2:3,19:20@20:2:2:3,22:20@20:2:2:3,25:20@20:2:2:2",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100191451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u795e\u708e\u516c\u30ed\u30fc\u30e9\u30f3\u30c9_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:0:31000205",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "100192200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u9b54\u76fe\u306e\u9a0e\u58eb\u30bb\u30c7\u30a3\u30aa",
         "P_EFFECT_FRAME": "1:7:31000890",
@@ -9079,6 +9415,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "100252403",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u707c\u9858\u306e\u5b9d\u7cbe\u30cd\u30b9\u30bf_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:31000974,2:1:31000977",
+        "P_DAMAGE_FRAME": "23:12@12:2:2:1,26:4@4:2:2:0,29:3@3:2:2:0,39:11@11:2:2:1,42:4@4:2:2:0,45:3@3:2:2:0,55:5@5:2:4:1,58:4@4:2:4:0,61:3@3:2:4:0,64:4@4:2:4:0,67:5@5:2:4:0,70:4@4:2:4:0,73:3@3:2:4:0,76:4@4:2:4:0,79:5@5:2:4:0,82:4@4:2:4:0,85:3@3:2:4:0,108:19@19:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100252404",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u707c\u9858\u306e\u5b9d\u7cbe\u30cd\u30b9\u30bf_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:130:31000975,2:131:31000976",
+        "P_DAMAGE_FRAME": "130:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "100252420",
         "P_EFFECT_PROCESS_NAME": "XBB_\u70c8\u8d64\u306e\u7d46\u300e\u3072\u3068\u3064\u306e\u9858\u3044\u300f_\u708e",
         "P_EFFECT_FRAME": "1:0:50000360,2:1:50000362,1:0:50000363,-1:0,-2:600",
@@ -9090,6 +9440,20 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u300e\u3072\u3068\u3064\u306e\u9858\u3044\u300f\u8840\u5b9d\u306e\u7ae0_\u30cd\u30b9\u30bf2",
         "P_EFFECT_FRAME": "1:0:50000440,2:1:50000442,1:0:50000443,-1:0,-2:600",
         "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100252450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u707c\u9858\u306e\u5b9d\u7cbe\u30cd\u30b9\u30bf_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:31000974,2:1:31000977",
+        "P_DAMAGE_FRAME": "23:12@12:2:2:1,26:4@4:2:2:0,29:3@3:2:2:0,39:11@11:2:2:1,42:4@4:2:2:0,45:3@3:2:2:0,55:5@5:2:4:1,58:4@4:2:4:0,61:3@3:2:4:0,64:4@4:2:4:0,67:5@5:2:4:0,70:4@4:2:4:0,73:3@3:2:4:0,76:4@4:2:4:0,79:5@5:2:4:0,82:4@4:2:4:0,85:3@3:2:4:0,108:19@19:2:2:1",
+        "P_COMMENT": "\u30c8\u30ea\u30ac\u30fc\u3067SBB\u3092\u767a\u52d5\u3059\u308b"
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100252451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u707c\u9858\u306e\u5b9d\u7cbe\u30cd\u30b9\u30bf_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:130:31000975,2:131:31000976",
+        "P_DAMAGE_FRAME": "130:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -9370,6 +9734,13 @@
         "P_EFFECT_PROCESS_NAME": "SBB_\u7f85\u5239\u795e\u30f4\u30a3\u30b7\u30e5\u30e9",
         "P_EFFECT_FRAME": "1:0:31000742,2:1:31000743",
         "P_DAMAGE_FRAME": "25:9@9:2:2:1,28:9@9:2:2:0,31:9@9:2:2:1,34:9@9:2:2:0,37:8@8:2:2:1,40:8@8:2:2:0,43:8@8:2:2:1,46:8@8:2:2:0,49:8@8:2:2:1,52:8@8:2:2:0,55:8@8:2:2:1,58:8@8:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "100291450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u7f85\u5239\u795e\u30f4\u30a3\u30b7\u30e5\u30e9",
+        "P_EFFECT_FRAME": "1:25:31000745,2:27:31000744",
+        "P_DAMAGE_FRAME": "25:10@10:2:2:2,28:10@10:2:2:1,31:10@10:2:2:2,34:10@10:2:2:1,37:10@10:2:2:2,40:10@10:2:2:1,43:10@10:2:2:2,46:10@10:2:2:1,49:10@10:2:2:2,52:10@10:2:2:1",
         "P_COMMENT": ""
     },
     {
@@ -10948,6 +11319,13 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "200171450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u6c37\u795e\u5e1d\u30c7\u30a3\u30f3",
+        "P_EFFECT_FRAME": "1:0:32000174",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "200172400",
         "P_EFFECT_PROCESS_NAME": "GUEST\u901a\u5e38_\u30d2\u30eb\u30c0\u26055",
         "P_EFFECT_FRAME": "1:26:32000820",
@@ -11151,6 +11529,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "200192403",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u6d77\u8a93\u306e\u5bae\u7cbe\u30a2\u30de\u30cd_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:32000864,2:1:32000867",
+        "P_DAMAGE_FRAME": "69:10@10:2:2:1,74:9@9:2:2:0,79:9@9:2:2:1,84:9@9:2:2:0,89:9@9:2:2:1,94:9@9:2:2:0,99:9@9:2:2:1,104:9@9:2:2:0,109:9@9:2:2:0,114:9@9:2:2:0,119:9@9:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "200192404",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u6d77\u8a93\u306e\u5bae\u7cbe\u30a2\u30de\u30cd_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:140:32000865,2:141:32000866",
+        "P_DAMAGE_FRAME": "140:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "200192420",
         "P_EFFECT_PROCESS_NAME": "XBB_\u60f3\u60f9\u306e\u7d46\u300e\u6c34\u5e95\u59eb\u300f_\u30a2\u30de\u30cd",
         "P_EFFECT_FRAME": "1:0:50000370,2:1:50000372,1:0:50000373,-1:0,-2:600",
@@ -11162,6 +11554,20 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u300e\u6c34\u5e95\u59eb\u300f\u5fd8\u6eba\u306e\u7ae0_\u30a2\u30de\u30cd2",
         "P_EFFECT_FRAME": "1:0:50000450,2:1:50000452,1:0:50000453,-1:0,-2:600",
         "P_DAMAGE_FRAME": "494:8@8:2:4:1,499:8@8:2:4:0,504:9@9:2:4:0,509:8@8:2:4:1,514:9@9:2:4:0,519:8@8:2:4:0,524:8@8:2:4:1,529:9@9:2:4:0,534:8@8:2:4:0,539:8@8:2:4:1,544:9@9:2:4:0,549:8@8:2:4:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "200192450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u6d77\u8a93\u306e\u5bae\u7cbe\u30a2\u30de\u30cd_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:32000864,2:1:32000867",
+        "P_DAMAGE_FRAME": "69:10@10:2:2:1,74:9@9:2:2:0,79:9@9:2:2:1,84:9@9:2:2:0,89:9@9:2:2:1,94:9@9:2:2:0,99:9@9:2:2:1,104:9@9:2:2:0,109:9@9:2:2:0,114:9@9:2:2:0,119:9@9:2:2:0",
+        "P_COMMENT": "\u30c8\u30ea\u30ac\u30fc\u3067SBB\u3092\u767a\u52d5\u3059\u308b"
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "200192451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u6d77\u8a93\u306e\u5bae\u7cbe\u30a2\u30de\u30cd_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:140:32000865,2:141:32000866",
+        "P_DAMAGE_FRAME": "140:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -12614,6 +13020,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "300112450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u7fe0\u51db\u5200\u59eb\u30b5\u30fc\u30b7\u30e32",
+        "P_EFFECT_FRAME": "1:25:33000675",
+        "P_DAMAGE_FRAME": "25:14@14:2:2:3,28:10@10:2:2:1,35:14@14:2:2:3,38:10@10:2:2:1,41:7@7:2:2:1,50:22@22:2:2:3,53:13@13:2:2:2,56:10@10:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "300112451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u7fe0\u51db\u5200\u59eb\u30b5\u30fc\u30b7\u30e3",
+        "P_EFFECT_FRAME": "1:0:33000676",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "300121200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u7fe0\u69cd\u58eb\u30e9\u30f3\u30bb\u30eb",
         "P_EFFECT_FRAME": "1:25:33000000",
@@ -13062,6 +13482,13 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "300171450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u5730\u93a7\u795e\u30a8\u30c7\u30a2",
+        "P_EFFECT_FRAME": "1:0:33000174",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "300172000",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u30be\u30fc\u30ea\u9b54",
         "P_EFFECT_FRAME": "1:0:33000800",
@@ -13447,6 +13874,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "300212404",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u8328\u54b2\u306e\u7e5a\u7cbe\u30af\u30ed\u30cd\u30a2_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:33000885,2:1:33000888",
+        "P_DAMAGE_FRAME": "32:10@10:2:2:1,35:7@7:2:2:0,38:6@6:2:2:1,41:10@10:2:2:0,44:6@6:2:2:1,47:7@7:2:2:0,50:9@9:2:2:1,53:8@8:2:2:0,56:7@7:2:2:0,59:9@9:2:2:0,62:10@10:2:2:0,65:4@4:2:2:0,68:7@7:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "300212405",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u8328\u54b2\u306e\u7e5a\u7cbe\u30af\u30ed\u30cd\u30a2_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:90:33000886,2:91:33000887",
+        "P_DAMAGE_FRAME": "90:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "300212420",
         "P_EFFECT_PROCESS_NAME": "XBB_\u9192\u68d8\u306e\u7d46\u300e\u3044\u3070\u3089\u306e\u57ce\u300f_\u30af\u30ed\u30cd\u30a2",
         "P_EFFECT_FRAME": "1:0:50000380,2:1:50000382,1:0:50000383,-1:0,-2:600",
@@ -13458,6 +13899,20 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u300e\u3044\u3070\u3089\u306e\u57ce\u300f\u5fcc\u96a0\u306e\u7ae0_\u30af\u30ed\u30cd\u30a22",
         "P_EFFECT_FRAME": "1:0:50000460,2:1:50000462,1:0:50000463,-1:0,-2:600",
         "P_DAMAGE_FRAME": "440:100@100:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "300212450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u8d85\u8d8a_\u8328\u54b2\u306e\u7e5a\u7cbe\u30af\u30ed\u30cd\u30a2_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:33000885,2:1:33000888",
+        "P_DAMAGE_FRAME": "32:10@10:2:2:1,35:7@7:2:2:0,38:6@6:2:2:1,41:10@10:2:2:0,44:6@6:2:2:1,47:7@7:2:2:0,50:9@9:2:2:1,53:8@8:2:2:0,56:7@7:2:2:0,59:9@9:2:2:0,62:10@10:2:2:0,65:4@4:2:2:0,68:7@7:2:2:0",
+        "P_COMMENT": "\u30c8\u30ea\u30ac\u30fc\u3067SBB\u3092\u767a\u52d5\u3059\u308b"
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "300212451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u8d85\u8d8a_\u8328\u54b2\u306e\u7e5a\u7cbe\u30af\u30ed\u30cd\u30a2_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:90:33000886,2:91:33000887",
+        "P_DAMAGE_FRAME": "90:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -15141,6 +15596,13 @@
         "P_COMMENT": "\u56de\u5fa9\u306e\u307f\u653b\u6483\u7121\u3057"
     },
     {
+        "P_EFFECT_PROCESS_ID": "400151450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u7a7a\u5c0e\u795e\u30e9\u30b9\u30cf\u30a4\u30eb",
+        "P_EFFECT_FRAME": "1:0:34000114,2:1:34000115",
+        "P_DAMAGE_FRAME": "80:100@100:2:1:0",
+        "P_COMMENT": "\u30c8\u30ea\u30ac\u30fc\u3067SBB\u3092\u767a\u52d5\u3059\u308b"
+    },
+    {
         "P_EFFECT_PROCESS_ID": "400161200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u7a7a\u5343\u9a0e\u30d5\u30a1\u30eb\u30de",
         "P_EFFECT_FRAME": "1:14:34000120",
@@ -15309,6 +15771,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "400172450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u8c6a\u96f7\u731b\u65a7\u30a6\u30a9\u30ec\u30b92",
+        "P_EFFECT_FRAME": "1:0:34000785",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "400172451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u8c6a\u96f7\u731b\u65a7\u30a6\u30a9\u30ec\u30b9",
+        "P_EFFECT_FRAME": "1:30:34000786",
+        "P_DAMAGE_FRAME": "30:18@18:2:1:2,57:15@15:2:1:2,96:28@28:2:2:4,100:16@16:2:2:3,104:12@12:2:2:2,108:11@11:2:2:2",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "400181200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u96f7\u5f13\u306e\u30ed\u30af\u30b9",
         "P_EFFECT_FRAME": "1:120:34000180",
@@ -15362,6 +15838,13 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u30d1\u30eb\u30df\u30ca\u306e\u8056\u9583_\u30ed\u30af\u30b9",
         "P_EFFECT_FRAME": "1:0:50000223",
         "P_DAMAGE_FRAME": "718:100@100:2:3:15",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "400181450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u96f7\u5f13\u795e\u30ed\u30af\u30b9",
+        "P_EFFECT_FRAME": "1:0:34000204",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -15785,6 +16268,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "400222403",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u5d50\u7fa9\u306e\u5929\u7cbe\u30e1\u30a4\u30ea\u30f3_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:34000894,2:1:34000897",
+        "P_DAMAGE_FRAME": "5:13@13:2:1:1,9:5@5:2:2:0,24:6@6:2:2:1,28:6@6:2:2:0,32:6@6:2:2:0,36:6@6:2:2:0,49:15@15:2:2:1,107:27@27:2:1:1,111:9@9:2:2:0,115:7@7:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "400222404",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u5d50\u7fa9\u306e\u5929\u7cbe\u30e1\u30a4\u30ea\u30f3_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:140:34000895,2:141:34000896",
+        "P_DAMAGE_FRAME": "140:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "400222420",
         "P_EFFECT_PROCESS_NAME": "XBB_\u609f\u8a3c\u306e\u7d46\u300e\u5d50\u5996\u4f1d\u300f_\u30e1\u30a4\u30ea\u30f3",
         "P_EFFECT_FRAME": "1:0:50000390,2:1:50000392,1:0:50000393,-1:0,-2:600",
@@ -15796,6 +16293,20 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u300e\u5d50\u5996\u4f1d\u300f\u53db\u66b4\u306e\u7ae0_\u30e1\u30a4\u30ea\u30f32",
         "P_EFFECT_FRAME": "1:0:50000470,2:1:50000472,1:0:50000473,-1:0,-2:600",
         "P_DAMAGE_FRAME": "537:14@14:2:3:1,551:10@10:2:3:0,565:11@11:2:3:1,579:8@8:2:3:0,593:6@6:2:3:1,607:15@15:2:3:0,621:13@13:2:3:1,635:14@14:2:3:0,649:9@9:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "400222450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u8d85\u8d8a_\u5d50\u7fa9\u306e\u5929\u7cbe\u30e1\u30a4\u30ea\u30f3_\u5168\u4f53\u653b\u6483",
+        "P_EFFECT_FRAME": "1:0:34000894,2:1:34000897",
+        "P_DAMAGE_FRAME": "5:13@13:2:1:1,9:5@5:2:2:0,24:6@6:2:2:1,28:6@6:2:2:0,32:6@6:2:2:0,36:6@6:2:2:0,49:15@15:2:2:1,107:27@27:2:1:1,111:9@9:2:2:0,115:7@7:2:2:0",
+        "P_COMMENT": "\u30c8\u30ea\u30ac\u30fc\u3067SBB\u3092\u767a\u52d5\u3059\u308b"
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "400222451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u8d85\u8d8a_\u5d50\u7fa9\u306e\u5929\u7cbe\u30e1\u30a4\u30ea\u30f3_\u30d0\u30d5",
+        "P_EFFECT_FRAME": "1:140:34000895,2:141:34000896",
+        "P_DAMAGE_FRAME": "140:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -16821,10 +17332,24 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "500052403",
+        "P_EFFECT_PROCESS_NAME": "BB_\u8d85\u8d8a_\u4eba\u578b\u6383\u5c04\u5175\u5668\u30eb\u30b7\u30a7\u2161",
+        "P_EFFECT_FRAME": "1:66:35000515",
+        "P_DAMAGE_FRAME": "66:10@10:2:2:2,69:10@10:2:2:0,72:10@10:2:2:1,75:10@10:2:2:0,78:10@10:2:2:1,81:10@10:2:2:0,84:10@10:2:2:1,87:10@10:2:2:0,90:10@10:2:2:1,93:10@10:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "500052420",
         "P_EFFECT_PROCESS_NAME": "XBB_OPERATION DELTA_\u30eb\u30b7\u30a7",
         "P_EFFECT_FRAME": "1:0:50000211",
         "P_DAMAGE_FRAME": "33:6@6:2:2:1,36:9@9:2:2:0,515:9@9:2:4:0,547:7@7:2:5:1,569:8@8:2:6:0,599:8@8:2:7:0,635:9@9:2:8:1,671:5@5:2:2:0,733:11@11:2:3:0,757:9@9:2:3:1,781:10@10:2:3:0,823:5@5:2:2:0,905:4@4:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500052450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u4eba\u578b\u6383\u5c04\u5175\u5668\u30eb\u30b7\u30a7\u2161",
+        "P_EFFECT_FRAME": "1:66:35000514",
+        "P_DAMAGE_FRAME": "66:10@10:2:2:2,69:10@10:2:2:2,72:10@10:2:2:1,75:10@10:2:2:2,78:10@10:2:2:1,81:10@10:2:2:2,84:10@10:2:2:1,87:10@10:2:2:2,90:10@10:2:2:1,93:10@10:2:2:1",
         "P_COMMENT": ""
     },
     {
@@ -17325,6 +17850,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "500152450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u9280\u8056\u7687\u9a0e\u30e8\u30b7\u30e5\u30a22",
+        "P_EFFECT_FRAME": "1:0:35000796,2:1:35000797",
+        "P_DAMAGE_FRAME": "17:13@13:2:2:2,20:8@8:2:2:1,23:5@5:2:2:0,26:5@5:2:2:0,29:4@4:2:2:0,62:18@18:2:2:2,65:13@13:2:2:1,68:10@10:2:2:0,71:10@10:2:2:0,74:5@5:2:2:0,77:5@5:2:2:0,80:4@4:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500152451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u9280\u8056\u7687\u9a0e\u30e8\u30b7\u30e5\u30a2",
+        "P_EFFECT_FRAME": "1:17:35000798",
+        "P_DAMAGE_FRAME": "17:15@15:2:2:2,20:10@10:2:2:2,23:10@10:2:2:1,62:20@20:2:2:3,65:15@15:2:2:2,68:10@10:2:2:2,71:10@10:2:2:1,74:10@10:2:2:2",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "500161200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u7ffc\u7adc\u30ef\u30a4\u30d0\u30fc\u30f3",
         "P_EFFECT_FRAME": "1:36:35000090",
@@ -17752,6 +18291,20 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "500192450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u5149\u5e7b\u753b\u8056\u30ec\u30c6\u30a3\u30b9\u30c82",
+        "P_EFFECT_FRAME": "1:0:35000946,2:0:35000948",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500192451",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u5149\u5e7b\u753b\u8056\u30ec\u30c6\u30a3\u30b9\u30c83",
+        "P_EFFECT_FRAME": "1:0:35000947",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "500201200",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u4eba\u578b\u5175\u5668\u30ea\u30ea\u30b9",
         "P_EFFECT_FRAME": "1:11:35000210",
@@ -17805,6 +18358,13 @@
         "P_EFFECT_PROCESS_NAME": "XBB_OPERATION DELTA_\u30ea\u30ea\u30b9",
         "P_EFFECT_FRAME": "1:0:50000210,2:1:50000213,1:0:50000214,-1:0,-2:850",
         "P_DAMAGE_FRAME": "89:4@4:2:2:1,169:5@5:2:2:1,503:8@8:2:3:1,537:9@9:2:3:0,563:9@9:2:3:0,587:4@4:2:2:0,623:8@8:2:3:0,659:7@7:2:3:0,725:3@3:2:2:0,749:9@9:2:3:0,773:8@8:2:3:0,813:8@8:2:3:1,873:5@5:2:2:0,923:10@10:2:3:0,926:3@3:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500201450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u4eba\u578b\u6383\u8a0e\u5175\u5668\u30ea\u30ea\u30b9II",
+        "P_EFFECT_FRAME": "1:0:35000234",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -18956,6 +19516,48 @@
         "P_COMMENT": "\u901a\u5e38\u653b\u6483\u306e\u307e\u307e\uff08\u30c0\u30df\u30fc\uff09"
     },
     {
+        "P_EFFECT_PROCESS_ID": "500362400",
+        "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a2",
+        "P_EFFECT_FRAME": "1:65:35001460,1:0:35001464",
+        "P_DAMAGE_FRAME": "65:11@11:2:2:2,68:8@8:2:2:2,71:6@6:2:2:2,74:5@5:2:2:1,77:8@8:2:2:1,80:9@9:2:2:1,83:10@10:2:2:1,86:8@8:2:2:1,89:10@10:2:2:1,92:9@9:2:2:1,95:9@9:2:2:1,98:7@7:2:2:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500362401",
+        "P_EFFECT_PROCESS_NAME": "BB_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a2",
+        "P_EFFECT_FRAME": "1:65:35001461,1:0:35001464,2:5:35001468",
+        "P_DAMAGE_FRAME": "65:9@9:2:2:1,70:7@7:2:2:0,75:5@5:2:2:1,80:4@4:2:2:0,85:7@7:2:2:1,90:8@8:2:2:0,95:9@9:2:2:1,100:7@7:2:2:0,105:9@9:2:2:0,111:8@8:2:2:0,117:8@8:2:2:0,123:6@6:2:2:0,129:4@4:2:2:0,135:5@5:2:2:0,141:4@4:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500362402",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a2",
+        "P_EFFECT_FRAME": "1:0:35001462,2:1:35001463,1:0:35001464",
+        "P_DAMAGE_FRAME": "65:9@9:2:3:1,68:6@6:2:3:0,71:5@5:2:3:1,75:3@3:2:3:0,79:7@7:2:3:1,83:6@6:2:3:0,89:7@7:2:3:1,95:5@5:2:3:0,101:9@9:2:3:0,107:6@6:2:3:0,114:8@8:2:3:0,121:3@3:2:3:0,128:4@4:2:3:0,135:5@5:2:3:0,143:5@5:2:3:0,151:3@3:2:3:0,159:4@4:2:3:0,167:5@5:2:3:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500362410",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a21",
+        "P_EFFECT_FRAME": "1:0:35001465",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:2",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500362411",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a22",
+        "P_EFFECT_FRAME": "1:0:35001466",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:2",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "500362412",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u9b54\u5e7b\u5983\u30b7\u30e3\u30a4\u30a23",
+        "P_EFFECT_FRAME": "1:0:35001467",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:2",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "500371400",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_GUEST_BF1\u4e3b\u4eba\u516c\uff08\u8056\u5263\uff09",
         "P_EFFECT_FRAME": "1:26:35001220",
@@ -19516,6 +20118,13 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "600052450",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u4eba\u578b\u6383\u6ec5\u5175\u5668\u30ec\u30df\u30b9\u2161",
+        "P_EFFECT_FRAME": "1:0:36000544",
+        "P_DAMAGE_FRAME": "0:10@10:2:2:2,6:5@5:2:2:1,12:5@5:2:2:1,18:5@5:2:2:1,24:5@5:2:2:1,41:15@15:2:4:2,45:15@15:2:4:2,49:15@15:2:4:2,53:10@10:2:4:1,57:10@10:2:4:1,61:5@5:2:4:1",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "600062000",
         "P_EFFECT_PROCESS_NAME": "\u901a\u5e38\u653b\u6483_\u56e3\u54e1\u30df\u30eb\u30b1\u30e9",
         "P_EFFECT_FRAME": "1:26:36000550",
@@ -19964,10 +20573,38 @@
         "P_COMMENT": ""
     },
     {
+        "P_EFFECT_PROCESS_ID": "600152403",
+        "P_EFFECT_PROCESS_NAME": "SBB_\u8d85\u8d8a_\u5f71\u8fc5\u5e7b\u821e\u30cf\u30f3\u30b9",
+        "P_EFFECT_FRAME": "1:0:36000822,2:1:36000823",
+        "P_DAMAGE_FRAME": "13:14@14:2:2:2,16:10@10:2:2:1,19:8@8:2:2:0,22:7@7:2:2:0,83:18@18:2:2:2,86:13@13:2:2:1,89:9@9:2:2:0,92:8@8:2:2:0,95:7@7:2:2:0,98:6@6:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
         "P_EFFECT_PROCESS_ID": "600152420",
         "P_EFFECT_PROCESS_NAME": "XBB_\u30a2\u30eb\u30d0\u30fb\u30bd\u30eb\u30c0\u30fc\u30c9 _\u30cf\u30f3\u30b9",
         "P_EFFECT_FRAME": "1:0:50000304",
         "P_DAMAGE_FRAME": "163:8@8:2:2:0,177:8@8:2:2:0,284:12@12:2:3:1,298:9@9:2:3:0,321:11@11:2:3:1,329:7@7:2:3:0,337:10@10:2:3:1,345:13@13:2:3:0,511:11@11:2:2:1,531:11@11:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "600152450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u5f71\u8fc5\u5e7b\u821e\u30cf\u30f3\u30b92",
+        "P_EFFECT_FRAME": "1:13:36000825,2:14:36000827",
+        "P_DAMAGE_FRAME": "13:14@14:2:2:2,16:10@10:2:2:1,19:8@8:2:2:0,22:7@7:2:2:0,83:18@18:2:2:2,86:13@13:2:2:1,89:9@9:2:2:0,92:8@8:2:2:0,95:7@7:2:2:0,98:6@6:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "600152451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u5f71\u8fc5\u5e7b\u821e\u30cf\u30f3\u30b9",
+        "P_EFFECT_FRAME": "1:13:36000826,2:14:36000828",
+        "P_DAMAGE_FRAME": "13:14@14:2:2:1,16:10@10:2:2:1,19:8@8:2:2:0,22:7@7:2:2:0,83:18@18:2:2:1,86:13@13:2:2:1,89:9@9:2:2:0,92:8@8:2:2:0,95:7@7:2:2:0,98:6@6:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "600152452",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u5f71\u8fc5\u5e7b\u821e\u30cf\u30f3\u30b93",
+        "P_EFFECT_FRAME": "1:0:36000829",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {
@@ -20304,6 +20941,20 @@
         "P_EFFECT_PROCESS_NAME": "XBB_\u300e\u5d50\u5996\u4f1d\u300f\u53db\u66b4\u306e\u7ae0_\u30c7\u30a3\u30af\u30c84",
         "P_EFFECT_FRAME": "1:0:50000471",
         "P_DAMAGE_FRAME": "544:17@17:2:2:1,558:6@6:2:2:0,572:14@14:2:2:0,586:4@4:2:2:1,600:18@18:2:2:0,614:6@6:2:2:1,628:17@17:2:2:0,642:10@10:2:2:1,656:8@8:2:2:0",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "600182450",
+        "P_EFFECT_PROCESS_NAME": "ALT_\u95c7\u56da\u5e7b\u8a5e\u30c7\u30a3\u30af\u30c82",
+        "P_EFFECT_FRAME": "1:0:36001065",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
+        "P_COMMENT": ""
+    },
+    {
+        "P_EFFECT_PROCESS_ID": "600182451",
+        "P_EFFECT_PROCESS_NAME": "TRG_\u95c7\u56da\u5e7b\u8a5e\u30c7\u30a3\u30af\u30c8",
+        "P_EFFECT_FRAME": "1:0:36001066",
+        "P_DAMAGE_FRAME": "0:100@100:2:1:1",
         "P_COMMENT": ""
     },
     {

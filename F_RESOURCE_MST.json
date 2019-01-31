@@ -21,7 +21,7 @@
         "P_FILE_NAME": "script.cpk",
         "P_EXT_IMG_PARAM": "\u30b9\u30af\u30ea\u30d7\u30c8",
         "aigSzwVh": "0",
-        "jb0WsR6n": "ad7b3df9da611fbfb20853f3bf062e68"
+        "jb0WsR6n": "96d0954d580ad355094451195f703113"
     },
     {
         "P_RESOURCE_ID": "5",
@@ -117,7 +117,7 @@
         "P_FILE_NAME": "banner.cpk",
         "P_EXT_IMG_PARAM": "\u30d0\u30ca\u30fc",
         "aigSzwVh": "0",
-        "jb0WsR6n": "3d9f5678c05bb9fa9fe99e0145acb110"
+        "jb0WsR6n": "be57503a050d03e3fd97df6b7145d03f"
     },
     {
         "P_RESOURCE_ID": "211",
@@ -885,7 +885,7 @@
         "P_FILE_NAME": "unit7_01.cpk",
         "P_EXT_IMG_PARAM": "\u30e6\u30cb\u30c3\u30c8\u30ea\u30bd\u30fc\u30b97",
         "aigSzwVh": "0",
-        "jb0WsR6n": "76d9503b40a074261360120a28662032"
+        "jb0WsR6n": "5d185eda6dc6c747e3c0a3b2bb7345d7"
     },
     {
         "P_RESOURCE_ID": "280",
@@ -1185,7 +1185,7 @@
         "P_FILE_NAME": "effectSS_boss_anime.cpk",
         "P_EXT_IMG_PARAM": "\u30dc\u30b9\u30a2\u30cb\u30e1",
         "aigSzwVh": "0",
-        "jb0WsR6n": "1fe3ff186f9e10246c69067d64294f73"
+        "jb0WsR6n": "4005bd3e15728d2a8e35f4308de1f4c5"
     },
     {
         "P_RESOURCE_ID": "305",
@@ -1569,7 +1569,7 @@
         "P_FILE_NAME": "script_layouttool.cpk",
         "P_EXT_IMG_PARAM": "script_layouttool.cpk\uff08\u30b9\u30af\u30ea\u30d7\u30c8\u7528\u30ec\u30a4\u30a2\u30a6\u30c8\uff09",
         "aigSzwVh": "0",
-        "jb0WsR6n": "3ec03cd52ab211b92325512ffd1b6d01"
+        "jb0WsR6n": "c923cfec09749166435af87594a93844"
     },
     {
         "P_RESOURCE_ID": "338",
@@ -1581,7 +1581,7 @@
         "P_FILE_NAME": "area_2.cpk",
         "P_EXT_IMG_PARAM": "area_2.cpk\uff08\u30a8\u30ea\u30a2\u30ea\u30bd\u30fc\u30b9\u7b2c\uff14\u7ae0\u4ee5\u964d\uff09",
         "aigSzwVh": "0",
-        "jb0WsR6n": "8564354cb50fa3df6457bfea60d17e6f"
+        "jb0WsR6n": "3afbda533444d9d448be1ccc4b4d9bc5"
     },
     {
         "P_RESOURCE_ID": "339",
@@ -1725,7 +1725,7 @@
         "P_FILE_NAME": "event_navi_thumbnail_2.cpk",
         "P_EXT_IMG_PARAM": "event_navi_thumbnail_2.cpk",
         "aigSzwVh": "0",
-        "jb0WsR6n": "0cd5cc3cb9734ddcd1e3df27bf509276"
+        "jb0WsR6n": "c141b4121b612398330da01fabbf9618"
     },
     {
         "P_RESOURCE_ID": "351",
@@ -1749,7 +1749,7 @@
         "P_FILE_NAME": "unit5_02.cpk",
         "P_EXT_IMG_PARAM": "\u30e6\u30cb\u30c3\u30c8\u30ea\u30bd\u30fc\u30b95_02",
         "aigSzwVh": "0",
-        "jb0WsR6n": "e49d882c8ee3a659da6603a7d2cbd0ee"
+        "jb0WsR6n": "25e277866cb0a1dcd55a2bc89cc09172"
     },
     {
         "P_RESOURCE_ID": "353",
@@ -2145,7 +2145,7 @@
         "P_FILE_NAME": "summon_02.cpk",
         "P_EXT_IMG_PARAM": "summon_02.cpk",
         "aigSzwVh": "0",
-        "jb0WsR6n": "de191f98589b3cc18e8c76789d75cbd6"
+        "jb0WsR6n": "eea9471c23fccd07f1fba212ec227d66"
     },
     {
         "P_RESOURCE_ID": "386",
@@ -2253,7 +2253,7 @@
         "P_FILE_NAME": "raid.cpk",
         "P_EXT_IMG_PARAM": "\u653b\u9632\u6226",
         "aigSzwVh": "0",
-        "jb0WsR6n": "95e539518593af4bc6d0ce1d5712f349"
+        "jb0WsR6n": "58ad33b3fbf9ad31ee36f24500be6257"
     },
     {
         "P_RESOURCE_ID": "395",
@@ -2325,7 +2325,7 @@
         "P_FILE_NAME": "event_navi_full_181_210.cpk",
         "P_EXT_IMG_PARAM": "event_navi_full_181_210.cpk",
         "aigSzwVh": "0",
-        "jb0WsR6n": "6802b87647071f01e5dbc452a6cc4a63"
+        "jb0WsR6n": "dd89624144c060db5d790093ebe8fdb3"
     },
     {
         "P_RESOURCE_ID": "401",
@@ -2482,5 +2482,41 @@
         "P_EXT_IMG_PARAM": "BF2_086_event02.acb",
         "aigSzwVh": "0",
         "jb0WsR6n": "cfa88cadd85621aac11d9a509519bb9a"
+    },
+    {
+        "P_RESOURCE_ID": "414",
+        "P_RESOURCE_TYPE": "100",
+        "P_RESOURCE_GROUP": "dungeon",
+        "jsRoN50z": "http://resource.cdn.bravefrontier2.jp/bf2/resource/",
+        "P_PATH": "dungeon",
+        "P_GROUP_NAME": "dungeon",
+        "P_FILE_NAME": "dungeon_sq_battle_bg_3.cpk",
+        "P_EXT_IMG_PARAM": "\u30b9\u30c8\u30af\u30a8\u30c0\u30f3\u30b8\u30e7\u30f3\u80cc\u666f3",
+        "aigSzwVh": "0",
+        "jb0WsR6n": "5f6519c9a77f39c9dc186e2e40e001d7"
+    },
+    {
+        "P_RESOURCE_ID": "415",
+        "P_RESOURCE_TYPE": "100",
+        "P_RESOURCE_GROUP": "effectSS",
+        "jsRoN50z": "http://resource.cdn.bravefrontier2.jp/bf2/resource/",
+        "P_PATH": "effectSS",
+        "P_GROUP_NAME": "effectSS",
+        "P_FILE_NAME": "effectSS_bg_sq_battle_3.cpk",
+        "P_EXT_IMG_PARAM": "\u30b9\u30c8\u30af\u30a8\u30c0\u30f3\u30b8\u30e7\u30f3\u80cc\u666f\u30a2\u30cb\u30e13",
+        "aigSzwVh": "0",
+        "jb0WsR6n": "03814920caf39229930006049836be02"
+    },
+    {
+        "P_RESOURCE_ID": "416",
+        "P_RESOURCE_TYPE": "100",
+        "P_RESOURCE_GROUP": "event",
+        "jsRoN50z": "http://resource.cdn.bravefrontier2.jp/bf2/resource/",
+        "P_PATH": "event",
+        "P_GROUP_NAME": "event",
+        "P_FILE_NAME": "event_navi_full_211_240.cpk",
+        "P_EXT_IMG_PARAM": "event_navi_full_211_240.cpk",
+        "aigSzwVh": "0",
+        "jb0WsR6n": "8ef7aa7b0f1e4bc1229009617b2c3e03"
     }
 ]

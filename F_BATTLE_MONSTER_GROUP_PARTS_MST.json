@@ -262,5 +262,93 @@
         "P_IMG_CGS": "dead_idle_parts3/anime",
         "8GNxt1XE": "0,-80,100,100",
         "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000170",
+        "o49dYfpH": "9010800",
+        "7Hf3DnVj": "1",
+        "2gZIRQ7D": "10",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts1/anime",
+        "8GNxt1XE": "310,405,100,100",
+        "P_PARAM_UP_EXT": "50#idle_parts2/anime,idle_parts2/anime,attack_parts2/anime,attack_parts2/anime,idle_parts2/anime,dead_idle_parts2/anime,idle_parts2/anime"
+    },
+    {
+        "Qzhp8B40": "30000170",
+        "o49dYfpH": "9010801",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "40",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts3/anime",
+        "8GNxt1XE": "340,-100,100,100",
+        "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000170",
+        "o49dYfpH": "9010802",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "30",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts4/anime",
+        "8GNxt1XE": "110,140,100,100",
+        "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000170",
+        "o49dYfpH": "9010803",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "20",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts5/anime",
+        "8GNxt1XE": "185,170,100,100",
+        "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000171",
+        "o49dYfpH": "9010810",
+        "7Hf3DnVj": "1",
+        "2gZIRQ7D": "10",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts1/anime",
+        "8GNxt1XE": "310,405,100,100",
+        "P_PARAM_UP_EXT": "50#idle_parts2/anime,idle_parts2/anime,attack_parts2/anime,attack_parts2/anime,idle_parts2/anime,dead_idle_parts2/anime,idle_parts2/anime"
+    },
+    {
+        "Qzhp8B40": "30000171",
+        "o49dYfpH": "9010811",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "40",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts3/anime",
+        "8GNxt1XE": "340,-100,100,100",
+        "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000171",
+        "o49dYfpH": "9010812",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "30",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts4/anime",
+        "8GNxt1XE": "110,140,100,100",
+        "P_PARAM_UP_EXT": ""
+    },
+    {
+        "Qzhp8B40": "30000171",
+        "o49dYfpH": "9010813",
+        "7Hf3DnVj": "2",
+        "2gZIRQ7D": "20",
+        "2EF0d6ue": "bossmotion_9004300.ssbp",
+        "P_IMG_CGG": "",
+        "P_IMG_CGS": "dead_idle_parts5/anime",
+        "8GNxt1XE": "185,170,100,100",
+        "P_PARAM_UP_EXT": ""
     }
 ]

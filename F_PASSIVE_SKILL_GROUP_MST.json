@@ -1035,6 +1035,15 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "c3prn4s7": "1115",
+        "P_SKILL_NAME": "\u4e3b\u3078\u306e\u9ed9\u5f93",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20007",
+        "E19X6kmB": "45000035",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "c3prn4s7": "2000",
         "P_SKILL_NAME": "\u5929\u7a1f\u306a\u308b\u610f\u5fd7",
         "moWQ30GH": "1",
@@ -1224,6 +1233,96 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "c3prn4s7": "2021",
+        "P_SKILL_NAME": "\u672a\u3060\u77e5\u3089\u306a\u3044\u4e16\u754c\u3078",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10135,2:20001",
+        "E19X6kmB": "7050013,7060004",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2022",
+        "P_SKILL_NAME": "\u5947\u8de1\u3092\u9858\u3046\u529b",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10135,2:20004",
+        "E19X6kmB": "5010021,5050017",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2023",
+        "P_SKILL_NAME": "\u5fc3\u3092\u958b\u304f\u8a00\u8449",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10135,2:20002",
+        "E19X6kmB": "6060011,4060017",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2024",
+        "P_SKILL_NAME": "\u96f2\u3092\u8cab\u304f\u60f3\u3044",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10135,2:20010",
+        "E19X6kmB": "4010018,4030005",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2025",
+        "P_SKILL_NAME": "\u8a8d\u8b58\u306a\u304d\u81ea\u6211",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10123,2:20010",
+        "E19X6kmB": "1001104,4010017",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2026",
+        "P_SKILL_NAME": "\u610f\u5fd7\u306a\u304d\u5263",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10123,2:20008",
+        "E19X6kmB": "1001105,2010015",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2027",
+        "P_SKILL_NAME": "\u304b\u306e\u548e\u306b\u7f6a\u306f\u7121\u3057",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10123,2:20010",
+        "E19X6kmB": "3010013,3020017",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2028",
+        "P_SKILL_NAME": "\u52b1\u708e\u306e\u52c7\u58eb",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10119,2:20004",
+        "E19X6kmB": "5010020,10020100",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2029",
+        "P_SKILL_NAME": "\u7fe0\u5fc3\u306e\u5200\u9798",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10120,2:20008",
+        "E19X6kmB": "1001106,5080012",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2030",
+        "P_SKILL_NAME": "\u5b64\u92ed\u306e\u8056\u9280",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:10124,2:20007",
+        "E19X6kmB": "1015019,10300200",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "c3prn4s7": "10000",
         "P_SKILL_NAME": "\u6226\u5203\u523b",
         "moWQ30GH": "1",
@@ -1400,6 +1499,15 @@
         "moWQ30GH": "1",
         "PEVks0h8": "1",
         "E19X6kmB": "1030103,5010001",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "12200",
+        "P_SKILL_NAME": "\u9b54\u8a60\u306e\u5e7b\u58ee\u754c",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "1010002,10001002,6030010",
         "X4mIT5Lc": "1",
         "P_EXT_IMG_PARAM": ""
     },
@@ -1841,6 +1949,33 @@
         "moWQ30GH": "1",
         "PEVks0h8": "1",
         "E19X6kmB": "12000312",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "100700",
+        "P_SKILL_NAME": "\u696d\u9b54\u304c\u8a98\u3046\u96d9\u7344",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "10018201,4021000,12000004",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "100800",
+        "P_SKILL_NAME": "\u696d\u9b54\u304c\u596a\u3046\u96d9\u970a",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "10018301,4020900,12000004",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "100900",
+        "P_SKILL_NAME": "\u696d\u9b54\u304c\u5bbf\u3059\u96d9\u5e7b",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "10018401,4020804,12000004",
         "X4mIT5Lc": "1",
         "P_EXT_IMG_PARAM": ""
     },

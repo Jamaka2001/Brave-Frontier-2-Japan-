@@ -1687,6 +1687,55 @@
         "P_HOME_EFFECT_INFO": "20"
     },
     {
+        "P_BATTLE_BG_ID": "202180101",
+        "P_IMG": "battle_bg_sq_018_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001500",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180102",
+        "P_IMG": "battle_bg_sq_018_02_1.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001501",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180103",
+        "P_IMG": "battle_bg_sq_018_02_2.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001502",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180104",
+        "P_IMG": "battle_bg_sq_018_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001503",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180105",
+        "P_IMG": "battle_bg_sq_018_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001504",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180106",
+        "P_IMG": "battle_bg_sq_018_05.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001505",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202180107",
+        "P_IMG": "battle_bg_sq_018_06.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001506",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
         "P_BATTLE_BG_ID": "203110101",
         "P_IMG": "battle_bg_sq_011_01_1.jpg",
         "P_POS": "-156,-142",

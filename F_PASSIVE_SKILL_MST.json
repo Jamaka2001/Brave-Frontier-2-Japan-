@@ -126,6 +126,24 @@
         "P_EXT_IMG_PARAM": "1:\u300c\u3044\u306b\u3057\u3048\u306e\u30da\u30f3\u30c0\u30f3\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483\u529b\u309215%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "1001104",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "15,0,0,0",
+        "P_EXT_IMG_PARAM": "1:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483\u529b\u309215%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "1001105",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "15,0,0,0",
+        "P_EXT_IMG_PARAM": "1:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483\u529b\u309215%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "1001106",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "15,0,0,0",
+        "P_EXT_IMG_PARAM": "1:\u300c\u7fe0\u6f54\u5200\u300e\u5f57\u83ef\u300f\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483\u529b\u309215%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "1002001",
         "P_PROCESS_TYPE": "1",
         "P_PROCESS_PARAM": "0,5,0,0",
@@ -1122,6 +1140,18 @@
         "P_EXT_IMG_PARAM": "1:\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u9632\u5fa1\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "1014013",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "0,12,12,12",
+        "P_EXT_IMG_PARAM": "1:\u9632\u5fa1\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309212%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "1014014",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "0,18,18,18",
+        "P_EXT_IMG_PARAM": "1:\u9632\u5fa1\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309218%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "1015001",
         "P_PROCESS_TYPE": "1",
         "P_PROCESS_PARAM": "5,5,5,5",
@@ -1228,6 +1258,12 @@
         "P_PROCESS_TYPE": "1",
         "P_PROCESS_PARAM": "10,10,10,10",
         "P_EXT_IMG_PARAM": "1:\u300c\u30b9\u30c6\u30fc\u30bf\u30b9\u5f37\u5316\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u5168\u80fd\u529b\u309210%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "1015019",
+        "P_PROCESS_TYPE": "1",
+        "P_PROCESS_PARAM": "10,10,10,10",
+        "P_EXT_IMG_PARAM": "1:\u300c\u8056\u9280\u306e\u5916\u5957\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1b\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u5168\u80fd\u529b\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1016001",
@@ -4406,61 +4442,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1113001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,5,5,0,5",
+        "P_PROCESS_PARAM": "1,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,10,10,0,10",
+        "P_PROCESS_PARAM": "1,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,15,15,0,15",
+        "P_PROCESS_PARAM": "1,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,20,20,0,20",
+        "P_PROCESS_PARAM": "1,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,25,25,0,25",
+        "P_PROCESS_PARAM": "1,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,30,30,0,30",
+        "P_PROCESS_PARAM": "1,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,35,35,0,35",
+        "P_PROCESS_PARAM": "1,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,40,40,0,40",
+        "P_PROCESS_PARAM": "1,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,45,45,0,45",
+        "P_PROCESS_PARAM": "1,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1113010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "1,50,50,0,50",
+        "P_PROCESS_PARAM": "1,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u708e\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -5306,61 +5342,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1213001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,5,5,0,5",
+        "P_PROCESS_PARAM": "2,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,10,10,0,10",
+        "P_PROCESS_PARAM": "2,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,15,15,0,15",
+        "P_PROCESS_PARAM": "2,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,20,20,0,20",
+        "P_PROCESS_PARAM": "2,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,25,25,0,25",
+        "P_PROCESS_PARAM": "2,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,30,30,0,30",
+        "P_PROCESS_PARAM": "2,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,35,35,0,35",
+        "P_PROCESS_PARAM": "2,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,40,40,0,40",
+        "P_PROCESS_PARAM": "2,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,45,45,0,45",
+        "P_PROCESS_PARAM": "2,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1213010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "2,50,50,0,50",
+        "P_PROCESS_PARAM": "2,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u6c34\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -6206,61 +6242,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1313001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,5,5,0,5",
+        "P_PROCESS_PARAM": "3,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,10,10,0,10",
+        "P_PROCESS_PARAM": "3,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,15,15,0,15",
+        "P_PROCESS_PARAM": "3,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,20,20,0,20",
+        "P_PROCESS_PARAM": "3,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,25,25,0,25",
+        "P_PROCESS_PARAM": "3,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,30,30,0,30",
+        "P_PROCESS_PARAM": "3,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,35,35,0,35",
+        "P_PROCESS_PARAM": "3,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,40,40,0,40",
+        "P_PROCESS_PARAM": "3,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,45,45,0,45",
+        "P_PROCESS_PARAM": "3,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1313010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "3,50,50,0,50",
+        "P_PROCESS_PARAM": "3,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u6a39\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -7106,61 +7142,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1413001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,5,5,0,5",
+        "P_PROCESS_PARAM": "4,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,10,10,0,10",
+        "P_PROCESS_PARAM": "4,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,15,15,0,15",
+        "P_PROCESS_PARAM": "4,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,20,20,0,20",
+        "P_PROCESS_PARAM": "4,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,25,25,0,25",
+        "P_PROCESS_PARAM": "4,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,30,30,0,30",
+        "P_PROCESS_PARAM": "4,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,35,35,0,35",
+        "P_PROCESS_PARAM": "4,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,40,40,0,40",
+        "P_PROCESS_PARAM": "4,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,45,45,0,45",
+        "P_PROCESS_PARAM": "4,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1413010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "4,50,50,0,50",
+        "P_PROCESS_PARAM": "4,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u96f7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -8006,61 +8042,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1513001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,5,5,0,5",
+        "P_PROCESS_PARAM": "5,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,10,10,0,10",
+        "P_PROCESS_PARAM": "5,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,15,15,0,15",
+        "P_PROCESS_PARAM": "5,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,20,20,0,20",
+        "P_PROCESS_PARAM": "5,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,25,25,0,25",
+        "P_PROCESS_PARAM": "5,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,30,30,0,30",
+        "P_PROCESS_PARAM": "5,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,35,35,0,35",
+        "P_PROCESS_PARAM": "5,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,40,40,0,40",
+        "P_PROCESS_PARAM": "5,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,45,45,0,45",
+        "P_PROCESS_PARAM": "5,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1513010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "5,50,50,0,50",
+        "P_PROCESS_PARAM": "5,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u5149\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -8906,61 +8942,61 @@
     {
         "P_PASSIVE_SKILL_ID": "1613001",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,5,5,0,5",
+        "P_PROCESS_PARAM": "6,5,0,5,5",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u30925%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613002",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,10,10,0,10",
+        "P_PROCESS_PARAM": "6,10,0,10,10",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309210%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613003",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,15,15,0,15",
+        "P_PROCESS_PARAM": "6,15,0,15,15",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309215%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613004",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,20,20,0,20",
+        "P_PROCESS_PARAM": "6,20,0,20,20",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613005",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,25,25,0,25",
+        "P_PROCESS_PARAM": "6,25,0,25,25",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309225%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613006",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,30,30,0,30",
+        "P_PROCESS_PARAM": "6,30,0,30,30",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613007",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,35,35,0,35",
+        "P_PROCESS_PARAM": "6,35,0,35,35",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309235%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613008",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,40,40,0,40",
+        "P_PROCESS_PARAM": "6,40,0,40,40",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309240%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613009",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,45,45,0,45",
+        "P_PROCESS_PARAM": "6,45,0,45,45",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309245%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "1613010",
         "P_PROCESS_TYPE": "2",
-        "P_PROCESS_PARAM": "6,50,50,0,50",
+        "P_PROCESS_PARAM": "6,50,0,50,50",
         "P_EXT_IMG_PARAM": "1:\u95c7\u5c5e\u6027\u306e\u653b\u6483\u529b\u30fb\u9b54\u9632\u529b\u30fb\u6700\u5927HP\u309250%\u30a2\u30c3\u30d7"
     },
     {
@@ -9208,6 +9244,24 @@
         "P_PROCESS_TYPE": "20",
         "P_PROCESS_PARAM": "20,0,0,0,0",
         "P_EXT_IMG_PARAM": "11:\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30b9\u30d1\u30fc\u30af\u30c0\u30e1\u30fc\u30b8\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "2010015",
+        "P_PROCESS_TYPE": "20",
+        "P_PROCESS_PARAM": "20,0,0,0,0",
+        "P_EXT_IMG_PARAM": "11:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30b9\u30d1\u30fc\u30af\u30c0\u30e1\u30fc\u30b8\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "2010016",
+        "P_PROCESS_TYPE": "20",
+        "P_PROCESS_PARAM": "55,0,0,0,0",
+        "P_EXT_IMG_PARAM": "11:\u30b9\u30d1\u30fc\u30af\u30c0\u30e1\u30fc\u30b8\u309255%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "2010017",
+        "P_PROCESS_TYPE": "20",
+        "P_PROCESS_PARAM": "60,0,0,0,0",
+        "P_EXT_IMG_PARAM": "11:\u30b9\u30d1\u30fc\u30af\u30c0\u30e1\u30fc\u30b8\u309260%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "2010100",
@@ -9528,6 +9582,12 @@
         "P_EXT_IMG_PARAM": "2:\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u7387\u309212%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "3010013",
+        "P_PROCESS_TYPE": "23",
+        "P_PROCESS_PARAM": "0,10",
+        "P_EXT_IMG_PARAM": "2:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u7387\u309210%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "3020000",
         "P_PROCESS_TYPE": "23",
         "P_PROCESS_PARAM": "0.1,0",
@@ -9628,6 +9688,12 @@
         "P_PROCESS_TYPE": "23",
         "P_PROCESS_PARAM": "20,0",
         "P_EXT_IMG_PARAM": "2:\u300c\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u30d1\u30fc\u30c6\u30a3\u5185\u306b\u300c\u30eb\u30cd\u300d\u304c\u3044\u308b\u3068\u3001\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u30c0\u30e1\u30fc\u30b8\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "3020017",
+        "P_PROCESS_TYPE": "23",
+        "P_PROCESS_PARAM": "20,0",
+        "P_EXT_IMG_PARAM": "2:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u30c0\u30e1\u30fc\u30b8\u309220%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "3030000",
@@ -9852,6 +9918,30 @@
         "P_EXT_IMG_PARAM": "13:\u300c\u30eb\u30fb\u30af\u30bb\u30eb\u30fb\u30bd\u30eb\u306e\u967d\u8b77\u7b26\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483BB\u306e\u5a01\u529b\u309220%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "4010017",
+        "P_PROCESS_TYPE": "38",
+        "P_PROCESS_PARAM": "20,20,20,0",
+        "P_EXT_IMG_PARAM": "13:\u300c\u30a2\u30fc\u30e0\u30c9\u30fb\u30b3\u30fc\u30c8\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483BB\u306e\u5a01\u529b\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4010018",
+        "P_PROCESS_TYPE": "38",
+        "P_PROCESS_PARAM": "20,20,20,0",
+        "P_EXT_IMG_PARAM": "13:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u653b\u6483BB\u306e\u5a01\u529b\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4010019",
+        "P_PROCESS_TYPE": "38",
+        "P_PROCESS_PARAM": "55,55,55,0",
+        "P_EXT_IMG_PARAM": "13:\u653b\u6483BB\u306e\u5a01\u529b\u309255%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4010020",
+        "P_PROCESS_TYPE": "38",
+        "P_PROCESS_PARAM": "60,60,60,0",
+        "P_EXT_IMG_PARAM": "13:\u653b\u6483BB\u306e\u5a01\u529b\u309260%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "4010100",
         "P_PROCESS_TYPE": "38",
         "P_PROCESS_PARAM": "0,0,0,50",
@@ -9972,6 +10062,18 @@
         "P_EXT_IMG_PARAM": "13:\u6c34\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309225%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "4020105",
+        "P_PROCESS_TYPE": "32",
+        "P_PROCESS_PARAM": "2,30",
+        "P_EXT_IMG_PARAM": "13:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u6c34\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309230%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4020106",
+        "P_PROCESS_TYPE": "32",
+        "P_PROCESS_PARAM": "2,30",
+        "P_EXT_IMG_PARAM": "13:\u6c34\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309230%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "4020200",
         "P_PROCESS_TYPE": "32",
         "P_PROCESS_PARAM": "3,5",
@@ -10000,6 +10102,18 @@
         "P_PROCESS_TYPE": "32",
         "P_PROCESS_PARAM": "3,25",
         "P_EXT_IMG_PARAM": "13:\u6a39\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309225%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4020205",
+        "P_PROCESS_TYPE": "32",
+        "P_PROCESS_PARAM": "3,30",
+        "P_EXT_IMG_PARAM": "13:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u6a39\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309230%\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "4020206",
+        "P_PROCESS_TYPE": "32",
+        "P_PROCESS_PARAM": "3,30",
+        "P_EXT_IMG_PARAM": "13:\u6a39\u5c5e\u6027\u306e\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u309230%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "4020300",
@@ -10290,6 +10404,12 @@
         "P_EXT_IMG_PARAM": "13:\u300c\u6708\u706f\u9999\u30a8\u30eb\u30d6\u30c0\u30e0\u30fc\u30eb\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u901a\u5e38\u653b\u6483\u306eHIT\u6570\u30921\u5897\u52a0"
     },
     {
+        "P_PASSIVE_SKILL_ID": "4030005",
+        "P_PROCESS_TYPE": "25",
+        "P_PROCESS_PARAM": "1,2,-80,-100,-100,-100,-100,100,0",
+        "P_EXT_IMG_PARAM": "13:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u901a\u5e38\u653b\u6483\u306eHIT\u6570\u30921\u5897\u52a0"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "4040000",
         "P_PROCESS_TYPE": "74",
         "P_PROCESS_PARAM": "30,0",
@@ -10524,6 +10644,12 @@
         "P_EXT_IMG_PARAM": "13:\u72b6\u614b\u7570\u5e38\u306e\u6575\u3078\u306e\u30c0\u30e1\u30fc\u30b8\u309280%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "4060017",
+        "P_PROCESS_TYPE": "75",
+        "P_PROCESS_PARAM": "20",
+        "P_EXT_IMG_PARAM": "13:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u72b6\u614b\u7570\u5e38\u306e\u6575\u3078\u306e\u30c0\u30e1\u30fc\u30b8\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "4070000",
         "P_PROCESS_TYPE": "57",
         "P_PROCESS_PARAM": "1",
@@ -10684,6 +10810,18 @@
         "P_PROCESS_TYPE": "4",
         "P_PROCESS_PARAM": "400,400",
         "P_EXT_IMG_PARAM": "6:\u300cHP\u56de\u5fa9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30bf\u30fc\u30f3\u6bce\u306bBB\u30b2\u30fc\u30b8\u3092400\u5897\u52a0"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "5010020",
+        "P_PROCESS_TYPE": "4",
+        "P_PROCESS_PARAM": "400,400",
+        "P_EXT_IMG_PARAM": "6:\u300c\u5fc3\u7cbe\u30b5\u30f3\u30af\u30aa\u30fc\u30ec\u306e\u6d99\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30bf\u30fc\u30f3\u6bce\u306bBB\u30b2\u30fc\u30b8\u3092400\u5897\u52a0"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "5010021",
+        "P_PROCESS_TYPE": "4",
+        "P_PROCESS_PARAM": "400,400",
+        "P_EXT_IMG_PARAM": "6:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u30bf\u30fc\u30f3\u6bce\u306bBB\u30b2\u30fc\u30b8\u3092400\u5897\u52a0"
     },
     {
         "P_PASSIVE_SKILL_ID": "5020000",
@@ -11088,6 +11226,12 @@
         "P_EXT_IMG_PARAM": "6:BC\u7372\u5f97\u6642\u306e\u5897\u52a0\u91cf\u309280%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "5050017",
+        "P_PROCESS_TYPE": "21",
+        "P_PROCESS_PARAM": "20",
+        "P_EXT_IMG_PARAM": "6:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BC\u7372\u5f97\u6642\u306e\u5897\u52a0\u91cf\u309220%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "5060000",
         "P_PROCESS_TYPE": "16",
         "P_PROCESS_PARAM": "100,100",
@@ -11326,6 +11470,12 @@
         "P_PROCESS_TYPE": "31",
         "P_PROCESS_PARAM": "10",
         "P_EXT_IMG_PARAM": "6:\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BB\u767a\u52d5\u306b\u5fc5\u8981\u306aBB\u30b2\u30fc\u30b8\u91cf\u309210%\u8efd\u6e1b"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "5080012",
+        "P_PROCESS_TYPE": "31",
+        "P_PROCESS_PARAM": "10",
+        "P_EXT_IMG_PARAM": "6:\u300c\u7fe0\u6f54\u5200\u300e\u5f57\u83ef\u300f\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30b9\u30d1\u30fc\u30af\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BB\u767a\u52d5\u306b\u5fc5\u8981\u306aBB\u30b2\u30fc\u30b8\u91cf\u309210%\u8efd\u6e1b"
     },
     {
         "P_PASSIVE_SKILL_ID": "5090000",
@@ -11640,6 +11790,18 @@
         "P_EXT_IMG_PARAM": "7:\u30bf\u30fc\u30f3\u6bce\u306bHP\u309220%\u301c25%\u56de\u5fa9"
     },
     {
+        "P_PASSIVE_SKILL_ID": "6010204",
+        "P_PROCESS_TYPE": "22",
+        "P_PROCESS_PARAM": "400,600,0,0",
+        "P_EXT_IMG_PARAM": "7:\u30bf\u30fc\u30f3\u6bce\u306bHP\u3092400\u301c600\u56de\u5fa9"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "6010205",
+        "P_PROCESS_TYPE": "22",
+        "P_PROCESS_PARAM": "0,0,25,30",
+        "P_EXT_IMG_PARAM": "7:\u30bf\u30fc\u30f3\u6bce\u306bHP\u309225%\u301c30%\u56de\u5fa9"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "6020000",
         "P_PROCESS_TYPE": "5",
         "P_PROCESS_PARAM": "5,5",
@@ -11932,6 +12094,12 @@
         "P_PROCESS_TYPE": "12",
         "P_PROCESS_PARAM": "4,6,50",
         "P_EXT_IMG_PARAM": "7:50%\u306e\u78ba\u7387\u3067HP\u3092\u4e0e\u30c0\u30e1\u30fc\u30b8\u306e4%\u301c6%\u56de\u5fa9"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "6060011",
+        "P_PROCESS_TYPE": "12",
+        "P_PROCESS_PARAM": "4,6,50",
+        "P_EXT_IMG_PARAM": "7:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u72b6\u614b\u7570\u5e38\u4ed8\u4e0e\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u300150%\u306e\u78ba\u7387\u3067HP\u3092\u4e0e\u30c0\u30e1\u30fc\u30b8\u306e4%\u301c6%\u56de\u5fa9"
     },
     {
         "P_PASSIVE_SKILL_ID": "6070000",
@@ -12276,6 +12444,12 @@
         "P_EXT_IMG_PARAM": "3:BC\u30fbHC\u51fa\u73fe\u7387\u309250%\u30a2\u30c3\u30d7"
     },
     {
+        "P_PASSIVE_SKILL_ID": "7050013",
+        "P_PROCESS_TYPE": "13",
+        "P_PROCESS_PARAM": "15,15,0,0",
+        "P_EXT_IMG_PARAM": "3:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c9\u30ed\u30c3\u30d7\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BC\u30fbHC\u51fa\u73fe\u7387\u309215%\u30a2\u30c3\u30d7"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "7060000",
         "P_PROCESS_TYPE": "77",
         "P_PROCESS_PARAM": "1,100",
@@ -12298,6 +12472,12 @@
         "P_PROCESS_TYPE": "77",
         "P_PROCESS_PARAM": "2,100",
         "P_EXT_IMG_PARAM": "3:\u300c\u30c9\u30ed\u30c3\u30d7\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BC\u30fbHC\u30c9\u30ed\u30c3\u30d7\u91cf\u3092\u30a2\u30c3\u30d7"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "7060004",
+        "P_PROCESS_TYPE": "77",
+        "P_PROCESS_PARAM": "3,100",
+        "P_EXT_IMG_PARAM": "3:\u300c\u7d75\u5e2b\u30ec\u30c6\u30a3\u30b9\u30c8\u306e\u7b46\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c9\u30ed\u30c3\u30d7\u30a2\u30c3\u30d7\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001BC\u30fbHC\u30c9\u30ed\u30c3\u30d7\u91cf\u3092\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "8001000",
@@ -12681,13 +12861,13 @@
         "P_PASSIVE_SKILL_ID": "8103000",
         "P_PROCESS_TYPE": "41",
         "P_PROCESS_PARAM": "0,0,50,50,50",
-        "P_EXT_IMG_PARAM": "5:\u653b\u6483\u529b\u30fb\u9632\u5fa1\u529b\u30fb\u56de\u5fa9\u529b\u4f4e\u4e0b\u3078\u306e\u8010\u6027\u309250%\u30a2\u30c3\u30d7"
+        "P_EXT_IMG_PARAM": "5:\u653b\u6483\u529b\u30fb\u9632\u5fa1\u529b\u30fb\u9b54\u9632\u529b\u4f4e\u4e0b\u3078\u306e\u8010\u6027\u309250%\u30a2\u30c3\u30d7"
     },
     {
         "P_PASSIVE_SKILL_ID": "8103001",
         "P_PROCESS_TYPE": "41",
         "P_PROCESS_PARAM": "0,0,100,100,100",
-        "P_EXT_IMG_PARAM": "5:\u653b\u6483\u529b\u30fb\u9632\u5fa1\u529b\u30fb\u56de\u5fa9\u529b\u4f4e\u4e0b\u3092\u7121\u52b9"
+        "P_EXT_IMG_PARAM": "5:\u653b\u6483\u529b\u30fb\u9632\u5fa1\u529b\u30fb\u9b54\u9632\u529b\u4f4e\u4e0b\u3092\u7121\u52b9"
     },
     {
         "P_PASSIVE_SKILL_ID": "8103002",
@@ -14490,16 +14670,34 @@
         "P_EXT_IMG_PARAM": "10:\u708e\u30fb\u6c34\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u309210%\u8efd\u6e1b"
     },
     {
+        "P_PASSIVE_SKILL_ID": "10018201",
+        "P_PROCESS_TYPE": "36",
+        "P_PROCESS_PARAM": "1&2,5",
+        "P_EXT_IMG_PARAM": "10:\u708e\u30fb\u6c34\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u30925%\u8efd\u6e1b"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "10018300",
         "P_PROCESS_TYPE": "36",
         "P_PROCESS_PARAM": "3&4,10",
         "P_EXT_IMG_PARAM": "10:\u6a39\u30fb\u96f7\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u309210%\u8efd\u6e1b"
     },
     {
+        "P_PASSIVE_SKILL_ID": "10018301",
+        "P_PROCESS_TYPE": "36",
+        "P_PROCESS_PARAM": "3&4,5",
+        "P_EXT_IMG_PARAM": "10:\u6a39\u30fb\u96f7\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u30925%\u8efd\u6e1b"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "10018400",
         "P_PROCESS_TYPE": "36",
         "P_PROCESS_PARAM": "5&6,10",
         "P_EXT_IMG_PARAM": "10:\u5149\u30fb\u95c7\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u309210%\u8efd\u6e1b"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "10018401",
+        "P_PROCESS_TYPE": "36",
+        "P_PROCESS_PARAM": "5&6,5",
+        "P_EXT_IMG_PARAM": "10:\u5149\u30fb\u95c7\u5c5e\u6027\u304b\u3089\u306e\u88ab\u30c0\u30e1\u30fc\u30b8\u30925%\u8efd\u6e1b"
     },
     {
         "P_PASSIVE_SKILL_ID": "10020000",
@@ -14530,6 +14728,12 @@
         "P_PROCESS_TYPE": "33",
         "P_PROCESS_PARAM": "0,0,100,100,0,0,0,0,0,0,0",
         "P_EXT_IMG_PARAM": "10:\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "10020100",
+        "P_PROCESS_TYPE": "33",
+        "P_PROCESS_PARAM": "0,0,100,100,0,0,0,0,0,0,0",
+        "P_EXT_IMG_PARAM": "10:\u300c\u5fc3\u7cbe\u30b5\u30f3\u30af\u30aa\u30fc\u30ec\u306e\u6d99\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300cBB\u88dc\u52a9\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9"
     },
     {
         "P_PASSIVE_SKILL_ID": "10030000",
@@ -14578,6 +14782,12 @@
         "P_PROCESS_TYPE": "33",
         "P_PROCESS_PARAM": "100,100,0,0,0,0,0,0,0,0,0",
         "P_EXT_IMG_PARAM": "10:\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "10100100",
+        "P_PROCESS_TYPE": "33",
+        "P_PROCESS_PARAM": "100,100,100,100,0,0,0,0,0,0,0",
+        "P_EXT_IMG_PARAM": "10:\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u30fb\u5f31\u70b9\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9"
     },
     {
         "P_PASSIVE_SKILL_ID": "10110000",
@@ -14661,6 +14871,12 @@
         "P_PASSIVE_SKILL_ID": "10110013",
         "P_PROCESS_TYPE": "33",
         "P_PROCESS_PARAM": "0,0,0,0,0,0,70,70,50,50,0",
+        "P_EXT_IMG_PARAM": "10:BC\u30fbHC\u306e\u30c9\u30ed\u30c3\u30d7\u7387\u3092\u8efd\u6e1b"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "10110014",
+        "P_PROCESS_TYPE": "33",
+        "P_PROCESS_PARAM": "0,0,0,0,0,0,80,80,80,80,0",
         "P_EXT_IMG_PARAM": "10:BC\u30fbHC\u306e\u30c9\u30ed\u30c3\u30d7\u7387\u3092\u8efd\u6e1b"
     },
     {
@@ -14758,6 +14974,12 @@
         "P_PROCESS_TYPE": "65",
         "P_PROCESS_PARAM": "100",
         "P_EXT_IMG_PARAM": "10:\u4e00\u90e8\u30c0\u30e1\u30fc\u30b8\u3092100%\u306e\u78ba\u7387\u3067\u7121\u52b9\u5316"
+    },
+    {
+        "P_PASSIVE_SKILL_ID": "10300200",
+        "P_PROCESS_TYPE": "65",
+        "P_PROCESS_PARAM": "5",
+        "P_EXT_IMG_PARAM": "10:\u300c\u8056\u9280\u306e\u5916\u5957\u300d\u88c5\u5099\u6642\u3001\u307e\u305f\u306f\u300c\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1b\u300d\u30bf\u30a4\u30d7\u306e\u30b9\u30d5\u30a3\u30a2\u3092\u88c5\u5099\u6642\u3001\u4e00\u90e8\u30c0\u30e1\u30fc\u30b8\u30925%\u306e\u78ba\u7387\u3067\u7121\u52b9\u5316"
     },
     {
         "P_PASSIVE_SKILL_ID": "10400000",
@@ -15126,6 +15348,12 @@
         "P_EXT_IMG_PARAM": "15:\u30b9\u30d1\u30fc\u30af\u56de\u6570\u304c30\u56de\u3092\u8d85\u3048\u308b\u6bce\u306b\u300c2\u30bf\u30fc\u30f3\u3001\u653b\u6483\u529b\u309220%\u30a2\u30c3\u30d7\u300d\u3092\u767a\u52d5"
     },
     {
+        "P_PASSIVE_SKILL_ID": "11090015",
+        "P_PROCESS_TYPE": "50",
+        "P_PROCESS_PARAM": "1,20,2,-1,15",
+        "P_EXT_IMG_PARAM": "15:\u30b9\u30d1\u30fc\u30af\u56de\u6570\u304c15\u56de\u3092\u8d85\u3048\u308b\u6bce\u306b\u300c2\u30bf\u30fc\u30f3\u3001\u653b\u6483\u529b\u309220%\u30a2\u30c3\u30d7\u300d\u3092\u767a\u52d5"
+    },
+    {
         "P_PASSIVE_SKILL_ID": "11100000",
         "P_PROCESS_TYPE": "88",
         "P_PROCESS_PARAM": "8,0&0&3&30,1,-1,100",
@@ -15434,7 +15662,7 @@
     {
         "P_PASSIVE_SKILL_ID": "13000017",
         "P_PROCESS_TYPE": "44",
-        "P_PROCESS_PARAM": "54,35,3,-1,20000",
+        "P_PROCESS_PARAM": "54,35,3,-1,5000",
         "P_EXT_IMG_PARAM": "15:\u4e0e\u30c0\u30e1\u30fc\u30b8\u304c5000\u3092\u8d85\u3048\u308b\u6bce\u306b\u300c3\u30bf\u30fc\u30f3\u3001\u30b9\u30d1\u30fc\u30af\u30c0\u30e1\u30fc\u30b8\u309235%\u30a2\u30c3\u30d7\u300d\u3092\u767a\u52d5"
     },
     {
