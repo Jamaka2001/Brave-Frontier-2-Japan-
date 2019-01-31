@@ -434,6 +434,13 @@
         "P_SCHEDULE_ID": "0"
     },
     {
+        "P_UNIT_SHOP_ID": "162",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "1",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
         "P_UNIT_SHOP_ID": "9999",
         "P_UNIT_SHOP_NAME": "\u30c7\u30d0\u30c3\u30b0\u7528",
         "P_UNIT_SHOP_TYPE": "3",

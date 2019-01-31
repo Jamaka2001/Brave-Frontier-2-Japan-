@@ -1334,7 +1334,7 @@
         "P_NAME": "\u529f\u7e3e\u4ea4\u63db\u6240\u8d85\u8d8a\u7d20\u6750",
         "hIWFDi72": "7",
         "BgR6ine9": "0",
-        "hns35kNL": "2"
+        "hns35kNL": "10"
     },
     {
         "P_COUNTER_ID": "385",
@@ -1552,6 +1552,146 @@
         "hIWFDi72": "0",
         "BgR6ine9": "0",
         "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "416",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u5996\u7cbe",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "14"
+    },
+    {
+        "P_COUNTER_ID": "417",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u7cbe\u970a",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "418",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u77f3\u50cf",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "8"
+    },
+    {
+        "P_COUNTER_ID": "419",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u30c4\u30dc",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "8"
+    },
+    {
+        "P_COUNTER_ID": "420",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u65b0\u5c02\u7528\u30b9\u30d5\u30a3\u30a22",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "421",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u7adc\u304c\u935b\u3048\u3057\u5263\u300e\u30de\u30ac\u300f",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "422",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u592a\u967d\u3068\u6708\u306e\u76fe\u30de\u30ea\u30b9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "423",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u8056\u8679\u306e\u970a\u9b42",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "424",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u7149\u5a01\u7d50\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "425",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u5bb5\u73bb\u7483",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "2"
+    },
+    {
+        "P_COUNTER_ID": "426",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\uff22\uff30\u30ad\u30e3\u30f3\u30c7\u30a3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "427",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u708e\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "428",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u6c34\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "429",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u6a39\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "430",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u96f7\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "431",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u5149\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "432",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u95c7\u795e\u306e\u773c",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "433",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u84bc\u73ca\u9271",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "434",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u5343\u7e54\u5e03",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "435",
+        "P_NAME": "1\u6708\u9650\u5b9a\u30d6\u30c3\u30af\u4ea4\u63db\u5546\u54c1_\u30d0\u30cf\u6750",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
     },
     {
         "P_COUNTER_ID": "1000",
@@ -3176,5 +3316,320 @@
         "hIWFDi72": "0",
         "BgR6ine9": "0",
         "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10080",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9032\u5316\u306e\u5de8\u795e",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "10081",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9032\u5316\u306e\u30c4\u30dc",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10082",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9032\u5316\u306e\u77f3\u50cf",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10083",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9032\u5316\u306e\u7cbe\u970a",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10084",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9032\u5316\u306e\u5996\u7cbe",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10085",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30e1\u30bf\u30eb\u30b4\u30c3\u30c9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10086",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30e1\u30bf\u30eb\u30ad\u30f3\u30b0",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10087",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30e1\u30bf\u30eb\u30b4\u30fc\u30b9\u30c8",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10088",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30c9\u30e9\u30b4\u30f3\u30df\u30df\u30c3\u30af",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10089",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30d0\u30c3\u30c8\u30df\u30df\u30c3\u30af",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10090",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30df\u30df\u30c3\u30af",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10091",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30c6\u30eb\u30b0\u30b9\u30c6\u30eb\u5486\u7259\u7b26",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10092",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u79d8\u5b9d\u300e\u30ec\u30d6\u30fb\u30de\u30c7\u30e5\u30e9\u300f",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10093",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u79d8\u5b9d\u300e\u30de\u30eb\u30ad\u30e5\u30ed\u30c7\u30a3\u30f3\u300f",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10094",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9b54\u5b9d\u300e\u30bc\u30a2\u30ad\u30a2\u300f\u306e\u30ec\u30b7\u30d4",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10095",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9706\u939a\u30de\u30c7\u30a4\u30b2\u30eb\u306e\u30ec\u30b7\u30d4",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10096",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9b54\u5b9d\u300e\u30bc\u30a2\u30ad\u30a2\u300f",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10097",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9706\u939a\u30de\u30c7\u30a4\u30b2\u30eb",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10098",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u8056\u8679\u306e\u970a\u9b42",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10099",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u5bb5\u73bb\u7483",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "10100",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u30d0\u30fc\u30b9\u30c8\u30af\u30c3\u30ad\u30fc",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "10101",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\uff22\uff30\u30ad\u30e3\u30f3\u30c7\u30a3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "10102",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u7dcb\u5fc3\u7d50\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10103",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u5f81\u5a01\u7d50\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10104",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u9b42\u907a\u7d50\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10105",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u7fd4\u51cc\u9271",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10106",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u721b\u6fb1\u9271",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10107",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u771f\u9855\u9271",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10108",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u8352\u6563\u5ca9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10109",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u5236\u70c8\u5ca9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10110",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u6697\u78e8\u5ca9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10111",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u5553\u660e\u77f3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10112",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u8d70\u5bff\u77f3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10113",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u4e38\u93e1\u77f3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10114",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u8607\u751f\u85ac",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "999"
+    },
+    {
+        "P_COUNTER_ID": "10115",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u6b66\u795e\u85ac",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "999"
+    },
+    {
+        "P_COUNTER_ID": "10116",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u795e\u4ed9\u7434",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "999"
+    },
+    {
+        "P_COUNTER_ID": "10117",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u6226\u96c4\u7d46\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "999"
+    },
+    {
+        "P_COUNTER_ID": "10118",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u79f0\u53f7\u300c\u30b6\u300d",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10119",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u79f0\u53f7\u300c\u7cbe\u92ed\u300d",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10120",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u79f0\u53f7\u300c\u7b2c\u300d",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "10121",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u795e\u754f\u7d50\u6676",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "10122",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u958b\u95e2\u9271",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "10123",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u5ba3\u5091\u5ca9",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "10124",
+        "P_NAME": "\u8ca2\u732e\u30dd\u30a4\u30f3\u30c8\u4ea4\u63db\u6240_\u8ee2\u9234\u77f3",
+        "hIWFDi72": "0",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
     }
 ]

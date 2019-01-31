@@ -1558,5 +1558,35 @@
         "P_SOUND_EFFECT_ID": "563",
         "P_SOUND_EFFECT_NAME": "BF2_se_563_btl_bird_call",
         "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "564",
+        "P_SOUND_EFFECT_NAME": "BF2_se_564_exg_ggrin_logo",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "565",
+        "P_SOUND_EFFECT_NAME": "BF2_se_565_btl_orchestra",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "566",
+        "P_SOUND_EFFECT_NAME": "BF2_se_566_btl_cymbal",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "567",
+        "P_SOUND_EFFECT_NAME": "BF2_se_567_btl_applause",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "568",
+        "P_SOUND_EFFECT_NAME": "BF2_se_568_btl_scale2",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "569",
+        "P_SOUND_EFFECT_NAME": "BF2_se_569_btl_machinepunch",
+        "P_SOUND_FILE": ""
     }
 ]
