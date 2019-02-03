@@ -11339,7 +11339,7 @@
         "P_MISSION_ID": "3020110",
         "P_CHALLENGE_INDEX": "2",
         "P_NAME": "\u30ea\u30f3\u3092\u30d1\u30fc\u30c6\u30a3\u306b\u5165\u308c\u305a\u306b\u30af\u30ea\u30a2",
-        "P_CHALLENGE_REQS": "8,-2",
+        "P_CHALLENGE_REQS": "102,-2:sum",
         "P_REWARD_ID": "20001501",
         "P_DISP_INFO": ""
     },

@@ -390,5 +390,13 @@
         "P_SP_INFO_TYPE": "7",
         "P_SP_INFO": "0",
         "P_SCRIPT": ""
+    },
+    {
+        "P_MISSION_ID": "3020110",
+        "P_BATTLE_ORDER": "1",
+        "P_TRIGGER_TYPE": "1",
+        "P_SP_INFO_TYPE": "7",
+        "P_SP_INFO": "0",
+        "P_SCRIPT": ""
     }
 ]

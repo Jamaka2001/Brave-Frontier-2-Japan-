@@ -5775,17 +5775,6 @@
         "P_HIDE_SWITCH_INFO": ""
     },
     {
-        "mC1JcVM9": "201917",
-        "ctAd91iQ": "\u6708\u591c\u306e\u8a98\u3044",
-        "P_CATEGORY_ID": "20180",
-        "P_DISPORDER": "18",
-        "P_EXT_IMG_PARAM": "\u30f4\u30a9\u30eb\u30cf\u30a4\u30f3\u306f\u30ea\u30fc\u30cd\u30eb\u306e\u5c0e\u304d\u306b\u3088\u308a\u4eba\u91cc\u3078\u3068\u3084\u3063\u3066\u6765\u305f\u3002\u305d\u3053\u3067\u5f7c\u306f\u9a5a\u304d\u306e\u5149\u666f\u3092\u76ee\u6483\u3059\u308b\u3002",
-        "P_SCRIPT": "story020-07-01_library.csv",
-        "xkbc51QN": "smr_story020-07-01.csv",
-        "P_NEED_SWITCH_INFO": "12001108",
-        "P_HIDE_SWITCH_INFO": ""
-    },
-    {
         "mC1JcVM9": "201918",
         "ctAd91iQ": "\u30f4\u30a9\u30eb\u30cf\u30a4\u30f3\u306e\u9078\u629e",
         "P_CATEGORY_ID": "20180",
