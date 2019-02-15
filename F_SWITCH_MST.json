@@ -864,6 +864,18 @@
         "P_OPEN_SWITCH_INFO": ""
     },
     {
+        "1XmYw8Ae": "2200002",
+        "P_SWITCH_TYPE": "22",
+        "0S1jS5fM": "3",
+        "P_NAME": "link_bf1_bf2_robe_reward",
+        "60IsqxDt": "0",
+        "w1hm7JHb": "90000603",
+        "DaLZj5I4": "",
+        "P_ICON_ID": "0",
+        "P_EXT_IMG_PARAM": "\u30a8\u30a4\u30ea\u30e0\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u306eBF2\u3068\u306e\u9023\u643a\u7279\u5178",
+        "P_OPEN_SWITCH_INFO": ""
+    },
+    {
         "1XmYw8Ae": "2300000",
         "P_SWITCH_TYPE": "23",
         "0S1jS5fM": "1",

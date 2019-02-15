@@ -455,6 +455,13 @@
         "P_SCHEDULE_ID": "0"
     },
     {
+        "P_UNIT_SHOP_ID": "165",
+        "P_UNIT_SHOP_NAME": "\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
+        "P_UNIT_SHOP_TYPE": "2",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
         "P_UNIT_SHOP_ID": "9999",
         "P_UNIT_SHOP_NAME": "\u30c7\u30d0\u30c3\u30b0\u7528",
         "P_UNIT_SHOP_TYPE": "3",
@@ -491,6 +498,13 @@
     },
     {
         "P_UNIT_SHOP_ID": "10004",
+        "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_TYPE": "3",
+        "P_SOUND_ID": "1",
+        "P_SCHEDULE_ID": "0"
+    },
+    {
+        "P_UNIT_SHOP_ID": "10005",
         "P_UNIT_SHOP_NAME": "\u5168\u3066\u304b\u3089\u63a2\u3059",
         "P_UNIT_SHOP_TYPE": "3",
         "P_SOUND_ID": "1",

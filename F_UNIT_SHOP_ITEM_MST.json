@@ -1246,6 +1246,48 @@
         "P_SCHEDULE_ID": "300032"
     },
     {
+        "0P4KLAhs": "278",
+        "n9cJH6Mz": "\u5947\u7e01\u306e\u516d\u9b54\u5c0e",
+        "P_UNIT_SHOP_ID": "165",
+        "ZnJH80Dc": "1",
+        "ND02HhRV": "270",
+        "TRGD9o01": "1",
+        "0I3i2TMg": "90",
+        "1gDkL6XR": "set_20190222_01.png,set_20180409_light.png",
+        "P_REWARD_INFO": "",
+        "P_EXT_IMG_PARAM": "\u30bb\u30c3\u30c8\u5272\u3067\u3059",
+        "P_PRIORITY": "3",
+        "P_SCHEDULE_ID": "300035"
+    },
+    {
+        "0P4KLAhs": "279",
+        "n9cJH6Mz": "\u7fa9\u8cca\u30bc\u30eb\u30ca\u30a4\u30c8\u3068\u98a8\u306e\u59eb\u541b",
+        "P_UNIT_SHOP_ID": "165",
+        "ZnJH80Dc": "1",
+        "ND02HhRV": "271",
+        "TRGD9o01": "1",
+        "0I3i2TMg": "45",
+        "1gDkL6XR": "set_20190222_02.png,set_20180409_light.png",
+        "P_REWARD_INFO": "",
+        "P_EXT_IMG_PARAM": "\u30bb\u30c3\u30c8\u5272\u3067\u3059",
+        "P_PRIORITY": "2",
+        "P_SCHEDULE_ID": "300035"
+    },
+    {
+        "0P4KLAhs": "280",
+        "n9cJH6Mz": "\u5341\u5fcc\u30c7\u30a3\u30b9\u30ce\u30df\u30a2",
+        "P_UNIT_SHOP_ID": "165",
+        "ZnJH80Dc": "1",
+        "ND02HhRV": "272",
+        "TRGD9o01": "1",
+        "0I3i2TMg": "30",
+        "1gDkL6XR": "set_20190222_03.png,set_20180409_light.png",
+        "P_REWARD_INFO": "",
+        "P_EXT_IMG_PARAM": "\u30bb\u30c3\u30c8\u5272\u3067\u3059",
+        "P_PRIORITY": "1",
+        "P_SCHEDULE_ID": "300035"
+    },
+    {
         "0P4KLAhs": "2000",
         "n9cJH6Mz": "\u5168\u30e6\u30cb\u30c3\u30c8\u304b\u3089\u63a2\u3059",
         "P_UNIT_SHOP_ID": "10000",
@@ -1314,5 +1356,19 @@
         "P_EXT_IMG_PARAM": "\u5e74\u59cb\u7528\u5168\u30e6\u30cb\u30c3\u30c8\u3067\u3059",
         "P_PRIORITY": "1",
         "P_SCHEDULE_ID": "300022"
+    },
+    {
+        "0P4KLAhs": "2005",
+        "n9cJH6Mz": "\u5168\u30e6\u30cb\u30c3\u30c8\u304b\u3089\u63a2\u3059",
+        "P_UNIT_SHOP_ID": "10005",
+        "ZnJH80Dc": "1",
+        "ND02HhRV": "10000",
+        "TRGD9o01": "2",
+        "0I3i2TMg": "0",
+        "1gDkL6XR": "all.png,all_light.png",
+        "P_REWARD_INFO": "",
+        "P_EXT_IMG_PARAM": "1\u5468\u5e74\u7528\u5168\u30e6\u30cb\u30c3\u30c8\u3067\u3059",
+        "P_PRIORITY": "1",
+        "P_SCHEDULE_ID": "300037"
     }
 ]
