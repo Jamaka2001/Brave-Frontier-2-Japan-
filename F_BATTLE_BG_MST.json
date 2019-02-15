@@ -1736,6 +1736,34 @@
         "P_HOME_EFFECT_INFO": "20"
     },
     {
+        "P_BATTLE_BG_ID": "202190101",
+        "P_IMG": "battle_bg_sq_019_01.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001600",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202190102",
+        "P_IMG": "battle_bg_sq_019_02.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001601",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202190103",
+        "P_IMG": "battle_bg_sq_019_03.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "2:2001602,1:2001603",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
+        "P_BATTLE_BG_ID": "202190104",
+        "P_IMG": "battle_bg_sq_019_04.jpg",
+        "P_POS": "-156,-142",
+        "P_EFFECT_INFO": "1:2001604",
+        "P_HOME_EFFECT_INFO": "20"
+    },
+    {
         "P_BATTLE_BG_ID": "203110101",
         "P_IMG": "battle_bg_sq_011_01_1.jpg",
         "P_POS": "-156,-142",

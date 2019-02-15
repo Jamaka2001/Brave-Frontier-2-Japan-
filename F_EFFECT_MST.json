@@ -3752,6 +3752,46 @@
         "1NijIP2a": "100"
     },
     {
+        "1TED5ZSi": "2001600",
+        "CJpkT40r": "\u9727\u58fa\u306e\u5eb5",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "battle_bg_sq_019_01.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "2001601",
+        "CJpkT40r": "\u65e5\u7167\u5ce0",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "battle_bg_sq_019_02.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "2001602",
+        "CJpkT40r": "\u7121\u660e\u6797_\u524d",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "battle_bg_sq_019_03.ssbp,front/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "2001603",
+        "CJpkT40r": "\u7121\u660e\u6797_\u5f8c",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "battle_bg_sq_019_03.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "2001604",
+        "CJpkT40r": "\u7a62\u6d1e\u5bfa",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "battle_bg_sq_019_04.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
         "1TED5ZSi": "3000000",
         "CJpkT40r": "\u72ed\u9593_\u30d1\u30ec\u30fc\u30c9_\u524d",
         "jeR2rN3V": "3",
@@ -20076,6 +20116,38 @@
         "CJpkT40r": "CI_B1_\u30a2\u30c8\u30e2\u30b9\u30c9\u30e9\u30a4\u30f4",
         "jeR2rN3V": "3",
         "Heg8ZDQ7": "xbb_cutin_200454.ssbp,back/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50007000",
+        "CJpkT40r": "XBB_F_\u53e2\u5204\u6975\u307e\u308a\u83ef\u821e\u3044\u8a87\u308b",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200464_front.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50007001",
+        "CJpkT40r": "XBB_B_\u53e2\u5204\u6975\u307e\u308a\u83ef\u821e\u3044\u8a87\u308b",
+        "jeR2rN3V": "2",
+        "Heg8ZDQ7": "bt_xbb_200464_back.vfxb",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50007010",
+        "CJpkT40r": "CI_F1_\u53e2\u5204\u6975\u307e\u308a\u83ef\u821e\u3044\u8a87\u308b",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200464.ssbp,front/anime",
+        "xW6TKu9G": "",
+        "1NijIP2a": "100"
+    },
+    {
+        "1TED5ZSi": "50007011",
+        "CJpkT40r": "CI_B1_\u53e2\u5204\u6975\u307e\u308a\u83ef\u821e\u3044\u8a87\u308b",
+        "jeR2rN3V": "3",
+        "Heg8ZDQ7": "xbb_cutin_200464.ssbp,back/anime",
         "xW6TKu9G": "",
         "1NijIP2a": "100"
     }

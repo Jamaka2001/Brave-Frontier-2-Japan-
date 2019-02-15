@@ -318,6 +318,12 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "P_ACTIVATE_COND_ID": "15016",
+        "P_COND_TYPE": "4",
+        "P_COND_PARAM": "1001410",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "P_ACTIVATE_COND_ID": "20000",
         "P_COND_TYPE": "2",
         "P_COND_PARAM": "1",

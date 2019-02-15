@@ -560,6 +560,22 @@
         "P_SCHEDULE_ID": "300034"
     },
     {
+        "MFV1A4vj": "79",
+        "r8Iq10fB": "\u30e6\u30cb\u30c3\u30c8\u5272\u5f15\uff08\u8d85\u8d8a\u30bb\u30c3\u30c8\u2462\uff09",
+        "P_IMG": "",
+        "P_SOUND_ID": "1",
+        "P_PRIORITY": "78",
+        "P_SCHEDULE_ID": "300036"
+    },
+    {
+        "MFV1A4vj": "80",
+        "r8Iq10fB": "\u5168\u30e6\u30cb\u30c3\u30c8\u5272\u5f15",
+        "P_IMG": "",
+        "P_SOUND_ID": "1",
+        "P_PRIORITY": "79",
+        "P_SCHEDULE_ID": "300038"
+    },
+    {
         "MFV1A4vj": "100",
         "r8Iq10fB": "\u5b9a\u5e38\u6642",
         "P_IMG": "",
