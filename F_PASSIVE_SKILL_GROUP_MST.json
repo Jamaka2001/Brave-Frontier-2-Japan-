@@ -1053,6 +1053,78 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "c3prn4s7": "1117",
+        "P_SKILL_NAME": "\u7570\u754c\u3078\u306e\u61a7\u61ac",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "45000038",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1118",
+        "P_SKILL_NAME": "\u81ea\u7531\u306e\u7a7a",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20004",
+        "E19X6kmB": "5010024,2010020",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1119",
+        "P_SKILL_NAME": "\u9a0e\u58eb\u306e\u672c\u61d0",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20010,2:20007",
+        "E19X6kmB": "2010021,5100100",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1120",
+        "P_SKILL_NAME": "\u91d1\u6ac3\u306e\u5b88\u8b77\u8005",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20002",
+        "E19X6kmB": "45000039",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1121",
+        "P_SKILL_NAME": "\u53ec\u559a\u5e2b\u3068\u306e\u7d46",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:10131",
+        "E19X6kmB": "8017006,6030022",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1122",
+        "P_SKILL_NAME": "\u6551\u754c\u306e\u82f1\u96c4",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20004,2:20007",
+        "E19X6kmB": "45000040",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1123",
+        "P_SKILL_NAME": "\u795e\u3092\u8d8a\u3048\u3057\u8005",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "1015020,4010021,5010025",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "1124",
+        "P_SKILL_NAME": "\u5bbf\u6028\u306e\u679c\u3066\u306b",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "4020610,2010022",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "c3prn4s7": "2000",
         "P_SKILL_NAME": "\u5929\u7a1f\u306a\u308b\u610f\u5fd7",
         "moWQ30GH": "1",
@@ -1422,6 +1494,78 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "c3prn4s7": "2061",
+        "P_SKILL_NAME": "\u7570\u754c\u3078\u306e\u61a7\u61ac",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "45000038",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2062",
+        "P_SKILL_NAME": "\u81ea\u7531\u306e\u7a7a",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20004",
+        "E19X6kmB": "5010024,2010020",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2063",
+        "P_SKILL_NAME": "\u9a0e\u58eb\u306e\u672c\u61d0",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20010,2:20007",
+        "E19X6kmB": "2010021,5100100",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2064",
+        "P_SKILL_NAME": "\u91d1\u6ac3\u306e\u5b88\u8b77\u8005",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20002",
+        "E19X6kmB": "45000039",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2065",
+        "P_SKILL_NAME": "\u53ec\u559a\u5e2b\u3068\u306e\u7d46",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:10131",
+        "E19X6kmB": "8017006,6030022",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2066",
+        "P_SKILL_NAME": "\u6551\u754c\u306e\u82f1\u96c4",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20004,2:20007",
+        "E19X6kmB": "45000040",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2067",
+        "P_SKILL_NAME": "\u795e\u3092\u8d8a\u3048\u3057\u8005",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "1015020,4010021,5010025",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2068",
+        "P_SKILL_NAME": "\u5bbf\u6028\u306e\u679c\u3066\u306b",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1:20010",
+        "E19X6kmB": "4020610,2010022",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "c3prn4s7": "10000",
         "P_SKILL_NAME": "\u6226\u5203\u523b",
         "moWQ30GH": "1",
@@ -1607,6 +1751,33 @@
         "moWQ30GH": "1",
         "PEVks0h8": "1",
         "E19X6kmB": "1010002,10001002,6030010",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "12300",
+        "P_SKILL_NAME": "\u5168\u80fd\u795e\u6388",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "1015001,4010000,4020701",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "12400",
+        "P_SKILL_NAME": "\u967d\u306e\u5a01\u7fd4",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "10019000,1008002",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "12500",
+        "P_SKILL_NAME": "\u5f71\u306e\u9ed9\u58c1",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "10019100,1001002",
         "X4mIT5Lc": "1",
         "P_EXT_IMG_PARAM": ""
     },
@@ -1859,6 +2030,24 @@
         "moWQ30GH": "1",
         "PEVks0h8": "1",
         "E19X6kmB": "5010001,6010111",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "50700",
+        "P_SKILL_NAME": "\u8679\u306e\u8f1d\u7ffc",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "5070006,5040014,7050001",
+        "X4mIT5Lc": "1",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "50800",
+        "P_SKILL_NAME": "\u5149\u5c64\u306e\u672a\u66a6",
+        "moWQ30GH": "1",
+        "PEVks0h8": "1",
+        "E19X6kmB": "5010001,11090017",
         "X4mIT5Lc": "1",
         "P_EXT_IMG_PARAM": ""
     },

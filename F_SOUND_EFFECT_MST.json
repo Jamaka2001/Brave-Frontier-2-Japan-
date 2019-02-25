@@ -1588,5 +1588,15 @@
         "P_SOUND_EFFECT_ID": "569",
         "P_SOUND_EFFECT_NAME": "BF2_se_569_btl_machinepunch",
         "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "570",
+        "P_SOUND_EFFECT_NAME": "BF2_se_570_btl_propeller",
+        "P_SOUND_FILE": ""
+    },
+    {
+        "P_SOUND_EFFECT_ID": "571",
+        "P_SOUND_EFFECT_NAME": "BF2_se_571_btl_heart",
+        "P_SOUND_FILE": ""
     }
 ]

@@ -2772,6 +2772,24 @@
         "P_NEW_SWITCH_INFO": "51100145"
     },
     {
+        "P_RECIPE_ID": "10142",
+        "P_SUMMONER_ID": "1",
+        "P_DISPORDER": "142",
+        "P_TARGET_TYPE": "21",
+        "P_TARGET_ID": "13010",
+        "P_POSSESSION": "1",
+        "P_MATERIAL_INFO": "21:13003:1,21:11006:1,21:100602:1,22:20035:10",
+        "P_COST_INFO": "30:0:5000",
+        "P_BYPRODUCT_INFO": "",
+        "P_EXTRA_TEXT": "\u63a2\u7d22\u6700\u7d42\u30b9\u30d5\u30a3\u30a2\u3092\u751f\u6210\u3057\u307e\u3059\u304c\u3088\u308d\u3057\u3044\u3067\u3059\u304b",
+        "P_SCHEDULE_ID": "0",
+        "P_COUNTER_ID": "0",
+        "P_NEED_SWITCH_INFO": "61200143",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0",
+        "P_NEW_SWITCH_INFO": "51100146"
+    },
+    {
         "P_RECIPE_ID": "100000",
         "P_SUMMONER_ID": "1",
         "P_DISPORDER": "1",

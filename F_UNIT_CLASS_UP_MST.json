@@ -1125,6 +1125,24 @@
         "P_OPEN_SWITCH_INFO": "0"
     },
     {
+        "P_UNIT_ID": "2003022",
+        "P_CLASS_UP_UNIT_ID": "2003023",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "10:7000210:7,10:7000311:5,10:7000412:4",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "2003023",
+        "P_CLASS_UP_UNIT_ID": "2003024",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "10:7000210:4,10:7000311:5,10:7000412:7,10:7000614:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
         "P_UNIT_ID": "2003112",
         "P_CLASS_UP_UNIT_ID": "2003113",
         "P_COST_INFO": "30,50000",
@@ -1723,6 +1741,24 @@
         "P_CLASS_UP_UNIT_ID": "3003214",
         "P_COST_INFO": "30,200000",
         "P_MATERIAL_INFO": "10:7000210:4,10:7000311:5,10:7000412:7,10:7000614:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "3003222",
+        "P_CLASS_UP_UNIT_ID": "3003223",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "10:7000210:7,10:7000311:5,10:7000513:4",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "3003223",
+        "P_CLASS_UP_UNIT_ID": "3003224",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "10:7000210:4,10:7000311:5,10:7000513:7,10:7000614:1",
         "P_NEED_SWITCH_INFO": "0",
         "P_HIDE_SWITCH_INFO": "0",
         "P_OPEN_SWITCH_INFO": "0"
@@ -2889,6 +2925,24 @@
         "P_OPEN_SWITCH_INFO": "0"
     },
     {
+        "P_UNIT_ID": "5003822",
+        "P_CLASS_UP_UNIT_ID": "5003823",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "10:7000210:7,10:7000311:5,10:7000412:4",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "5003823",
+        "P_CLASS_UP_UNIT_ID": "5003824",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "10:7000210:4,10:7000311:5,10:7000412:7,10:7000614:1",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
         "P_UNIT_ID": "5003912",
         "P_CLASS_UP_UNIT_ID": "5003913",
         "P_COST_INFO": "30,50000",
@@ -3397,6 +3451,24 @@
         "P_CLASS_UP_UNIT_ID": "6002712",
         "P_COST_INFO": "30,10000",
         "P_MATERIAL_INFO": "10:7000210:3,10:7000311:2",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "6002822",
+        "P_CLASS_UP_UNIT_ID": "6002823",
+        "P_COST_INFO": "30,50000",
+        "P_MATERIAL_INFO": "10:7000210:7,10:7000311:5,10:7000513:4",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
+        "P_UNIT_ID": "6002823",
+        "P_CLASS_UP_UNIT_ID": "6002824",
+        "P_COST_INFO": "30,200000",
+        "P_MATERIAL_INFO": "10:7000210:4,10:7000311:5,10:7000513:7,10:7000614:1",
         "P_NEED_SWITCH_INFO": "0",
         "P_HIDE_SWITCH_INFO": "0",
         "P_OPEN_SWITCH_INFO": "0"

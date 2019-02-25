@@ -682,6 +682,17 @@
         "P_COUNTER_ID": "0"
     },
     {
+        "uy32chnm": "30140",
+        "P_TARGET_TYPE": "22",
+        "P_TARGET_GROUP": "2",
+        "P_TARGET_ID": "20035",
+        "wJsB35iH": "1",
+        "8yh9tcHX": "30",
+        "bP95htUd": "100",
+        "P_SCHEDULE_ID": "0",
+        "P_COUNTER_ID": "0"
+    },
+    {
         "uy32chnm": "40001",
         "P_TARGET_TYPE": "20",
         "P_TARGET_GROUP": "2",

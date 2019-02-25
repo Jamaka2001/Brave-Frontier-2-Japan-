@@ -576,6 +576,30 @@
         "P_SCHEDULE_ID": "300038"
     },
     {
+        "MFV1A4vj": "81",
+        "r8Iq10fB": "\u5168\u30e6\u30cb\u30c3\u30c8\u5272\u5f15\uff06\u4f1d\u8aac\u306e\u8ecc\u8de1\u30bb\u30c3\u30c8\u5272\u5f15",
+        "P_IMG": "",
+        "P_SOUND_ID": "1",
+        "P_PRIORITY": "80",
+        "P_SCHEDULE_ID": "300040"
+    },
+    {
+        "MFV1A4vj": "82",
+        "r8Iq10fB": "\u5168\u30e6\u30cb\u30c3\u30c8\u5272\u5f15\uff06\u4f1d\u8aac\u306e\u8ecc\u8de1\u30bb\u30c3\u30c8\u5272\u5f15\uff06\u7d46",
+        "P_IMG": "",
+        "P_SOUND_ID": "1",
+        "P_PRIORITY": "81",
+        "P_SCHEDULE_ID": "300041"
+    },
+    {
+        "MFV1A4vj": "83",
+        "r8Iq10fB": "\u5168\u30e6\u30cb\u30c3\u30c8\u5272\u5f15\uff06\u4f1d\u8aac\u306e\u8ecc\u8de1\u30bb\u30c3\u30c8\u5272\u5f15\u623b\u3057",
+        "P_IMG": "",
+        "P_SOUND_ID": "1",
+        "P_PRIORITY": "82",
+        "P_SCHEDULE_ID": "300042"
+    },
+    {
         "MFV1A4vj": "100",
         "r8Iq10fB": "\u5b9a\u5e38\u6642",
         "P_IMG": "",

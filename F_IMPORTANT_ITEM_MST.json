@@ -2973,5 +2973,22 @@
         "P_NEED_SWITCH_INFO": "0",
         "P_HIDE_SWITCH_INFO": "0",
         "P_OPEN_SWITCH_INFO": "61200142"
+    },
+    {
+        "P_IMPORTANT_ITEM_ID": "30143",
+        "P_NAME": "\u87ba\u65cb\u306e\u5fc3\u81d3\u30e1\u30ae\u30df\u30c8\u30eb\u306e\u30ec\u30b7\u30d4",
+        "8Cx57oAk": "\u87ba\u65cb\u5fc3\u30ec",
+        "P_DISPORDER": "130175",
+        "60IsqxDt": "1",
+        "CA7uXs6D": "1",
+        "P_ICON_ID": "30000",
+        "37moriMq": "",
+        "P_DICTIONARY_NO": "1",
+        "P_DICTIONARY_BG": "188",
+        "T04pJPmh": "",
+        "P_IMG": "",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "61200143"
     }
 ]
