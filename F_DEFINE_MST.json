@@ -897,7 +897,7 @@
     {
         "P_DEFINE_KEY": "SWITCH_ID_GET_BF1_HERO",
         "P_NAME": "BF1\u4e3b\u4eba\u516c\u3092\u5165\u624b\u3057\u305f\u30b9\u30a4\u30c3\u30c1",
-        "P_DEFINE_VALUE": "10000304"
+        "P_DEFINE_VALUE": "10000306"
     },
     {
         "P_DEFINE_KEY": "SWITCH_ID_HERO_MEET_HEROINE",

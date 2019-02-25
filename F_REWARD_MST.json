@@ -19272,18 +19272,6 @@
         "P_SUMMONER_ID": "0"
     },
     {
-        "P_REWARD_ID": "90000603",
-        "P_NAME": "BF1\u30ed\u30fc\u30d6\u6240\u6301\u30a2\u30ab\u30a6\u30f3\u30c8\u9023\u643a\u7279\u5178!!",
-        "P_EXT_IMG_PARAM": "\u30ed\u30fc\u30d6\u3092\u6240\u6301\u3057\u305fBF1\u3068BF2\u3092\u9023\u643a\u3057\u305f\u7279\u5178\u30d7\u30ec\u30bc\u30f3\u30c8",
-        "P_REWARD_INFO": "10:1001314:1",
-        "P_REWARD_DIST_TYPE": "0",
-        "P_REWARD_LIMIT_ID": "0",
-        "P_MASK_FLG": "0",
-        "P_ICON_ID": "0",
-        "P_GET_DISP_TYPE": "0",
-        "P_SUMMONER_ID": "0"
-    },
-    {
         "P_REWARD_ID": "90000701",
         "P_NAME": "\u30c0\u30a4\u30e4",
         "P_EXT_IMG_PARAM": "\u30c0\u30a4\u30e4\u00d7\uff16",
