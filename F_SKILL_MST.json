@@ -26781,7 +26781,7 @@
     },
     {
         "P_SKILL_ID": "5020890",
-        "P_SKILL_NAME": "\u30d5\u30a7\u30a4\u30b9\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "P_SKILL_NAME": "\u30d6\u30e9\u30a4\u30c8\u30cd\u30b9\u30fb\u30a2\u30b9\u30da\u30af\u30c4",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -26801,7 +26801,7 @@
     },
     {
         "P_SKILL_ID": "5020891",
-        "P_SKILL_NAME": "\u30ec\u30c8\u30ea\u30d3\u30e5\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "P_SKILL_NAME": "\u30d6\u30e9\u30a4\u30c8\u30cd\u30b9\u30fb\u30af\u30e9\u30a4\u30e0",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -26821,7 +26821,7 @@
     },
     {
         "P_SKILL_ID": "5020892",
-        "P_SKILL_NAME": "\u30d5\u30e5\u30fc\u30ea\u30fc\u30fb\u30aa\u30d6\u30fb\u30c0\u30fc\u30af",
+        "P_SKILL_NAME": "\u30c0\u30fc\u30af\u30cd\u30b9\u30fb\u30a2\u30b9\u30da\u30af\u30c4",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -26841,7 +26841,7 @@
     },
     {
         "P_SKILL_ID": "5020893",
-        "P_SKILL_NAME": "\u30f4\u30a7\u30f3\u30b8\u30a7\u30f3\u30b9\u30fb\u30aa\u30d6\u30fb\u30c0\u30fc\u30af",
+        "P_SKILL_NAME": "\u30c0\u30fc\u30af\u30cd\u30b9\u30fb\u30d5\u30e5\u30fc\u30ea\u30fc",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -26881,7 +26881,7 @@
     },
     {
         "P_SKILL_ID": "5020895",
-        "P_SKILL_NAME": "\u30b3\u30f3\u30f4\u30a3\u30af\u30b7\u30e7\u30f3",
+        "P_SKILL_NAME": "\u30c7\u30a3\u30b9\u30df\u30b9",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -26921,7 +26921,7 @@
     },
     {
         "P_SKILL_ID": "5020897",
-        "P_SKILL_NAME": "SBB\u540d",
+        "P_SKILL_NAME": "\u51a5\u7109\u306e\u679c\u3066",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27021,7 +27021,7 @@
     },
     {
         "P_SKILL_ID": "5020902",
-        "P_SKILL_NAME": "BB\u540d",
+        "P_SKILL_NAME": "\u5929\u7109\u306e\u30a8\u30af\u30b9\u30d8\u30a4\u30eb",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27081,7 +27081,7 @@
     },
     {
         "P_SKILL_ID": "5020905",
-        "P_SKILL_NAME": "\u30ec\u30b9\u30c8\u30fc\u30af\u306e\u773c\u304c\u5149\u308a\u8f1d\u304d\u59cb\u3081\u305f\u2026",
+        "P_SKILL_NAME": "\u795e\u306e\u53f3\u773c\u304c\u7729\u3057\u304f\u8f1d\u304f\u2026",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -27101,7 +27101,7 @@
     },
     {
         "P_SKILL_ID": "5020906",
-        "P_SKILL_NAME": "\u795e\u6ec5\u5929\u6607",
+        "P_SKILL_NAME": "\u7121\u8fc5\u795e\u7259",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27121,7 +27121,7 @@
     },
     {
         "P_SKILL_ID": "5020907",
-        "P_SKILL_NAME": "\u795e\u6ec5\u5929",
+        "P_SKILL_NAME": "\u84bc\u304d\u795e\u7259",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27141,7 +27141,7 @@
     },
     {
         "P_SKILL_ID": "5020908",
-        "P_SKILL_NAME": "\u30ec\u30b9\u30c8\u30fc\u30af\u306e\u773c\u304c\u5996\u3057\u304f\u8f1d\u304d\u59cb\u3081\u305f\u2026",
+        "P_SKILL_NAME": "\u9b54\u306e\u5de6\u773c\u304c\u5996\u3057\u304f\u8f1d\u304f\u2026",
         "P_SKILL_TYPE": "3",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "3",
@@ -27161,7 +27161,7 @@
     },
     {
         "P_SKILL_ID": "5020909",
-        "P_SKILL_NAME": "\u9b54\u58ca\u7344\u6b7b",
+        "P_SKILL_NAME": "\u7121\u8fc5\u9b54\u722a",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27181,7 +27181,7 @@
     },
     {
         "P_SKILL_ID": "5020910",
-        "P_SKILL_NAME": "\u9b54\u58ca\u7344",
+        "P_SKILL_NAME": "\u9ed2\u304d\u9b54\u722a",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",
@@ -27201,7 +27201,7 @@
     },
     {
         "P_SKILL_ID": "5020911",
-        "P_SKILL_NAME": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9",
+        "P_SKILL_NAME": "\u7d42\u7344\u5203\u300e\u30e9\u30b6\u30a6\u30a7\u30eb\u300f",
         "P_SKILL_TYPE": "1",
         "P_PATTERN_ID": "10",
         "P_MOVE_MOTTION": "2",

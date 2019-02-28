@@ -77,6 +77,28 @@
         "P_HIDE_SWITCH_INFO": "0"
     },
     {
+        "v80VfcXr": "1001",
+        "b4D63uav": "41",
+        "NW3CIk2A": "home_banner_raid.png,0,0",
+        "P_SCENE_ID": "0",
+        "t5R47iwj": "0",
+        "P_PRIORITY": "0",
+        "P_SCHEDULE_ID": "600014",
+        "P_NEED_SWITCH_INFO": "10000152",
+        "P_HIDE_SWITCH_INFO": "0"
+    },
+    {
+        "v80VfcXr": "1002",
+        "b4D63uav": "41",
+        "NW3CIk2A": "home_banner_raid.png,0,0",
+        "P_SCENE_ID": "0",
+        "t5R47iwj": "0",
+        "P_PRIORITY": "0",
+        "P_SCHEDULE_ID": "600017",
+        "P_NEED_SWITCH_INFO": "10000152",
+        "P_HIDE_SWITCH_INFO": "0"
+    },
+    {
         "v80VfcXr": "2001",
         "b4D63uav": "20",
         "NW3CIk2A": "0",
