@@ -19931,25 +19931,6 @@
         "P_OPEN_SWITCH_INFO": "0"
     },
     {
-        "mC1JcVM9": "30010",
-        "ctAd91iQ": "\u30b7\u30c0\u8a66\u7df4_BS",
-        "P_CATEGORY_ID": "0",
-        "P_DISPORDER": "0",
-        "P_EXT_IMG_PARAM": "\u30b7\u30c0\u8a66\u7df4_BS",
-        "aSJp1i9m": "3",
-        "P_SCENE_PARAM": "3020111",
-        "yHV1b5Ih": "1",
-        "DR3NUFZ0": "0",
-        "P_SCRIPT": "script_trial_11BS.csv",
-        "V1XhKor0": "script_trial_11BS.csv",
-        "E5KjdT7I": "1",
-        "xkbc51QN": "",
-        "uXe57TAj": "",
-        "P_NEED_SWITCH_INFO": "",
-        "P_HIDE_SWITCH_INFO": "",
-        "P_OPEN_SWITCH_INFO": "0"
-    },
-    {
         "mC1JcVM9": "40000",
         "ctAd91iQ": "\u7b2c\u4e09\u56deFH_BS",
         "P_CATEGORY_ID": "0",
