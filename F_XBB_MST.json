@@ -21,6 +21,27 @@
         "P_OPEN_SWITCH_INFO": "0"
     },
     {
+        "P_XBB_ID": "100024",
+        "P_XBB_NAME": "\u30cd\u30b0\u30ec\u30b9\u306e\u51a5\u9b42",
+        "P_XBB_UNIT_IDS": "10:6003024",
+        "P_COST_INFO": "3,2500",
+        "8NW7zK2A": "2",
+        "P_SCRIPT": "-1",
+        "P_ICON_ID": "2222",
+        "ux6R7ADp": "100024",
+        "5jigH1P7": "130",
+        "Mz9Lw4Vv": "50106320",
+        "u6F9pqnt": "50106321",
+        "P_ACTION_ID": "1",
+        "yT1o9jUZ": "1.5,0:0.10",
+        "P_DICTIONARY_NO": "1",
+        "P_DICTIONARY_BG": "1020",
+        "P_SCHEDULE_ID": "0",
+        "P_NEED_SWITCH_INFO": "0",
+        "P_HIDE_SWITCH_INFO": "0",
+        "P_OPEN_SWITCH_INFO": "0"
+    },
+    {
         "P_XBB_ID": "200014",
         "P_XBB_NAME": "\u8987\u714c\u306e\u7ffc\uff1c\u30a4\u30b0\u30cb\u30b9\u30fb\u30ec\u30a4\u30ba\uff1e",
         "P_XBB_UNIT_IDS": "10:1001314,10:1001714",

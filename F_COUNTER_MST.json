@@ -1696,147 +1696,294 @@
     {
         "P_COUNTER_ID": "436",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u5996\u7cbe",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "14"
     },
     {
         "P_COUNTER_ID": "437",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u7cbe\u970a",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "10"
     },
     {
         "P_COUNTER_ID": "438",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u77f3\u50cf",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "8"
     },
     {
         "P_COUNTER_ID": "439",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u30c4\u30dc",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "8"
     },
     {
         "P_COUNTER_ID": "440",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u65b0\u5c02\u7528\u30b9\u30d5\u30a3\u30a21",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "1"
     },
     {
         "P_COUNTER_ID": "441",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u65b0\u5c02\u7528\u30b9\u30d5\u30a3\u30a22",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "1"
     },
     {
         "P_COUNTER_ID": "442",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u7adc\u304c\u935b\u3048\u3057\u5263\u300e\u30de\u30ac\u300f",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "1"
     },
     {
         "P_COUNTER_ID": "443",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u592a\u967d\u3068\u6708\u306e\u76fe\u30de\u30ea\u30b9",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "1"
     },
     {
         "P_COUNTER_ID": "444",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u8056\u8679\u306e\u970a\u9b42",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "445",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u7149\u5a01\u7d50\u6676",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "1"
     },
     {
         "P_COUNTER_ID": "446",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u5bb5\u73bb\u7483",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "2"
     },
     {
         "P_COUNTER_ID": "447",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\uff22\uff30\u30ad\u30e3\u30f3\u30c7\u30a3",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "448",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u708e\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "449",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u6c34\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "450",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u6a39\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "451",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u96f7\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "452",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u5149\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "453",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u95c7\u795e\u306e\u773c",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "5"
     },
     {
         "P_COUNTER_ID": "454",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u84bc\u73ca\u9271",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "3"
     },
     {
         "P_COUNTER_ID": "455",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u5343\u7e54\u5e03",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "3"
     },
     {
         "P_COUNTER_ID": "456",
         "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2460\u4ea4\u63db\u5546\u54c1_\u30d0\u30cf\u6750",
-        "hIWFDi72": "0",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "457",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u5996\u7cbe",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "14"
+    },
+    {
+        "P_COUNTER_ID": "458",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u7cbe\u970a",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "10"
+    },
+    {
+        "P_COUNTER_ID": "459",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u77f3\u50cf",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "8"
+    },
+    {
+        "P_COUNTER_ID": "460",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u9032\u5316\u306e\u30c4\u30dc",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "8"
+    },
+    {
+        "P_COUNTER_ID": "461",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u65b0\u5c02\u7528\u30b9\u30d5\u30a3\u30a23",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "462",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u65b0\u5c02\u7528\u30b9\u30d5\u30a3\u30a24",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "463",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u767d\u54c0\u306e\u5929\u846c\u8863",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "464",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u8f1d\u93a7\u30eb\u30c7\u30a3\u30d0\u30fb\u30de\u30af\u30b9",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "465",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u8056\u8679\u306e\u970a\u9b42",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "466",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u7149\u5a01\u7d50\u6676",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "1"
+    },
+    {
+        "P_COUNTER_ID": "467",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u5bb5\u73bb\u7483",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "2"
+    },
+    {
+        "P_COUNTER_ID": "468",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\uff22\uff30\u30ad\u30e3\u30f3\u30c7\u30a3",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "469",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u708e\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "470",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u6c34\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "471",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u6a39\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "472",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u96f7\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "473",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u5149\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "474",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u95c7\u795e\u306e\u773c",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "5"
+    },
+    {
+        "P_COUNTER_ID": "475",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u84bc\u73ca\u9271",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "476",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u5343\u7e54\u5e03",
+        "hIWFDi72": "-1",
+        "BgR6ine9": "0",
+        "hns35kNL": "3"
+    },
+    {
+        "P_COUNTER_ID": "477",
+        "P_NAME": "\u9650\u5b9a\u30d6\u30c3\u30af\u2461\u4ea4\u63db\u5546\u54c1_\u30d0\u30cf\u6750",
+        "hIWFDi72": "-1",
         "BgR6ine9": "0",
         "hns35kNL": "3"
     },

@@ -91,6 +91,97 @@
         "P_PROCESS_PARAM": "10,0.2"
     },
     {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "4",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "10,0.2"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "5",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "4,100024:203"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "6",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "7,600302420"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "7",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "4,100024:206"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "8",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "3,70"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "9",
+        "P_TARGET_TYPE": "1",
+        "P_TARGET_ID": "6003024",
+        "P_PROCESS_PARAM": "17,0.2"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "200",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "15,330:320"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "201",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "4,6003024:4"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "202",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "9,0.2"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "203",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "12"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "204",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "13"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "205",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "11"
+    },
+    {
+        "P_XBB_ID": "100024",
+        "P_PRIORITY": "206",
+        "P_TARGET_TYPE": "2",
+        "P_TARGET_ID": "100024",
+        "P_PROCESS_PARAM": "10,0.2"
+    },
+    {
         "P_XBB_ID": "200014",
         "P_PRIORITY": "4",
         "P_TARGET_TYPE": "1",

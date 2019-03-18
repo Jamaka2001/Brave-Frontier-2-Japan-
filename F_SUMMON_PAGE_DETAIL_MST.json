@@ -2326,5 +2326,37 @@
         "P_SCENE_PARAM": "10000",
         "P_POS": "28,10#0,0:580,0:580,42:0,180",
         "P_IMG": "all.png,all_light.png"
+    },
+    {
+        "MFV1A4vj": "101",
+        "YvHAd5I7": "1",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "10000",
+        "P_POS": "28,20",
+        "P_IMG": "top_20190315.png,top_20180222_light.png"
+    },
+    {
+        "MFV1A4vj": "101",
+        "YvHAd5I7": "2",
+        "aSJp1i9m": "3",
+        "P_SCENE_PARAM": "1020",
+        "P_POS": "28,491",
+        "P_IMG": "kizuna_20190315_normal.png,top_20180409_light.png"
+    },
+    {
+        "MFV1A4vj": "102",
+        "YvHAd5I7": "1",
+        "aSJp1i9m": "1",
+        "P_SCENE_PARAM": "10000",
+        "P_POS": "28,20",
+        "P_IMG": "top_20190315.png,top_20180222_light.png"
+    },
+    {
+        "MFV1A4vj": "102",
+        "YvHAd5I7": "2",
+        "aSJp1i9m": "3",
+        "P_SCENE_PARAM": "2020",
+        "P_POS": "28,491",
+        "P_IMG": "kizuna_20190315_spacial.png,top_20180409_light.png"
     }
 ]
