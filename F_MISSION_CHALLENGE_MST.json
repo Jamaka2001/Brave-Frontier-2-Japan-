@@ -10416,6 +10416,102 @@
         "P_DISP_INFO": "[num0] / [num1]"
     },
     {
+        "P_MISSION_ID": "2002100",
+        "P_CHALLENGE_INDEX": "1",
+        "P_NAME": "BC\u309230\u500b\u4ee5\u4e0a\u30c9\u30ed\u30c3\u30d7\u3055\u305b\u308b",
+        "P_CHALLENGE_REQS": "51,30",
+        "P_REWARD_ID": "22003201",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002100",
+        "P_CHALLENGE_INDEX": "2",
+        "P_NAME": "\u30aa\u30fc\u30d0\u30fc\u30ad\u30eb\u309230HIT\u4ee5\u4e0a\u3059\u308b",
+        "P_CHALLENGE_REQS": "71,30",
+        "P_REWARD_ID": "22002601",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002100",
+        "P_CHALLENGE_INDEX": "3",
+        "P_NAME": "4\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u30af\u30ea\u30a2",
+        "P_CHALLENGE_REQS": "3,4",
+        "P_REWARD_ID": "22004906",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002101",
+        "P_CHALLENGE_INDEX": "1",
+        "P_NAME": "HC\u309230\u500b\u4ee5\u4e0a\u30c9\u30ed\u30c3\u30d7\u3055\u305b\u308b",
+        "P_CHALLENGE_REQS": "53,30",
+        "P_REWARD_ID": "22003501",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002101",
+        "P_CHALLENGE_INDEX": "2",
+        "P_NAME": "1\u30bf\u30fc\u30f3\u3067\u30c0\u30e1\u30fc\u30b8\u3092300000\u4ee5\u4e0a\u4e0e\u3048\u308b",
+        "P_CHALLENGE_REQS": "73,300000",
+        "P_REWARD_ID": "22004401",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002101",
+        "P_CHALLENGE_INDEX": "3",
+        "P_NAME": "4\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u30af\u30ea\u30a2",
+        "P_CHALLENGE_REQS": "3,4",
+        "P_REWARD_ID": "22004706",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002102",
+        "P_CHALLENGE_INDEX": "1",
+        "P_NAME": "SBB\u4f7f\u7528\u56de\u65705\u56de\u4ee5\u4e0a\u3067\u30af\u30ea\u30a2",
+        "P_CHALLENGE_REQS": "37,5",
+        "P_REWARD_ID": "22003801",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002102",
+        "P_CHALLENGE_INDEX": "2",
+        "P_NAME": "\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u309220\u56de\u4ee5\u4e0a\u767a\u751f\u3055\u305b\u308b",
+        "P_CHALLENGE_REQS": "57,20",
+        "P_REWARD_ID": "22004101",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002102",
+        "P_CHALLENGE_INDEX": "3",
+        "P_NAME": "4\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u30af\u30ea\u30a2",
+        "P_CHALLENGE_REQS": "3,4",
+        "P_REWARD_ID": "22004506",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002103",
+        "P_CHALLENGE_INDEX": "1",
+        "P_NAME": "\u30b9\u30d1\u30fc\u30af\u309250\u56de\u4ee5\u4e0a\u767a\u751f\u3055\u305b\u308b",
+        "P_CHALLENGE_REQS": "55,50",
+        "P_REWARD_ID": "22005102",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
+        "P_MISSION_ID": "2002103",
+        "P_CHALLENGE_INDEX": "2",
+        "P_NAME": "XBB\u3092\u4f7f\u7528\u3059\u308b",
+        "P_CHALLENGE_REQS": "41",
+        "P_REWARD_ID": "22000103",
+        "P_DISP_INFO": ""
+    },
+    {
+        "P_MISSION_ID": "2002103",
+        "P_CHALLENGE_INDEX": "3",
+        "P_NAME": "\u300c<\u7834\u795e\u5d29\u9b42\u30ac\u30ec\u30b6\u30f4\u30a1\u30eb>\u300d\u30921\u30bf\u30fc\u30f3\u6483\u7834",
+        "P_CHALLENGE_REQS": "4,1",
+        "P_REWARD_ID": "22008201",
+        "P_DISP_INFO": "[num0] / [num1]"
+    },
+    {
         "P_MISSION_ID": "2100000",
         "P_CHALLENGE_INDEX": "1",
         "P_NAME": "1\u30bf\u30fc\u30f3\u3067\u30c0\u30e1\u30fc\u30b8\u309230000\u4ee5\u4e0a\u4e0e\u3048\u308b",

@@ -222,6 +222,12 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "P_ACTIVATE_COND_ID": "10149",
+        "P_COND_TYPE": "1",
+        "P_COND_PARAM": "1022",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "P_ACTIVATE_COND_ID": "15000",
         "P_COND_TYPE": "4",
         "P_COND_PARAM": "2003010",

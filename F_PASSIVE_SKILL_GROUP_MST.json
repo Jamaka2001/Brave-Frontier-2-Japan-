@@ -1134,6 +1134,15 @@
         "P_EXT_IMG_PARAM": ""
     },
     {
+        "c3prn4s7": "1126",
+        "P_SKILL_NAME": "\u4eba\u3005\u306e\u672a\u6765\u306e\u5149\u660e",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20007,2:10149",
+        "E19X6kmB": "1015023,8017007",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
         "c3prn4s7": "2000",
         "P_SKILL_NAME": "\u5929\u7a1f\u306a\u308b\u610f\u5fd7",
         "moWQ30GH": "1",
@@ -2129,6 +2138,15 @@
         "moWQ30GH": "1",
         "PEVks0h8": "1:20010",
         "E19X6kmB": "1015022,4010023,5070027",
+        "X4mIT5Lc": "0",
+        "P_EXT_IMG_PARAM": ""
+    },
+    {
+        "c3prn4s7": "2111",
+        "P_SKILL_NAME": "\u4eba\u3005\u306e\u672a\u6765\u306e\u5149\u660e",
+        "moWQ30GH": "1",
+        "PEVks0h8": "2:20007,2:10149",
+        "E19X6kmB": "1015023,8017007",
         "X4mIT5Lc": "0",
         "P_EXT_IMG_PARAM": ""
     },

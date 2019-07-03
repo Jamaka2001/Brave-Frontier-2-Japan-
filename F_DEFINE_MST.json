@@ -687,7 +687,7 @@
     {
         "P_DEFINE_KEY": "RECOVERTIME_ACTION_POINT",
         "P_NAME": "\u4f53\u529b\u56de\u5fa9\u6642\u9593(\u79d2)",
-        "P_DEFINE_VALUE": "300"
+        "P_DEFINE_VALUE": "10"
     },
     {
         "P_DEFINE_KEY": "RECOVERTIME_ARENA_ORB",
